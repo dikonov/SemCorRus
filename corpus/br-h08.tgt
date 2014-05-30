@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<body>
+<S DATE="30 11 2010 10:48:29" ID="1" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;1" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="THEME" LEMMA="THEME" LINK="predic" PAFT=" ">theme</W> 
+<W DOM="2" FEAT="PR" HYPOT="1-compl.07" ID="3" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="compos" PAFT=" ">Rhode Island</W> 
+<W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6" HYPOT="prepos.01" ID="5" KSNAME="HERITAGE" LEMMA="HERITAGE" LINK="prepos" PAFT=" ">Heritage</W> 
+<W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6" HYPOT="appos.03" ID="6" KSNAME="WEEK" LEMMA="WEEK" LINK="appos" PAFT=" ">Week</W> 
+<W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
+<W DOM="7" FEAT="NUM" HYPOT="prepos.01" ID="8" KSNAME="NUM-TWONE" LEMMA="1961" LINK="prepos" PAFT=" ">1961</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="9" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
+<W DOM="9" FEAT="V MF" HYPOT="analyt.13" ID="10" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">be</W> 
+<W DOM="10" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="copulat.10" ID="11" KSNAME="INDEPENDENCE1" LEMMA="INDEPENDENCE" LINK="copulat" PAFT=" &quot;">Independence</W>" 
+<W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="12" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S SG" HYPOT="coord-conj.10" ID="13" KSNAME="UNION" LEMMA="UNION" LINK="coord-conj" PAFT="&quot;. ">Union</W>". 
+</S>
+<S DATE="30 11 2010 10:48:29" ID="2" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;2" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="COMMEMORATE" LEMMA="COMMEMORATE" PAFT=" " UNL="commemorate(icl&gt;observe&gt;do,agt&gt;volitional_thing,obj&gt;thing,met&gt;event)" DEF="">commemorates</W> 
+<W DOM="6" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="5" FEAT="NUM" HYPOT="locut.d0" ID="4" KSNAME="NUM-LARGE" LEMMA="185" LINK="locut" PAFT=" ">185</W> 
+<W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN" LINK="modif" PAFT=" ">th</W> 
+<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="ANNIVERSARY" LEMMA="ANNIVERSARY" LINK="1-compl" PAFT=" ">anniversary</W> 
+<W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="9" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="8" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="posses" PAFT=" ">Rhode Island's</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="INDEPENDENCE1" LEMMA="INDEPENDENCE" LINK="prepos" PAFT=" ">Independence</W> 
+<W DOM="2" FEAT="CONJ" HYPOT="adverb.10" ID="10" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=", ">when</W>, 
+<W DOM="21" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="UPON" LEMMA="UPON" LINK="adverb" PAFT=" ">upon</W> 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="MAY2" LEMMA="MAY" LINK="prepos" PAFT=" ">May</W> 
+<W DOM="12" FEAT="NUM" HYPOT="num-appos.12" ID="13" KSNAME="NUM-SMALL" LEMMA="4" LINK="num-appos" PAFT=", ">4</W>, 
+<W DOM="12" FEAT="NUM SG" HYPOT="appos.00" ID="14" KSNAME="FRM-YEAR" LEMMA="1776" LINK="appos" PAFT=", ">1776</W>, 
+<W DOM="17" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="16,17" HYPOT="modif.01" ID="16" KSNAME="GENERAL1" LEMMA="GENERAL" LINK="modif" PAFT=" ">General</W> 
+<W DOM="21" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="16,17" HYPOT="predic.01" ID="17" KSNAME="ASSEMBLY" LEMMA="ASSEMBLY" LINK="predic" PAFT=", ">Assembly</W>, 
+<W DOM="21" FEAT="PR" HYPOT="adverb.02" ID="18" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
+<W DOM="20" FEAT="A" HYPOT="determ.13" ID="19" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
+<W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="ACTION" LEMMA="ACTION" LINK="prepos" PAFT=", ">action</W>, 
+<W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="21" KSNAME="ESTABLISH" LEMMA="ESTABLISH" LINK="subord-conj" PAFT=" " UNL="establish(icl&gt;found&gt;do,agt&gt;volitional_thing,obj&gt;thing,scn&gt;thing)" DEF="SET UP OR FOUND" TRANS="создавать">established</W> 
+<W DOM="25" FEAT="ART" HYPOT="determ.11" ID="22" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="25" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" ">first</W> 
+<W DOM="25" FEAT="A" HYPOT="modif.01" ID="24" KSNAME="FREE1" LEMMA="FREE" LINK="modif" PAFT=" ">free</W> 
+<W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="25" KSNAME="REPUBLIC" LEMMA="REPUBLIC" LINK="1-compl" PAFT=" ">republic</W> 
+<W DOM="21" FEAT="PR" HYPOT="2-compl.02" ID="26" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
+<W DOM="29" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="29" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="28,29" HYPOT="modif.01" ID="28" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">New</W> 
+<W DOM="26" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="28,29" HYPOT="prepos.01" ID="29" KSNAME="WORLD" LEMMA="WORLD" LINK="prepos" PAFT=". ">World</W>. 
+</S>
+<S DATE="30 11 2010 10:48:29" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="3" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;3">
+<W FEAT="CONJ" ID="1" KSNAME="AS1" LEMMA="AS">As</W> 
+<W FEAT="A" ID="2" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="S SG" ID="3" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W FEAT="V" ID="4" KSNAME="MARK2" LEMMA="MARK" UNL="mark(icl&gt;commemorate&gt;do,cob&gt;thing,agt&gt;person,obj&gt;event)" DEF="COMMEMORATE AN EVENT" TRANS="отмечать" WN21="2:31:01::">marks</W> 
+<W FEAT="ART" ID="5" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="6" KSNAME="CENTENNIAL1" LEMMA="CENTENNIAL">centennial</W> 
+<W ID="7">of</W> 
+<W FEAT="ART" ID="8" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="9" KSNAME="BEGINNING" LEMMA="BEGINNING">beginning</W> 
+<W ID="10">of</W> 
+<W FEAT="ART" ID="11" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" GRP="12,13" ID="12" KSNAME="CIVIL" LEMMA="CIVIL">Civil</W> 
+<W FEAT="S" GRP="12,13" ID="13" KSNAME="WAR1" LEMMA="WAR">War</W>, 
+<W FEAT="A" ID="14" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="S SG" ID="15" KSNAME="FACT" LEMMA="FACT">fact</W> 
+<W FEAT="V" ID="16" KSNAME="BE" LEMMA="BE">is</W> 
+<W FEAT="V ING" ID="17" KSNAME="BE" LEMMA="BE">being</W> 
+<W FEAT="V" ID="18" KSNAME="COMMEMORATE" LEMMA="COMMEMORATE" UNL="commemorate(icl&gt;observe&gt;do,agt&gt;volitional_thing,obj&gt;thing,met&gt;event)" DEF="" WN21="2:31:02::">commemorated</W> 
+<W ID="19">with</W> 
+<W FEAT="A" ID="20" KSNAME="SEVERAL" LEMMA="SEVERAL">several</W> 
+<W FEAT="S PL" ID="21" KSNAME="EXHIBIT1" LEMMA="EXHIBIT">exhibits</W> 
+<W ID="22">throughout</W> 
+<W FEAT="ART" ID="23" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="24">State</W>, 
+<W FEAT="CONJ" ID="25" KSNAME="BUT1" LEMMA="BUT">but</W> 
+<W GRP="26,27,28" ID="26">most</W> 
+<W GRP="26,27,28" ID="27">of</W> 
+<W GRP="26,27,28" ID="28">all</W> 
+<W FEAT="V" ID="29" KSNAME="PAY3" LEMMA="PAY" UNL="pay(icl&gt;give&gt;do,agt&lt;thing,obj&gt;abstract_thing,rec&gt;thing)" DEF="CONVEY, AS OF A COMPLIMENT, REGARDS, ATTENTION, ETC." TRANS="уделять" WN21="2:32:00::">paying</W> 
+<W FEAT="S SG" ID="30" KSNAME="TRIBUTE" LEMMA="TRIBUTE">tribute</W> 
+<W ID="31">to</W> 
+<W FEAT="ART" ID="32" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" ID="33" KSNAME="FIRST1" LEMMA="FIRST">first</W> 
+<W FEAT="S SG" ID="34" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="S PL" ID="35" KSNAME="VOLUNTEER1" LEMMA="VOLUNTEER">Volunteers</W> 
+<W FEAT="S" ID="36" KSNAME="WHO" LEMMA="WHO">who</W> 
+<W FEAT="V" ID="37" KSNAME="RUSH1" LEMMA="RUSH" UNL="rush(icl&gt;hurry(icl&gt;go)&gt;do,plt&gt;uw,plf&gt;uw,agt&gt;thing)" DEF="COME, FLOW, SPREAD, ETC QUICKLY AND SUDDENLY" TRANS="бросаться" WN21="2:38:00::">rushed</W> 
+<W ID="38">to</W> 
+<W FEAT="ART" ID="39" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="40" KSNAME="DEFENSE" LEMMA="DEFENSE">defense</W> 
+<W ID="41">of</W> 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="43" KSNAME="CITY" LEMMA="CITY">City</W> 
+<W ID="44">of</W> 
+<W FEAT="S SG" ID="45" KSNAME="WASHINGTON" LEMMA="WASHINGTON">Washington</W>, 
+<W FEAT="V" ID="46" KSNAME="PUT" LEMMA="PUT" UNL="put(icl&gt;do,agt&gt;thing,obj&gt;person,gol&gt;state(icl&gt;abstract_thing))" DEF="CAUSE TO BE IN A CERTAIN STATE" TRANS="приводить" WN21="2:35:05::">putting</W> 
+<W ID="47">at</W> 
+<W FEAT="ART" ID="48" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="49" KSNAME="DISPOSAL" LEMMA="DISPOSAL">disposal</W> 
+<W ID="50">of</W> 
+<W FEAT="S" GRP="51,52" ID="51" KSNAME="PRESIDENT" LEMMA="PRESIDENT">President</W> 
+<W FEAT="S" GRP="51,52" ID="52" KSNAME="LINCOLN" LEMMA="LINCOLN">Lincoln</W> 
+<W FEAT="ART" ID="53" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="54">only</W> 
+<W ID="55">fully</W> 
+<W ID="56">equipped</W> 
+<W FEAT="CONJ" ID="57" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="A SUP" ID="58" KSNAME="GOOD1" LEMMA="GOOD">best</W> 
+<W ID="59">trained</W> 
+<W FEAT="S SG" ID="60" KSNAME="REGIMENT1" LEMMA="REGIMENT">regiment</W> 
+<W ID="61">at</W> 
+<W FEAT="A" ID="62" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="S SG" ID="63" KSNAME="TIME1" LEMMA="TIME">time</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" ID="4" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;4" STATUS="doubt">
+<W DOM="11" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">On</W> 
+<W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="2" KSNAME="APRIL" LEMMA="APRIL" LINK="prepos" PAFT=" ">April</W> 
+<W DOM="2" FEAT="NUM" HYPOT="num-appos.12" ID="3" KSNAME="NUM-LARGE" LEMMA="30" LINK="num-appos" PAFT=", ">30</W>, 
+<W DOM="5" FEAT="S PL" HYPOT="compos.02" ID="4" KSNAME="CEREMONY" LEMMA="CEREMONY" LINK="compos" PAFT=" ">ceremonies</W> 
+<W DOM="7" FEAT="V ING" HYPOT="modif.01" ID="5" KSNAME="COMMEMORATE" LEMMA="COMMEMORATE" LINK="modif" PAFT=" " UNL="commemorate(icl&gt;observe&gt;do,agt&gt;volitional_thing,obj&gt;thing,met&gt;event)" DEF="">commemorating</W> 
+<W DOM="11" FEAT="ART" ID="6" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="11" FEAT="S SG" ID="7" KSNAME="DEPARTURE" LEMMA="DEPARTURE" LINK="fictit" PAFT=" ">departure</W> 
+<W DOM="7" FEAT="PR" HYPOT="attrib.01" ID="8" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
+<W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="THESE" LEMMA="THESE" LINK="determ" PAFT=" ">these</W> 
+<W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="VOLUNTEER1" LEMMA="VOLUNTEER" LINK="prepos" PAFT=" ">volunteers</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="11" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
+<W DOM="11" FEAT="V MF" GRP="12,13" HYPOT="analyt.13" ID="12" KSNAME="TAKE" LEMMA="TAKE" LINK="analyt" PAFT=" ">take</W> 
+<W DOM="12" FEAT="S SG" GRP="12,13" HYPOT="1-compl.01" ID="13" KSNAME="PLACE1" LEMMA="PLACE" LINK="1-compl" PAFT=" ">place</W> 
+<W DOM="11" FEAT="PR" ID="14" KSNAME="AT" LEMMA="AT" LINK="fictit" PAFT=" ">at</W> 
+<W DOM="11" FEAT="NUM" HYPOT="predic.08" ID="15" KSNAME="NUM-ONE" LEMMA="1" LINK="predic" PAFT=": ">1</W>: 
+<W DOM="17" FEAT="NUM" HYPOT="quantit.14" ID="16" KSNAME="NUM-SMALL" LEMMA="00" LINK="quantit" PAFT=" ">00</W> 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" GRP="17,18" HYPOT="compos.01" ID="17" KSNAME="FICT-S" LEMMA="P" LINK="compos" MSNAME="P" PAFT=" ">P</W> 
+<W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="17,18" HYPOT="explic.01" ID="18" KSNAME="M1" LEMMA="M" LINK="explic" PAFT=" ">M</W> 
+<W DOM="18" FEAT="PR" HYPOT="attrib.01" ID="19" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
+<W DOM="22" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="22" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="21,22" HYPOT="modif.01" ID="21" KSNAME="DEXTER" LEMMA="DEXTER" LINK="modif" PAFT=" ">Dexter</W> 
+<W DOM="19" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="21,22" HYPOT="prepos.01" ID="22" KSNAME="TRAINING" LEMMA="TRAINING" LINK="prepos" PAFT=" ">Training</W> 
+<W DOM="22" EXTRAFEAT="CAP CAPIT FIN QFIN" FEAT="V PRS TP" HYPOT="appos.03" ID="23" KSNAME="GROUND2" LEMMA="GROUND" LINK="appos" PAFT=" ">Grounds</W> 
+<W DOM="23" FEAT="PR" HYPOT="adverb.02" ID="24" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
+<W DOM="24" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="PROVIDENCE2" LEMMA="PROVIDENCE" LINK="prepos" PAFT=". ">Providence</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="5" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;5">
+<W FEAT="ART" ID="1" KSNAME="THE" LEMMA="THE">The</W> 
+<W DOM="3" FEAT="S" GRP="2,3" ID="2" KSNAME="INDEPENDENCE1" LEMMA="INDEPENDENCE" LINK="compos">Independence</W> 
+<W FEAT="S" GRP="2,3" ID="3" KSNAME="DAY" LEMMA="DAY">Day</W> 
+<W FEAT="S SG" ID="4" KSNAME="CELEBRATION" LEMMA="CELEBRATION">celebration</W> 
+<W FEAT="V" ID="5" KSNAME="WILL1" LEMMA="WILL">will</W> 
+<W FEAT="V" ID="6" KSNAME="BE" LEMMA="BE">be</W> 
+<W ID="7">properly</W> 
+<W FEAT="V" ID="8" WN21="2:41:02::">observed</W> 
+<W ID="9">with</W> 
+<W FEAT="ART" ID="10" KSNAME="AN1" LEMMA="AN">a</W> 
+<W FEAT="A" ID="11" KSNAME="BIG" LEMMA="BIG">big</W> 
+<W FEAT="A" ID="12" KSNAME="MILITARY1" LEMMA="MILITARY">military</W> 
+<W FEAT="CONJ" ID="13" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="A" ID="14" KSNAME="CIVIC" LEMMA="CIVIC">civic</W> 
+<W FEAT="S SG" ID="15" KSNAME="PARADE1" LEMMA="PARADE">parade</W> 
+<W ID="16">from</W> 
+<W DOM="18" FEAT="A" GRP="17,18" ID="17" KSNAME="WEST2" LEMMA="WEST" LINK="modif">West</W> 
+<W FEAT="S" GRP="17,18" ID="18" KSNAME="WARWICK" LEMMA="WARWICK">Warwick</W> 
+<W ID="19">to</W> 
+<W FEAT="ART" ID="20" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="22" FEAT="S" GRP="21,22" ID="21" KSNAME="FRM-PROP" LEMMA="FRM-PROP" LINK="compos">Greene</W> 
+<W FEAT="S" GRP="21,22" ID="22" KSNAME="HOMESTEAD1" LEMMA="HOMESTEAD">Homestead</W> 
+<W ID="23">in</W> 
+<W FEAT="S SG" ID="24" KSNAME="ANTHONY" LEMMA="ANTHONY">Anthony</W>; 
+<W FEAT="CONJ" ID="25" KSNAME="AND" LEMMA="AND">And</W> 
+<W ID="26">now</W>, 
+<W ID="27">therefore</W>, 
+<W FEAT="V" ID="28" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S" ID="29" KSNAME="I" LEMMA="I">I</W>, 
+<W GRP="30,31,32" ID="30">John</W> 
+<W GRP="30,31,32" ID="31">A</W> 
+<W GRP="30,31,32" ID="32">Notte</W>, 
+<W ID="33">Jr</W>, 
+<W FEAT="S SG" ID="34" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="35">of</W> 
+<W FEAT="ART" ID="36" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="37">State</W> 
+<W ID="38">of</W> 
+<W FEAT="S SG" ID="39" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="40" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="41">Providence</W> 
+<W FEAT="S PL" ID="42" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="43" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="ART" ID="44" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="45" KSNAME="WEEK" LEMMA="WEEK">week</W> 
+<W ID="46">of</W> 
+<W FEAT="S SG" ID="47" KSNAME="FICT-LEX" LEMMA="APRIL">April</W> 
+<W FEAT="NUM" ID="48" KSNAME="NUM-LARGE" LEMMA="29">29</W> 
+<W FEAT="A" ID="49" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W> 
+<W ID="50">to</W> 
+<W ID="51">May</W> 
+<W FEAT="NUM" ID="52" KSNAME="NUM-LARGE" LEMMA="7">7</W> 
+<W FEAT="A" ID="53" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W>, 
+<W FEAT="NUM" ID="54" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="55" KSNAME="AS1" LEMMA="AS">as</W> 
+<W FEAT="S SG" ID="56" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W DOM="58" FEAT="S" GRP="57,58" ID="57" KSNAME="HERITAGE" LEMMA="HERITAGE" LINK="compos">Heritage</W> 
+<W FEAT="S" GRP="57,58" ID="58" KSNAME="WEEK" LEMMA="WEEK">Week</W>, 
+<W FEAT="V" ID="59" KSNAME="ADVISE" LEMMA="ADVISE" UNL="advise(icl&gt;inform&gt;do,cob&gt;thing,agt&gt;person,obj&gt;uw,ben&gt;person)" DEF="INFORM (SOMEBODY) OF SOMETHING" TRANS="уведомлять,извещать" WN21="2:32:01::">advising</W> 
+<W FEAT="A" ID="60" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S PL" ID="61" KSNAME="CITIZEN" LEMMA="CITIZEN">citizens</W> 
+<W FEAT="CONJ" ID="62" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W ID="63">throughout</W> 
+<W FEAT="A" ID="64" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="S SG" ID="65" KSNAME="WEEK" LEMMA="WEEK">week</W> 
+<W FEAT="A" ID="66" KSNAME="MANY" LEMMA="MANY">many</W> 
+<W FEAT="A" ID="67" KSNAME="HISTORIC" LEMMA="HISTORIC">historic</W> 
+<W ID="68">houses</W> 
+<W FEAT="CONJ" ID="69" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="A" ID="70" KSNAME="BEAUTIFUL" LEMMA="BEAUTIFUL">beautiful</W> 
+<W FEAT="S PL" ID="71" KSNAME="GARDEN" LEMMA="GARDEN">gardens</W> 
+<W FEAT="V" ID="72" KSNAME="WILL1" LEMMA="WILL">will</W> 
+<W FEAT="V" ID="73" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">be</W> 
+<W GRP="74,75" ID="74">open</W> 
+<W GRP="74,75" ID="75">to</W> 
+<W FEAT="S PL" ID="76" KSNAME="VISITOR" LEMMA="VISITOR">visitors</W> 
+<W FEAT="CONJ" ID="77" KSNAME="AS$WELL$AS" LEMMA="AS$WELL$AS">as well as</W> 
+<W FEAT="A" ID="78" KSNAME="INDUSTRIAL" LEMMA="INDUSTRIAL">industrial</W> 
+<W ID="79">plants</W>, 
+<W FEAT="S SG" ID="80" KSNAME="CRAFT" LEMMA="CRAFT">craft</W> 
+<W FEAT="S PL" ID="81" KSNAME="SHOP1" LEMMA="SHOP">shops</W>, 
+<W FEAT="S PL" ID="82" KSNAME="MUSEUM" LEMMA="MUSEUM">museums</W> 
+<W FEAT="CONJ" ID="83" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="84">libraries</W> 
+<W FEAT="CONJ" ID="85" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S" ID="86" KSNAME="I" LEMMA="I">I</W> 
+<W ID="87">earnestly</W> 
+<W FEAT="V" ID="88" KSNAME="URGE2" LEMMA="URGE" UNL="urge(icl&gt;prompt&gt;do,agt&gt;person,obj&gt;person,pur&gt;uw)" DEF="PUSH FOR SOMETHING" TRANS="убеждать" WN21="2:32:03::">urge</W> 
+<W FEAT="A" ID="89" KSNAME="ALL1" LEMMA="ALL">all</W> 
+<W FEAT="PART" ID="90" KSNAME="TO2" LEMMA="TO">to</W> 
+<W GRP="91,92" ID="91" WN21="2:40:00::">take</W> 
+<W GRP="91,92" ID="92" WN21="2:40:00::">advantage</W> 
+<W ID="93">of</W> 
+<W FEAT="A" ID="94" KSNAME="THESE" LEMMA="THESE">these</W> 
+<W ID="95">opportunities</W> 
+<W FEAT="PART" ID="96" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="97" KSNAME="SEE1" LEMMA="SEE" UNL="see(icl&gt;perceive&gt;be,cob&gt;uw,obj&gt;thing,aoj&gt;thing)" DEF="PERCEIVE BY SIGHT" TRANS="видеть" WN21="2:39:00::">see</W> 
+<W FEAT="CONJ" GRP="98,99" ID="98" KSNAME="AS1" LEMMA="AS">as</W> 
+<W DOM="98" FEAT="A" GRP="98,99" ID="99" KSNAME="MANY" LEMMA="MANY" LINK="comp-conj">many</W> 
+<W ID="100">of</W> 
+<W FEAT="A" ID="101" KSNAME="THESE" LEMMA="THESE">these</W> 
+<W FEAT="S PL" ID="102" KSNAME="PLACE1" LEMMA="PLACE">places</W> 
+<W FEAT="CONJ" ID="103" KSNAME="AS1" LEMMA="AS">as</W> 
+<W FEAT="S" ID="104" KSNAME="THEY" LEMMA="THEY">they</W> 
+<W FEAT="V" ID="105" KSNAME="CAN1" LEMMA="CAN">can</W> 
+<W ID="106">during</W> 
+<W FEAT="A" ID="107" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="A" ID="108" KSNAME="OUTSTANDING" LEMMA="OUTSTANDING">outstanding</W> 
+<W FEAT="S SG" ID="109" KSNAME="WEEK" LEMMA="WEEK">week</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="6" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;6">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;displace&gt;do,agt&gt;thing,obj&gt;thing,plc&gt;uw)" DEF="PUT INTO A CERTAIN PLACE" TRANS="ставить" WN21="2:35:00::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="21">21</W> 
+<W ID="22">st</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W FEAT="S SG" ID="25" KSNAME="FICT-LEX" LEMMA="APRIL">April</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">on</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="FIFTH1" LEMMA="FIFTH">fifth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" ID="7" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;7" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">Governor</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" EXTRACOMM="Some punctuation marks are not confirmed" ID="8" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;8" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="YEAR" LEMMA="YEAR" LINK="predic" PAFT=" ">year</W> 
+<W DOM="2" FEAT="NUM SG" HYPOT="appos.01" ID="3" KSNAME="FRM-YEAR" LEMMA="1961" LINK="appos" PAFT=" ">1961</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="MARK2" LEMMA="MARK" PAFT=" " UNL="mark(icl&gt;commemorate&gt;do,cob&gt;thing,agt&gt;person,obj&gt;event)" DEF="COMMEMORATE AN EVENT" TRANS="отмечать">marks</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="FOURTEENTH1" LEMMA="FOURTEENTH" LINK="modif" PAFT=" ">fourteenth</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="ANNIVERSARY" LEMMA="ANNIVERSARY" LINK="1-compl" PAFT=" ">anniversary</W> 
+<W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="UNIFICATION" LEMMA="UNIFICATION" LINK="prepos" PAFT=" ">unification</W> 
+<W DOM="10" FEAT="PR" HYPOT="1-compl.07" ID="11" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="14" FEAT="A" HYPOT="determ.13" ID="12" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="13,14" HYPOT="modif.01" ID="13" KSNAME="ARM2" LEMMA="ARM" LINK="modif" PAFT=" ">Armed</W> 
+<W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="13,14" HYPOT="prepos.01" ID="14" KSNAME="FORCE2" LEMMA="FORCE" LINK="prepos" PAFT=" ">Forces</W> 
+<W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="UNDER1" LEMMA="UNDER" LINK="attrib" PAFT=" ">under</W> 
+<W DOM="19" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="19" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="17,18,19" HYPOT="modif.01" ID="17" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif" PAFT=" ">National</W> 
+<W DOM="19" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="17,18,19" HYPOT="compos.01" ID="18" KSNAME="SECURITY1" LEMMA="SECURITY" LINK="compos" PAFT=" ">Security</W> 
+<W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="17,18,19" HYPOT="prepos.01" ID="19" KSNAME="ACT1" LEMMA="ACT" LINK="prepos" PAFT=" ">Act</W> 
+<W DOM="19" FEAT="PR" HYPOT="quasiagent.10" ID="20" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="20" FEAT="NUM SG" HYPOT="prepos.01" ID="21" KSNAME="FRM-YEAR" LEMMA="1947." LINK="prepos" PAFT=". ">1947.</W> 
+</S>
+<S DATE="30 11 2010 10:48:30" ID="9" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;9" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="1" KSNAME="NATIONAL2" LEMMA="NATIONAL" LINK="compos" PAFT=" ">National</W> 
+<W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DEFENSE" LEMMA="DEFENSE" LINK="predic" PAFT=", ">defense</W>, 
+<W DOM="2" FEAT="A" HYPOT="descr-modif.01" ID="3" KSNAME="LIKE3" LEMMA="LIKE" LINK="descr-modif" PAFT=" ">like</W> 
+<W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="6" FEAT="V ING" HYPOT="modif.01" ID="5" KSNAME="CONTINUE" LEMMA="CONTINUE" LINK="modif" PAFT=" ">continuing</W> 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.33" ID="6" KSNAME="SEARCH1" LEMMA="SEARCH" LINK="1-compl" PAFT=" ">search</W> 
+<W DOM="6" FEAT="PR" HYPOT="1-compl.07" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
+<W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="PEACE" LEMMA="PEACE" LINK="prepos" PAFT=" ">peace</W> 
+<W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="9" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
+<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="FREEDOM" LEMMA="FREEDOM" LINK="prepos" PAFT=" ">freedom</W> 
+<W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="11" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="JUSTICE" LEMMA="JUSTICE" LINK="coord-conj" PAFT=" ">justice</W> 
+<W DOM="12" FEAT="PR" HYPOT="attrib.01" ID="13" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
+<W DOM="13" FEAT="A" HYPOT="prepos.01" ID="14" KSNAME="ALL1" LEMMA="ALL" LINK="prepos" PAFT=", ">all</W>, 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="15" KSNAME="BE" LEMMA="BE" PAFT=" &quot;">is</W> 
+"<W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="S POSS SG" GRP="16,17" HYPOT="posses.01" ID="16" KSNAME="EVERYBODY" LEMMA="EVERYBODY" LINK="posses" MSNAME="EVERYBODY" PAFT=" ">everybody's</W> 
+<W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="16,17" HYPOT="copulat.10" ID="17" KSNAME="BUSINESS" LEMMA="BUSINESS" LINK="copulat" PAFT="&quot;. ">business</W>". 
+</S>
+<S DATE="30 11 2010 10:48:30" ID="10" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;10" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">Our</W> 
+<W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="INVESTMENT" LEMMA="INVESTMENT" LINK="predic" PAFT=" ">investment</W> 
+<W DOM="2" FEAT="PR" GRP="3,4" HYPOT="2-compl.02" ID="3" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
+<W DOM="5" FEAT="A" GRP="3,4" HYPOT="determ.13" ID="4" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
+<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="EFFORT" LEMMA="EFFORT" LINK="prepos" PAFT=", ">effort</W>, 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="5" FEAT="A SUP" HYPOT="descr-modif.01" ID="7" KSNAME="GREAT" LEMMA="GREAT" LINK="descr-modif" PAFT=" ">greatest</W> 
+<W DOM="5" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
+<W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S POSS SG" HYPOT="posses.01" ID="10" KSNAME="NATION" LEMMA="NATION" LINK="posses" PAFT=" ">Nation's</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="HISTORY" LEMMA="HISTORY" LINK="prepos" PAFT=", ">history</W>, 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="12" KSNAME="REFLECT" LEMMA="REFLECT" PAFT=" " UNL="reflect(icl&gt;indicate&gt;be,plf&gt;thing,obj&gt;thing,aoj&gt;thing,plc&gt;thing)" DEF="MANIFEST OR BRING BACK" TRANS="отражать">reflects</W> 
+<W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="14" KSNAME="DETERMINATION" LEMMA="DETERMINATION" LINK="1-compl" PAFT=" ">determination</W> 
+<W DOM="14" FEAT="PART" HYPOT="1-compl.15" ID="15" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
+<W DOM="15" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="ENSURE" LEMMA="ENSURE" LINK="prepos" PAFT=" " UNL="ensure(icl&gt;guarantee&gt;be,obj&gt;thing,aoj&gt;thing,ben&gt;thing,cag&gt;thing)" DEF="TO MAKE SURE OR CERTAIN, INSURE" TRANS="обеспечивать">ensure</W> 
+<W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="PEACE" LEMMA="PEACE" LINK="1-compl" PAFT=" ">peace</W> 
+<W DOM="18" FEAT="CONJ" HYPOT="coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="21" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="19" FEAT="S SG" HYPOT="coord-conj.10" ID="21" KSNAME="FUTURE1" LEMMA="FUTURE" LINK="coord-conj" PAFT=" ">future</W> 
+<W DOM="21" FEAT="PR" HYPOT="quasiagent.10" ID="22" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="FREEDOM" LEMMA="FREEDOM" LINK="prepos" PAFT=". ">freedom</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" ID="11" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;11" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
+<W DOM="5" FEAT="ART" HYPOT="determ.10" ID="3" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="SOUND3" LEMMA="SOUND" LINK="modif" PAFT=" ">sound</W> 
+<W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="5" KSNAME="INVESTMENT" LEMMA="INVESTMENT" LINK="copulat" PAFT=". ">investment</W>. 
+</S>
+<S DATE="30 11 2010 10:48:30" ID="12" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;12" STATUS="doubt">
+<W DOM="4" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">As</W> 
+<W DOM="3" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="1" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="comp-conj.10" ID="3" KSNAME="PRESIDENT" LEMMA="PRESIDENT" LINK="comp-conj" PAFT=" ">President</W> 
+<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="HAVE" LEMMA="HAVE" LINK="fictit" PAFT=" ">has</W> 
+<W DOM="4" FEAT="V PP" HYPOT="analyt.12" ID="5" KSNAME="SAY" LEMMA="SAY" LINK="analyt" PAFT=", &quot;" UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">said</W>, 
+"<W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" ID="6" KSNAME="ONLY1" LEMMA="ONLY" LINK="fictit" PAFT=" ">only</W> 
+<W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="adverb.01" ID="7" KSNAME="WHEN1" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
+<W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="determ.13" ID="8" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="S PL" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="predic.01" ID="9" KSNAME="ARM1" LEMMA="ARM" LINK="predic" PAFT=" ">arms</W> 
+<W DOM="5" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS PL" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="1-compl.05" ID="10" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">are</W> 
+<W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="copulat.11" ID="11" KSNAME="SUFFICIENT" LEMMA="SUFFICIENT" LINK="copulat" PAFT=" ">sufficient</W> 
+<W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="attrib.02" ID="12" KSNAME="BEYOND1" LEMMA="BEYOND" LINK="attrib" PAFT=" ">beyond</W> 
+<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="prepos.01" ID="13" KSNAME="DOUBT1" LEMMA="DOUBT" LINK="prepos" PAFT=" ">doubt</W> 
+<W DOM="_root" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" ID="14" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">can</W> 
+<W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="S NOM PL" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="predic.08" ID="15" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
+<W DOM="14" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" ID="16" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">be</W> 
+<W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="copulat.11" ID="17" KSNAME="CERTAIN" LEMMA="CERTAIN" LINK="copulat" PAFT=" ">certain</W> 
+<W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="1-compl.21" ID="18" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
+<W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="S NOM PL" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="predic.01" ID="19" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
+<W DOM="18" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="subord-conj.10" ID="20" KSNAME="WILL1" LEMMA="WILL" LINK="subord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
+<W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="restr.10" ID="21" KSNAME="NEVER" LEMMA="NEVER" LINK="restr" PAFT=" ">never</W> 
+<W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="analyt.13" ID="22" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
+<W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="V PP" GRP="6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23" HYPOT="pass-anal.10" ID="23" KSNAME="EMPLOY" LEMMA="EMPLOY" LINK="pass-anal" PAFT="&quot;. " UNL="employ(icl&gt;do,equ&gt;use,agt&gt;volitional_thing,obj&gt;thing,pur&gt;uw)" DEF="PUT INTO SERVICE" TRANS="использовать">employed</W>". 
+</S>
+<S DATE="30 11 2010 10:48:30" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="13" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;13">
+<W DOM="2" FEAT="V" GRP="1,2" ID="1" KSNAME="ARM2" LEMMA="ARM" LINK="modif">Armed</W> 
+<W FEAT="S" GRP="1,2" ID="2" KSNAME="FORCE2" LEMMA="FORCE">Forces</W> 
+<W FEAT="S SG" ID="3" KSNAME="FICT-LEX" LEMMA="DAY">Day</W> 
+<W FEAT="V" ID="4" KSNAME="BE" LEMMA="BE" UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть" WN21="2:42:07::">is</W> 
+<W FEAT="ART" ID="5" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" ID="6" KSNAME="ANNUAL1" LEMMA="ANNUAL">annual</W> 
+<W FEAT="S SG" ID="7" KSNAME="REPORT2" LEMMA="REPORT">report</W> 
+<W ID="8">on</W> 
+<W FEAT="A" ID="9" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="S SG" ID="10" KSNAME="INVESTMENT" LEMMA="INVESTMENT">investment</W>, 
+<W FEAT="ART" ID="11" KSNAME="AN1" LEMMA="AN">a</W> 
+<W FEAT="A" GRP="12,13" ID="12" KSNAME="PUBLIC1" LEMMA="PUBLIC">public</W> 
+<W FEAT="S" GRP="12,13" ID="13" KSNAME="PRESENTATION" LEMMA="PRESENTATION">presentation</W> 
+<W ID="14">designed</W> 
+<W FEAT="PART" ID="15" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="16" KSNAME="GIVE" LEMMA="GIVE" WN21="2:40:09::">give</W> 
+<W FEAT="A" ID="17" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="A" ID="18" KSNAME="OWN1" LEMMA="OWN">own</W> 
+<W ID="19">people</W>, 
+<W FEAT="CONJ" ID="20" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="ART" ID="21" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="22">people</W> 
+<W ID="23">of</W> 
+<W FEAT="A" ID="24" KSNAME="OTHER1" LEMMA="OTHER">other</W> 
+<W FEAT="S PL" ID="25" KSNAME="LAND1" LEMMA="LAND">lands</W> 
+<W FEAT="S" ID="26" KSNAME="WHO" LEMMA="WHO">who</W> 
+<W FEAT="V" ID="27" KSNAME="STAND1" LEMMA="STAND" UNL="stand(icl&gt;be,obj&gt;state,aoj&gt;thing)" DEF="BE IN SOME SPECIFIED STATE OR CONDITION" TRANS="быть" WN21="2:42:04::">stand</W> 
+<W ID="28">with</W> 
+<W FEAT="S" ID="29" KSNAME="US" LEMMA="US">us</W> 
+<W ID="30">for</W> 
+<W FEAT="S SG" ID="31" KSNAME="PEACE" LEMMA="PEACE">peace</W> 
+<W ID="32">with</W> 
+<W FEAT="S SG" ID="33" KSNAME="FREEDOM" LEMMA="FREEDOM">freedom</W> 
+<W FEAT="CONJ" ID="34" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S SG" ID="35" KSNAME="JUSTICE" LEMMA="JUSTICE">justice</W>, 
+<W FEAT="ART" ID="36" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="37">best</W> 
+<W FEAT="A" ID="38" KSNAME="POSSIBLE1" LEMMA="POSSIBLE">possible</W> 
+<W FEAT="S SG" ID="39" KSNAME="OPPORTUNITY" LEMMA="OPPORTUNITY">opportunity</W> 
+<W FEAT="PART" ID="40" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="41" KSNAME="SEE1" LEMMA="SEE" WN21="2:31:02::">see</W> 
+<W FEAT="CONJ" ID="42" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="43" KSNAME="UNDERSTAND" LEMMA="UNDERSTAND" UNL="understand(icl&gt;be,equ&gt;comprehend,obj&gt;uw,aoj&gt;person)" DEF="PERCEIVE AN IDEA OR SITUATION MENTALLY" TRANS="понимать" WN21="2:31:01::">understand</W> 
+<W FEAT="S" ID="44" KSNAME="WHAT1" LEMMA="WHAT">what</W> 
+<W FEAT="S" ID="45" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="46" KSNAME="HAVE" LEMMA="HAVE" UNL="have(icl&gt;be,equ&gt;possess,obj&gt;thing,aoj&gt;thing)" DEF="POSESS A THING" TRANS="иметь" WN21="2:40:04::">have</W> 
+<W FEAT="CONJ" ID="47" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="48">why</W> 
+<W FEAT="S" ID="49" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="50" KSNAME="HAVE" LEMMA="HAVE" UNL="have(icl&gt;be,equ&gt;possess,obj&gt;thing,aoj&gt;thing)" DEF="POSESS A THING" TRANS="иметь" WN21="2:40:04::">have</W> 
+<W FEAT="S" ID="51" KSNAME="IT" LEMMA="IT">it</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" EXTRACOMM="Tagging contradicts ETAP parsing: SUPREME - SUPREME" ID="14" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;14" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">is</W> 
+<W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="4" KSNAME="PURPOSE1" LEMMA="PURPOSE" LINK="copulat" PAFT=" ">purpose</W> 
+<W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="6,7" HYPOT="modif.01" ID="6" KSNAME="ARM2" LEMMA="ARM" LINK="modif" PAFT=" ">Armed</W> 
+<W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="6,7" HYPOT="prepos.01" ID="7" KSNAME="FORCE2" LEMMA="FORCE" LINK="prepos" PAFT=" ">Forces</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="appos.03" ID="8" KSNAME="DAY" LEMMA="DAY" LINK="appos" PAFT=" ">Day</W> 
+<W DOM="8" FEAT="PART" HYPOT="attrib.15" ID="9" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
+<W DOM="9" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="GIVE" LEMMA="GIVE" LINK="prepos" PAFT=" ">give</W> 
+<W DOM="10" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="2-compl.10" ID="11" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="2-compl" PAFT=" ">Americans</W> 
+<W DOM="13" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="OPPORTUNITY" LEMMA="OPPORTUNITY" LINK="1-compl" PAFT=" ">opportunity</W> 
+<W DOM="13" FEAT="PART" HYPOT="1-compl.15" ID="14" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
+<W DOM="14" EXTRAFEAT="ALT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="15" KSNAME="HONOUR2" LEMMA="HONOUR" LINK="prepos" PAFT=" ">honor</W> 
+<W DOM="2" FEAT="S PL" ID="16" KSNAME="MAN1" LEMMA="MAN" LINK="fictit" PAFT=" ">men</W> 
+<W DOM="16" FEAT="PR" HYPOT="1-compl.07" ID="17" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="20" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="20" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="19,20" HYPOT="modif.01" ID="19" KSNAME="ARM2" LEMMA="ARM" LINK="modif" PAFT=" ">Armed</W> 
+<W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="19,20" HYPOT="prepos.01" ID="20" KSNAME="FORCE2" LEMMA="FORCE" LINK="prepos" PAFT=", ">Forces</W>, 
+<W DOM="15" FEAT="A" HYPOT="1-compl.01" ID="21" KSNAME="THOSE" LEMMA="THOSE" LINK="1-compl" PAFT=" ">those</W> 
+<W DOM="23" FEAT="S NOM SG" HYPOT="predic.01" ID="22" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
+<W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="23" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">have</W> 
+<W DOM="23" FEAT="V PP" HYPOT="analyt.12" ID="24" KSNAME="MAKE1" LEMMA="MAKE" LINK="analyt" PAFT=" ">made</W> 
+<W DOM="27" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="SUPREME" LEMMA="SUPREME" LINK="modif" PAFT=" ">supreme</W> 
+<W DOM="24" FEAT="S SG" HYPOT="1-compl.01" ID="27" KSNAME="SACRIFICE2" LEMMA="SACRIFICE" LINK="1-compl" PAFT=", ">sacrifice</W>, 
+<W DOM="32" FEAT="A" HYPOT="predic.01" ID="28" KSNAME="THOSE" LEMMA="THOSE" LINK="predic" PAFT=" ">those</W> 
+<W DOM="30" FEAT="S NOM SG" HYPOT="predic.01" ID="29" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
+<W DOM="28" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="30" KSNAME="REMAIN" LEMMA="REMAIN" LINK="relat" PAFT=" ">remain</W> 
+<W DOM="2" FEAT="PART" ID="31" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
+<W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="32" KSNAME="PRESERVE1" LEMMA="PRESERVE" LINK="sent-coordin" PAFT=" ">preserve</W> 
+<W DOM="34" FEAT="A" HYPOT="determ.13" ID="33" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="32" FEAT="S SG" HYPOT="1-compl.01" ID="34" KSNAME="SECURITY1" LEMMA="SECURITY" LINK="1-compl" PAFT=". ">security</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="15" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;15">
+<W FEAT="S SG" ID="1" KSNAME="FICT-LEX" LEMMA="FREEDOM">Freedom</W> 
+<W GRP="2,3" ID="2" WN21="2:42:00::">depends</W> 
+<W GRP="2,3" ID="3" WN21="2:42:00::">upon</W> 
+<W FEAT="S" ID="4" KSNAME="THEY" LEMMA="THEY">them</W>; 
+<W ID="5">Now</W>, 
+<W ID="6">therefore</W>, 
+<W FEAT="V" ID="7" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S SG" ID="8" KSNAME="I" LEMMA="I">i</W>, 
+<W GRP="9,10,11" ID="9">John</W> 
+<W GRP="9,10,11" ID="10">A</W> 
+<W GRP="9,10,11" ID="11">Notte</W>, 
+<W ID="12">Jr</W>, 
+<W FEAT="S SG" ID="13" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W ID="17">of</W> 
+<W FEAT="S SG" ID="18" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="19" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="20">Providence</W> 
+<W FEAT="S PL" ID="21" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="22" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="S SG" ID="23" KSNAME="FICT-LEX" LEMMA="SATURDAY">Saturday</W>, 
+<W ID="24">May</W> 
+<W FEAT="NUM" ID="25" KSNAME="NUM-LARGE" LEMMA="20">20</W> 
+<W FEAT="A" ID="26" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W>, 
+<W FEAT="NUM" ID="27" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="28" KSNAME="AS1" LEMMA="AS">as</W> 
+<W DOM="30" FEAT="V" GRP="29,30" ID="29" KSNAME="ARM2" LEMMA="ARM" LINK="modif">Armed</W> 
+<W FEAT="S" GRP="29,30" ID="30" KSNAME="FORCE2" LEMMA="FORCE">Forces</W> 
+<W FEAT="S SG" ID="31" KSNAME="FICT-LEX" LEMMA="DAY">Day</W>, 
+<W FEAT="V" ID="32" KSNAME="REMIND" LEMMA="REMIND" WN21="2:32:00::">reminding</W> 
+<W FEAT="A" ID="33" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S PL" ID="34" KSNAME="CITIZEN" LEMMA="CITIZEN">citizens</W> 
+<W FEAT="CONJ" ID="35" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="S" ID="36" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="37" KSNAME="SHOULD" LEMMA="SHOULD">should</W> 
+<W FEAT="V" ID="38" KSNAME="REDEDICATE" LEMMA="REDEDICATE" UNL="rededicate(icl&gt;give&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="" WN21="2:32:00::">rededicate</W> 
+<W FEAT="S" ID="39" KSNAME="OURSELVES" LEMMA="OURSELVES">ourselves</W> 
+<W ID="40">to</W> 
+<W FEAT="A" ID="41" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S SG" ID="42" KSNAME="NATION" LEMMA="NATION">Nation</W>, 
+<W FEAT="V" ID="43" KSNAME="RESPECT2" LEMMA="RESPECT" WN21="2:41:00::">respecting</W> 
+<W FEAT="ART" ID="44" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="45" KSNAME="UNIFORM2" LEMMA="UNIFORM">uniforms</W> 
+<W FEAT="CONJ" ID="46" KSNAME="AS1" LEMMA="AS">as</W> 
+<W FEAT="ART" ID="47" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="48" KSNAME="GUARDIAN" LEMMA="GUARDIAN">guardians</W> 
+<W ID="49">of</W> 
+<W FEAT="A" ID="50" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="A" ID="51" KSNAME="PRECIOUS" LEMMA="PRECIOUS">precious</W> 
+<W FEAT="S SG" ID="52" KSNAME="LIBERTY" LEMMA="LIBERTY">liberty</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="16" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;16">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;displace&gt;do,agt&gt;thing,obj&gt;thing,plc&gt;uw)" DEF="PUT INTO A CERTAIN PLACE" TRANS="ставить" WN21="2:35:00::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="17">17</W> 
+<W FEAT="A" ID="22" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W ID="25">May</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W>, 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">of</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="SIXTH1" LEMMA="SIXTH">sixth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" ID="17" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;17" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">Governor</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" ID="18" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;18" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="13" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="2,3,4,5,6" HYPOT="predic.01" ID="2" KSNAME="PRESIDENT" LEMMA="PRESIDENT" LINK="predic" PAFT=" ">President</W> 
+<W DOM="2" FEAT="PR" GRP="2,3,4,5,6" HYPOT="1-compl.07" ID="3" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="6" FEAT="ART" GRP="2,3,4,5,6" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="6" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="2,3,4,5,6" HYPOT="modif.01" ID="5" KSNAME="UNITE" LEMMA="UNITE" LINK="modif" PAFT=" ">United</W> 
+<W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="2,3,4,5,6" HYPOT="prepos.01" ID="6" KSNAME="STATE3" LEMMA="STATE" LINK="prepos" PAFT=", ">States</W>, 
+<W DOM="2" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="PURSUANT$TO" LEMMA="PURSUANT TO" LINK="attrib" PAFT=" ">pursuant to</W> 
+<W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="10" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="9,10" HYPOT="modif.01" ID="9" KSNAME="JOINT1" LEMMA="JOINT" LINK="modif" PAFT=" ">Joint</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="9,10" HYPOT="prepos.01" ID="10" KSNAME="RESOLUTION3" LEMMA="RESOLUTION" LINK="prepos" PAFT=" ">Resolution</W> 
+<W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
+<W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="CONGRESS" LEMMA="CONGRESS" LINK="prepos" PAFT=", ">Congress</W>, 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="13" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
+<W DOM="13" FEAT="V PP" HYPOT="analyt.12" ID="14" KSNAME="ISSUE2" LEMMA="ISSUE" LINK="analyt" PAFT=" " UNL="issue(icl&gt;communicate&gt;do,agt&gt;thing,obj&gt;thing)" DEF="BRING OUT AN OFFICIAL DOCUMENT (SUCH AS A WARRANT)" TRANS="издавать,выпускать">issued</W> 
+<W DOM="16" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="PROCLAMATION" LEMMA="PROCLAMATION" LINK="1-compl" PAFT=" ">proclamation</W> 
+<W DOM="13" FEAT="A" GRP="17,18" ID="17" KSNAME="EACH" LEMMA="EACH" LINK="fictit" PAFT=" ">each</W> 
+<W DOM="13" FEAT="S SG" GRP="17,18" ID="18" KSNAME="YEAR" LEMMA="YEAR" LINK="fictit" PAFT=" ">year</W> 
+<W DOM="18" FEAT="PR" HYPOT="attrib.01" ID="19" KSNAME="SINCE1" LEMMA="SINCE" LINK="attrib" PAFT=" ">since</W> 
+<W DOM="13" FEAT="NUM" ID="20" KSNAME="NUM-TWOTWO" LEMMA="1933" LINK="fictit" PAFT=" ">1933</W> 
+<W DOM="19" FEAT="V ING" HYPOT="prepos.01" ID="21" KSNAME="DECLARE" LEMMA="DECLARE" LINK="prepos" PAFT=" " UNL="declare(icl&gt;state&gt;do,equ&gt;announce,agt&gt;volitional_thing,obj&gt;uw)" DEF="ANNOUNCE PUBLICLY OR FORMALLY" TRANS="объявлять">declaring</W> 
+<W DOM="21" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="1-compl.31" ID="22" KSNAME="MAY1" LEMMA="MAY" LINK="1-compl" PAFT=" ">may</W> 
+<W DOM="24" FEAT="NUM" HYPOT="locut.d0" ID="23" KSNAME="NUM-TWOTWO" LEMMA="22" LINK="locut" PAFT=" ">22</W> 
+<W DOM="13" EXTRAFEAT="ALT" FEAT="A" ID="24" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN" LINK="fictit" PAFT=" ">nd</W> 
+<W DOM="13" FEAT="PART" ID="25" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
+<W DOM="22" FEAT="V MF" HYPOT="1-compl.17" ID="26" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">be</W> 
+<W DOM="29" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="27,28,29" HYPOT="modif.01" ID="27" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif" PAFT=" ">National</W> 
+<W DOM="29" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="27,28,29" HYPOT="modif.01" ID="28" KSNAME="MARITIME" LEMMA="MARITIME" LINK="modif" PAFT=" ">Maritime</W> 
+<W DOM="26" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="27,28,29" HYPOT="copulat.10" ID="29" KSNAME="DAY" LEMMA="DAY" LINK="copulat" PAFT=". ">Day</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" ID="19" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;19" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">This</W> 
+<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DATE1" LEMMA="DATE" LINK="predic" PAFT=" ">date</W> 
+<W DOM="2" FEAT="PR" HYPOT="attrib.01" ID="3" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
+<W DOM="3" FEAT="NUM SG" HYPOT="prepos.01" ID="4" KSNAME="FRM-YEAR" LEMMA="1819" LINK="prepos" PAFT=" ">1819</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="MARK2" LEMMA="MARK" PAFT=" " UNL="mark(icl&gt;commemorate&gt;do,cob&gt;thing,agt&gt;person,obj&gt;event)" DEF="COMMEMORATE AN EVENT" TRANS="отмечать">marked</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="SAILING" LEMMA="SAILING" LINK="1-compl" PAFT=" ">sailing</W> 
+<W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" GRP="10,11" HYPOT="compos.01" ID="10" KSNAME="FICT-S" LEMMA="S" LINK="compos" MSNAME="S" PAFT=" ">S</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" GRP="10,11" HYPOT="prepos.01" ID="11" KSNAME="FICT-S" LEMMA="S" LINK="prepos" MSNAME="S" PAFT=" &quot;">S</W> 
+"<W DOM="11" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="appos.04" ID="12" KSNAME="SAVANNAH" LEMMA="SAVANNAH" LINK="appos" PAFT="&quot; ">Savannah</W>" 
+<W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="13" KSNAME="FROM" LEMMA="FROM" LINK="1-compl" PAFT=" ">from</W> 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="SAVANNAH" LEMMA="SAVANNAH" LINK="prepos" PAFT=", ">Savannah</W>, 
+<W DOM="14" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="descr-appos.01" ID="15" KSNAME="GEORGIA1" LEMMA="GEORGIA" LINK="descr-appos" PAFT=", ">Georgia</W>, 
+<W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
+<W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="LIVERPOOL" LEMMA="LIVERPOOL" LINK="prepos" PAFT=". ">Liverpool</W>. 
+</S>
+<S DATE="30 11 2010 10:48:33" ID="20" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;20" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">This</W> 
+<W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="VOYAGE" LEMMA="VOYAGE" LINK="predic" PAFT=" ">voyage</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="7" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" ">first</W> 
+<W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="SUCCESSFUL" LEMMA="SUCCESSFUL" LINK="modif" PAFT=" ">successful</W> 
+<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="7" KSNAME="CROSSING" LEMMA="CROSSING" LINK="copulat" PAFT=" ">crossing</W> 
+<W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="13" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="10" KSNAME="ATLANTIC1" LEMMA="ATLANTIC" LINK="compos" PAFT=" ">Atlantic</W> 
+<W DOM="13" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="UNDER3" LEMMA="UNDER" LINK="modif" PAFT=" ">under</W> 
+<W DOM="13" FEAT="S SG" HYPOT="compos.01" ID="12" KSNAME="STEAM1" LEMMA="STEAM" LINK="compos" PAFT=" ">steam</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="PROPULSION" LEMMA="PROPULSION" LINK="prepos" PAFT=". ">propulsion</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="21" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;21" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DAY" LEMMA="DAY" LINK="predic" PAFT=" ">day</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
+<W DOM="5" FEAT="ADV" HYPOT="restr.12" ID="4" KSNAME="NOW1" LEMMA="NOW" LINK="restr" PAFT=" ">now</W> 
+<W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="APPROPRIATELY" LEMMA="APPROPRIATELY" LINK="adverb" MSNAME="APPROPRIATELY" PAFT=" ">appropriately</W> 
+<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="SET1" LEMMA="SET" LINK="pass-anal" PAFT=" " UNL="set_aside(icl&gt;change&gt;do,equ&gt;suspend,agt&gt;thing,obj&gt;thing)" DEF="">set</W> 
+<W DOM="6" FEAT="ADV" HYPOT="phras-junct.10" ID="7" KSNAME="ASIDE1" LEMMA="ASIDE" LINK="phras-junct" MSNAME="ASIDE1" PAFT=" ">aside</W> 
+<W DOM="6" FEAT="PART" HYPOT="2-compl.12" ID="8" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
+<W DOM="8" EXTRAFEAT="ALT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="HONOUR2" LEMMA="HONOUR" LINK="prepos" PAFT=" ">honor</W> 
+<W DOM="12" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="12" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="11" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="compos" PAFT=" ">American</W> 
+<W DOM="9" FEAT="S PL" HYPOT="1-compl.01" ID="12" KSNAME="MAN1" LEMMA="MAN" LINK="1-compl" PAFT=" ">men</W> 
+<W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="13" FEAT="S PL" HYPOT="coord-conj.10" ID="14" KSNAME="WOMAN" LEMMA="WOMAN" LINK="coord-conj" PAFT=" ">women</W> 
+<W DOM="16" FEAT="S NOM SG" HYPOT="predic.01" ID="15" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
+<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="16" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">have</W> 
+<W DOM="16" FEAT="V PP" HYPOT="analyt.12" ID="17" KSNAME="CONTRIBUTE" LEMMA="CONTRIBUTE" LINK="analyt" MSNAME="CONTRIBUTE" PAFT=" ">contributed</W> 
+<W DOM="17" FEAT="PR" HYPOT="2-compl.02" ID="18" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
+<W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="SUCCESS" LEMMA="SUCCESS" LINK="prepos" PAFT=" ">success</W> 
+<W DOM="20" FEAT="PR" HYPOT="quasiagent.10" ID="21" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="25" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="25" FEAT="A" GRP="23,24" HYPOT="modif.01" ID="23" KSNAME="MERCHANT2" LEMMA="MERCHANT" LINK="modif" PAFT=" ">merchant</W> 
+<W DOM="25" FEAT="S SG" GRP="23,24" HYPOT="compos.01" ID="24" KSNAME="MARINE2" LEMMA="MARINE" LINK="compos" MSNAME="MARINE2" PAFT=" ">marine</W> 
+<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="FLEET" LEMMA="FLEET" LINK="prepos" PAFT=" ">fleet</W> 
+<W DOM="20" FEAT="PR" HYPOT="1-compl.07" ID="26" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
+<W DOM="26" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="PEACE" LEMMA="PEACE" LINK="prepos" PAFT=" ">peace</W> 
+<W DOM="27" FEAT="CONJ" HYPOT="coordin.10" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="28" FEAT="S SG" HYPOT="coord-conj.10" ID="29" KSNAME="WAR1" LEMMA="WAR" LINK="coord-conj" PAFT=". ">war</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="22" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;22" STATUS="doubt">
+<W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="2,3" HYPOT="modif.01" ID="2" KSNAME="MERCHANT2" LEMMA="MERCHANT" LINK="modif" PAFT=" ">Merchant</W> 
+<W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="2,3" HYPOT="predic.01" ID="3" KSNAME="MARINE2" LEMMA="MARINE" LINK="predic" MSNAME="MARINE2" PAFT=" ">Marine</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">is</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="FOURTH1" LEMMA="FOURTH" LINK="modif" PAFT=" &quot;">Fourth</W>" 
+<W DOM="4" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S SG" HYPOT="copulat.10" ID="7" KSNAME="ARM1" LEMMA="ARM" LINK="copulat" PAFT=" ">Arm</W> 
+<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="8" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="DEFENSE" LEMMA="DEFENSE" LINK="prepos" PAFT="&quot;, ">Defense</W>", 
+<W DOM="4" FEAT="CONJ" HYPOT="adverb.10" ID="10" KSNAME="FOR2" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
+<W DOM="15" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="15" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="STRONG" LEMMA="STRONG" LINK="modif" PAFT=" ">strong</W> 
+<W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="13" FEAT="A" HYPOT="coord-conj.10" ID="14" KSNAME="EFFECTIVE" LEMMA="EFFECTIVE" LINK="coord-conj" PAFT=" ">effective</W> 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="predic" PAFT=" ">American</W> 
+<W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="16,17" HYPOT="modif.01" ID="16" KSNAME="MERCHANT2" LEMMA="MERCHANT" LINK="modif" PAFT=" ">Merchant</W> 
+<W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="16,17" HYPOT="appos.03" ID="17" KSNAME="MARINE2" LEMMA="MARINE" LINK="appos" MSNAME="MARINE2" PAFT=" ">Marine</W> 
+<W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="18" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
+<W DOM="18" FEAT="A" HYPOT="copulat.11" ID="19" KSNAME="ESSENTIAL1" LEMMA="ESSENTIAL" LINK="copulat" PAFT=" ">essential</W> 
+<W DOM="19" FEAT="PR" HYPOT="1-compl.07" ID="20" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
+<W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="ECONOMY" LEMMA="ECONOMY" LINK="prepos" PAFT=" ">economy</W> 
+<W DOM="22" FEAT="CONJ" HYPOT="coordin.10" ID="23" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="23" FEAT="S SG" HYPOT="coord-conj.10" ID="24" KSNAME="SECURITY1" LEMMA="SECURITY" LINK="coord-conj" PAFT=" ">security</W> 
+<W DOM="24" FEAT="PR" HYPOT="quasiagent.10" ID="25" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="27" FEAT="A" HYPOT="determ.13" ID="26" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="25" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="NATION" LEMMA="NATION" LINK="prepos" PAFT=". ">Nation</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="23" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;23">
+<W ID="1">Through</W> 
+<W FEAT="S SG" ID="2" KSNAME="TRADE1" LEMMA="TRADE">trade</W> 
+<W FEAT="CONJ" ID="3" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S SG" ID="4" KSNAME="TRAVEL1" LEMMA="TRAVEL">travel</W> 
+<W ID="5">across</W> 
+<W FEAT="ART" ID="6" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="7" KSNAME="SEA" LEMMA="SEA">seas</W> 
+<W FEAT="ART" ID="8" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="9" KSNAME="AMERICAN2" LEMMA="AMERICAN">American</W> 
+<W FEAT="A" GRP="10,11" ID="10" KSNAME="MERCHANT2" LEMMA="MERCHANT">Merchant</W> 
+<W FEAT="S" GRP="10,11" ID="11" KSNAME="MARINE2" LEMMA="MARINE">Marine</W> 
+<W FEAT="V" ID="12" KSNAME="BE" LEMMA="BE">is</W> 
+<W FEAT="V" ID="13" KSNAME="CARRY" LEMMA="CARRY" REM="phrasverb" UNL="carry_out(icl&gt;complete&gt;do,equ&gt;carry_through,agt&gt;thing,obj&gt;thing)" DEF="PUT IN EFFECT" TRANS="выполнять" WN21="2:36:00::">carrying</W> 
+<W FEAT="ADV" ID="14" KSNAME="OUT1" LEMMA="OUT">out</W> 
+<W FEAT="A" ID="15" KSNAME="ITS1" LEMMA="ITS">its</W> 
+<W FEAT="A" ID="16" KSNAME="HISTORIC" LEMMA="HISTORIC">historic</W> 
+<W FEAT="S SG" ID="17" KSNAME="MISSION1" LEMMA="MISSION">mission</W> 
+<W ID="18">of</W> 
+<W FEAT="V" ID="19" KSNAME="LINK2" LEMMA="LINK" UNL="link(icl&gt;relate&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="MAKE A LOGICAL OR CAUSAL CONNECTION" TRANS="соединять" WN21="2:31:00::">linking</W> 
+<W FEAT="ART" ID="20" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="22" FEAT="V" GRP="21,22,23,24" ID="21" KSNAME="UNITE" LEMMA="UNITE" LINK="modif">United</W> 
+<W FEAT="S" GRP="21,22,23,24" ID="22" KSNAME="STATE3" LEMMA="STATE">States</W> 
+<W FEAT="PR" GRP="21,22,23,24" ID="23" KSNAME="OF" LEMMA="OF">of</W> 
+<W DOM="22" FEAT="S" GRP="21,22,23,24" ID="24" KSNAME="AMERICA" LEMMA="AMERICA" LINK="quasiagent">America</W> 
+<W ID="25">with</W> 
+<W FEAT="A" ID="26" KSNAME="FRIENDLY1" LEMMA="FRIENDLY">friendly</W> 
+<W FEAT="S PL" ID="27" KSNAME="NATION" LEMMA="NATION">nations</W> 
+<W ID="28">across</W> 
+<W FEAT="ART" ID="29" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="30" KSNAME="SEA" LEMMA="SEA">seas</W>; 
+<W FEAT="CONJ" ID="31" KSNAME="AND" LEMMA="AND">And</W> 
+<W ID="32">now</W>, 
+<W ID="33">therefore</W>, 
+<W FEAT="V" ID="34" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S" ID="35" KSNAME="I" LEMMA="I">I</W>, 
+<W GRP="36,37,38" ID="36">John</W> 
+<W GRP="36,37,38" ID="37">A</W> 
+<W GRP="36,37,38" ID="38">Notte</W>, 
+<W ID="39">Jr</W>, 
+<W FEAT="S SG" ID="40" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="41">of</W> 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="43">State</W> 
+<W ID="44">of</W> 
+<W FEAT="S SG" ID="45" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="46" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="47">Providence</W> 
+<W FEAT="S PL" ID="48" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="49" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="S SG" ID="50" KSNAME="FICT-LEX" LEMMA="MONDAY">Monday</W>, 
+<W ID="51">May</W> 
+<W FEAT="NUM" ID="52" KSNAME="NUM-LARGE" LEMMA="22">22</W> 
+<W FEAT="A" ID="53" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">nd</W>, 
+<W FEAT="NUM" ID="54" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="55" KSNAME="AS1" LEMMA="AS">as</W> 
+<W DOM="58" FEAT="A" GRP="56,57,58" ID="56" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif">National</W> 
+<W DOM="58" FEAT="A" GRP="56,57,58" ID="57" KSNAME="MARITIME" LEMMA="MARITIME" LINK="modif">Maritime</W> 
+<W FEAT="S" GRP="56,57,58" ID="58" KSNAME="DAY" LEMMA="DAY">Day</W>, 
+<W FEAT="V" ID="59" KSNAME="REMIND" LEMMA="REMIND" WN21="2:32:00::">reminding</W> 
+<W FEAT="A" ID="60" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S PL" ID="61" KSNAME="CITIZEN" LEMMA="CITIZEN">citizens</W> 
+<W FEAT="CONJ" ID="62" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="S SG" ID="63" KSNAME="AMERICAN2" LEMMA="AMERICAN">American</W> 
+<W DOM="65" FEAT="S" GRP="64,65" ID="64" KSNAME="MERCHANT1" LEMMA="MERCHANT" LINK="compos">Merchant</W> 
+<W FEAT="S" GRP="64,65" ID="65" KSNAME="SHIP1" LEMMA="SHIP">ships</W> 
+<W FEAT="CONJ" ID="66" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S SG" ID="67" KSNAME="AMERICAN2" LEMMA="AMERICAN">American</W> 
+<W ID="68">seamen</W> 
+<W FEAT="V" ID="69" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">are</W> 
+<W FEAT="A" ID="70" KSNAME="READY" LEMMA="READY">ready</W> 
+<W FEAT="PR" GRP="71,72,73" ID="71" KSNAME="AT" LEMMA="AT">at</W> 
+<W DOM="73" FEAT="A" GRP="71,72,73" ID="72" KSNAME="ALL1" LEMMA="ALL" LINK="modif">all</W> 
+<W DOM="71" FEAT="S" GRP="71,72,73" ID="73" KSNAME="TIME1" LEMMA="TIME" LINK="prepos">times</W> 
+<W FEAT="PART" ID="74" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="75" KSNAME="SERVE2" LEMMA="SERVE" UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:41:02::">serve</W> 
+<W FEAT="A" ID="76" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S SG" ID="77" KSNAME="NATION" LEMMA="NATION">Nation</W> 
+<W ID="78">in</W> 
+<W FEAT="ART" ID="79" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="80" KSNAME="CAUSE2" LEMMA="CAUSE">cause</W> 
+<W ID="81">of</W> 
+<W FEAT="S SG" ID="82" KSNAME="FREEDOM" LEMMA="FREEDOM">freedom</W> 
+<W FEAT="CONJ" ID="83" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S SG" ID="84" KSNAME="JUSTICE" LEMMA="JUSTICE">justice</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="24" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;24">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;displace&gt;do,agt&gt;thing,obj&gt;thing,plc&gt;uw)" DEF="PUT INTO A CERTAIN PLACE" TRANS="ставить" WN21="2:35:00::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="20">20</W> 
+<W FEAT="A" ID="22" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W FEAT="S SG" ID="25" KSNAME="FICT-LEX" LEMMA="APRIL">April</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W>, 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">of</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="FIFTH1" LEMMA="FIFTH">fifth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="25" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;25" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">Governor</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="26" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;26" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="MISS2" LEMMA="MISS" LINK="predic" PAFT=" ">Miss</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="3" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="compos" PAFT=" ">Rhode Island</W> 
+<W DOM="2" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="appos.03" ID="4" KSNAME="PAGEANT" LEMMA="PAGEANT" LINK="appos" MSNAME="PAGEANT" PAFT=" ">Pageant</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
+<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="SPONSOR2" LEMMA="SPONSOR" LINK="pass-anal" PAFT=" ">sponsored</W> 
+<W DOM="6" FEAT="PR" HYPOT="agent.10" ID="7" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
+<W DOM="11" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="9" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="compos" PAFT=" ">Rhode Island</W> 
+<W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="JUNIOR1" LEMMA="JUNIOR" LINK="modif" PAFT=" ">Junior</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="11,12,13" HYPOT="prepos.01" ID="11" KSNAME="CHAMBER1" LEMMA="CHAMBER" LINK="prepos" PAFT=" ">Chamber</W> 
+<W DOM="11" FEAT="PR" GRP="11,12,13" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="12" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="11,12,13" HYPOT="prepos.01" ID="13" KSNAME="COMMERCE" LEMMA="COMMERCE" LINK="prepos" PAFT=" ">Commerce</W> 
+<W DOM="13" FEAT="CONJ" HYPOT="attrib.18" ID="14" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
+<W DOM="16" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="14" FEAT="S SG" HYPOT="comp-conj.10" ID="16" KSNAME="PART1" LEMMA="PART" LINK="comp-conj" PAFT=" ">part</W> 
+<W DOM="16" FEAT="PR" HYPOT="quasiagent.10" ID="17" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="21" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="21" FEAT="S SG" GRP="19,20" HYPOT="compos.01" ID="19" KSNAME="NATION" LEMMA="NATION" LINK="compos" PAFT=" ">nation</W> 
+<W DOM="21" FEAT="A" GRP="19,20" HYPOT="modif.01" ID="20" KSNAME="WIDE" LEMMA="WIDE" LINK="modif" PAFT=" ">wide</W> 
+<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="SEARCH1" LEMMA="SEARCH" LINK="prepos" PAFT=" ">search</W> 
+<W DOM="21" FEAT="PR" HYPOT="1-compl.07" ID="22" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
+<W DOM="26" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="25" FEAT="A" HYPOT="modif.01" ID="24" KSNAME="TYPICAL" LEMMA="TYPICAL" LINK="modif" PAFT=" ">typical</W> 
+<W DOM="26" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="25" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="compos" PAFT=" ">American</W> 
+<W DOM="5" FEAT="S SG" ID="26" KSNAME="GIRL" LEMMA="GIRL" LINK="fictit" PAFT="-">girl</W>- 
+<W DOM="28" FEAT="ART" HYPOT="determ.10" ID="27" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="26" EXTRAFEAT="CAP" FEAT="S SG" GRP="28,29" HYPOT="appos.01" ID="28" KSNAME="MISS2" LEMMA="MISS" LINK="appos" PAFT=" ">Miss</W> 
+<W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" GRP="28,29" HYPOT="prepos.01" ID="29" KSNAME="AMERICA" LEMMA="AMERICA" LINK="prepos" PAFT=" ">America</W> 
+<W DOM="29" FEAT="PR" HYPOT="attrib.01" ID="30" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
+<W DOM="30" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="prepos" PAFT=". ">Rhode Island</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="27" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;27" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="THIS2" LEMMA="THIS" LINK="predic" PAFT=" ">This</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">is</W> 
+<W DOM="6" FEAT="ART" HYPOT="determ.10" ID="3" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
+<W DOM="6" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="OFFICIAL2" LEMMA="OFFICIAL" LINK="compos" PAFT=" ">official</W> 
+<W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="PRELIMINARY1" LEMMA="PRELIMINARY" LINK="modif" PAFT=" ">preliminary</W> 
+<W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="CONTEST1" LEMMA="CONTEST" LINK="copulat" PAFT=" ">contest</W> 
+<W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" GRP="9,10,11" HYPOT="prepos.01" ID="9" KSNAME="MISS2" LEMMA="MISS" LINK="prepos" PAFT=" ">Miss</W> 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" GRP="9,10,11" HYPOT="compos.01" ID="10" KSNAME="AMERICA" LEMMA="AMERICA" LINK="compos" PAFT=" ">America</W> 
+<W DOM="9" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="9,10,11" HYPOT="appos.03" ID="11" KSNAME="PAGEANT" LEMMA="PAGEANT" LINK="appos" MSNAME="PAGEANT" PAFT=" ">Pageant</W> 
+<W DOM="11" FEAT="V PP" HYPOT="modif.01" ID="12" KSNAME="HOLD1" LEMMA="HOLD" LINK="modif" PAFT=" " UNL="hold(icl&gt;do,equ&gt;organize,agt&gt;volitional_thing,obj&gt;action,met&gt;thing)" DEF="ORGANIZE OR BE RESPONSIBLE FOR" TRANS="проводить">held</W> 
+<W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
+<W DOM="12" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="adverb.04" ID="14" KSNAME="SEPTEMBER" LEMMA="SEPTEMBER" LINK="adverb" PAFT=" ">September</W> 
+<W DOM="12" FEAT="PR" HYPOT="2-compl.02" ID="15" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
+<W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" GRP="16,17" HYPOT="compos.01" ID="16" KSNAME="ATLANTIC1" LEMMA="ATLANTIC" LINK="compos" PAFT=" ">Atlantic</W> 
+<W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="16,17" HYPOT="prepos.01" ID="17" KSNAME="CITY" LEMMA="CITY" LINK="prepos" PAFT=". ">City</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="28" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;28" STATUS="doubt">
+<W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="4" FEAT="A" ID="2" KSNAME="IDEAL1" LEMMA="IDEAL" LINK="fictit" PAFT=" ">ideal</W> 
+<W DOM="4" FEAT="S SG" ID="3" KSNAME="GIRL" LEMMA="GIRL" LINK="fictit" PAFT="-">girl</W>- 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="POSSESS" LEMMA="POSSESS" PAFT=" " UNL="possess(icl&gt;have&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="HAVE AS AN ATTRIBUTE, KNOWLEDGE, OR SKILL" TRANS="обладать">possessed</W> 
+<W DOM="4" FEAT="PR" ID="5" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
+<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="TALENT" LEMMA="TALENT" LINK="prepos" PAFT=", ">talent</W>, 
+<W DOM="6" FEAT="S SG" HYPOT="coordin.01" ID="7" KSNAME="POISE1" LEMMA="POISE" LINK="coordin" PAFT=", ">poise</W>, 
+<W DOM="7" FEAT="S SG" HYPOT="coordin.01" ID="8" KSNAME="INTELLIGENCE" LEMMA="INTELLIGENCE" LINK="coordin" PAFT=", ">intelligence</W>, 
+<W DOM="8" FEAT="S SG" HYPOT="coordin.01" ID="9" KSNAME="PERSONALITY" LEMMA="PERSONALITY" LINK="coordin" PAFT=" ">personality</W> 
+<W DOM="9" FEAT="CONJ" HYPOT="coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="10" FEAT="S SG" HYPOT="coord-conj.10" ID="11" KSNAME="BEAUTY" LEMMA="BEAUTY" LINK="coord-conj" PAFT=" ">beauty</W> 
+<W DOM="11" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="FACE1" LEMMA="FACE" LINK="prepos" PAFT=" ">face</W> 
+<W DOM="4" FEAT="CONJ" ID="14" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
+<W DOM="4" FEAT="S SG" ID="15" KSNAME="FIGURE1" LEMMA="FIGURE" LINK="fictit" PAFT="-">figure</W>- 
+<W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="16" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">is</W> 
+<W DOM="16" FEAT="V PP" HYPOT="pass-anal.10" ID="17" KSNAME="CHOOSE" LEMMA="CHOOSE" LINK="pass-anal" PAFT=" " UNL="choose(icl&gt;do,equ&gt;select,src&gt;thing,agt&gt;volitional_thing,obj&gt;thing,pur&gt;uw)" DEF="TO SELECT ONE OUT OF SEVERAL" TRANS="выбирать">chosen</W> 
+<W DOM="19" FEAT="A" GRP="18,19" HYPOT="determ.13" ID="18" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
+<W DOM="17" FEAT="S SG" GRP="18,19" HYPOT="adverb.04" ID="19" KSNAME="YEAR" LEMMA="YEAR" LINK="adverb" PAFT=" ">year</W> 
+<W DOM="19" FEAT="PART" HYPOT="attrib.15" ID="20" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
+<W DOM="20" FEAT="V MF" HYPOT="prepos.16" ID="21" KSNAME="REPRESENT" LEMMA="REPRESENT" LINK="prepos" PAFT=" ">represent</W> 
+<W DOM="21" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="1-compl" PAFT=". ">Rhode Island</W>. 
+</S>
+<S DATE="30 11 2010 10:48:34" ID="29" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;29" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="MANY" LEMMA="MANY" LINK="modif" PAFT=" ">Many</W> 
+<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="HOUR" LEMMA="HOUR" LINK="predic" PAFT=" ">hours</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
+<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="GIVE" LEMMA="GIVE" LINK="pass-anal" PAFT=" " UNL="give(icl&gt;do,equ&gt;present,agt&gt;volitional_thing,obj&gt;thing,rec&gt;person)" DEF="MAKE A GIFT" TRANS="дарить">given</W> 
+<W DOM="4" FEAT="A" HYPOT="subj-copr.01" ID="5" KSNAME="FREE1" LEMMA="FREE" LINK="subj-copr" PAFT=" ">free</W> 
+<W DOM="4" FEAT="PR" HYPOT="agent.10" ID="6" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
+<W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="FRM-PROP" LEMMA="JAYCEES" LINK="prepos" PAFT=" ">Jaycees</W> 
+<W DOM="4" FEAT="PART" HYPOT="adverb.11" ID="9" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
+<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="MAKE1" LEMMA="MAKE" LINK="prepos" PAFT=" ">make</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="THIS2" LEMMA="THIS" LINK="1-compl" PAFT=" ">this</W> 
+<W DOM="11" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="15" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
+<W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="LOCAL1" LEMMA="LOCAL" LINK="modif" PAFT=" ">local</W> 
+<W DOM="12" FEAT="S PL" HYPOT="coord-conj.10" ID="15" KSNAME="PAGEANT" LEMMA="PAGEANT" LINK="coord-conj" MSNAME="PAGEANT" PAFT=" ">pageants</W> 
+<W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="OUTSTANDING" LEMMA="OUTSTANDING" LINK="modif" PAFT=" ">outstanding</W> 
+<W DOM="10" FEAT="S PL" HYPOT="2-compl.11" ID="17" KSNAME="EVENT" LEMMA="EVENT" LINK="2-compl" PAFT=". ">events</W>. 
+</S>
+<S DATE="30 11 2010 10:48:35" ID="30" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;30" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="PROCEEDS" LEMMA="PROCEEDS" LINK="predic" PAFT=" ">Proceeds</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="REALIZE" LEMMA="REALIZE" PAFT=" " UNL="realize(icl&gt;earn&gt;do,obj&gt;money)" DEF="" TRANS="выручать">realized</W> 
+<W DOM="2" FEAT="PR" ID="3" KSNAME="FROM" LEMMA="FROM" LINK="fictit" PAFT=" ">from</W> 
+<W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="THESE" LEMMA="THESE" LINK="determ" PAFT=" ">these</W> 
+<W DOM="6" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="PAGEANT" LEMMA="PAGEANT" LINK="predic" MSNAME="PAGEANT" PAFT=" ">pageants</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="1-compl.31" ID="6" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">are</W> 
+<W DOM="6" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="USE2" LEMMA="USE" LINK="pass-anal" PAFT=" ">used</W> 
+<W DOM="7" FEAT="PR" HYPOT="agent.10" ID="8" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
+<W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="FRM-PROP" LEMMA="JAYCEES" LINK="prepos" PAFT=" ">Jaycees</W> 
+<W DOM="7" FEAT="PART" HYPOT="2-compl.12" ID="11" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
+<W DOM="11" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="HELP1" LEMMA="HELP" LINK="prepos" PAFT=" ">help</W> 
+<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="2-compl.14" ID="13" KSNAME="SUPPORT2" LEMMA="SUPPORT" LINK="2-compl" PAFT=" " UNL="support(icl&gt;give&gt;do,agt&gt;person,obj&gt;person,met&gt;thing)" DEF="PROVIDE MONEY" TRANS="содержать">support</W> 
+<W DOM="2" FEAT="A" ID="14" KSNAME="THEIR" LEMMA="THEIR" LINK="fictit" MSNAME="THEIR" PAFT=" ">their</W> 
+<W DOM="2" FEAT="A" ID="15" KSNAME="VARIOUS" LEMMA="VARIOUS" LINK="fictit" PAFT=" ">various</W> 
+<W DOM="2" FEAT="S SG" ID="16" KSNAME="YOUTH" LEMMA="YOUTH" LINK="fictit" PAFT=", ">youth</W>, 
+<W DOM="16" FEAT="S SG" HYPOT="coordin.01" ID="17" KSNAME="HEALTH" LEMMA="HEALTH" LINK="coordin" PAFT=", ">health</W>, 
+<W DOM="21" FEAT="S SG" HYPOT="compos.01" ID="18" KSNAME="WELFARE" LEMMA="WELFARE" LINK="compos" PAFT=" ">welfare</W> 
+<W DOM="18" FEAT="CONJ" HYPOT="coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="19" FEAT="S SG" HYPOT="coord-conj.10" ID="20" KSNAME="COMMUNITY" LEMMA="COMMUNITY" LINK="coord-conj" PAFT=" ">community</W> 
+<W DOM="22" FEAT="S SG" HYPOT="compos.01" ID="21" KSNAME="BETTERMENT" LEMMA="BETTERMENT" LINK="compos" PAFT=" ">betterment</W> 
+<W DOM="17" FEAT="S PL" HYPOT="coordin.01" ID="22" KSNAME="ACTIVITY" LEMMA="ACTIVITY" LINK="coordin" PAFT=" ">activities</W> 
+<W DOM="13" FEAT="ADV" HYPOT="adverb.01" ID="23" KSNAME="THROUGHOUT2" LEMMA="THROUGHOUT" LINK="adverb" PAFT=" ">throughout</W> 
+<W DOM="25" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="25" KSNAME="STATE1" LEMMA="STATE" LINK="1-compl" PAFT=". ">state</W>. 
+</S>
+<S DATE="30 11 2010 10:48:35" EXTRACOMM="Tagging contradicts ETAP parsing: TO2 - TO1" ID="31" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;31" STATUS="doubt">
+<W DOM="8" EXTRAFEAT="CAP QFIN" FEAT="V MF" GRP="1,2,3,4" ID="1" KSNAME="MISS1" LEMMA="MISS" LINK="fictit" PAFT=" ">Miss</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2,3,4" HYPOT="compos.01" ID="2" KSNAME="SALLY2" LEMMA="SALLY" LINK="compos" PAFT=" ">Sally</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2,3,4" HYPOT="compos.01" ID="3" KSNAME="MAY2" LEMMA="MAY" LINK="compos" PAFT=" ">May</W> 
+<W DOM="1" FEAT="S SG" GRP="1,2,3,4" HYPOT="1-compl.01" ID="4" KSNAME="FRM-PROP" LEMMA="SAABYE" LINK="1-compl" PAFT=", (">Saabye</W>,( 
+<W DOM="4" EXTRAFEAT="CAP IN-BR" FEAT="S SG" GRP="5,6,7" HYPOT="descr-appos.01" ID="5" KSNAME="MISS2" LEMMA="MISS" LINK="descr-appos" PAFT=" ">Miss</W> 
+<W DOM="5" EXTRAFEAT="CAP IN-BR" FEAT="S SG" GRP="5,6,7" HYPOT="appos.03" ID="6" KSNAME="RHODE$ISLAND" LEMMA="RHODE ISLAND" LINK="appos" PAFT=" ">Rhode Island</W> 
+<W DOM="6" EXTRAFEAT="IN-BR" FEAT="NUM SG" GRP="5,6,7" HYPOT="appos.01" ID="7" KSNAME="FRM-YEAR" LEMMA="1960" LINK="appos" PAFT=") ">1960</W>) 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="8" KSNAME="SAY" LEMMA="SAY" PAFT=" " UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">says</W> 
+<W DOM="8" FEAT="CONJ" HYPOT="1-compl.21" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
+<W DOM="8" FEAT="PR" ID="10" KSNAME="WITHIN1" LEMMA="WITHIN" LINK="fictit" PAFT=" ">within</W> 
+<W DOM="15" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="15" FEAT="A" GRP="12,13" HYPOT="modif.01" ID="12" KSNAME="SHORT1" LEMMA="SHORT" LINK="modif" PAFT=" ">short</W> 
+<W DOM="8" FEAT="S SG" GRP="12,13" ID="13" KSNAME="TIME1" LEMMA="TIME" LINK="fictit" PAFT="-">time</W>- 
+<W DOM="8" FEAT="PR" ID="14" KSNAME="ON1" LEMMA="ON" LINK="fictit" PAFT=" ">on</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" ID="15" KSNAME="JUNE" LEMMA="JUNE" LINK="fictit" PAFT=" ">June</W> 
+<W DOM="15" FEAT="NUM" HYPOT="num-appos.12" ID="16" KSNAME="NUM-LARGE" LEMMA="17" LINK="num-appos" PAFT=" ">17</W> 
+<W DOM="8" FEAT="A" ID="17" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN" LINK="fictit" PAFT="-">th</W>- 
+<W DOM="19" FEAT="A" HYPOT="determ.13" ID="18" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
+<W DOM="20" FEAT="S SG" HYPOT="predic.01" ID="19" KSNAME="REIGN1" LEMMA="REIGN" LINK="predic" PAFT=" ">reign</W> 
+<W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="subord-conj.10" ID="20" KSNAME="WILL1" LEMMA="WILL" LINK="subord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
+<W DOM="20" FEAT="V MF" HYPOT="analyt.13" ID="21" KSNAME="COME" LEMMA="COME" LINK="analyt" PAFT=" " UNL="come(icl&gt;change&gt;occur,obj&gt;thing,gol&gt;thing)" DEF="REACH OR ENTER A STATE OR POSITION" TRANS="входить">come</W> 
+<W DOM="21" FEAT="PR" HYPOT="2-compl.02" ID="22" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
+<W DOM="24" FEAT="ART" HYPOT="determ.10" ID="23" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
+<W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="END1" LEMMA="END" LINK="prepos" PAFT=". ">end</W>. 
+</S>
+<S DATE="30 11 2010 10:48:35" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="32" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;32">
+<W FEAT="S" ID="1" KSNAME="SHE" LEMMA="SHE">She</W> 
+<W FEAT="V" ID="2" KSNAME="HOPE1" LEMMA="HOPE" WN21="2:37:01::">hopes</W> 
+<W FEAT="CONJ" ID="3" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="A" ID="4" KSNAME="ALL1" LEMMA="ALL">all</W> 
+<W FEAT="V" ID="5" KSNAME="WILL1" LEMMA="WILL">will</W> 
+<W FEAT="V" ID="6" KSNAME="SUPPORT2" LEMMA="SUPPORT" UNL="support(icl&gt;help&gt;do,agt&gt;thing,obj&gt;person,met&gt;thing,scn&gt;uw)" DEF="GIVE MORAL OR PSYCHOLOGICAL SUPPORT" TRANS="поддерживать" WN21="2:41:00::">support</W> 
+<W FEAT="ART" ID="7" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="8" KSNAME="CONTESTANT" LEMMA="CONTESTANT">contestants</W> 
+<W ID="9">from</W> 
+<W FEAT="A" ID="10" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="A" ID="11" KSNAME="OWN1" LEMMA="OWN">own</W> 
+<W FEAT="S SG" ID="12" KSNAME="COMMUNITY" LEMMA="COMMUNITY">community</W> 
+<W ID="13">by</W> 
+<W FEAT="V" ID="14" KSNAME="ATTEND" LEMMA="ATTEND" UNL="attend(icl&gt;go_to&gt;do,agt&gt;person,obj&gt;place)" DEF="rus:быть где-нибудь в данное время" TRANS="присутствовать" WN21="2:42:00::">attending</W> 
+<W FEAT="A" ID="15" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S PL" ID="16" KSNAME="PAGEANT" LEMMA="PAGEANT">Pageants</W> 
+<W FEAT="CONJ" ID="17" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="ART" ID="18" KSNAME="THE" LEMMA="THE">the</W> 
+<W GRP="19,20,21" ID="19">State</W> 
+<W GRP="19,20,21" ID="20">Pageant</W> 
+<W GRP="19,20,21" ID="21">June</W> 
+<W FEAT="NUM" ID="22" KSNAME="NUM-LARGE" LEMMA="17">17</W>; 
+<W FEAT="CONJ" ID="23" KSNAME="AND" LEMMA="AND">And</W> 
+<W ID="24">now</W>, 
+<W ID="25">therefore</W>, 
+<W FEAT="V" ID="26" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S" ID="27" KSNAME="I" LEMMA="I">I</W>, 
+<W GRP="28,29,30" ID="28">John</W> 
+<W GRP="28,29,30" ID="29">A</W> 
+<W GRP="28,29,30" ID="30">Notte</W>, 
+<W ID="31">Jr</W>, 
+<W FEAT="S SG" ID="32" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="33">of</W> 
+<W FEAT="ART" ID="34" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="35">State</W> 
+<W ID="36">of</W> 
+<W FEAT="S SG" ID="37" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="38" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="39">Providence</W> 
+<W FEAT="S PL" ID="40" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="41" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="43" KSNAME="WEEK" LEMMA="WEEK">week</W> 
+<W ID="44">of</W> 
+<W FEAT="S SG" ID="45" KSNAME="FICT-LEX" LEMMA="JUNE">June</W> 
+<W FEAT="NUM" ID="46" KSNAME="NUM-LARGE" LEMMA="11">11</W> 
+<W FEAT="A" ID="47" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W> 
+<W ID="48">to</W> 
+<W FEAT="NUM" ID="49" KSNAME="NUM-LARGE" LEMMA="17">17</W> 
+<W FEAT="A" ID="50" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W>, 
+<W FEAT="NUM" ID="51" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="52" KSNAME="AS1" LEMMA="AS">as</W> 
+<W ID="53">Miss</W> 
+<W FEAT="S SG" ID="54" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W DOM="56" FEAT="S" GRP="55,56" ID="55" KSNAME="PAGEANT" LEMMA="PAGEANT" LINK="compos">Pageant</W> 
+<W FEAT="S" GRP="55,56" ID="56" KSNAME="WEEK" LEMMA="WEEK">Week</W>, 
+<W ID="57">with</W> 
+<W FEAT="A" ID="58" KSNAME="DEEP1" LEMMA="DEEP">deep</W> 
+<W FEAT="S SG" ID="59" KSNAME="APPRECIATION" LEMMA="APPRECIATION">appreciation</W> 
+<W ID="60">to</W> 
+<W FEAT="ART" ID="61" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="62">Jaycees</W>, 
+<W FEAT="A" ID="63" KSNAME="LOCAL1" LEMMA="LOCAL">local</W> 
+<W FEAT="CONJ" ID="64" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="65">statewide</W>, 
+<W ID="66">for</W> 
+<W FEAT="ART" ID="67" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="68" KSNAME="PRESENTATION" LEMMA="PRESENTATION">presentation</W> 
+<W ID="69">of</W> 
+<W FEAT="A" ID="70" KSNAME="THEIR" LEMMA="THEIR">their</W> 
+<W FEAT="A" ID="71" KSNAME="BEAUTIFUL" LEMMA="BEAUTIFUL">beautiful</W> 
+<W FEAT="S PL" ID="72" KSNAME="PAGEANT" LEMMA="PAGEANT">Pageants</W> 
+<W FEAT="CONJ" ID="73" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="ART" ID="74" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="75" KSNAME="ENCOURAGEMENT" LEMMA="ENCOURAGEMENT">encouragement</W> 
+<W ID="76">of</W> 
+<W FEAT="A" ID="77" KSNAME="ALL1" LEMMA="ALL">all</W> 
+<W FEAT="S SG" ID="78" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="S PL" ID="79" KSNAME="GIRL" LEMMA="GIRL">girls</W> 
+<W FEAT="PART" ID="80" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="81" KSNAME="PARTICIPATE" LEMMA="PARTICIPATE" UNL="participate(icl&gt;take_part&gt;do,tmf&gt;thing,tmt&gt;thing,agt&gt;volitional_thing,scn&gt;thing)" DEF="BECOME A PARTICIPANT" TRANS="участвовать" WN21="2:33:00::">participate</W>. 
+</S>
+<S DATE="30 11 2010 10:48:35" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="33" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;33">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;displace&gt;do,agt&gt;thing,obj&gt;thing,plc&gt;uw)" DEF="PUT INTO A CERTAIN PLACE" TRANS="ставить" WN21="2:35:00::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="11">11</W> 
+<W FEAT="A" ID="22" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W FEAT="S SG" ID="25" KSNAME="FICT-LEX" LEMMA="JUNE">June</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W>, 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">of</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="SIXTH1" LEMMA="SIXTH">sixth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:35" ID="34" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;34" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">Governor</W>. 
+</S>
+<S DATE="30 11 2010 10:48:35" ID="35" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;35" STATUS="doubt">
+<W DOM="20" EXTRAFEAT="CAP" FEAT="PR" GRP="1,2,3,4" HYPOT="adverb.02" ID="1" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">For</W> 
+<W DOM="3" FEAT="ART" GRP="1,2,3,4" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="1" FEAT="S SG" GRP="1,2,3,4" HYPOT="prepos.01" ID="3" KSNAME="PURPOSE1" LEMMA="PURPOSE" LINK="prepos" PAFT=" ">purpose</W> 
+<W DOM="3" FEAT="PR" GRP="1,2,3,4" HYPOT="1-compl.07" ID="4" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="4" FEAT="V ING" HYPOT="prepos.01" ID="5" KSNAME="MAINTAIN" LEMMA="MAINTAIN" LINK="prepos" PAFT=" ">maintaining</W> 
+<W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="INTERNATIONAL1" LEMMA="INTERNATIONAL" LINK="modif" PAFT=" ">international</W> 
+<W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="PEACE" LEMMA="PEACE" LINK="1-compl" PAFT=" ">peace</W> 
+<W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="8" FEAT="V ING" HYPOT="coord-conj.10" ID="9" KSNAME="PROMOTE" LEMMA="PROMOTE" LINK="coord-conj" PAFT=" " UNL="promote(icl&gt;encourage&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="CONTRIBUTE TO THE PROGRESS OR GROWTH OF" TRANS="поощрять">promoting</W> 
+<W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="ADVANCEMENT" LEMMA="ADVANCEMENT" LINK="1-compl" PAFT=" ">advancement</W> 
+<W DOM="11" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
+<W DOM="12" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="PEOPLE2" LEMMA="PEOPLE" LINK="prepos" PAFT=", ">people</W>, 
+<W DOM="17" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="16,17,18,19" HYPOT="modif.01" ID="16" KSNAME="UNITE" LEMMA="UNITE" LINK="modif" PAFT=" ">United</W> 
+<W DOM="20" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="16,17,18,19" HYPOT="predic.01" ID="17" KSNAME="STATE3" LEMMA="STATE" LINK="predic" PAFT=" ">States</W> 
+<W DOM="17" FEAT="PR" GRP="16,17,18,19" HYPOT="quasiagent.10" ID="18" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" GRP="16,17,18,19" HYPOT="prepos.01" ID="19" KSNAME="AMERICA" LEMMA="AMERICA" LINK="prepos" PAFT=" ">America</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="20" KSNAME="JOIN1" LEMMA="JOIN" PAFT=" ">joined</W> 
+<W DOM="20" FEAT="ADV" HYPOT="phras-junct.10" ID="21" KSNAME="IN2" LEMMA="IN" LINK="phras-junct" PAFT=" ">in</W> 
+<W DOM="20" FEAT="V ING" HYPOT="1-compl.01" ID="22" KSNAME="FOUND1" LEMMA="FOUND" LINK="1-compl" PAFT=" " UNL="found(icl&gt;open&gt;do,equ&gt;establish,agt&gt;volitional_thing,obj&gt;organization)" DEF="SET UP OR START" TRANS="учреждать,основывать">founding</W> 
+<W DOM="25" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="25" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="24,25" HYPOT="modif.01" ID="24" KSNAME="UNITE" LEMMA="UNITE" LINK="modif" PAFT=" ">United</W> 
+<W DOM="22" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="24,25" HYPOT="1-compl.01" ID="25" KSNAME="NATION" LEMMA="NATION" LINK="1-compl" PAFT=". ">Nations</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="36" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;36" STATUS="doubt">
+<W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="2,3" HYPOT="modif.01" ID="2" KSNAME="UNITE" LEMMA="UNITE" LINK="modif" PAFT=" ">United</W> 
+<W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="2,3" HYPOT="predic.01" ID="3" KSNAME="NATION" LEMMA="NATION" LINK="predic" PAFT=" ">Nations</W> 
+<W DOM="_root" EXTRAFEAT="CAP CAPIT QFIN" FEAT="V MF" ID="4" KSNAME="CHARTER2" LEMMA="CHARTER" MSNAME="CHARTER2" PAFT=" ">Charter</W> 
+<W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="5" KSNAME="SET1" LEMMA="SET" LINK="fictit" PAFT=" " UNL="set_forth(icl&gt;tell&gt;do,agt&gt;person,obj&gt;thing)" DEF="STATE" TRANS="излагать">sets</W> 
+<W DOM="5" FEAT="ADV" HYPOT="phras-junct.10" ID="6" KSNAME="FORTH1" LEMMA="FORTH" LINK="phras-junct" PAFT=" ">forth</W> 
+<W DOM="12" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="STANDARD1" LEMMA="STANDARD" LINK="predic" PAFT=" ">standards</W> 
+<W DOM="13" FEAT="S SG" HYPOT="1-compl.03" ID="8" KSNAME="WHICH1" LEMMA="WHICH" LINK="1-compl" MSNAME="WHICH1" PAFT=", ">which</W>, 
+<W DOM="4" FEAT="CONJ" ID="9" KSNAME="IF" LEMMA="IF" LINK="fictit" PAFT=" ">if</W> 
+<W DOM="9" FEAT="V PP" HYPOT="absol-conj.10" ID="10" KSNAME="ADHERE" LEMMA="ADHERE" LINK="absol-conj" PAFT=" " UNL="adhere(icl&gt;match&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="">adhered</W> 
+<W DOM="4" FEAT="PART" ID="11" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=", ">to</W>, 
+<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="relat.01" ID="12" KSNAME="WILL1" LEMMA="WILL" LINK="relat" MSNAME="WILL1" PAFT=" ">will</W> 
+<W DOM="12" FEAT="V MF" HYPOT="analyt.13" ID="13" KSNAME="PROMOTE" LEMMA="PROMOTE" LINK="analyt" PAFT=" " UNL="promote(icl&gt;encourage&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="CONTRIBUTE TO THE PROGRESS OR GROWTH OF" TRANS="поощрять">promote</W> 
+<W DOM="7" FEAT="S SG" HYPOT="coordin.01" ID="14" KSNAME="PEACE" LEMMA="PEACE" LINK="coordin" PAFT=" ">peace</W> 
+<W DOM="14" FEAT="CONJ" HYPOT="coordin.10" ID="15" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="15" FEAT="S SG" HYPOT="coord-conj.10" ID="16" KSNAME="JUSTICE" LEMMA="JUSTICE" LINK="coord-conj" PAFT=" ">justice</W> 
+<W DOM="16" FEAT="PR" GRP="17,18,19" HYPOT="attrib.01" ID="17" KSNAME="THROUGHOUT1" LEMMA="THROUGHOUT" LINK="attrib" PAFT=" ">throughout</W> 
+<W DOM="19" FEAT="ART" GRP="17,18,19" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="17" FEAT="S SG" GRP="17,18,19" HYPOT="prepos.01" ID="19" KSNAME="WORLD" LEMMA="WORLD" LINK="prepos" PAFT=". ">world</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="37" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;37" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
+<W DOM="4" FEAT="ADV" HYPOT="restr.12" ID="3" KSNAME="EXTREMELY" LEMMA="EXTREMELY" LINK="restr" PAFT=" ">extremely</W> 
+<W DOM="2" FEAT="A" HYPOT="copulat.11" ID="4" KSNAME="IMPORTANT" LEMMA="IMPORTANT" LINK="copulat" PAFT=" ">important</W> 
+<W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
+<W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="prepos" PAFT=" ">American</W> 
+<W DOM="7" FEAT="PART" HYPOT="attrib.15" ID="8" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
+<W DOM="8" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="REALIZE" LEMMA="REALIZE" LINK="prepos" PAFT=" ">realize</W> 
+<W DOM="9" FEAT="CONJ" HYPOT="1-compl.21" ID="10" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
+<W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="12" KSNAME="THEME" LEMMA="THEME" LINK="predic" PAFT=" &quot;">theme</W> 
+"<W DOM="15" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="ART" GRP="13,14,15,16,17,18" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="15" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="V PP" GRP="13,14,15,16,17,18" HYPOT="modif.01" ID="14" KSNAME="UNITE" LEMMA="UNITE" LINK="modif" PAFT=" ">United</W> 
+<W DOM="12" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S PL" GRP="13,14,15,16,17,18" HYPOT="appos.04" ID="15" KSNAME="NATION" LEMMA="NATION" LINK="appos" PAFT=" ">Nations</W> 
+<W DOM="10" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS SG TP" GRP="13,14,15,16,17,18" HYPOT="subord-conj.10" ID="16" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
+<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="13,14,15,16,17,18" HYPOT="determ.13" ID="17" KSNAME="YOUR" LEMMA="YOUR" LINK="determ" PAFT=" ">your</W> 
+<W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="13,14,15,16,17,18" HYPOT="predic.01" ID="18" KSNAME="BUSINESS" LEMMA="BUSINESS" LINK="predic" PAFT="&quot; ">business</W>" 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="19" KSNAME="APPLY" LEMMA="APPLY" LINK="fictit" PAFT=" " UNL="apply(icl&gt;refer&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="BE PERTINENT OR RELEVANT" TRANS="иметь отношение,относиться">applies</W> 
+<W DOM="19" FEAT="PR" HYPOT="2-compl.02" ID="20" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
+<W DOM="20" FEAT="S OBJ SG" HYPOT="prepos.01" ID="21" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=" ">him</W> 
+<W DOM="19" FEAT="ADV" HYPOT="adverb.01" ID="22" KSNAME="PERSONALLY" LEMMA="PERSONALLY" LINK="adverb" PAFT=". ">personally</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="38" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;38" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="WORLD" LEMMA="WORLD" LINK="predic" PAFT=" ">world</W> 
+<W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="DESPERATELY" LEMMA="DESPERATELY" LINK="adverb" PAFT=" ">desperately</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="NEED1" LEMMA="NEED" PAFT=" " UNL="need(icl&gt;require&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="REQUIRE SMTH AS JUST OR PROPER" TRANS="требовать">needs</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="V PP" GRP="6,7" HYPOT="modif.01" ID="6" KSNAME="UNITE" LEMMA="UNITE" LINK="modif" PAFT=" ">United</W> 
+<W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="6,7" HYPOT="1-compl.01" ID="7" KSNAME="NATION" LEMMA="NATION" LINK="1-compl" PAFT=". ">Nations</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="39" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;39">
+<W DOM="2" FEAT="V" GRP="1,2" ID="1" KSNAME="UNITE" LEMMA="UNITE" LINK="modif">United</W> 
+<W FEAT="S" GRP="1,2" ID="2" KSNAME="NATION" LEMMA="NATION">Nations</W> 
+<W FEAT="S SG" ID="3" KSNAME="FICT-LEX" LEMMA="DAY">Day</W> 
+<W FEAT="V" ID="4" KSNAME="BE" LEMMA="BE" UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть" WN21="2:42:07::">is</W> 
+<W FEAT="ART" ID="5" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="6" KSNAME="BIRTHDAY" LEMMA="BIRTHDAY">birthday</W> 
+<W ID="7">of</W> 
+<W FEAT="ART" ID="8" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="10" FEAT="V" GRP="9,10" ID="9" KSNAME="UNITE" LEMMA="UNITE" LINK="modif">United</W> 
+<W FEAT="S" GRP="9,10" ID="10" KSNAME="NATION" LEMMA="NATION">Nations</W>, 
+<W FEAT="S POSS" ID="11" KSNAME="MANKIND" LEMMA="MANKIND">mankind's</W> 
+<W FEAT="A SUP" ID="12" KSNAME="NOBLE1" LEMMA="NOBLE">noblest</W> 
+<W FEAT="S SG" ID="13" KSNAME="ATTEMPT1" LEMMA="ATTEMPT">attempt</W> 
+<W FEAT="PART" ID="14" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="15" KSNAME="ESTABLISH" LEMMA="ESTABLISH" WN21="2:36:00::">establish</W> 
+<W FEAT="A" ID="16" KSNAME="LASTING1" LEMMA="LASTING">lasting</W> 
+<W FEAT="S SG" ID="17" KSNAME="PEACE" LEMMA="PEACE">peace</W> 
+<W ID="18">with</W> 
+<W FEAT="S SG" ID="19" KSNAME="JUSTICE" LEMMA="JUSTICE">justice</W>; 
+<W FEAT="CONJ" ID="20" KSNAME="AND" LEMMA="AND">And</W> 
+<W ID="21">now</W>, 
+<W ID="22">therefore</W>, 
+<W FEAT="V" ID="23" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S" ID="24" KSNAME="I" LEMMA="I">I</W>, 
+<W GRP="25,26,27" ID="25">John</W> 
+<W GRP="25,26,27" ID="26">A</W> 
+<W GRP="25,26,27" ID="27">Notte</W>, 
+<W ID="28">Jr</W>, 
+<W FEAT="S SG" ID="29" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="30">of</W> 
+<W FEAT="ART" ID="31" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="32">State</W> 
+<W ID="33">of</W> 
+<W FEAT="S SG" ID="34" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="35" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="36">Providence</W> 
+<W FEAT="S PL" ID="37" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="38" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="S SG" ID="39" KSNAME="FICT-LEX" LEMMA="TUESDAY">Tuesday</W>, 
+<W FEAT="S SG" ID="40" KSNAME="FICT-LEX" LEMMA="OCTOBER">October</W> 
+<W FEAT="NUM" ID="41" KSNAME="NUM-LARGE" LEMMA="24">24</W> 
+<W FEAT="A" ID="42" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W>, 
+<W FEAT="NUM" ID="43" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="44" KSNAME="AS1" LEMMA="AS">as</W> 
+<W DOM="46" FEAT="V" GRP="45,46" ID="45" KSNAME="UNITE" LEMMA="UNITE" LINK="modif">United</W> 
+<W FEAT="S" GRP="45,46" ID="46" KSNAME="NATION" LEMMA="NATION">Nations</W> 
+<W FEAT="S SG" ID="47" KSNAME="FICT-LEX" LEMMA="DAY">Day</W>, 
+<W GRP="48,49" ID="48" WN21="2:32:00::">calling</W> 
+<W GRP="48,49" ID="49" WN21="2:32:00::">upon</W> 
+<W FEAT="A" ID="50" KSNAME="ALL1" LEMMA="ALL">all</W> 
+<W FEAT="A" ID="51" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S PL" ID="52" KSNAME="CITIZEN" LEMMA="CITIZEN">citizens</W> 
+<W FEAT="PART" ID="53" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="54" KSNAME="ENGAGE" LEMMA="ENGAGE" UNL="engage(icl&gt;act&gt;do,equ&gt;participate,agt&gt;thing,obj&gt;thing)" DEF="PARTICIPATE IN AN ACTIVITY" TRANS="включаться" WN21="2:41:06::">engage</W> 
+<W ID="55">in</W> 
+<W FEAT="A" ID="56" KSNAME="APPROPRIATE1" LEMMA="APPROPRIATE">appropriate</W> 
+<W FEAT="S PL" ID="57" KSNAME="OBSERVANCE" LEMMA="OBSERVANCE">observances</W>, 
+<W FEAT="V" ID="58" KSNAME="DEMONSTRATE" LEMMA="DEMONSTRATE" UNL="demonstrate(icl&gt;show&gt;do,equ&gt;exhibit,agt&gt;thing,obj&gt;uw,rec&gt;thing)" DEF="MAKE A PUBLIC DEMONSTRATION" TRANS="показывать,демонстрировать" WN21="2:39:01::">demonstrating</W> 
+<W FEAT="S SG" ID="59" KSNAME="FAITH" LEMMA="FAITH">faith</W> 
+<W ID="60">in</W> 
+<W FEAT="ART" ID="61" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="63" FEAT="V" GRP="62,63" ID="62" KSNAME="UNITE" LEMMA="UNITE" LINK="modif">United</W> 
+<W FEAT="S" GRP="62,63" ID="63" KSNAME="NATION" LEMMA="NATION">Nations</W> 
+<W FEAT="CONJ" ID="64" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="65">thereby</W> 
+<W FEAT="V" ID="66" KSNAME="CONTRIBUTE" LEMMA="CONTRIBUTE" WN21="2:40:01::">contributing</W> 
+<W ID="67">to</W> 
+<W FEAT="ART" ID="68" KSNAME="AN1" LEMMA="AN">a</W> 
+<W FEAT="A COMP" ID="69" KSNAME="GOOD1" LEMMA="GOOD">better</W> 
+<W FEAT="S SG" ID="70" KSNAME="UNDERSTANDING" LEMMA="UNDERSTANDING">understanding</W> 
+<W ID="71">of</W> 
+<W FEAT="ART" ID="72" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S" ID="73" KSNAME="AIM1" LEMMA="AIM">aims</W> 
+<W ID="74">of</W> 
+<W FEAT="ART" ID="75" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="77" FEAT="V" GRP="76,77" ID="76" KSNAME="UNITE" LEMMA="UNITE" LINK="modif">United</W> 
+<W FEAT="S" GRP="76,77" ID="77" KSNAME="NATION" LEMMA="NATION">Nations</W> 
+<W ID="78">throughout</W> 
+<W FEAT="ART" ID="79" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="80" KSNAME="LAND1" LEMMA="LAND">land</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="40" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;40">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;displace&gt;do,agt&gt;thing,obj&gt;thing,plc&gt;uw)" DEF="PUT INTO A CERTAIN PLACE" TRANS="ставить" WN21="2:35:00::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="5">5</W> 
+<W FEAT="A" ID="22" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN">th</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W FEAT="S SG" ID="25" KSNAME="FICT-LEX" LEMMA="JULY">July</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W>, 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">of</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="SIXTH1" LEMMA="SIXTH">sixth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="41" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;41" STATUS="doubt">
+<W DOM="_root" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">governor</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Some punctuation marks are not confirmed" ID="42" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;42" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="BALLET" LEMMA="BALLET" LINK="predic" PAFT=" ">ballet</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="3,4" ID="3" KSNAME="ORIGINATE" LEMMA="ORIGINATE" PAFT=" ">originated</W> 
+<W DOM="3" FEAT="PR" GRP="3,4" HYPOT="adverb.02" ID="4" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="ITALY" LEMMA="ITALY" LINK="prepos" PAFT=" ">Italy</W> 
+<W DOM="3" FEAT="PR" HYPOT="1-compl.01" ID="6" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="1-compl" PAFT=" ">about</W> 
+<W DOM="6" FEAT="NUM SG" HYPOT="prepos.01" ID="7" KSNAME="FRM-YEAR" LEMMA="1450." LINK="prepos" PAFT=". ">1450.</W> 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="43" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;43" STATUS="doubt">
+<W DOM="5" EXTRAFEAT="CAP" FEAT="PR" GRP="1,2,3" HYPOT="adverb.02" ID="1" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">At</W> 
+<W DOM="3" FEAT="A" GRP="1,2,3" HYPOT="determ.13" ID="2" KSNAME="THAT2" LEMMA="THAT" LINK="determ" PAFT=" ">that</W> 
+<W DOM="1" FEAT="S SG" GRP="1,2,3" HYPOT="prepos.01" ID="3" KSNAME="TIME1" LEMMA="TIME" LINK="prepos" PAFT=" ">time</W> 
+<W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">was</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="5" FEAT="S SG" HYPOT="copulat.10" ID="7" KSNAME="SERIES" LEMMA="SERIES" LINK="copulat" PAFT=" ">series</W> 
+<W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="11" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="SOPHISTICATED" LEMMA="SOPHISTICATED" LINK="modif" PAFT=" ">sophisticated</W> 
+<W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="SOCIAL1" LEMMA="SOCIAL" LINK="modif" PAFT=" ">social</W> 
+<W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="DANCE2" LEMMA="DANCE" LINK="prepos" PAFT=" ">dances</W> 
+<W DOM="13" FEAT="A" HYPOT="determ.13" ID="12" KSNAME="WHOSE" LEMMA="WHOSE" LINK="determ" PAFT=" ">whose</W> 
+<W DOM="14" FEAT="S PL" HYPOT="predic.01" ID="13" KSNAME="STEP1" LEMMA="STEP" LINK="predic" PAFT=" ">steps</W> 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="relat.01" ID="14" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">were</W> 
+<W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="15" KSNAME="OFTEN" LEMMA="OFTEN" LINK="adverb" PAFT=" ">often</W> 
+<W DOM="14" FEAT="V PP" HYPOT="pass-anal.10" ID="16" KSNAME="COMBINE1" LEMMA="COMBINE" LINK="pass-anal" PAFT=" " UNL="combine(icl&gt;add&gt;do,equ&gt;compound,cob&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="TO PUT OR ADD TOGETHER SEVERAL INDEPENDENT PARTS" TRANS="объединять">combined</W> 
+<W DOM="16" FEAT="PR" HYPOT="2-compl.02" ID="17" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
+<W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" ">other</W> 
+<W DOM="17" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="STEP1" LEMMA="STEP" LINK="prepos" PAFT=" ">steps</W> 
+<W DOM="19" FEAT="V PP" HYPOT="modif.01" ID="20" KSNAME="DEVISE1" LEMMA="DEVISE" LINK="modif" MSNAME="DEVISE1" PAFT=" " UNL="devise(icl&gt;create_by_mental_act&gt;do,equ&gt;invent,agt&gt;volitional_thing,obj&gt;thing)" DEF="COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT" TRANS="придумывать">devised</W> 
+<W DOM="20" FEAT="PR" HYPOT="agent.10" ID="21" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
+<W DOM="23" FEAT="ART" HYPOT="determ.11" ID="22" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="CHOREOGRAPHER" LEMMA="CHOREOGRAPHER" LINK="prepos" PAFT=". ">choreographer</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Some nodes are not confirmed" ID="44" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;44" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="BALLET" LEMMA="BALLET" LINK="predic" PAFT=" ">Ballet</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="FLOWER2" LEMMA="FLOWER" PAFT=" " UNL="flower(icl&gt;develop&gt;occur,equ&gt;bloom,obj&gt;thing)" DEF="PRODUCE OR YIELD FLOWERS" TRANS="цвести">flowered</W> 
+<W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="3" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="ITALY" LEMMA="ITALY" LINK="prepos" PAFT=" ">Italy</W> 
+<W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="DURING" LEMMA="DURING" LINK="attrib" MSNAME="DURING" PAFT=" ">during</W> 
+<W DOM="9" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="9" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="NEXT1" LEMMA="NEXT" LINK="modif" PAFT=" ">next</W> 
+<W DOM="9" FEAT="NUM" HYPOT="quantit.10" ID="8" KSNAME="HUNDRED1" LEMMA="HUNDRED" LINK="quantit" PAFT=" ">hundred</W> 
+<W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="YEAR" LEMMA="YEAR" LINK="prepos" PAFT=", ">years</W>, 
+<W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="13" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="adverb" PAFT=" ">about</W> 
+<W DOM="11" FEAT="NUM SG" HYPOT="prepos.01" ID="12" KSNAME="FRM-YEAR" LEMMA="1550" LINK="prepos" PAFT=" ">1550</W> 
+<W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="coord-conj.10" ID="13" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">was</W> 
+<W DOM="13" FEAT="V PP" HYPOT="pass-anal.10" ID="14" KSNAME="CARRY" LEMMA="CARRY" LINK="pass-anal" PAFT=" ">carried</W> 
+<W DOM="14" FEAT="PR" HYPOT="3-compl.01" ID="15" KSNAME="TO1" LEMMA="TO" LINK="3-compl" PAFT=" ">to</W> 
+<W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="FRANCE" LEMMA="FRANCE" LINK="prepos" PAFT=" ">France</W> 
+<W DOM="14" FEAT="CONJ" HYPOT="adverb.10" ID="17" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
+<W DOM="20" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="20" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="ITALIAN1" LEMMA="ITALIAN" LINK="modif" PAFT=" ">Italian</W> 
+<W DOM="24" FEAT="S SG" HYPOT="predic.01" ID="20" KSNAME="PRINCESS" LEMMA="PRINCESS" LINK="predic" PAFT=", ">princess</W>, 
+<W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="21" KSNAME="CATHERINE" LEMMA="CATHERINE" LINK="compos" PAFT=" ">Catherine</W> 
+<W DOM="23" FEAT="NID" HYPOT="compos.01" ID="22" KSNAME="FICT-LEX" LEMMA="DE" LINK="compos" PAFT=" ">de</W> 
+<W DOM="24" FEAT="S SG" HYPOT="parenth.20" ID="23" KSNAME="FRM-PROP" LEMMA="MEDICIS" LINK="parenth" PAFT=", ">Medicis</W>, 
+<W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="24" KSNAME="MARRY" LEMMA="MARRY" LINK="subord-conj" PAFT=" " UNL="marry(icl&gt;do,agt&gt;person,cag&gt;person)" DEF="GET MARRIED" TRANS="заключать брак">married</W> 
+<W DOM="26" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="24" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="26" KSNAME="KING2" LEMMA="KING" LINK="1-compl" PAFT=" ">King</W> 
+<W DOM="26" FEAT="PR" HYPOT="attrib.01" ID="27" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
+<W DOM="27" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="28" KSNAME="FRANCE" LEMMA="FRANCE" LINK="prepos" PAFT=". ">France</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Some nodes are not confirmed" ID="45" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;45" STATUS="doubt">
+<W DOM="4" EXTRAFEAT="CAP" FEAT="ART" GRP="1,2" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" FEAT="ADV" GRP="1,2" HYPOT="restr.12" ID="2" KSNAME="MOST" LEMMA="MOST" LINK="restr" PAFT=" ">most</W> 
+<W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="FAMOUS" LEMMA="FAMOUS" LINK="modif" PAFT=" ">famous</W> 
+<W DOM="8" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="BALLET" LEMMA="BALLET" LINK="predic" PAFT=" ">ballet</W> 
+<W DOM="4" FEAT="PR" GRP="5,6" HYPOT="attrib.01" ID="5" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
+<W DOM="7" FEAT="A" GRP="5,6" HYPOT="determ.13" ID="6" KSNAME="THAT2" LEMMA="THAT" LINK="determ" PAFT=" ">that</W> 
+<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="TIME1" LEMMA="TIME" LINK="prepos" PAFT=" ">time</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="8" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
+<W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="CALL2" LEMMA="CALL" LINK="pass-anal" PAFT=" ">called</W> 
+<W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="10,11" HYPOT="compos.01" ID="10" KSNAME="BALLET" LEMMA="BALLET" LINK="compos" PAFT=" ">Ballet</W> 
+<W DOM="12" FEAT="S SG" GRP="10,11" HYPOT="compos.01" ID="11" KSNAME="FRM-PROP" LEMMA="COMIQUE" LINK="compos" PAFT=" ">Comique</W> 
+<W DOM="13" FEAT="NID" HYPOT="compos.01" ID="12" KSNAME="FICT-LEX" LEMMA="DE" LINK="compos" PAFT=" ">de</W> 
+<W DOM="14" FEAT="NID" HYPOT="compos.01" ID="13" KSNAME="FICT-LEX" LEMMA="LA" LINK="compos" PAFT=" ">la</W> 
+<W DOM="9" FEAT="S SG" HYPOT="2-compl.11" ID="14" KSNAME="FRM-PROP" LEMMA="REINE" LINK="2-compl" PAFT=" (">Reine</W>( 
+<W DOM="14" EXTRAFEAT="IN-BR" FEAT="NUM SG" HYPOT="appos.01" ID="15" KSNAME="FRM-YEAR" LEMMA="1581" LINK="appos" PAFT="). ">1581</W>). 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="46" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;46" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="DANCE2" LEMMA="DANCE" LINK="predic" PAFT=" ">Dances</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ALTERNATE1" LEMMA="ALTERNATE" PAFT=" " UNL="alternate(icl&gt;change&gt;occur,obj&gt;thing)" DEF="">alternated</W> 
+<W DOM="2" FEAT="PR" HYPOT="2-compl.02" ID="3" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
+<W DOM="7" FEAT="V PP" HYPOT="modif.01" ID="4" KSNAME="SING" LEMMA="SING" LINK="modif" PAFT=" ">sung</W> 
+<W DOM="4" FEAT="CONJ" HYPOT="coordin.10" ID="5" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
+<W DOM="5" FEAT="V PP" HYPOT="coord-conj.10" ID="6" KSNAME="SPEAK" LEMMA="SPEAK" LINK="coord-conj" PAFT=" ">spoken</W> 
+<W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="7" KSNAME="VERSE" LEMMA="VERSE" LINK="prepos" PAFT=". ">verses</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="47" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;47" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="BALLET" LEMMA="BALLET" LINK="predic" PAFT=" ">Ballets</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="USE2" LEMMA="USE" LINK="pass-anal" PAFT=" ">used</W> 
+<W DOM="3" FEAT="PR" HYPOT="adverb.02" ID="4" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="OPERA1" LEMMA="OPERA" LINK="prepos" PAFT=" ">opera</W> 
+<W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
+<W DOM="8" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BEGINNING" LEMMA="BEGINNING" LINK="prepos" PAFT=". ">beginning</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="48" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;48" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="PLACE2" LEMMA="PLACE" LINK="pass-anal" PAFT=" ">placed</W> 
+<W DOM="2" FEAT="A" HYPOT="subj-copr.10" ID="4" KSNAME="EITHER1" LEMMA="EITHER" LINK="subj-copr" PAFT=" ">either</W> 
+<W DOM="4" FEAT="PR" GRP="5,6,7" HYPOT="attrib.01" ID="5" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
+<W DOM="7" FEAT="ART" GRP="5,6,7" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="5" FEAT="S SG" GRP="5,6,7" HYPOT="prepos.01" ID="7" KSNAME="MIDDLE1" LEMMA="MIDDLE" LINK="prepos" PAFT=" ">middle</W> 
+<W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="ACT1" LEMMA="ACT" LINK="prepos" PAFT=" ">acts</W> 
+<W DOM="5" FEAT="CONJ" HYPOT="coordin.11" ID="11" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
+<W DOM="11" FEAT="PR" HYPOT="coord-conj.10" ID="12" KSNAME="IN1" LEMMA="IN" LINK="coord-conj" PAFT=" ">in</W> 
+<W DOM="14" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="12" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="INTERMISSION" LEMMA="INTERMISSION" LINK="prepos" PAFT=". ">intermissions</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="49" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;49">
+<W FEAT="ART" ID="1" KSNAME="THE" LEMMA="THE">The</W> 
+<W GRP="2,3" ID="2">State</W> 
+<W GRP="2,3" ID="3">Ballet</W> 
+<W ID="4">of</W> 
+<W FEAT="S SG" ID="5" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W>, 
+<W FEAT="ART" ID="6" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" ID="7" KSNAME="FIRST1" LEMMA="FIRST">first</W> 
+<W FEAT="A" ID="8" KSNAME="INCORPORATED" LEMMA="INCORPORATED">incorporated</W> 
+<W FEAT="S SG" ID="9" KSNAME="GROUP1" LEMMA="GROUP">group</W>, 
+<W FEAT="V" ID="10" KSNAME="BE" LEMMA="BE">was</W> 
+<W FEAT="V" ID="11" KSNAME="FORM2" LEMMA="FORM" UNL="form(icl&gt;create&gt;do,equ&gt;organize,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="CREATE AS AN ENTITY" TRANS="формировать" WN21="2:41:00::">formed</W> 
+<W GRP="12,13,14,15" ID="12">for</W> 
+<W GRP="12,13,14,15" ID="13">the</W> 
+<W GRP="12,13,14,15" ID="14">purpose</W> 
+<W GRP="12,13,14,15" ID="15">of</W> 
+<W FEAT="V" ID="16" KSNAME="EXTEND" LEMMA="EXTEND" UNL="extend(icl&gt;do,equ&gt;widen,plt&gt;thing,plf&gt;thing,agt&gt;thing,obj&gt;thing,val&gt;thing)" DEF="EXTEND IN SCOPE OR RANGE OR AREA" TRANS="расширять" WN21="2:30:01::">extending</W> 
+<W FEAT="S SG" ID="17" KSNAME="KNOWLEDGE" LEMMA="KNOWLEDGE">knowledge</W> 
+<W ID="18">of</W> 
+<W FEAT="ART" ID="19" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="20" KSNAME="ART1" LEMMA="ART">art</W> 
+<W ID="21">of</W> 
+<W FEAT="S SG" ID="22" KSNAME="BALLET" LEMMA="BALLET">ballet</W> 
+<W ID="23">in</W> 
+<W FEAT="ART" ID="24" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="25" KSNAME="COMMUNITY" LEMMA="COMMUNITY">Community</W>, 
+<W FEAT="PART" ID="26" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="27" KSNAME="PROMOTE" LEMMA="PROMOTE" UNL="promote(icl&gt;encourage&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="CONTRIBUTE TO THE PROGRESS OR GROWTH OF" TRANS="поощрять" WN21="2:41:01::">promote</W> 
+<W FEAT="S SG" ID="28" KSNAME="INTEREST1" LEMMA="INTEREST">interest</W> 
+<W ID="29">in</W> 
+<W FEAT="S SG" ID="30" KSNAME="BALLET" LEMMA="BALLET">ballet</W> 
+<W FEAT="S PL" ID="31" KSNAME="PERFORMANCE" LEMMA="PERFORMANCE">performances</W>, 
+<W FEAT="PART" ID="32" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="33" KSNAME="CONTRIBUTE" LEMMA="CONTRIBUTE" WN21="2:40:01::">contribute</W> 
+<W ID="34">to</W> 
+<W FEAT="ART" ID="35" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" ID="36" KSNAME="CULTURAL" LEMMA="CULTURAL">cultural</W> 
+<W FEAT="S SG" ID="37" KSNAME="LIFE" LEMMA="LIFE">life</W> 
+<W ID="38">of</W> 
+<W FEAT="ART" ID="39" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="40">State</W>, 
+<W FEAT="CONJ" ID="41" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="PART" ID="42" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="43" KSNAME="PROVIDE" LEMMA="PROVIDE" UNL="provide(icl&gt;equip&gt;do,cob&gt;thing,obj&gt;thing)" DEF="TO EQUIP OR FURNISH WITH" TRANS="снабжать" WN21="2:40:00::">provide</W> 
+<W FEAT="S SG" ID="44" KSNAME="OPPORTUNITY" LEMMA="OPPORTUNITY">opportunity</W> 
+<W ID="45">for</W> 
+<W FEAT="A" ID="46" KSNAME="GIFTED" LEMMA="GIFTED">gifted</W> 
+<W FEAT="S SG" ID="47" KSNAME="DANCE2" LEMMA="DANCE">dance</W> 
+<W FEAT="S PL" ID="48" KSNAME="STUDENT" LEMMA="STUDENT">students</W> 
+<W FEAT="S" ID="49" KSNAME="WHO" LEMMA="WHO">who</W>, 
+<W ID="50">for</W> 
+<W FEAT="NUM" ID="51" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="S SG" ID="52" KSNAME="REASON1" LEMMA="REASON">reason</W> 
+<W FEAT="CONJ" ID="53" KSNAME="OR" LEMMA="OR">or</W> 
+<W FEAT="A" ID="54" KSNAME="ANOTHER1" LEMMA="ANOTHER">another</W>, 
+<W FEAT="V" ID="55" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">are</W> 
+<W FEAT="A" ID="56" KSNAME="UNABLE" LEMMA="UNABLE">unable</W> 
+<W FEAT="PART" ID="57" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="58" KSNAME="PURSUE" LEMMA="PURSUE" UNL="pursue(icl&gt;do,equ&gt;occupy_oneself,agt&gt;person,obj&gt;thing)" DEF="CARRY OUT OR PARTICIPATE IN AN ACTIVITY; BE INVOLVED IN" TRANS="заниматься" WN21="2:41:00::">pursue</W> 
+<W FEAT="ART" ID="59" KSNAME="AN1" LEMMA="AN">a</W> 
+<W FEAT="S SG" ID="60" KSNAME="CAREER" LEMMA="CAREER">career</W> 
+<W FEAT="CONJ" ID="61" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="PART" ID="62" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="63" KSNAME="DEVELOP" LEMMA="DEVELOP" UNL="develop(icl&gt;teach&gt;do,equ&gt;train,agt&gt;thing,obj&gt;thing)" DEF="CREATE BY TRAINING AND TEACHING" TRANS="обучать" WN21="2:31:00::">develop</W> 
+<W FEAT="S PL" ID="64" KSNAME="OTHERS" LEMMA="OTHERS">others</W> 
+<W ID="65">for</W> 
+<W FEAT="ART" ID="66" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" ID="67" KSNAME="PROFESSIONAL1" LEMMA="PROFESSIONAL">professional</W> 
+<W ID="68">state</W>; 
+<W FEAT="CONJ" ID="69" KSNAME="AND" LEMMA="AND">And</W> 
+<W ID="70">now</W>, 
+<W ID="71">therefore</W>, 
+<W FEAT="V" ID="72" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S" ID="73" KSNAME="I" LEMMA="I">I</W>, 
+<W GRP="74,75,76" ID="74">John</W> 
+<W GRP="74,75,76" ID="75">A</W> 
+<W GRP="74,75,76" ID="76">Notte</W>, 
+<W ID="77">Jr</W>, 
+<W FEAT="S SG" ID="78" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="79">of</W> 
+<W FEAT="ART" ID="80" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="81">State</W> 
+<W ID="82">of</W> 
+<W FEAT="S SG" ID="83" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="84" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="85">Providence</W> 
+<W FEAT="S PL" ID="86" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="87" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="ART" ID="88" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="89" KSNAME="WEEK" LEMMA="WEEK">week</W> 
+<W ID="90">of</W> 
+<W FEAT="S SG" ID="91" KSNAME="FICT-LEX" LEMMA="MONDAY">Monday</W>, 
+<W FEAT="S SG" ID="92" KSNAME="FICT-LEX" LEMMA="NOVEMBER">November</W> 
+<W FEAT="NUM" ID="93" KSNAME="NUM-LARGE" LEMMA="13">13</W>, 
+<W FEAT="NUM" ID="94" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="95" KSNAME="AS1" LEMMA="AS">as</W> 
+<W FEAT="ART" ID="96" KSNAME="THE" LEMMA="THE">the</W> 
+<W GRP="97,98" ID="97">State</W> 
+<W GRP="97,98" ID="98">Ballet</W> 
+<W ID="99">of</W> 
+<W FEAT="S SG" ID="100" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="S SG" ID="101" KSNAME="FICT-LEX" LEMMA="WEEK">Week</W>, 
+<W FEAT="V" ID="102" KSNAME="REQUEST2" LEMMA="REQUEST" UNL="request(icl&gt;communicate&gt;do,agt&gt;volitional_thing,obj&gt;thing)" DEF="EXPRESS THE NEED OR DESIRE FOR" TRANS="просить" WN21="2:32:01::">requesting</W> 
+<W FEAT="A" ID="103" KSNAME="ALL1" LEMMA="ALL">all</W> 
+<W FEAT="S" ID="104" KSNAME="RHODE$ISLANDER" LEMMA="RHODE$ISLANDER">Rhode Islanders</W> 
+<W FEAT="PART" ID="105" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="106" KSNAME="GIVE" LEMMA="GIVE" WN21="2:32:01::">give</W> 
+<W FEAT="A" ID="107" KSNAME="SPECIAL" LEMMA="SPECIAL">special</W> 
+<W FEAT="S SG" ID="108" KSNAME="ATTENTION" LEMMA="ATTENTION">attention</W> 
+<W ID="109">to</W> 
+<W FEAT="A" ID="110" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="A" ID="111" KSNAME="UNUSUAL" LEMMA="UNUSUAL">unusual</W> 
+<W FEAT="S SG" ID="112" KSNAME="EVENT" LEMMA="EVENT">event</W> 
+<W FEAT="S" ID="113" KSNAME="WHICH1" LEMMA="WHICH">which</W> 
+<W FEAT="V" ID="114" KSNAME="SHOULD" LEMMA="SHOULD">should</W> 
+<W FEAT="V" ID="115" KSNAME="CONTRIBUTE" LEMMA="CONTRIBUTE" WN21="2:40:01::">contribute</W> 
+<W ID="116">to</W> 
+<W FEAT="ART" ID="117" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="A" ID="118" KSNAME="CULTURAL" LEMMA="CULTURAL">cultural</W> 
+<W FEAT="S SG" ID="119" KSNAME="LIFE" LEMMA="LIFE">life</W> 
+<W ID="120">of</W> 
+<W FEAT="ART" ID="121" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="122">State</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="50" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;50">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;do,equ&gt;determine,agt&gt;thing,obj&gt;thing)" DEF="FIX CONCLUSIVELY OR AUTHORITATIVELY" TRANS="устанавливать" WN21="2:31:04::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="23">23</W> 
+<W FEAT="COM" ID="22" KSNAME="FICT-COM" LEMMA="FICT-COM">d</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W FEAT="S SG" ID="25" KSNAME="FICT-LEX" LEMMA="OCTOBER">October</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W>, 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">of</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="SIXTH1" LEMMA="SIXTH">sixth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:36" ID="51" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;51" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">Governor</W>. 
+</S>
+<S DATE="30 11 2010 10:48:37" EXTRACOMM="Tagging contradicts ETAP parsing: US - WE" ID="52" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;52" STATUS="doubt">
+<W DOM="6" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">As</W> 
+<W DOM="3" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" ">another</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="THANKSGIVING" LEMMA="THANKSGIVING" LINK="predic" PAFT=" ">Thanksgiving</W> 
+<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" GRP="4,5" HYPOT="subord-conj.10" ID="4" KSNAME="DRAW1" LEMMA="DRAW" LINK="subord-conj" PAFT=" ">draws</W> 
+<W DOM="4" FEAT="A" GRP="4,5" HYPOT="subj-copr.01" ID="5" KSNAME="NEAR2" LEMMA="NEAR" LINK="subj-copr" PAFT=", ">near</W>, 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="6" KSNAME="LET" LEMMA="LET" PAFT=" ">let</W> 
+<W DOM="6" FEAT="S OBJ PL" HYPOT="2-compl.10" ID="7" KSNAME="WE" LEMMA="WE" LINK="2-compl" PAFT=" ">us</W> 
+<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="TAKE" LEMMA="TAKE" LINK="1-compl" PAFT=" ">take</W> 
+<W DOM="10" FEAT="S SG" GRP="9,10" HYPOT="compos.01" ID="9" KSNAME="TIME1" LEMMA="TIME" LINK="compos" PAFT=" ">time</W> 
+<W DOM="8" FEAT="S SG" GRP="9,10" HYPOT="1-compl.01" ID="10" KSNAME="OUT4" LEMMA="OUT" LINK="1-compl" PAFT=" ">out</W> 
+<W DOM="6" FEAT="PR" ID="11" KSNAME="FROM" LEMMA="FROM" LINK="fictit" PAFT=" ">from</W> 
+<W DOM="6" FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="15" FEAT="ADV" HYPOT="adverb.01" ID="13" KSNAME="OFTEN" LEMMA="OFTEN" LINK="adverb" PAFT=" ">often</W> 
+<W DOM="15" FEAT="A" HYPOT="predic.01" ID="14" KSNAME="HECTIC1" LEMMA="HECTIC" LINK="predic" PAFT=" ">hectic</W> 
+<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="15" KSNAME="PACE2" LEMMA="PACE" LINK="fictit" PAFT=" ">pace</W> 
+<W DOM="6" FEAT="PR" ID="16" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
+<W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="16" FEAT="S PL" HYPOT="prepos.01" ID="18" KSNAME="LIFE" LEMMA="LIFE" LINK="prepos" PAFT=" ">lives</W> 
+<W DOM="18" FEAT="PART" HYPOT="attrib.15" ID="19" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
+<W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="TRY1" LEMMA="TRY" LINK="prepos" PAFT=" " UNL="try(icl&gt;attempt&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE AN EFFORT OR ATTEMPT" TRANS="пытаться">try</W> 
+<W DOM="20" FEAT="CONJ" HYPOT="coordin.13" ID="21" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="22" KSNAME="RECAPTURE1" LEMMA="RECAPTURE" LINK="coord-conj" MSNAME="RECAPTURE1" PAFT=" " UNL="recapture(icl&gt;feel&gt;do,agt&gt;volitional_thing,obj&gt;thing,met&gt;thing)" DEF="">recapture</W> 
+<W DOM="24" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="22" FEAT="S PL" HYPOT="1-compl.01" ID="24" KSNAME="FEELING" LEMMA="FEELING" LINK="1-compl" PAFT=" ">feelings</W> 
+<W DOM="26" FEAT="S SG" HYPOT="predic.01" ID="25" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
+<W DOM="24" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="26" KSNAME="FILL1" LEMMA="FILL" LINK="relat" PAFT=" " UNL="fill(icl&gt;cause&gt;do,equ&gt;make_full,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="MAKE FULL, ALSO IN A METAPHORICAL SENSE" TRANS="наполнять">filled</W> 
+<W DOM="28" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="26" FEAT="S PL" HYPOT="1-compl.01" ID="28" KSNAME="HEART" LEMMA="HEART" LINK="1-compl" PAFT=" ">hearts</W> 
+<W DOM="28" FEAT="PR" HYPOT="quasiagent.10" ID="29" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="31" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="29" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="prepos.01" ID="31" KSNAME="PILGRIM" LEMMA="PILGRIM" LINK="prepos" PAFT=" ">Pilgrims</W> 
+<W DOM="31" FEAT="PR" HYPOT="attrib.01" ID="32" KSNAME="ON1" LEMMA="ON" LINK="attrib" PAFT=" ">on</W> 
+<W DOM="35" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="35" FEAT="A" HYPOT="modif.01" ID="34" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" ">first</W> 
+<W DOM="32" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="35" KSNAME="THANKSGIVING" LEMMA="THANKSGIVING" LINK="prepos" PAFT=". ">Thanksgiving</W>. 
+</S>
+<S DATE="30 11 2010 10:48:37" ID="53" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;53" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="PILGRIM" LEMMA="PILGRIM" LINK="predic" PAFT=" ">Pilgrims</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="GATHER1" LEMMA="GATHER" PAFT=" " UNL="gather(icl&gt;do,equ&gt;accumulate,plf&gt;thing,agt&gt;thing,obj&gt;thing,plc&gt;thing)" DEF="CONTINUALLY ACCUMULATE IN ONE PLACE" TRANS="собирать">gathered</W> 
+<W DOM="3" FEAT="PART" HYPOT="adverb.11" ID="4" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
+<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="THANK1" LEMMA="THANK" LINK="prepos" PAFT=" " UNL="thank(icl&gt;express_gratitude&gt;do,rsn&gt;uw,agt&gt;person,obj&gt;person)" DEF="EXPRESS GRATITUDE OR SHOW APPRECIATION TO" TRANS="благодарить">thank</W> 
+<W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="LORD" LEMMA="LORD" LINK="1-compl" PAFT=" ">Lord</W> 
+<W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
+<W DOM="10" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">His</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="BENEVOLENCE" LEMMA="BENEVOLENCE" LINK="prepos" PAFT=" ">benevolence</W> 
+<W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="DURING" LEMMA="DURING" LINK="attrib" MSNAME="DURING" PAFT=" ">during</W> 
+<W DOM="14" FEAT="A" HYPOT="determ.13" ID="12" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
+<W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" ">first</W> 
+<W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="YEAR" LEMMA="YEAR" LINK="prepos" PAFT=" ">year</W> 
+<W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
+<W DOM="18" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
+<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="LAND1" LEMMA="LAND" LINK="prepos" PAFT=". ">land</W>. 
+</S>
+<S DATE="30 11 2010 10:48:37" ID="54" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;54" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
+<W DOM="2" FEAT="V PP" HYPOT="analyt.12" ID="3" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
+<W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="THROUGH2" LEMMA="THROUGH" LINK="adverb" PAFT=" ">through</W> 
+<W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="5" KSNAME="TRY1" LEMMA="TRY" LINK="analyt" PAFT=" ">trying</W> 
+<W DOM="5" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="TIME1" LEMMA="TIME" LINK="1-compl" PAFT=", ">times</W>, 
+<W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="7" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
+<W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
+<W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="9" KSNAME="FAITH" LEMMA="FAITH" LINK="predic" PAFT=" ">faith</W> 
+<W DOM="9" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
+<W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="10" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="ALMIGHTY2" LEMMA="ALMIGHTY" LINK="prepos" PAFT=" ">Almighty</W> 
+<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="13" KSNAME="HAVE" LEMMA="HAVE" LINK="coord-conj" PAFT=" ">had</W> 
+<W DOM="13" FEAT="V PP" HYPOT="analyt.12" ID="14" KSNAME="GIVE" LEMMA="GIVE" LINK="analyt" PAFT=" ">given</W> 
+<W DOM="14" FEAT="S OBJ PL" HYPOT="2-compl.10" ID="15" KSNAME="THEY" LEMMA="THEY" LINK="2-compl" PAFT=" ">them</W> 
+<W DOM="17" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="17" KSNAME="COURAGE" LEMMA="COURAGE" LINK="1-compl" PAFT=" ">courage</W> 
+<W DOM="17" FEAT="CONJ" HYPOT="coordin.10" ID="18" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="18" FEAT="S SG" HYPOT="coord-conj.10" ID="20" KSNAME="STRENGTH" LEMMA="STRENGTH" LINK="coord-conj" PAFT=" ">strength</W> 
+<W DOM="17" FEAT="PART" HYPOT="1-compl.15" ID="21" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
+<W DOM="21" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="MEET" LEMMA="MEET" LINK="prepos" PAFT=" " UNL="meet(icl&gt;cope&gt;do,agt&gt;thing,obj&gt;thing)" DEF="SATISFY OR FULFILL" TRANS="отвечать,соответствовать">meet</W> 
+<W DOM="22" FEAT="CONJ" HYPOT="coordin.13" ID="23" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="24" KSNAME="OVERCOME" LEMMA="OVERCOME" LINK="coord-conj" PAFT=" " UNL="overcome(icl&gt;overwhelm&gt;be,obj&gt;person,aoj&gt;emotion)" DEF="OVERCOME, AS WITH EMOTIONS OR PERCEPTUAL STIMULI" TRANS="охватывать">overcome</W> 
+<W DOM="27" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="MANY" LEMMA="MANY" LINK="modif" PAFT=" ">many</W> 
+<W DOM="24" FEAT="S PL" HYPOT="1-compl.01" ID="27" KSNAME="PROBLEM" LEMMA="PROBLEM" LINK="1-compl" PAFT=" ">problems</W> 
+<W DOM="27" FEAT="CONJ" HYPOT="coordin.10" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="28" FEAT="S PL" HYPOT="coord-conj.10" ID="29" KSNAME="DIFFICULTY" LEMMA="DIFFICULTY" LINK="coord-conj" PAFT=" ">difficulties</W> 
+<W DOM="31" FEAT="S SG" HYPOT="predic.01" ID="30" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
+<W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="relat.01" ID="31" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">were</W> 
+<W DOM="33" FEAT="ART" HYPOT="determ.11" ID="32" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="31" FEAT="S SG" HYPOT="copulat.10" ID="33" KSNAME="PRICE1" LEMMA="PRICE" LINK="copulat" PAFT=" ">price</W> 
+<W DOM="35" FEAT="S NOM PL" HYPOT="predic.01" ID="34" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
+<W DOM="33" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="35" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">had</W> 
+<W DOM="35" FEAT="PART" HYPOT="1-compl.15" ID="36" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
+<W DOM="36" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="37" KSNAME="PAY1" LEMMA="PAY" LINK="prepos" PAFT=" " UNL="pay(icl&gt;give_money&gt;do,cob&gt;thing,rsn&gt;thing,agt&gt;volitional_thing,obj&gt;money,rec&gt;thing)" DEF="GIVE MONEY, USUALLY IN EXCHANGE FOR GOODS OR SERVICES" TRANS="платить">pay</W> 
+<W DOM="37" FEAT="PR" HYPOT="3-compl.01" ID="38" KSNAME="FOR1" LEMMA="FOR" LINK="3-compl" PAFT=" ">for</W> 
+<W DOM="38" FEAT="S SG" HYPOT="prepos.01" ID="39" KSNAME="FREEDOM" LEMMA="FREEDOM" LINK="prepos" PAFT=". ">freedom</W>. 
+</S>
+<S DATE="30 11 2010 10:48:38" ID="55" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;55" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="AND" LEMMA="AND" PAFT=" ">And</W> 
+<W DOM="5" FEAT="CONJ" HYPOT="adverb.10" ID="2" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
+<W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="2" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="comp-conj.10" ID="4" KSNAME="PILGRIM" LEMMA="PILGRIM" LINK="comp-conj" PAFT=" ">Pilgrims</W> 
+<W DOM="7" FEAT="V PP" HYPOT="modif.01" ID="5" KSNAME="BOW2" LEMMA="BOW" LINK="modif" PAFT=" ">bowed</W> 
+<W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
+<W DOM="1" FEAT="S PL" ID="7" KSNAME="HEAD1" LEMMA="HEAD" LINK="fictit" PAFT=" ">heads</W> 
+<W DOM="7" FEAT="PR" HYPOT="attrib.01" ID="8" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
+<W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="HUMBLE" LEMMA="HUMBLE" LINK="modif" PAFT=" ">humble</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="GRATITUDE" LEMMA="GRATITUDE" LINK="prepos" PAFT=", ">gratitude</W>, 
+<W DOM="12" FEAT="S NOM PL" HYPOT="predic.01" ID="11" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
+<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.00" ID="12" KSNAME="SHARE1" LEMMA="SHARE" LINK="coord-conj" PAFT=" " UNL="share(icl&gt;be,obj&gt;uw,aoj&gt;thing,ptn&gt;thing)" DEF="HAVE IN COMMON" TRANS="разделять">shared</W> 
+<W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" ">another</W> 
+<W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="14" KSNAME="FEELING" LEMMA="FEELING" LINK="1-compl" PAFT="-">feeling</W>- 
+<W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="1" FEAT="S SG" ID="16" KSNAME="ANTICIPATION" LEMMA="ANTICIPATION" LINK="fictit" PAFT=" ">anticipation</W> 
+<W DOM="16" FEAT="PR" GRP="17,18" HYPOT="1-compl.07" ID="17" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="17" FEAT="S SG" GRP="17,18" HYPOT="prepos.01" ID="18" KSNAME="WHAT1" LEMMA="WHAT" LINK="prepos" PAFT=" ">what</W> 
+<W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="16" FEAT="S SG" HYPOT="attrib.10" ID="20" KSNAME="FUTURE1" LEMMA="FUTURE" LINK="attrib" PAFT=" ">future</W> 
+<W DOM="20" FEAT="V PP" HYPOT="modif.01" ID="21" KSNAME="HOLD1" LEMMA="HOLD" LINK="modif" PAFT=" ">held</W> 
+<W DOM="21" FEAT="PR" HYPOT="2-compl.02" ID="22" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
+<W DOM="22" FEAT="S OBJ PL" HYPOT="prepos.01" ID="23" KSNAME="THEY" LEMMA="THEY" LINK="prepos" PAFT=" ">them</W> 
+<W DOM="23" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="26" FEAT="A" HYPOT="determ.13" ID="25" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
+<W DOM="24" FEAT="S SG" HYPOT="coord-conj.10" ID="26" KSNAME="POSTERITY" LEMMA="POSTERITY" LINK="coord-conj" PAFT=". ">posterity</W>. 
+</S>
+<S DATE="30 11 2010 10:48:38" ID="56" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;56" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">could</W> 
+<W DOM="2" FEAT="ADV" HYPOT="restr.10" ID="3" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
+<W DOM="2" FEAT="V MF" HYPOT="1-compl.17" ID="4" KSNAME="GUESS2" LEMMA="GUESS" LINK="1-compl" PAFT=" " UNL="guess(icl&gt;think&gt;be,obj&gt;uw,aoj&gt;person)" DEF="EXPECT, BELIEVE, OR SUPPOSE" TRANS="полагать">guess</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="THAT3" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
+<W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
+<W DOM="8" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
+<W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="CONCEPT" LEMMA="CONCEPT" LINK="prepos" PAFT=" ">concepts</W> 
+<W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="LIBERTY" LEMMA="LIBERTY" LINK="prepos" PAFT=" ">liberty</W> 
+<W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="11" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
+<W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="12" KSNAME="FREEDOM" LEMMA="FREEDOM" LINK="predic" PAFT=" ">freedom</W> 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="13" KSNAME="WOULD" LEMMA="WOULD" LINK="coord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
+<W DOM="15" FEAT="A" GRP="14,15" HYPOT="determ.13" ID="14" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
+<W DOM="16" FEAT="S SG" GRP="14,15" HYPOT="adverb.04" ID="15" KSNAME="DAY" LEMMA="DAY" LINK="adverb" PAFT=" ">day</W> 
+<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" GRP="16,17" ID="16" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">be</W> 
+<W DOM="2" FEAT="V PP" GRP="16,17" ID="17" KSNAME="BEAR1" LEMMA="BEAR" LINK="fictit" PAFT=" ">born</W> 
+<W DOM="20" FEAT="ART" HYPOT="determ.10" ID="18" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
+<W DOM="2" FEAT="S SG" ID="20" KSNAME="NATION" LEMMA="NATION" LINK="fictit" PAFT=" ">nation</W> 
+<W DOM="17" FEAT="CONJ" HYPOT="1-compl.21" ID="21" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
+<W DOM="24" FEAT="PR" HYPOT="adverb.02" ID="22" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
+<W DOM="22" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="YEAR" LEMMA="YEAR" LINK="prepos" PAFT=" ">years</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="24" KSNAME="WOULD" LEMMA="WOULD" LINK="fictit" MSNAME="WOULD" PAFT=" ">would</W> 
+<W DOM="24" FEAT="V MF" HYPOT="analyt.13" ID="25" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" " UNL="be(icl&gt;be,equ&gt;measure,aoj&gt;thing,val&gt;thing)" DEF="BE PRICED AT" TRANS="составлять,быть">be</W> 
+<W DOM="27" FEAT="ART" HYPOT="determ.11" ID="26" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="25" FEAT="S SG" HYPOT="copulat.10" ID="27" KSNAME="SYMBOL" LEMMA="SYMBOL" LINK="copulat" PAFT=" ">symbol</W> 
+<W DOM="27" FEAT="PR" HYPOT="1-compl.07" ID="28" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
+<W DOM="28" FEAT="S SG" HYPOT="prepos.01" ID="29" KSNAME="HOPE2" LEMMA="HOPE" LINK="prepos" PAFT=" ">hope</W> 
+<W DOM="29" FEAT="PR" HYPOT="attrib.01" ID="30" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
+<W DOM="33" FEAT="ART" HYPOT="determ.11" ID="31" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="33" FEAT="V PP" HYPOT="modif.01" ID="32" KSNAME="OPPRESS" LEMMA="OPPRESS" LINK="modif" PAFT=" ">oppressed</W> 
+<W DOM="30" FEAT="S PL" HYPOT="prepos.01" ID="33" KSNAME="COUNTRY" LEMMA="COUNTRY" LINK="prepos" PAFT=" ">countries</W> 
+<W DOM="33" FEAT="PR" HYPOT="quasiagent.10" ID="34" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
+<W DOM="36" FEAT="ART" HYPOT="determ.11" ID="35" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="34" FEAT="S SG" HYPOT="prepos.01" ID="36" KSNAME="WORLD" LEMMA="WORLD" LINK="prepos" PAFT=". ">world</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" ID="57" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;57" STATUS="doubt">
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
+<W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="2" KSNAME="SIMPLY" LEMMA="SIMPLY" LINK="adverb" PAFT=" ">simply</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="3,4" ID="3" KSNAME="TURN2" LEMMA="TURN" PAFT=" ">turned</W> 
+<W DOM="3" FEAT="PR" GRP="3,4" HYPOT="3-compl.01" ID="4" KSNAME="TO1" LEMMA="TO" LINK="3-compl" PAFT=" ">to</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="GOD" LEMMA="GOD" LINK="prepos" PAFT=" ">God</W> 
+<W DOM="3" FEAT="V PP" HYPOT="1-compl.11" ID="6" KSNAME="FILL1" LEMMA="FILL" LINK="1-compl" PAFT=" ">filled</W> 
+<W DOM="6" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
+<W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="GRATITUDE" LEMMA="GRATITUDE" LINK="prepos" PAFT=" ">gratitude</W> 
+<W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="9" FEAT="S SG" HYPOT="coord-conj.10" ID="10" KSNAME="FAITH" LEMMA="FAITH" LINK="coord-conj" PAFT=". ">faith</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" ID="58" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;58" STATUS="doubt">
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">We</W> 
+<W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="3" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">are</W> 
+<W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="LIVE1" LEMMA="LIVE" LINK="analyt" PAFT=" " UNL="live(icl&gt;be_alive&gt;be,aoj&gt;living_thing)" DEF="BE ALIVE" TRANS="жить">living</W> 
+<W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="TODAY1" LEMMA="TODAY" LINK="adverb" PAFT=" ">today</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="6" KSNAME="MAY1" LEMMA="MAY" PAFT=" ">may</W> 
+<W DOM="6" FEAT="V MF" HYPOT="1-compl.17" ID="7" KSNAME="LEARN" LEMMA="LEARN" LINK="1-compl" PAFT=" " UNL="learn(icl&gt;añquire&gt;do,src&gt;uw,agt&gt;volitional_thing,obj&gt;thing)" DEF="">learn</W> 
+<W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="VALUABLE1" LEMMA="VALUABLE" LINK="modif" PAFT=" ">valuable</W> 
+<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="LESSON" LEMMA="LESSON" LINK="1-compl" PAFT=" ">lesson</W> 
+<W DOM="7" FEAT="PR" HYPOT="2-compl.02" ID="11" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
+<W DOM="11" FEAT="A" HYPOT="prepos.01" ID="12" KSNAME="THOSE" LEMMA="THOSE" LINK="prepos" PAFT=" ">those</W> 
+<W DOM="14" FEAT="S NOM SG" HYPOT="predic.01" ID="13" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
+<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="14" KSNAME="CELEBRATE" LEMMA="CELEBRATE" LINK="relat" PAFT=" " UNL="celebrate(icl&gt;observe&gt;do,com&gt;holiday,agt&gt;person,obj&gt;thing)" DEF="CELEBRATE, AS OF HOLIDAYS OR RITES" TRANS="праздновать">celebrated</W> 
+<W DOM="18" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="18" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" ">first</W> 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" GRP="17,18" HYPOT="compos.01" ID="17" KSNAME="THANKSGIVING" LEMMA="THANKSGIVING" LINK="compos" PAFT=" ">Thanksgiving</W> 
+<W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="17,18" HYPOT="1-compl.01" ID="18" KSNAME="DAY" LEMMA="DAY" LINK="1-compl" PAFT=". ">Day</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" EXTRACOMM="Tagging contradicts ETAP parsing: US - WE" ID="59" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;59" STATUS="doubt">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
+<W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="LORD" LEMMA="LORD" LINK="predic" PAFT=" ">Lord</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
+<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="SHOW1" LEMMA="SHOW" LINK="analyt" PAFT=" ">shown</W> 
+<W DOM="3" FEAT="S SG" GRP="5,6,7,8" ID="5" KSNAME="TIME1" LEMMA="TIME" LINK="fictit" PAFT=" ">time</W> 
+<W DOM="5" FEAT="CONJ" GRP="5,6,7,8" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="6" FEAT="S SG" GRP="5,6,7,8" HYPOT="coord-conj.10" ID="7" KSNAME="TIME1" LEMMA="TIME" LINK="coord-conj" PAFT=" ">time</W> 
+<W DOM="4" FEAT="ADV" GRP="5,6,7,8" HYPOT="adverb.01" ID="8" KSNAME="AGAIN" LEMMA="AGAIN" LINK="adverb" PAFT=" ">again</W> 
+<W DOM="10" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">His</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="LOVE1" LEMMA="LOVE" LINK="1-compl" PAFT=" ">love</W> 
+<W DOM="10" FEAT="PR" HYPOT="1-compl.07" ID="11" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
+<W DOM="11" FEAT="S OBJ PL" HYPOT="prepos.01" ID="12" KSNAME="WE" LEMMA="WE" LINK="prepos" PAFT=". ">us</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;60">
+<W FEAT="S" ID="1" KSNAME="WE" LEMMA="WE">We</W> 
+<W FEAT="V" ID="2" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="3">only</W> 
+<W FEAT="PART" ID="4" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="5" KSNAME="COMPARE" LEMMA="COMPARE" UNL="compare(icl&gt;analyze&gt;do,cob&gt;thing,agt&gt;person,obj&gt;thing)" DEF="TO NOTE THE SIMILARITIES OR DIFFERENCES OF" TRANS="сравнивать" WN21="2:31:00::">compare</W> 
+<W FEAT="ART" ID="6" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="7" KSNAME="LIBERTY" LEMMA="LIBERTY">liberty</W> 
+<W FEAT="CONJ" ID="8" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="A" ID="9" KSNAME="HIGH1" LEMMA="HIGH">high</W> 
+<W FEAT="S" GRP="10,11,12" ID="10" KSNAME="STANDARD1" LEMMA="STANDARD">standard</W> 
+<W FEAT="PR" GRP="10,11,12" ID="11" KSNAME="OF" LEMMA="OF">of</W> 
+<W FEAT="S" GRP="10,11,12" ID="12" KSNAME="LIVING1" LEMMA="LIVING">living</W> 
+<W FEAT="S" ID="13" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="14" KSNAME="ENJOY" LEMMA="ENJOY" UNL="enjoy(icl&gt;use&gt;do,agt&gt;thing,obj&gt;thing)" DEF="HAVE BENEFIT FROM" TRANS="наслаждаться" WN21="2:34:01::">enjoy</W> 
+<W GRP="15,16" ID="15">in</W> 
+<W GRP="15,16" ID="16">this</W> 
+<W FEAT="A" ID="17" KSNAME="GREAT" LEMMA="GREAT">great</W> 
+<W FEAT="S SG" ID="18" KSNAME="COUNTRY" LEMMA="COUNTRY">country</W> 
+<W ID="19">with</W> 
+<W FEAT="ART" ID="20" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="21" KSNAME="OPPRESSION" LEMMA="OPPRESSION">oppression</W> 
+<W FEAT="CONJ" ID="22" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S SG" ID="23" KSNAME="FRUGALITY" LEMMA="FRUGALITY">frugality</W> 
+<W ID="24">of</W> 
+<W FEAT="A" ID="25" KSNAME="OTHER1" LEMMA="OTHER">other</W> 
+<W FEAT="S PL" ID="26" KSNAME="NATION" LEMMA="NATION">nations</W> 
+<W FEAT="PART" ID="27" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="28" KSNAME="REALIZE" LEMMA="REALIZE" WN21="2:31:01::">realize</W> 
+<W ID="29">with</W> 
+<W FEAT="A" ID="30" KSNAME="HUMBLE" LEMMA="HUMBLE">humble</W> 
+<W FEAT="S SG" ID="31" KSNAME="GRATITUDE" LEMMA="GRATITUDE">gratitude</W> 
+<W FEAT="CONJ" ID="32" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="S POSS" ID="33" KSNAME="GOD" LEMMA="GOD">God's</W> 
+<W ID="34">Providence</W> 
+<W FEAT="V" ID="35" KSNAME="HAVE" LEMMA="HAVE">has</W> 
+<W FEAT="V" ID="36" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">been</W> 
+<W ID="37">with</W> 
+<W FEAT="S" ID="38" KSNAME="US" LEMMA="US">us</W> 
+<W ID="39">since</W> 
+<W FEAT="ART" ID="40" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="41">very</W> 
+<W FEAT="S SG" ID="42" KSNAME="BEGINNING" LEMMA="BEGINNING">beginning</W> 
+<W ID="43">of</W> 
+<W FEAT="A" ID="44" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S SG" ID="45" KSNAME="COUNTRY" LEMMA="COUNTRY">country</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" ID="61" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;61" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="AND" LEMMA="AND" PAFT=" ">And</W> 
+<W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="2" KSNAME="YET" LEMMA="YET" LINK="adverb" PAFT=", ">yet</W>, 
+<W DOM="5" FEAT="V ING" HYPOT="modif.01" ID="3" KSNAME="ACCOMPANY" LEMMA="ACCOMPANY" LINK="modif" PAFT=" " UNL="accompany(icl&gt;go_with&gt;be,cao&gt;thing,aoj&gt;thing,met&gt;thing)" DEF="BE ASSOCIATED WITH" TRANS="сопровождать">accompanying</W> 
+<W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
+<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="GRATITUDE" LEMMA="GRATITUDE" LINK="predic" PAFT=" ">gratitude</W> 
+<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="coord-conj.00" ID="6" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
+<W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="6" FEAT="S SG" HYPOT="copulat.10" ID="8" KSNAME="REALIZATION" LEMMA="REALIZATION" LINK="copulat" PAFT=" ">realization</W> 
+<W DOM="8" FEAT="CONJ" HYPOT="1-compl.21" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
+<W DOM="11" FEAT="S NOM PL" HYPOT="predic.01" ID="10" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
+<W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="subord-conj.10" ID="11" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">are</W> 
+<W DOM="11" FEAT="V ING" HYPOT="analyt.11" ID="12" KSNAME="LIVE1" LEMMA="LIVE" LINK="analyt" PAFT=" " UNL="live(icl&gt;be_alive&gt;be,aoj&gt;living_thing)" DEF="BE ALIVE" TRANS="жить">living</W> 
+<W DOM="12" FEAT="PR" HYPOT="1-compl.07" ID="13" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
+<W DOM="16" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
+<W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="CRUCIAL" LEMMA="CRUCIAL" LINK="modif" PAFT=" ">crucial</W> 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="TIME1" LEMMA="TIME" LINK="prepos" PAFT=". ">time</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" EXTRACOMM="Tagging contradicts ETAP parsing: US - WE" ID="62" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;62" STATUS="doubt">
+<W DOM="10" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">With</W> 
+<W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="WORLD" LEMMA="WORLD" LINK="compos" PAFT=" ">world</W> 
+<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="PEACE" LEMMA="PEACE" LINK="prepos" PAFT=" ">peace</W> 
+<W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="CONSTANTLY" LEMMA="CONSTANTLY" LINK="adverb" PAFT=" ">constantly</W> 
+<W DOM="10" FEAT="V ING" HYPOT="adverb.03" ID="5" KSNAME="BE" LEMMA="BE" LINK="adverb" PAFT=" ">being</W> 
+<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="THREATEN1" LEMMA="THREATEN" LINK="pass-anal" PAFT=", ">threatened</W>, 
+<W DOM="6" FEAT="ADV" GRP="7,8" HYPOT="adverb.01" ID="7" KSNAME="MOST" LEMMA="MOST" LINK="adverb" PAFT=" ">most</W> 
+<W DOM="7" FEAT="PR" GRP="7,8" HYPOT="elect.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="elect" PAFT=" ">of</W> 
+<W DOM="8" FEAT="S OBJ PL" HYPOT="prepos.01" ID="9" KSNAME="WE" LEMMA="WE" LINK="prepos" PAFT=" ">us</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="10" KSNAME="REGARD2" LEMMA="REGARD" PAFT=" " UNL="regard(icl&gt;consider&gt;be,cob&gt;thing,obj&gt;thing)" DEF="THINK ABOUT SOMEONE OR SOMETHING IN A PARTICULAR WAY" TRANS="рассматривать">regard</W> 
+<W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="FUTURE1" LEMMA="FUTURE" LINK="1-compl" PAFT=" ">future</W> 
+<W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="13" KSNAME="SKEPTICALLY" LEMMA="SKEPTICALLY" LINK="adverb" PAFT=", ">skeptically</W>, 
+<W DOM="13" FEAT="CONJ" HYPOT="coordin.11" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
+<W DOM="14" FEAT="ADV" HYPOT="coord-conj.10" ID="15" KSNAME="EVEN1" LEMMA="EVEN" LINK="coord-conj" PAFT=" ">even</W> 
+<W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
+<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="FEAR1" LEMMA="FEAR" LINK="prepos" PAFT=". ">fear</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="63" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;63">
+<W FEAT="S" ID="1" KSNAME="IT" LEMMA="IT">It</W> 
+<W FEAT="V" ID="2" KSNAME="BE" LEMMA="BE" UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть" WN21="2:42:06::">is</W> 
+<W ID="3">at</W> 
+<W FEAT="A" ID="4" KSNAME="THIS1" LEMMA="THIS">this</W> 
+<W FEAT="S SG" ID="5" KSNAME="TIME1" LEMMA="TIME">time</W> 
+<W FEAT="CONJ" ID="6" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="S" ID="7" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="8" KSNAME="SHOULD" LEMMA="SHOULD">should</W> 
+<W FEAT="V" ID="9" KSNAME="IMITATE" LEMMA="IMITATE" UNL="imitate(icl&gt;resemble&gt;do,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:42:00::">imitate</W> 
+<W FEAT="ART" ID="10" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="11" KSNAME="PILGRIM" LEMMA="PILGRIM">Pilgrims</W> 
+<W ID="12">by</W> 
+<W FEAT="V" ID="13" KSNAME="ACCOMPANY" LEMMA="ACCOMPANY" UNL="accompany(icl&gt;go_with&gt;be,cao&gt;thing,aoj&gt;thing,met&gt;thing)" DEF="BE ASSOCIATED WITH" TRANS="сопровождать" WN21="2:42:00::">accompanying</W> 
+<W FEAT="A" ID="14" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S PL" ID="15" KSNAME="PRAYER" LEMMA="PRAYER">prayers</W> 
+<W ID="16">of</W> 
+<W FEAT="S PL" ID="17" KSNAME="THANK2" LEMMA="THANK">thanks</W> 
+<W ID="18">with</W> 
+<W FEAT="ART" ID="19" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="20" KSNAME="CONVICTION" LEMMA="CONVICTION">conviction</W> 
+<W FEAT="CONJ" ID="21" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="S" ID="22" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="23" KSNAME="SHALL" LEMMA="SHALL">shall</W> 
+<W FEAT="V" ID="24" KSNAME="CONTINUE" LEMMA="CONTINUE" WN21="2:42:01::">continue</W> 
+<W FEAT="PART" ID="25" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="26" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">be</W> 
+<W ID="27">in</W> 
+<W FEAT="A" ID="28" KSNAME="DIRE" LEMMA="DIRE">dire</W> 
+<W FEAT="S SG" ID="29" KSNAME="NEED3" LEMMA="NEED">need</W> 
+<W ID="30">for</W> 
+<W FEAT="ART" ID="31" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S POSS" ID="32" KSNAME="LORD" LEMMA="LORD">Lord's</W> 
+<W FEAT="S SG" ID="33" KSNAME="PROTECTION" LEMMA="PROTECTION">protection</W> 
+<W FEAT="PR" GRP="34,35,36" ID="34" KSNAME="IN1" LEMMA="IN">in</W> 
+<W FEAT="ART" GRP="34,35,36" ID="35" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="34" FEAT="S" GRP="34,35,36" ID="36" KSNAME="FUTURE1" LEMMA="FUTURE" LINK="prepos">future</W>, 
+<W FEAT="CONJ" ID="37" KSNAME="IF" LEMMA="IF">if</W> 
+<W FEAT="S" ID="38" KSNAME="WE" LEMMA="WE">we</W> 
+<W FEAT="V" ID="39" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">are</W> 
+<W FEAT="PART" ID="40" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="41" KSNAME="HAVE" LEMMA="HAVE" UNL="have(icl&gt;be,equ&gt;possess,obj&gt;thing,aoj&gt;thing)" DEF="POSESS A THING" TRANS="иметь" WN21="2:40:04::">have</W> 
+<W FEAT="S SG" ID="42" KSNAME="PEACE" LEMMA="PEACE">peace</W>; 
+<W ID="43">Now</W>, 
+<W ID="44">therefore</W>, 
+<W FEAT="V" ID="45" KSNAME="DO1" LEMMA="DO">do</W> 
+<W FEAT="S" ID="46" KSNAME="I" LEMMA="I">I</W>, 
+<W GRP="47,48,49" ID="47">John</W> 
+<W GRP="47,48,49" ID="48">A</W> 
+<W GRP="47,48,49" ID="49">Notte</W>, 
+<W ID="50">Jr</W>, 
+<W FEAT="S SG" ID="51" KSNAME="GOVERNOR" LEMMA="GOVERNOR">Governor</W> 
+<W ID="52">of</W> 
+<W FEAT="ART" ID="53" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="54">State</W> 
+<W ID="55">of</W> 
+<W FEAT="S SG" ID="56" KSNAME="RHODE$ISLAND" LEMMA="RHODE$ISLAND">Rhode Island</W> 
+<W FEAT="CONJ" ID="57" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="58">Providence</W> 
+<W FEAT="S PL" ID="59" KSNAME="PLANTATION" LEMMA="PLANTATION">Plantations</W>, 
+<W FEAT="V" ID="60" KSNAME="PROCLAIM" LEMMA="PROCLAIM" UNL="proclaim(icl&gt;announce&gt;do,cob&gt;uw,agt&gt;person,obj&gt;thing)" DEF="DECLARE FORMALLY" TRANS="провозглашать" WN21="2:32:02::">proclaim</W> 
+<W FEAT="S SG" ID="61" KSNAME="FICT-LEX" LEMMA="THURSDAY">Thursday</W>, 
+<W FEAT="S SG" ID="62" KSNAME="FICT-LEX" LEMMA="NOVEMBER">November</W> 
+<W FEAT="NUM" ID="63" KSNAME="NUM-LARGE" LEMMA="23">23</W> 
+<W ID="64">rd</W>, 
+<W FEAT="NUM" ID="65" KSNAME="NUM-LARGE" LEMMA="1961">1961</W>, 
+<W FEAT="CONJ" ID="66" KSNAME="AS1" LEMMA="AS">as</W> 
+<W DOM="68" FEAT="S" GRP="67,68" ID="67" KSNAME="THANKSGIVING" LEMMA="THANKSGIVING" LINK="compos">Thanksgiving</W> 
+<W FEAT="S" GRP="67,68" ID="68" KSNAME="DAY" LEMMA="DAY">Day</W>, 
+</S>
+<S DATE="30 11 2010 10:48:39" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="64" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;64">
+<W FEAT="CONJ" ID="1" KSNAME="AND" LEMMA="AND">And</W> 
+<W ID="2">so</W>, 
+<W FEAT="V" ID="3" KSNAME="LET" LEMMA="LET">let</W> 
+<W FEAT="S" ID="4" KSNAME="US" LEMMA="US">us</W> 
+<W FEAT="V" ID="5" KSNAME="REMEMBER" LEMMA="REMEMBER" WN21="2:31:01::">remember</W> 
+<W FEAT="PR" GRP="6,7,8" ID="6" KSNAME="ON1" LEMMA="ON">on</W> 
+<W DOM="8" FEAT="A" GRP="6,7,8" ID="7" KSNAME="THIS1" LEMMA="THIS" LINK="determ">this</W> 
+<W DOM="6" FEAT="S" GRP="6,7,8" ID="8" KSNAME="DAY" LEMMA="DAY" LINK="prepos">day</W> 
+<W GRP="9,10" ID="9">not</W> 
+<W GRP="9,10" ID="10">only</W> 
+<W FEAT="PART" ID="11" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="12" KSNAME="THANK1" LEMMA="THANK" UNL="thank(icl&gt;express_gratitude&gt;do,rsn&gt;uw,agt&gt;person,obj&gt;person)" DEF="EXPRESS GRATITUDE OR SHOW APPRECIATION TO" TRANS="благодарить" WN21="2:32:00::">thank</W> 
+<W FEAT="ART" ID="13" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="14">Almighty</W> 
+<W FEAT="S" ID="15" KSNAME="WHO" LEMMA="WHO">Who</W> 
+<W FEAT="V" ID="16" KSNAME="GIVE" LEMMA="GIVE" WN21="2:40:03::">gave</W> 
+<W FEAT="S SG" ID="17" KSNAME="HOPE2" LEMMA="HOPE">hope</W> 
+<W FEAT="CONJ" ID="18" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="S SG" ID="19" KSNAME="COURAGE" LEMMA="COURAGE">courage</W> 
+<W ID="20">to</W> 
+<W FEAT="ART" ID="21" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S PL" ID="22" KSNAME="PILGRIM" LEMMA="PILGRIM">Pilgrims</W>, 
+<W FEAT="CONJ" ID="23" KSNAME="BUT1" LEMMA="BUT">but</W> 
+<W ID="24">also</W> 
+<W FEAT="PART" ID="25" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="26" KSNAME="PLACE2" LEMMA="PLACE" WN21="2:35:00::">place</W> 
+<W FEAT="A" ID="27" KSNAME="OUR" LEMMA="OUR">our</W> 
+<W FEAT="S SG" ID="28" KSNAME="TRUST1" LEMMA="TRUST">trust</W> 
+<W ID="29">in</W> 
+<W FEAT="S" ID="30" KSNAME="HE1" LEMMA="HE">Him</W> 
+<W FEAT="CONJ" ID="31" KSNAME="THAT1" LEMMA="THAT">that</W> 
+<W FEAT="S" ID="32" KSNAME="HE1" LEMMA="HE">He</W> 
+<W FEAT="V" ID="33" KSNAME="WILL1" LEMMA="WILL">will</W> 
+<W FEAT="V" ID="34" KSNAME="CONTINUE" LEMMA="CONTINUE" WN21="2:42:01::">continue</W> 
+<W FEAT="PART" ID="35" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="36" KSNAME="PROTECT" LEMMA="PROTECT" UNL="protect(icl&gt;do,equ&gt;defend,rsn&gt;thing,agt&gt;thing,obj&gt;thing,met&gt;thing)" DEF="SHIELD FROM DANGER, INJURY, DESTRUCTION, OR DAMAGE" TRANS="защищать" WN21="2:33:00::">protect</W> 
+<W FEAT="S" ID="37" KSNAME="US" LEMMA="US">us</W> 
+<W FEAT="PR" GRP="38,39,40" ID="38" KSNAME="IN1" LEMMA="IN">in</W> 
+<W FEAT="ART" GRP="38,39,40" ID="39" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="38" FEAT="S" GRP="38,39,40" ID="40" KSNAME="FUTURE1" LEMMA="FUTURE" LINK="prepos">future</W> 
+<W FEAT="CONJ" ID="41" KSNAME="AS1" LEMMA="AS">as</W> 
+<W FEAT="S" ID="42" KSNAME="HE1" LEMMA="HE">He</W> 
+<W FEAT="V" ID="43" KSNAME="HAVE" LEMMA="HAVE">has</W> 
+<W FEAT="PR" GRP="44,45,46" ID="44" KSNAME="IN1" LEMMA="IN">in</W> 
+<W FEAT="ART" GRP="44,45,46" ID="45" KSNAME="THE" LEMMA="THE">the</W> 
+<W DOM="44" FEAT="S" GRP="44,45,46" ID="46" KSNAME="PAST1" LEMMA="PAST" LINK="prepos">past</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="65" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;65">
+<W ID="1">In</W> 
+<W FEAT="S SG" ID="2" KSNAME="TESTIMONY" LEMMA="TESTIMONY">testimony</W> 
+<W ID="3">whereof</W>, 
+<W FEAT="S" ID="4" KSNAME="I" LEMMA="I">I</W> 
+<W FEAT="V" ID="5" KSNAME="HAVE" LEMMA="HAVE">have</W> 
+<W ID="6">hereunto</W> 
+<W FEAT="V" ID="7" KSNAME="SET1" LEMMA="SET" UNL="set(icl&gt;displace&gt;do,agt&gt;thing,obj&gt;thing,plc&gt;uw)" DEF="PUT INTO A CERTAIN PLACE" TRANS="ставить" WN21="2:35:00::">set</W> 
+<W FEAT="A" ID="8" KSNAME="MY" LEMMA="MY">my</W> 
+<W FEAT="S SG" ID="9" KSNAME="HAND1" LEMMA="HAND">hand</W> 
+<W FEAT="CONJ" ID="10" KSNAME="AND" LEMMA="AND">and</W> 
+<W FEAT="V" ID="11" KSNAME="CAUSE1" LEMMA="CAUSE" UNL="cause(icl&gt;occur,cob&gt;uw,obj&gt;uw,ben&gt;thing)" DEF="GIVE RISE TO" TRANS="вызывать,приводить к" WN21="2:36:00::">caused</W> 
+<W FEAT="ART" ID="12" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="13">seal</W> 
+<W ID="14">of</W> 
+<W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
+<W ID="16">State</W> 
+<W FEAT="PART" ID="17" KSNAME="TO2" LEMMA="TO">to</W> 
+<W FEAT="V" ID="18" KSNAME="BE" LEMMA="BE">be</W> 
+<W FEAT="V" ID="19" KSNAME="AFFIX2" LEMMA="AFFIX" WN21="2:35:00::">affixed</W> 
+<W FEAT="S" ID="20" KSNAME="THIS2" LEMMA="THIS">this</W> 
+<W FEAT="NUM" ID="21" KSNAME="NUM-LARGE" LEMMA="21">21</W> 
+<W ID="22">st</W> 
+<W FEAT="S SG" ID="23" KSNAME="DAY" LEMMA="DAY">day</W> 
+<W ID="24">of</W> 
+<W FEAT="S SG" ID="25" KSNAME="FICT-LEX" LEMMA="NOVEMBER">November</W>, 
+<W ID="26">in</W> 
+<W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="S SG" ID="28" KSNAME="YEAR" LEMMA="YEAR">year</W> 
+<W ID="29">of</W> 
+<W FEAT="A" ID="30" KSNAME="OUR" LEMMA="OUR">Our</W> 
+<W FEAT="S SG" ID="31" KSNAME="LORD" LEMMA="LORD">Lord</W>, 
+<W FEAT="NUM" GRP="32,33" ID="32" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="32,33" ID="33" KSNAME="THOUSAND1" LEMMA="THOUSAND">thousand</W> 
+<W FEAT="NUM" ID="34" KSNAME="NINE1" LEMMA="NINE">nine</W> 
+<W FEAT="NUM" ID="35" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="36" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="38" FEAT="NUM" GRP="37,38" ID="37" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux">sixty</W> 
+<W FEAT="NUM" GRP="37,38" ID="38" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
+<W ID="40">of</W> 
+<W ID="41">Independence</W>, 
+<W FEAT="ART" ID="42" KSNAME="THE" LEMMA="THE">the</W> 
+<W FEAT="NUM" GRP="43,44" ID="43" KSNAME="ONE1" LEMMA="ONE">one</W> 
+<W FEAT="NUM" GRP="43,44" ID="44" KSNAME="HUNDRED1" LEMMA="HUNDRED">hundred</W> 
+<W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
+<W DOM="47" FEAT="NUM" GRP="46,47" ID="46" KSNAME="EIGHTY" LEMMA="EIGHTY" LINK="quant-aux">eighty</W> 
+<W FEAT="A" GRP="46,47" ID="47" KSNAME="SIXTH1" LEMMA="SIXTH">sixth</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" ID="66" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;66" STATUS="doubt">
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2,3,4" HYPOT="compos.01" ID="1" KSNAME="JOHN" LEMMA="JOHN" LINK="compos" PAFT=" ">John</W> 
+<W DOM="3" EXTRAFEAT="CAP STRICT_ABBR" FEAT="COM" GRP="1,2,3,4" HYPOT="compos.01" ID="2" KSNAME="FICT-COM" LEMMA="A-INITIAL" LINK="compos" MSNAME="A-INITIAL" PAFT=" ">A</W> 
+<W DOM="_root" FEAT="S SG" GRP="1,2,3,4" ID="3" KSNAME="FRM-PROP" LEMMA="NOTTE" PAFT=" ">Notte</W> 
+<W DOM="3" FEAT="S SG" GRP="1,2,3,4" HYPOT="appos.10" ID="4" KSNAME="FRM-PROP" LEMMA="JR" LINK="appos" PAFT=". ">Jr</W>. 
+</S>
+<S DATE="30 11 2010 10:48:39" ID="67" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_46\\br-h08.tgt;67" STATUS="doubt">
+<W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="GOVERNOR" LEMMA="GOVERNOR" PAFT=". ">Governor</W>. 
+</S>
+</body>
