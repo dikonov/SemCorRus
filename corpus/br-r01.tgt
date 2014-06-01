@@ -272,7 +272,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="3" FEAT="CONJ" ID="4" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="3" FEAT="S SG" ID="5" KSNAME="FRM-PROP" LEMMA="BARCO" LINK="fictit" PAFT=", ">Barco</W>, 
-<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="6" KSNAME="APPREHEND" LEMMA="APPREHEND" LINK="coordin" PAFT=" " UNL="apprehend(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="">apprehended</W> 
+<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="6" KSNAME="APPREHEND" LEMMA="APPREHEND" LINK="coordin" PAFT=" " UNL="apprehend(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="TAKE INTO CUSTODY" TRANS="арестовывать">apprehended</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="MERE1" LEMMA="MERE" LINK="modif" PAFT=" ">mere</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="LARCENY" LEMMA="LARCENY" LINK="prepos" PAFT=", ">larceny</W>, 

@@ -51,7 +51,7 @@
 <W DOM="10" FEAT="PR" HYPOT="1-compl.07" ID="11" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="DIRECT2" LEMMA="DIRECT" LINK="modif" PAFT=" " UNL="direct(icl&gt;adj,ant&gt;indirect)" DEF="">direct</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="13" FEAT="A" HYPOT="coord-conj.10" ID="14" KSNAME="AXIOMATIC" LEMMA="AXIOMATIC" LINK="coord-conj" PAFT=" " UNL="axiomatic(icl&gt;adj)" DEF="">axiomatic</W> 
+<W DOM="13" FEAT="A" HYPOT="coord-conj.10" ID="14" KSNAME="AXIOMATIC" LEMMA="AXIOMATIC" LINK="coord-conj" PAFT=" " UNL="axiomatic(icl&gt;adj)" DEF="EVIDENT WITHOUT PROOF OR ARGUMENT" TRANS="самоочевидный">axiomatic</W> 
 <W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="ELEMENT" LEMMA="ELEMENT" LINK="prepos" PAFT=" ">elements</W> 
 <W DOM="15" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1019,7 +1019,7 @@
 <S DATE="29 11 2010 19:56:22" ID="39" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-d01.tgt;39" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="GROW" LEMMA="GROW" PAFT=" " UNL="grow(icl&gt;increase&gt;occur,equ&gt;expand,src&gt;thing,obj&gt;thing,gol&gt;uw,val&gt;thing)" DEF="BECOME LARGER, GREATER, OR BIGGER" TRANS="вырастать">grows</W> 
-<W DOM="2" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="">terribly</W> 
+<W DOM="2" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="USED AS INTENSIFIERS" TRANS="очень,ужасно,страшно">terribly</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.11" ID="4" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="4" FEAT="ADV" HYPOT="coord-conj.10" ID="5" KSNAME="UNAVOIDABLY" LEMMA="UNAVOIDABLY" LINK="coord-conj" PAFT=" " UNL="unavoidably(icl&gt;how,equ&gt;inescapably,com&gt;unavoidable)" DEF="BY NECESSITY" TRANS="неизбежно">unavoidably</W> 
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="6" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
@@ -1589,7 +1589,7 @@
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="DO1" LEMMA="DO" PAFT=" ">does</W> 
 <W DOM="3" FEAT="ADV" HYPOT="restr.10" ID="4" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
-<W DOM="3" FEAT="V MF" HYPOT="analyt.10" ID="5" KSNAME="INTEND1" LEMMA="INTEND" LINK="analyt" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intend</W> 
+<W DOM="3" FEAT="V MF" HYPOT="analyt.10" ID="5" KSNAME="INTEND1" LEMMA="INTEND" LINK="analyt" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intend</W> 
 <W DOM="3" FEAT="CONJ" ID="6" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="14" FEAT="A" HYPOT="predic.01" ID="7" KSNAME="THOSE" LEMMA="THOSE" LINK="predic" PAFT=" ">those</W> 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.01" ID="8" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 

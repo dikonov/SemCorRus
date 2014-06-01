@@ -1712,7 +1712,7 @@
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.11" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coord-conj.10" ID="14" KSNAME="THAT1" LEMMA="THAT" LINK="coord-conj" PAFT=" ">that</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="STUPID" LEMMA="STUPID" LINK="modif" PAFT=" " UNL="stupid(icl&gt;adj,ant&gt;smart)" DEF="LACKING OR MARKED BY LACK OF INTELLECTUAL ACUITY" TRANS="тупой,глупый">stupid</W> 
-<W DOM="5" FEAT="S SG" ID="16" KSNAME="JACKASS" LEMMA="JACKASS" LINK="fictit" PAFT=" " UNL="jackass(icl&gt;fool&gt;thing,equ&gt;fathead)" DEF="">jackass</W> 
+<W DOM="5" FEAT="S SG" ID="16" KSNAME="JACKASS" LEMMA="JACKASS" LINK="fictit" PAFT=" " UNL="jackass(icl&gt;fool&gt;thing,equ&gt;fathead)" DEF="A MAN WHO IS A STUPID INCOMPETENT FOOL" TRANS="дурак">jackass</W> 
 <W DOM="16" FEAT="S SG" HYPOT="appos.03" ID="17" KSNAME="FICT-PERS" LEMMA="SHORT" LINK="appos" PAFT=" ">Short</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="18" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">was</W> 
 <W DOM="18" FEAT="A" HYPOT="copulat.11" ID="19" KSNAME="CERTAIN" LEMMA="CERTAIN" LINK="copulat" PAFT=" " UNL="certain(icl&gt;adj,ant&gt;uncertain)" DEF="">certain</W> 
@@ -1734,7 +1734,7 @@
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="10" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">then</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="11" KSNAME="SAY" LEMMA="SAY" LINK="coordin" PAFT=", &quot;" UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">said</W>, 
 "<W DOM="11" EXTRAFEAT="CAP CAPIT IN-QUOT QFIN" FEAT="V MF" HYPOT="1-compl.30" ID="12" KSNAME="LISTEN" LEMMA="LISTEN" LINK="1-compl" PAFT=", ">Listen</W>, 
-<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="parenth.20" ID="13" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="parenth" PAFT=", " UNL="junior(icl&gt;upstart&gt;thing)" DEF="">junior</W>, 
+<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="parenth.20" ID="13" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="parenth" PAFT=", " UNL="junior(icl&gt;upstart&gt;person)" DEF="">junior</W>, 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="S NOM PL" HYPOT="predic.01" ID="14" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="8" EXTRAFEAT="ALT FIN IN-QUOT QFIN" FEAT="V PRS PL" HYPOT="sent-coordin.01" ID="15" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">'re</W> 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
@@ -1758,7 +1758,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="STUPID" LEMMA="STUPID" LINK="modif" PAFT=" " UNL="stupid(icl&gt;adj,ant&gt;smart)" DEF="LACKING OR MARKED BY LACK OF INTELLECTUAL ACUITY" TRANS="тупой,глупый">stupid</W> 
-<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="JACKASS" LEMMA="JACKASS" LINK="copulat" PAFT=" " UNL="jackass(icl&gt;fool&gt;thing,equ&gt;fathead)" DEF="">jackass</W> 
+<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="JACKASS" LEMMA="JACKASS" LINK="copulat" PAFT=" " UNL="jackass(icl&gt;fool&gt;thing,equ&gt;fathead)" DEF="A MAN WHO IS A STUPID INCOMPETENT FOOL" TRANS="дурак">jackass</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="adverb.10" ID="7" KSNAME="UNTIL2" LEMMA="UNTIL" LINK="adverb" PAFT=" ">until</W> 
 <W DOM="9" FEAT="S NOM PL" HYPOT="predic.01" ID="8" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="9" KSNAME="POISON2" LEMMA="POISON" LINK="subord-conj" PAFT=" ">poisoned</W> 
@@ -2049,7 +2049,7 @@
 <S DATE="29 11 2010 20:10:06" ID="141" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-m01.tgt;141" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="GET" LEMMA="GET" PAFT=" " UNL="get(icl&gt;occur,equ&gt;become,obj&gt;thing,gol&gt;uw)" DEF="ENTER OR ASSUME A CERTAIN STATE OR CONDITION" TRANS="становиться">Get</W> 
 <W DOM="1" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="1-compl.11" ID="2" KSNAME="HAPPY" LEMMA="HAPPY" LINK="1-compl" PAFT=", ">Happy</W>, 
-<W DOM="1" FEAT="S SG" HYPOT="parenth.20" ID="3" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="parenth" PAFT=" &quot;! " UNL="junior(icl&gt;upstart&gt;thing)" DEF="">junior</W>"! 
+<W DOM="1" FEAT="S SG" HYPOT="parenth.20" ID="3" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="parenth" PAFT=" &quot;! " UNL="junior(icl&gt;upstart&gt;person)" DEF="">junior</W>"! 
 </S>
 <S DATE="29 11 2010 20:10:06" ID="142" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-m01.tgt;142" STATUS="doubt">
 <W DOM="2" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FRM-PROP" LEMMA="DIGBY" LINK="predic" PAFT=" ">Digby</W> 
@@ -2353,7 +2353,7 @@
 <W DOM="17" FEAT="V MF" HYPOT="analyt.13" ID="18" KSNAME="MEMORIZE" LEMMA="MEMORIZE" LINK="analyt" PAFT=" " UNL="memorize(icl&gt;study&gt;do,agt&gt;thing,obj&gt;thing)" DEF="COMMIT TO MEMORY" TRANS="запоминать">memorize</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="DATE1" LEMMA="DATE" LINK="1-compl" PAFT=", ">date</W>, 
 <W DOM="19" FEAT="S SG" HYPOT="coordin.01" ID="20" KSNAME="TIME1" LEMMA="TIME" LINK="coordin" PAFT=", " UNL="time(icl&gt;reading&gt;abstract_thing,equ&gt;clock_time)" DEF="THE TIME AS GIVEN BY A CLOCK" TRANS="время">time</W>, 
-<W DOM="20" FEAT="NID" HYPOT="coordin.01" ID="21" KSNAME="FICT-LEX" LEMMA="PERSONAE" LINK="coordin" PAFT=", " UNL="persona(icl&gt;portrayal&gt;thing,equ&gt;character)" DEF="">personae</W>, 
+<W DOM="20" FEAT="NID" HYPOT="coordin.01" ID="21" KSNAME="FICT-LEX" LEMMA="PERSONAE" LINK="coordin" PAFT=", " UNL="persona(icl&gt;portrayal&gt;thing,equ&gt;character)" DEF="AN ACTOR'S PORTRAYAL OF SOMEONE IN A PLAY" TRANS="роль">personae</W>, 
 <W DOM="21" FEAT="S PL" HYPOT="coordin.01" ID="22" KSNAME="EVENT" LEMMA="EVENT" LINK="coordin" PAFT=", " UNL="event(icl&gt;psychological_feature&gt;thing)" DEF="SOMETHING THAT HAPPENS AT A GIVEN PLACE AND TIME" TRANS="событие">events</W>, 
 <W DOM="22" FEAT="CONJ" HYPOT="coordin.10" ID="23" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="25" EXTRAFEAT="ALT" FEAT="A" GRP="24,25" HYPOT="modif.01" ID="24" KSNAME="BAROMETRICAL" LEMMA="BAROMETRICAL" LINK="modif" PAFT=" ">barometric</W> 

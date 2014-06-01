@@ -219,9 +219,9 @@
 <W DOM="22" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="25" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" " UNL="be(icl&gt;occur,equ&gt;exist,obj&gt;thing)" DEF="HAVE AN EXISTENCE" TRANS="существовать">is</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.10" ID="26" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="28" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="IMPLICIT" LEMMA="IMPLICIT" LINK="modif" PAFT=" " UNL="implicit(icl&gt;adj,ant&gt;explicit)" DEF="IMPLIED THOUGH NOT DIRECTLY EXPRESSED" TRANS="имплицитный,подразумеваемый">implicit</W> 
-<W DOM="24" FEAT="S SG" HYPOT="explet.13" ID="28" KSNAME="LESSON" LEMMA="LESSON" LINK="explet" PAFT=" " UNL="lesson(icl&gt;meaning&gt;thing,equ&gt;moral)" DEF="">lesson</W> 
+<W DOM="24" FEAT="S SG" HYPOT="explet.13" ID="28" KSNAME="LESSON" LEMMA="LESSON" LINK="explet" PAFT=" " UNL="lesson(icl&gt;meaning&gt;thing,equ&gt;moral)" DEF="THE SIGNIFICANCE OF A STORY OR EVENT" TRANS="урок">lesson</W> 
 <W DOM="28" FEAT="PR" HYPOT="1-compl.07" ID="29" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
-<W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="prepos" PAFT=". " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="">differentiation</W>. 
+<W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="prepos" PAFT=". " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="A DISCRIMINATION BETWEEN THINGS AS DIFFERENT AND DISTINCT" TRANS="различение">differentiation</W>. 
 </S>
 <S DATE="29 11 2010 20:39:44" ID="9" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g43.tgt;9" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -739,7 +739,7 @@
 <W DOM="4" FEAT="ADV" HYPOT="restr.12" ID="3" KSNAME="SO1" LEMMA="SO" LINK="restr" PAFT=" ">so</W> 
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="DEEPLY" LEMMA="DEEPLY" LINK="adverb" PAFT=" " UNL="deeply(icl&gt;how,equ&gt;profoundly,com&gt;deep)" DEF="TO A GREAT DEPTH PSYCHOLOGICALLY" TRANS="глубоко">deeply</W> 
 <W DOM="2" FEAT="V PP" HYPOT="modif.01" ID="5" KSNAME="PLANT2" LEMMA="PLANT" LINK="modif" PAFT=", ">planted</W>, 
-<W DOM="5" FEAT="V ING" HYPOT="adverb.03" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="5" FEAT="V ING" HYPOT="adverb.03" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="5" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="DIRECTION" LEMMA="DIRECTION" LINK="prepos" PAFT=", " UNL="direction(icl&gt;message&gt;thing,equ&gt;guidance)" DEF="SOMETHING THAT PROVIDES DIRECTION OR ADVICE AS TO A DECISION OR COURSE OF ACTION" TRANS="указание">direction</W>, 
 <W DOM="12" FEAT="ADV" GRP="9,10,11" HYPOT="adverb.01" ID="9" KSNAME="SO1" LEMMA="SO" LINK="adverb" PAFT=" ">so</W> 
@@ -763,7 +763,7 @@
 <S DATE="29 11 2010 20:39:49" ID="28" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g43.tgt;28" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="13" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="TERM1" LEMMA="TERM" LINK="predic" PAFT=" &quot;" UNL="term(icl&gt;word&gt;thing,mod&gt;thing)" DEF="A WORD OR EXPRESSION USED FOR SOME PARTICULAR THING" TRANS="термин">terms</W> 
-"<W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="appos.04" ID="3" KSNAME="RENEWAL" LEMMA="RENEWAL" LINK="appos" PAFT="&quot; " UNL="renewal(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="">renewal</W>" 
+"<W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="appos.04" ID="3" KSNAME="RENEWAL" LEMMA="RENEWAL" LINK="appos" PAFT="&quot; " UNL="renewal(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="THE CONVERSION OF WASTELAND INTO LAND SUITABLE FOR USE OF HABITATION OR CULTIVATION" TRANS="рекультивация">renewal</W>" 
 <W DOM="13" FEAT="CONJ" ID="4" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="12" FEAT="V PP" HYPOT="modif.01" ID="5" KSNAME="REFRESH1" LEMMA="REFRESH" LINK="modif" PAFT=" &quot;, ">refreshed</W>", 
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
@@ -781,7 +781,7 @@
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="IMPORT3" LEMMA="IMPORT" LINK="1-compl" PAFT=" " UNL="import(icl&gt;message&gt;thing,equ&gt;meaning)" DEF="THE MESSAGE THAT IS INTENDED OR EXPRESSED OR SIGNIFIED" TRANS="значение">import</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="attrib.01" ID="19" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT="&quot; ">the</W> 
-"<W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="RENEWAL" LEMMA="RENEWAL" LINK="prepos" PAFT=" &quot;" UNL="renewal(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="">renewal</W>" 
+"<W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="RENEWAL" LEMMA="RENEWAL" LINK="prepos" PAFT=" &quot;" UNL="renewal(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="THE CONVERSION OF WASTELAND INTO LAND SUITABLE FOR USE OF HABITATION OR CULTIVATION" TRANS="рекультивация">renewal</W>" 
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="1-compl.07" ID="22" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="PURPOSE1" LEMMA="PURPOSE" LINK="prepos" PAFT=" " UNL="purpose(icl&gt;abstract_thing,equ&gt;function,obj&gt;uw,aoj&gt;thing)" DEF="WHAT SOMETHING IS USED FOR" TRANS="назначение,цель">purpose</W> 
 <W DOM="23" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -807,7 +807,7 @@
 "<W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="INSPIRATION" LEMMA="INSPIRATION" LINK="prepos" PAFT="&quot; " UNL="inspiration(icl&gt;idea&gt;thing)" DEF="">inspiration</W>" 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="SOMEHOW" LEMMA="SOMEHOW" LINK="adverb" PAFT=" ">somehow</W> 
-<W DOM="5" FEAT="A" HYPOT="copulat.11" ID="7" KSNAME="COGNATE2" LEMMA="COGNATE" LINK="copulat" PAFT=" " UNL="cognate(icl&gt;adj,equ&gt;connate)" DEF="">cognate</W> 
+<W DOM="5" FEAT="A" HYPOT="copulat.11" ID="7" KSNAME="COGNATE2" LEMMA="COGNATE" LINK="copulat" PAFT=" " UNL="cognate(icl&gt;adj,equ&gt;connate)" DEF="RELATED IN NATURE" TRANS="родственный">cognate</W> 
 <W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="FEELING" LEMMA="FEELING" LINK="prepos" PAFT=". " UNL="feeling(icl&gt;state&gt;thing)" DEF="THE EXPERIENCING OF AFFECTIVE AND EMOTIONAL STATES" TRANS="чувство">feeling</W>. 
@@ -2015,7 +2015,7 @@
 <W DOM="17" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="HERE" LEMMA="HERE" LINK="adverb" PAFT=" ">here</W> 
 <W DOM="17" FEAT="PR" HYPOT="adverb.02" ID="6" KSNAME="TO1" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BELIEF" LEMMA="BELIEF" LINK="prepos" PAFT=" " UNL="belief(icl&gt;idea&gt;thing,equ&gt;impression)" DEF="">belief</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BELIEF" LEMMA="BELIEF" LINK="prepos" PAFT=" " UNL="belief(icl&gt;idea&gt;thing,equ&gt;impression)" DEF="A VAGUE IDEA IN WHICH SOME CONFIDENCE IS PLACED" TRANS="мнение">belief</W> 
 <W DOM="1" FEAT="CONJ" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="17" FEAT="A" HYPOT="predic.01" ID="10" KSNAME="THOSE" LEMMA="THOSE" LINK="predic" PAFT=" ">those</W> 
 <W DOM="1" FEAT="ADV COMP" ID="11" KSNAME="MORE" LEMMA="MORE" LINK="fictit" PAFT=" ">more</W> 

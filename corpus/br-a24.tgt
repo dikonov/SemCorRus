@@ -267,7 +267,7 @@
 <S DATE="30 11 2010 10:50:03" ID="13" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_29\\br-a24.tgt;13" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="THIEF" LEMMA="THIEF" LINK="predic" PAFT=" ">Thieves</W> 
 <W DOM="1" FEAT="ADV" HYPOT="attrib.14" ID="2" KSNAME="YESTERDAY1" LEMMA="YESTERDAY" LINK="attrib" PAFT=" ">yesterday</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="RANSACK" LEMMA="RANSACK" PAFT=" " UNL="ransack(icl&gt;take&gt;do,equ&gt;plunder,agt&gt;thing,obj&gt;thing)" DEF="">ransacked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="RANSACK" LEMMA="RANSACK" PAFT=" " UNL="ransack(icl&gt;take&gt;do,equ&gt;plunder,agt&gt;thing,obj&gt;thing)" DEF="STEAL GOODS" TRANS="разграблять">ransacked</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="HOME1" LEMMA="HOME" LINK="1-compl" PAFT=" ">home</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -471,7 +471,7 @@
 <W DOM="10" FEAT="S SG" GRP="9,10" HYPOT="compos.01" ID="9" KSNAME="SEWING" LEMMA="SEWING" LINK="compos" PAFT=" ">sewing</W> 
 <W DOM="7" FEAT="S SG" GRP="9,10" HYPOT="coord-conj.10" ID="10" KSNAME="ROOM" LEMMA="ROOM" LINK="coord-conj" PAFT=" ">room</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="11" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
-<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="RANSACK" LEMMA="RANSACK" LINK="pass-anal" PAFT=". " UNL="ransack(icl&gt;take&gt;do,equ&gt;plunder,agt&gt;thing,obj&gt;thing)" DEF="">ransacked</W>. 
+<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="RANSACK" LEMMA="RANSACK" LINK="pass-anal" PAFT=". " UNL="ransack(icl&gt;take&gt;do,equ&gt;plunder,agt&gt;thing,obj&gt;thing)" DEF="STEAL GOODS" TRANS="разграблять">ransacked</W>. 
 </S>
 <S DATE="30 11 2010 10:50:04" ID="22" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_29\\br-a24.tgt;22" STATUS="doubt">
 <W DOM="5" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -693,7 +693,7 @@
 <W DOM="25" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="24" KSNAME="BOARD3" LEMMA="BOARD" LINK="predic" PAFT=" ">Board</W> 
 <W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="1-compl.31" ID="25" KSNAME="HAVE" LEMMA="HAVE" LINK="1-compl" PAFT=" ">has</W> 
 <W DOM="25" FEAT="V PP" HYPOT="analyt.12" ID="26" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="26" FEAT="V PP" HYPOT="pass-anal.10" ID="27" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="26" FEAT="V PP" HYPOT="pass-anal.10" ID="27" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="27" FEAT="PART" HYPOT="2-compl.12" ID="28" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="29" KSNAME="SET1" LEMMA="SET" PAFT=" " UNL="set_up(icl&gt;organize&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">set</W> 
 <W DOM="29" FEAT="ADV" HYPOT="phras-junct.10" ID="30" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
@@ -1915,7 +1915,7 @@
 </S>
 <S DATE="30 11 2010 10:50:21" ID="79" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_29\\br-a24.tgt;79" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="3" KSNAME="MEMBER" LEMMA="MEMBER" LINK="1-compl" PAFT=" ">members</W> 
 <W DOM="3" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

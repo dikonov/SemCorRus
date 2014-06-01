@@ -113,7 +113,7 @@
 <W FEAT="S SG" ID="21" KSNAME="DISPOSITION" LEMMA="DISPOSITION">disposition</W>, 
 <W FEAT="CONJ" ID="22" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="S" ID="23" KSNAME="SHE" LEMMA="SHE">she</W> 
-<W FEAT="V" ID="24" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="" WN21="2:32:01::">asked</W> 
+<W FEAT="V" ID="24" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить" WN21="2:32:01::">asked</W> 
 <W ID="25">for</W> 
 <W FEAT="S SG" ID="26" KSNAME="NOTHING1" LEMMA="NOTHING">nothing</W> 
 <W ID="27">more</W> 
@@ -271,7 +271,7 @@
 <W DOM="1" FEAT="S" GRP="1,2" ID="2" KSNAME="CLIFTON" LEMMA="CLIFTON" LINK="appos">Clifton</W> 
 <W FEAT="V" ID="3" KSNAME="WOULD" LEMMA="WOULD">would</W> 
 <W FEAT="V" ID="4" KSNAME="HAVE" LEMMA="HAVE">have</W> 
-<W FEAT="V" ID="5" KSNAME="PREFER1" LEMMA="PREFER" UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:31:00::">preferred</W> 
+<W FEAT="V" ID="5" KSNAME="PREFER1" LEMMA="PREFER" UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать" WN21="2:31:00::">preferred</W> 
 <W FEAT="S SG" ID="6" KSNAME="DEATH" LEMMA="DEATH">death</W> 
 <W FEAT="CONJ" ID="7" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="S SG" ID="8" KSNAME="BANKRUPTCY" LEMMA="BANKRUPTCY">bankruptcy</W> 
@@ -539,7 +539,7 @@
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="BABY" LEMMA="BABY" LINK="1-compl" PAFT=" ">baby</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="7" KSNAME="NUZZLE" LEMMA="NUZZLE" LINK="coord-conj" PAFT=" " UNL="nuzzle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="">nuzzled</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="7" KSNAME="NUZZLE" LEMMA="NUZZLE" LINK="coord-conj" PAFT=" " UNL="nuzzle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION" TRANS="устраиваться">nuzzled</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="FAT2" LEMMA="FAT" LINK="modif" PAFT=" ">fat</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="WARM1" LEMMA="WARM" LINK="modif" PAFT=" ">warm</W> 

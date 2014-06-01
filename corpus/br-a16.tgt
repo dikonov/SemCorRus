@@ -1674,7 +1674,7 @@
 <W DOM="12" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="THEATRE" LEMMA="THEATRE" LINK="prepos" PAFT=" ">theater</W> 
 <W DOM="15" FEAT="ADV" HYPOT="attrib.14" ID="16" KSNAME="TOMORROW1" LEMMA="TOMORROW" LINK="attrib" PAFT=" ">tomorrow</W> 
 <W DOM="15" FEAT="PART" HYPOT="attrib.15" ID="17" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="TOAST4" LEMMA="TOAST" LINK="prepos" MSNAME="TOAST4" PAFT=" " UNL="toast(icl&gt;honor&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">toast</W> 
+<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="TOAST4" LEMMA="TOAST" LINK="prepos" MSNAME="TOAST4" PAFT=" " UNL="toast(icl&gt;honor&gt;do,agt&gt;thing,obj&gt;thing)" DEF="PROPOSE A TOAST TO" TRANS="предлагать тост">toast</W> 
 <W DOM="21" FEAT="NUM" HYPOT="quantit.10" ID="19" KSNAME="NUM-LARGE" LEMMA="300" LINK="quantit" PAFT=" ">300</W> 
 <W DOM="21" FEAT="S SG" HYPOT="compos.01" ID="20" KSNAME="MOVIE" LEMMA="MOVIE" LINK="compos" PAFT=" ">movie</W> 
 <W DOM="18" FEAT="S PL" HYPOT="1-compl.01" ID="21" KSNAME="EXHIBITOR" LEMMA="EXHIBITOR" LINK="1-compl" PAFT=". ">exhibitors</W>. 

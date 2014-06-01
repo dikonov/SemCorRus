@@ -1205,7 +1205,7 @@
 <W DOM="7" FEAT="PART" ID="4" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="OUTWARD1" LEMMA="OUTWARD" LINK="modif" PAFT=" ">outward</W> 
 <W DOM="7" FEAT="S PL" HYPOT="predic.01" ID="6" KSNAME="CEREMONY" LEMMA="CEREMONY" LINK="predic" PAFT=" ">ceremonies</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="HAIL2" LEMMA="HAIL" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="">hailed</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="HAIL2" LEMMA="HAIL" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="PRAISE VOCIFEROUSLY" TRANS="славить">hailed</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="MODERN" LEMMA="MODERN" LINK="modif" PAFT=" ">modern</W> 
 <W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="EXPONENT1" LEMMA="EXPONENT" LINK="prepos" PAFT=" ">exponents</W> 

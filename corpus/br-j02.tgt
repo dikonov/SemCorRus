@@ -302,7 +302,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="8" KSNAME="MAY1" LEMMA="MAY" PAFT=" ">may</W> 
 <W DOM="8" FEAT="V MF" HYPOT="1-compl.17" ID="9" KSNAME="MODIFY" LEMMA="MODIFY" LINK="1-compl" PAFT=" " UNL="modify(icl&gt;moderate&gt;do,agt&gt;person,obj&gt;thing)" DEF="MAKE LESS SEVERE OR HARSH OR EXTREME" TRANS="смягчать">modify</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="1-compl" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W> 
+<W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="1-compl" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W> 
 <W DOM="9" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="SOMEWHAT1" LEMMA="SOMEWHAT" LINK="adverb" PAFT=". " UNL="somewhat(icl&gt;how,equ&gt;slightly,com&gt;slight)" DEF="TO A SMALL DEGREE OR EXTENT" TRANS="немного">somewhat</W>. 
 </S>
 <S DATE="29 11 2010 20:07:34" EXTRACOMM="Some punctuation marks are not confirmed" ID="13" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j02.tgt;13" STATUS="doubt">
@@ -370,7 +370,7 @@
 <W DOM="_root" FEAT="S SG" ID="2" KSNAME="TRANSFER2" LEMMA="TRANSFER" PAFT=" " UNL="transfer(icl&gt;movement&gt;thing,equ&gt;transportation)" DEF="THE ACT OF MOVING SOMETHING FROM ONE LOCATION TO ANOTHER" TRANS="перемещение">transfer</W> 
 <W DOM="2" FEAT="PR" HYPOT="agent.10" ID="3" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="MOLECULAR" LEMMA="MOLECULAR" LINK="modif" PAFT=" " UNL="molecular(icl&gt;adj,com&gt;molecule)" DEF="RELATING TO OR PRODUCED BY OR CONSISTING OF MOLECULES" TRANS="молекулярный">molecular</W> 
-<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CONDUCTION" LEMMA="CONDUCTION" LINK="prepos" PAFT=" " UNL="conduction(icl&gt;physical_phenomenon&gt;thing)" DEF="">conduction</W> 
+<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CONDUCTION" LEMMA="CONDUCTION" LINK="prepos" PAFT=" " UNL="conduction(icl&gt;physical_phenomenon&gt;thing)" DEF="THE TRANSMISSION OF HEAT OR ELECTRICITY OR SOUND" TRANS="проводимость">conduction</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.11" ID="6" KSNAME="AS$WELL$AS" LEMMA="AS WELL AS" LINK="coordin" PAFT=" ">as well as</W> 
 <W DOM="6" FEAT="PR" HYPOT="coord-conj.10" ID="7" KSNAME="BY1" LEMMA="BY" LINK="coord-conj" PAFT=" ">by</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="RADIATION" LEMMA="RADIATION" LINK="prepos" PAFT=" " UNL="radiation(icl&gt;energy&gt;thing)" DEF="ENERGY THAT IS RADIATED OR TRANSMITTED IN THE FORM OF RAYS OR WAVES OR PARTICLES" TRANS="радиация,излучение">radiation</W> 
@@ -1208,7 +1208,7 @@
 <W DOM="13" FEAT="S SG" HYPOT="compos.01" ID="12" KSNAME="HEAT1" LEMMA="HEAT" LINK="compos" PAFT=" " UNL="heat(icl&gt;energy&gt;thing)" DEF="A FORM OF ENERGY THAT IS TRANSFERRED BY A DIFFERENCE IN TEMPERATURE" TRANS="тепло,жар">heat</W> 
 <W DOM="19" FEAT="S PL" HYPOT="predic.01" ID="13" KSNAME="LOSS" LEMMA="LOSS" LINK="predic" PAFT=" " UNL="loss(icl&gt;decline&gt;thing)" DEF="GRADUAL DECLINE IN AMOUNT OR ACTIVITY" TRANS="потеря">losses</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.01" ID="14" KSNAME="BY1" LEMMA="BY" LINK="attrib" PAFT=" ">by</W> 
-<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="CONDUCTION" LEMMA="CONDUCTION" LINK="prepos" PAFT=" " UNL="conduction(icl&gt;physical_phenomenon&gt;thing)" DEF="">conduction</W> 
+<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="CONDUCTION" LEMMA="CONDUCTION" LINK="prepos" PAFT=" " UNL="conduction(icl&gt;physical_phenomenon&gt;thing)" DEF="THE TRANSMISSION OF HEAT OR ELECTRICITY OR SOUND" TRANS="проводимость">conduction</W> 
 <W DOM="13" FEAT="PR" HYPOT="3-compl.01" ID="16" KSNAME="FROM" LEMMA="FROM" LINK="3-compl" PAFT=" ">from</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="ANODE" LEMMA="ANODE" LINK="prepos" PAFT=" " UNL="anode(icl&gt;electrode&gt;thing,ant&gt;cathode)" DEF="A POSITIVELY CHARGED ELECTRODE BY WHICH ELECTRONS LEAVE AN ELECTRICAL DEVICE" TRANS="анод">anode</W> 

@@ -491,7 +491,7 @@
 <W DOM="33" FEAT="S SG" HYPOT="1-compl.01" ID="35" KSNAME="FAMILY" LEMMA="FAMILY" LINK="1-compl" PAFT=" ">family</W> 
 <W DOM="35" FEAT="PR" HYPOT="quasiagent.10" ID="36" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="36" FEAT="NUM" HYPOT="prepos.01" ID="37" KSNAME="FIVE1" LEMMA="FIVE" LINK="prepos" PAFT=", ">five</W>, 
-<W DOM="27" FEAT="V PP" HYPOT="coordin.02" ID="38" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=", &quot;" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W>, 
+<W DOM="27" FEAT="V PP" HYPOT="coordin.02" ID="38" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=", &quot;" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W>, 
 "<W DOM="43" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S SG" GRP="39,40,41,42,43,44,45" HYPOT="predic.01" ID="39" KSNAME="WHAT1" LEMMA="WHAT" LINK="predic" PAFT=" ">What</W> 
 <W DOM="39" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="39,40,41,42,43,44,45" HYPOT="restr.20" ID="40" KSNAME="IN1" LEMMA="IN" LINK="restr" PAFT=" ">in</W> 
 <W DOM="42" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="39,40,41,42,43,44,45" HYPOT="determ.11" ID="41" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1554,7 +1554,7 @@
 <S DATE="29 11 2010 20:06:42" ID="87" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_33\\br-b08.tgt;87" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP FIN QFIN" FEAT="V PRS" ID="1" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">Can</W> 
 <W DOM="1" FEAT="S NOM PL" HYPOT="predic.07" ID="2" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
-<W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="VISUALIZE" LEMMA="VISUALIZE" LINK="1-compl" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">visualize</W> 
+<W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="VISUALIZE" LEMMA="VISUALIZE" LINK="1-compl" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="IMAGINE" TRANS="представлять себе">visualize</W> 
 <W DOM="3" FEAT="V ING" HYPOT="1-compl.01" ID="4" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">being</W> 
 <W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="STRAND2" LEMMA="STRAND" LINK="pass-anal" PAFT=" ">stranded</W> 
 <W DOM="5" FEAT="PR" HYPOT="adverb.02" ID="6" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 

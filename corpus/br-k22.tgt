@@ -268,7 +268,7 @@
 <W DOM="8" EXTRAFEAT="ALT FIN IN-QUOT QFIN" FEAT="V PRS SG TP" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="1-compl.05" ID="11" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">'s</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="modif.01" ID="13" KSNAME="NICE1" LEMMA="NICE" LINK="modif" PAFT=" " UNL="nice(icl&gt;adj)" DEF="">nice</W> 
-<W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="copulat.10" ID="14" KSNAME="IMITATION" LEMMA="IMITATION" LINK="copulat" PAFT=" " UNL="imitation(icl&gt;copy&gt;thing)" DEF="">imitation</W> 
+<W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="copulat.10" ID="14" KSNAME="IMITATION" LEMMA="IMITATION" LINK="copulat" PAFT=" " UNL="imitation(icl&gt;copy&gt;thing)" DEF="A COPY THAT IS REPRESENTED AS THE ORIGINAL" TRANS="подделка,имитация">imitation</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="1-compl.07" ID="15" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="determ.13" ID="16" KSNAME="THOSE" LEMMA="THOSE" LINK="determ" PAFT=" ">those</W> 
 <W DOM="19" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S SG" GRP="9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="compos.01" ID="17" KSNAME="QUEEN" LEMMA="QUEEN" LINK="compos" PAFT=" ">Queen</W> 
@@ -324,7 +324,7 @@
 <W DOM="19" FEAT="S SG" GRP="11,12" HYPOT="predic.01" ID="12" KSNAME="WIDOW" LEMMA="WIDOW" LINK="predic" PAFT=", ">widow</W>, 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="SUM1" LEMMA="SUM" LINK="coord-conj" PAFT=" " UNL="sum(icl&gt;content&gt;thing,equ&gt;kernel)" DEF="">sum</W> 
+<W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="SUM1" LEMMA="SUM" LINK="coord-conj" PAFT=" " UNL="sum(icl&gt;content&gt;thing,equ&gt;kernel)" DEF="THE CHOICEST OR MOST ESSENTIAL OR MOST VITAL PART OF SOME IDEA OR EXPERIENCE" TRANS="сущность">sum</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="MANNER" LEMMA="MANNER" LINK="prepos" PAFT=" " UNL="manner(icl&gt;method&gt;abstract_thing,pur&gt;action)" DEF="A WAY OF ACTING OR BEHAVING" TRANS="образ">manner</W> 
@@ -410,7 +410,7 @@
 <W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="3" KSNAME="BRIGADIER" LEMMA="BRIGADIER" LINK="copulat" PAFT=" " UNL="brigadier(icl&gt;general_officer&gt;thing)" DEF="A GENERAL OFFICER RANKING BELOW A MAJOR GENERAL" TRANS="бригадный генерал">brigadier</W> 
 <W DOM="3" FEAT="PR" HYPOT="attrib.01" ID="4" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="10" FEAT="S POSS SG" HYPOT="posses.01" ID="6" KSNAME="CLUB1" LEMMA="CLUB" LINK="posses" PAFT=" " UNL="club(icl&gt;association&gt;thing)" DEF="">club's</W> 
+<W DOM="10" FEAT="S POSS SG" HYPOT="posses.01" ID="6" KSNAME="CLUB1" LEMMA="CLUB" LINK="posses" PAFT=" " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">club's</W> 
 <W DOM="8" FEAT="S SG" GRP="7,8" HYPOT="compos.01" ID="7" KSNAME="LOCKER" LEMMA="LOCKER" LINK="compos" PAFT=" ">locker</W> 
 <W DOM="10" FEAT="S SG" GRP="7,8" HYPOT="compos.01" ID="8" KSNAME="ROOM" LEMMA="ROOM" LINK="compos" PAFT=" ">room</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="LIGHT2" LEMMA="LIGHT" LINK="modif" PAFT=" " UNL="light(icl&gt;adj,ant&gt;heavy,com&gt;equipment)" DEF="BEING OR USING RELATIVELY SMALL EQUIPMENT" TRANS="легкий">light</W> 
@@ -456,7 +456,7 @@
 <S DATE="29 11 2010 20:00:56" ID="21" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k22.tgt;21" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="NUM" HYPOT="predic.01" ID="1" KSNAME="ONE1" LEMMA="ONE" LINK="predic" PAFT=" ">One</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="MAY1" LEMMA="MAY" PAFT=" ">might</W> 
-<W DOM="2" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="1-compl" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="">pretend</W> 
+<W DOM="2" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="1-compl" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться">pretend</W> 
 <W DOM="5" FEAT="ADV" HYPOT="restr.11" ID="4" KSNAME="NEVER" LEMMA="NEVER" LINK="restr" PAFT=" " UNL="never(icl&gt;how,ant&gt;ever)" DEF="NOT EVER" TRANS="никогда">never</W> 
 <W DOM="2" FEAT="PART" ID="5" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="5" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="HAVE" LEMMA="HAVE" LINK="prepos" PAFT=" ">have</W> 
@@ -552,7 +552,7 @@
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="4" KSNAME="DAY" LEMMA="DAY" LINK="copulat" PAFT=" ">day</W> 
 <W DOM="4" FEAT="PART" HYPOT="attrib.15" ID="5" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="CANVASS1" LEMMA="CANVASS" LINK="prepos" PAFT=" " UNL="canvass(icl&gt;survey&gt;do,equ&gt;poll,agt&gt;volitional_thing,obj&gt;volitional_thing,cao&gt;thing)" DEF="">canvass</W> 
+<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="CANVASS1" LEMMA="CANVASS" LINK="prepos" PAFT=" " UNL="canvass(icl&gt;survey&gt;do,equ&gt;poll,agt&gt;volitional_thing,obj&gt;volitional_thing,cao&gt;thing)" DEF="GET THE OPINIONS (OF PEOPLE) BY ASKING SPECIFIC QUESTIONS" TRANS="опрашивать">canvass</W> 
 <W DOM="6" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="9" FEAT="A" GRP="8,9" HYPOT="modif.01" ID="8" KSNAME="INFECTIOUS" LEMMA="INFECTIOUS" LINK="modif" PAFT=" ">infectious</W> 
 <W DOM="7" FEAT="S SG" GRP="8,9" HYPOT="prepos.01" ID="9" KSNAME="HEPATITIS" LEMMA="HEPATITIS" LINK="prepos" PAFT=". ">hepatitis</W>. 
@@ -1378,7 +1378,7 @@
 <S DATE="29 11 2010 20:01:04" EXTRACOMM="Tagging contradicts ETAP parsing: WON'T - WILL1" ID="72" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k22.tgt;72" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM SG" GRP="1,2,3,4,5,6,7,8" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" " PBEF="&quot;">I</W> 
 <W DOM="10" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS SG FP" GRP="1,2,3,4,5,6,7,8" HYPOT="1-compl.30" ID="2" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">am</W> 
-<W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6,7,8" HYPOT="adverb.01" ID="3" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="">terribly</W> 
+<W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6,7,8" HYPOT="adverb.01" ID="3" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="USED AS INTENSIFIERS" TRANS="очень,ужасно,страшно">terribly</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="1,2,3,4,5,6,7,8" HYPOT="copulat.11" ID="4" KSNAME="SORRY" LEMMA="SORRY" LINK="copulat" PAFT=" ">sorry</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="PART" GRP="1,2,3,4,5,6,7,8" HYPOT="1-compl.15" ID="5" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="1,2,3,4,5,6,7,8" HYPOT="prepos.16" ID="6" KSNAME="KEEP" LEMMA="KEEP" LINK="prepos" PAFT=" ">keep</W> 

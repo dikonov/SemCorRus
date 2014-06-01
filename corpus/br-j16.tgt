@@ -105,7 +105,7 @@
 <W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="EXTRACT1" LEMMA="EXTRACT" LINK="pass-anal" PAFT=" ">extracted</W> 
 <W DOM="4" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="7" FEAT="NUM" HYPOT="quantit.10" ID="6" KSNAME="NUM-SMALL" LEMMA="3" LINK="quantit" PAFT=" ">3</W> 
-<W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="7" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;measure&gt;property,obj&gt;thing,aoj&gt;thing)" DEF="">volumes</W> 
+<W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="7" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;measure&gt;property,obj&gt;concrete_thing,val&gt;thing)" DEF="A RELATIVE AMOUNT" TRANS="объем">volumes</W> 
 <W DOM="7" FEAT="S SG" HYPOT="appos.03" ID="8" KSNAME="FRM1" LEMMA="OF**" LINK="appos" PAFT=" ">of**</W> 
 <W DOM="10" EXTRAFEAT="CAP-MIX STRICT_ABBR" FEAT="COM" HYPOT="compos.12" ID="9" KSNAME="FICT-COM" LEMMA="F-INITIAL" LINK="compos" MSNAME="F-INITIAL" PAFT=" ">f</W> 
 <W DOM="8" FEAT="S SG" HYPOT="appos.03" ID="10" KSNAME="FRM1" LEMMA="IN**" LINK="appos" PAFT=" ">in**</W> 
@@ -136,7 +136,7 @@
 <W DOM="9" FEAT="NUM" HYPOT="quantit.10" ID="8" KSNAME="NUM-LARGE" LEMMA="80" LINK="quantit" PAFT=" ">80</W>
 <W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="9" KSNAME="PERCENT-SIGN" LEMMA="PERCENT-SIGN" LINK="predic" PAFT=" ">%</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="SATURATE" LEMMA="SATURATE" LINK="fictit" PAFT=" ">saturated</W> 
-<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="1-compl" PAFT=" " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="1-compl" PAFT=" " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W> 
 <W DOM="11" FEAT="S SG" HYPOT="appos.03" ID="12" KSNAME="FRM1" LEMMA="OF**" LINK="appos" PAFT=" ">of**</W> 
 <W DOM="14" EXTRAFEAT="CAP-MIX STRICT_ABBR" FEAT="COM" HYPOT="compos.12" ID="13" KSNAME="FICT-COM" LEMMA="F-INITIAL" LINK="compos" MSNAME="F-INITIAL" PAFT=", ">f</W>, 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="14" KSNAME="DISSOLVE" LEMMA="DISSOLVE" LINK="coordin" PAFT=" " UNL="dissolve(icl&gt;break_up&gt;occur,equ&gt;disband,obj&gt;thing)" DEF="STOP FUNCTIONING OR COHERING AS A UNIT" TRANS="распускаться">dissolved</W> 
@@ -178,7 +178,7 @@
 <W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="TREAT1" LEMMA="TREAT" LINK="pass-anal" PAFT=" " UNL="treat(icl&gt;affect&gt;do,equ&gt;process,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="SUBJECT TO A PROCESS OR TREATMENT, WITH THE AIM OF READYING FOR SOME PURPOSE, IMPROVING, OR REMEDYING A CONDITION" TRANS="подвергать воздействию,обрабатывать">treated</W> 
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="12" FEAT="NUM" HYPOT="quantit.10" ID="11" KSNAME="NUM-SMALL" LEMMA="3" LINK="quantit" PAFT=" ">3</W> 
-<W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;measure&gt;property,obj&gt;thing,aoj&gt;thing)" DEF="">volumes</W> 
+<W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;measure&gt;property,obj&gt;concrete_thing,val&gt;thing)" DEF="A RELATIVE AMOUNT" TRANS="объем">volumes</W> 
 <W DOM="12" FEAT="PR" HYPOT="quasiagent.10" ID="13" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="15" FEAT="S SG" GRP="14,15" HYPOT="compos.01" ID="14" KSNAME="ETHYL" LEMMA="ETHYL" LINK="compos" PAFT=" ">ethyl</W> 
 <W DOM="13" FEAT="S SG" GRP="14,15" HYPOT="prepos.01" ID="15" KSNAME="ACETATE" LEMMA="ACETATE" LINK="prepos" PAFT=" ">acetate</W> 
@@ -712,7 +712,7 @@
 <W FEAT="PR" ID="11" KSNAME="WITH" LEMMA="WITH">with</W> 
 <W FEAT="NUM" ID="12" KSNAME="NUM-ONE" LEMMA="1">1</W>: 
 <W FEAT="NUM" ID="13" KSNAME="NUM-LARGE" LEMMA="10">10</W> 
-<W FEAT="S SG" ID="14" KSNAME="SOLUTION1" LEMMA="SOLUTION" UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="" WN21="1:27:00::">solution</W> 
+<W FEAT="S SG" ID="14" KSNAME="SOLUTION1" LEMMA="SOLUTION" UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор" WN21="1:27:00::">solution</W> 
 <W EXTRACOMM="Tagging contradicts ETAP parsing:  - FRM1\nDifferent punctuation\n after word(ETALON): ** \n after word(ETAP):  " ID="15" STATUS="warning">of</W>** 
 <W ID="16">f</W> 
 <W ID="17">for</W> 

@@ -14,7 +14,7 @@
 <W DOM="11" FEAT="ADV" HYPOT="restr.11" ID="10" KSNAME="ALREADY" LEMMA="ALREADY" LINK="restr" PAFT=" " UNL="already(icl&gt;how,ant&gt;not_yet)" DEF="PRIOR TO A SPECIFIED OR IMPLIED TIME" TRANS="уже">already</W> 
 <W DOM="8" FEAT="S PL" HYPOT="explet.13" ID="11" KSNAME="INDICATION" LEMMA="INDICATION" LINK="explet" PAFT=" " UNL="indication(icl&gt;communication&gt;thing)" DEF="SOMETHING THAT SERVES TO INDICATE OR SUGGEST" TRANS="знак,признак">indications</W> 
 <W DOM="11" FEAT="PR" HYPOT="1-compl.07" ID="12" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="MELIORATION" LEMMA="MELIORATION" LINK="prepos" PAFT=", " UNL="melioration(icl&gt;improvement&gt;thing,equ&gt;amelioration)" DEF="">melioration</W>, 
+<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="MELIORATION" LEMMA="MELIORATION" LINK="prepos" PAFT=", " UNL="melioration(icl&gt;improvement&gt;thing,equ&gt;amelioration)" DEF="THE ACT OF RELIEVING ILLS AND CHANGING FOR THE BETTER" TRANS="улучшение">melioration</W>, 
 <W DOM="13" FEAT="CONJ" HYPOT="attrib.13" ID="14" KSNAME="THOUGH1" LEMMA="THOUGH" LINK="attrib" PAFT=" &quot;">though</W> 
 "<W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="15,16,17,18" HYPOT="absol-conj.10" ID="15" KSNAME="IN1" LEMMA="IN" LINK="absol-conj" PAFT=" ">in</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="15,16,17,18" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -793,7 +793,7 @@
 <W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="20" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="20" FEAT="V PP" HYPOT="analyt.12" ID="21" KSNAME="GO1" LEMMA="GO" LINK="analyt" PAFT=" ">gone</W> 
 <W DOM="23" FEAT="ADV" HYPOT="restr.12" ID="22" KSNAME="AS2" LEMMA="AS" LINK="restr" MSNAME="AS2" PAFT=" ">as</W> 
-<W DOM="21" FEAT="A" HYPOT="1-compl.11" ID="23" KSNAME="MERRY" LEMMA="MERRY" LINK="1-compl" PAFT=" " UNL="merry(icl&gt;adj,equ&gt;gay)" DEF="">merry</W> 
+<W DOM="21" FEAT="A" HYPOT="1-compl.11" ID="23" KSNAME="MERRY" LEMMA="MERRY" LINK="1-compl" PAFT=" " UNL="merry(icl&gt;adj,equ&gt;gay)" DEF="OFFERING FUN AND GAIETY" TRANS="веселый">merry</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="compar.10" ID="24" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.10" ID="25" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="27" FEAT="S SG" HYPOT="compos.01" ID="26" KSNAME="MARRIAGE" LEMMA="MARRIAGE" LINK="compos" PAFT=" " UNL="marriage(icl&gt;ritual&gt;thing)" DEF="THE ACT OF MARRYING" TRANS="свадьба">marriage</W> 
@@ -834,7 +834,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="2" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">can</W> 
 <W DOM="2" FEAT="V MF" GRP="3,4" HYPOT="1-compl.17" ID="3" KSNAME="MEET" LEMMA="MEET" LINK="1-compl" PAFT=" ">meet</W> 
 <W DOM="3" FEAT="PR" GRP="3,4" HYPOT="adverb.02" ID="4" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="ALOOFNESS" LEMMA="ALOOFNESS" LINK="prepos" PAFT=" " UNL="aloofness(icl&gt;indifference&gt;thing,equ&gt;distance)" DEF="">aloofness</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="ALOOFNESS" LEMMA="ALOOFNESS" LINK="prepos" PAFT=" " UNL="aloofness(icl&gt;indifference&gt;thing,equ&gt;distance)" DEF="INDIFFERENCE BY PERSONAL WITHDRAWAL" TRANS="холодность">aloofness</W> 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="6" KSNAME="ALMOST" LEMMA="ALMOST" LINK="restr" PAFT=" " UNL="almost(icl&gt;how,equ&gt;about)" DEF="(OF ACTIONS OR STATES) SLIGHTLY SHORT OF OR NOT QUITE ACCOMPLISHED" TRANS="почти,почитай">almost</W> 
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="ANYWHERE" LEMMA="ANYWHERE" LINK="adverb" PAFT=": " UNL="anywhere(icl&gt;how)" DEF="AT OR IN OR TO ANY PLACE" TRANS="где угодно">anywhere</W>: 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1402,7 +1402,7 @@
 </S>
 <S DATE="29 11 2010 20:27:28" ID="66" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g17.tgt;66" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="ART" GRP="1,2,3,4,5,6,7,8,9" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" " PBEF="&quot;">The</W> 
-<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="predic.01" ID="2" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="predic" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="predic.01" ID="2" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="predic" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="1,2,3,4,5,6,7,8,9" HYPOT="1-compl.07" ID="3" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="prepos.01" ID="4" KSNAME="COMPLICITY" LEMMA="COMPLICITY" LINK="prepos" PAFT=" " UNL="complicity(icl&gt;guilt&gt;thing)" DEF="GUILT AS AN ACCOMPLICE IN A CRIME OR OFFENSE" TRANS="соучастие">complicity</W> 
 <W DOM="_root" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS SG TP" GRP="1,2,3,4,5,6,7,8,9" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
@@ -1420,7 +1420,7 @@
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="SAME" LEMMA="SAME" LINK="modif" MSNAME="SAME" PAFT=" " UNL="same(icl&gt;adj,ant&gt;other)" DEF="SAME IN IDENTITY" TRANS="тот же">same</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="THING" LEMMA="THING" LINK="prepos" PAFT=" " UNL="thing(icl&gt;artifact&gt;thing)" DEF="AN ARTIFACT" TRANS="вещь,предмет">thing</W> 
 <W DOM="17" FEAT="CONJ" HYPOT="compar.10" ID="19" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
-<W DOM="19" FEAT="S SG" HYPOT="comp-conj.10" ID="20" KSNAME="REDEMPTION" LEMMA="REDEMPTION" LINK="comp-conj" PAFT=". " UNL="redemption(icl&gt;rescue&gt;thing)" DEF="">redemption</W>. 
+<W DOM="19" FEAT="S SG" HYPOT="comp-conj.10" ID="20" KSNAME="REDEMPTION" LEMMA="REDEMPTION" LINK="comp-conj" PAFT=". " UNL="redemption(icl&gt;rescue&gt;thing)" DEF="(CHRISTIANITY) THE ACT OF DELIVERING FROM SIN OR SAVING FROM EVIL" TRANS="спасение">redemption</W>. 
 </S>
 <S DATE="29 11 2010 20:27:28" ID="67" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g17.tgt;67" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.10" ID="1" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">A</W> 
@@ -1465,7 +1465,7 @@
 <W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="coordin.10" ID="20" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="20" EXTRAFEAT="ALT CAP IN-QUOT" FEAT="S SG" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="coord-conj.10" ID="21" KSNAME="SOUTH1" LEMMA="SOUTH" LINK="coord-conj" PAFT=" " UNL="south(iof&gt;geographical_area&gt;thing,equ&gt;confederacy)" DEF="THE SOUTHERN STATES THAT SECEDED FROM THE UNITED STATES IN 1861" TRANS="Юг">South</W> 
 <W DOM="24" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="determ.13" ID="22" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
-<W DOM="24" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="modif.01" ID="23" KSNAME="TERRIBLE" LEMMA="TERRIBLE" LINK="modif" PAFT=" " UNL="terrible(icl&gt;adj,equ&gt;atrocious)" DEF="">terrible</W> 
+<W DOM="24" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="modif.01" ID="23" KSNAME="TERRIBLE" LEMMA="TERRIBLE" LINK="modif" PAFT=" " UNL="terrible(icl&gt;adj,equ&gt;atrocious)" DEF="EXCEPTIONALLY BAD OR DISPLEASING" TRANS="ужасный">terrible</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" ID="24" KSNAME="WAR1" LEMMA="WAR" LINK="fictit" PAFT=", " UNL="war(icl&gt;hostility&gt;thing,ant&gt;peace)" DEF="A LEGAL STATE CREATED BY A DECLARATION OF WAR AND ENDED BY OFFICIAL DECLARATION DURING WHICH THE INTERNATIONAL RULES OF WAR APPLY" TRANS="война">war</W>, 
 <W DOM="24" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="attrib.18" ID="25" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35" HYPOT="determ.11" ID="26" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1793,7 +1793,7 @@
 <W DOM="37" FEAT="ART" HYPOT="determ.11" ID="36" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="35" FEAT="V ING" HYPOT="1-compl.01" ID="37" KSNAME="ENSLAVE" LEMMA="ENSLAVE" LINK="1-compl" PAFT=" ">enslaving</W> 
 <W DOM="3" FEAT="ART" ID="38" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="3" FEAT="S PL" ID="39" KSNAME="INHABITANT" LEMMA="INHABITANT" LINK="fictit" PAFT=" " UNL="inhabitant(icl&gt;person&gt;thing)" DEF="">inhabitants</W> 
+<W DOM="3" FEAT="S PL" ID="39" KSNAME="INHABITANT" LEMMA="INHABITANT" LINK="fictit" PAFT=" " UNL="inhabitant(icl&gt;person)" DEF="A PERSON WHO INHABITS A PARTICULAR PLACE" TRANS="житель">inhabitants</W> 
 <W DOM="39" FEAT="PR" HYPOT="1-compl.07" ID="40" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="40" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="41" KSNAME="AFRICA" LEMMA="AFRICA" LINK="prepos" PAFT=" " UNL="africa(iof&gt;continent&gt;thing)" DEF="THE SECOND LARGEST CONTINENT" TRANS="Африка">Africa</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="42" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">was</W> 
@@ -2221,7 +2221,7 @@
 <W DOM="1" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="coord-conj.00" ID="4" KSNAME="GALAXY" LEMMA="GALAXY" LINK="coord-conj" PAFT=" ">galaxy</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="5" FEAT="A" HYPOT="prepos.01" ID="6" KSNAME="THOSE" LEMMA="THOSE" LINK="prepos" PAFT=" ">those</W> 
-<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="ADORN" LEMMA="ADORN" LINK="fictit" PAFT=" " UNL="adorn(icl&gt;change&gt;do,equ&gt;decorate,cob&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="">adorns</W> 
+<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="ADORN" LEMMA="ADORN" LINK="fictit" PAFT=" " UNL="adorn(icl&gt;change&gt;do,equ&gt;decorate,cob&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="MAKE MORE ATTRACTIVE BY ADDING ORNAMENT, COLOUR, ETC." TRANS="украшать">adorns</W> 
 <W DOM="1" FEAT="CONJ" ID="8" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" ">fair</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="LAND1" LEMMA="LAND" LINK="1-compl" PAFT="! ">land</W>! 

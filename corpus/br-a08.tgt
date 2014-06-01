@@ -370,7 +370,7 @@
 <W DOM="9" FEAT="NUM" GRP="8,9" HYPOT="quant-aux.10" ID="8" KSNAME="HUNDRED1" LEMMA="HUNDRED" LINK="quant-aux" PAFT=" ">hundred</W> 
 <W DOM="10" FEAT="NUM" GRP="8,9" HYPOT="quantit.10" ID="9" KSNAME="THOUSAND1" LEMMA="THOUSAND" LINK="quantit" PAFT=" ">thousand</W> 
 <W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="10" KSNAME="PERSON" LEMMA="PERSON" LINK="predic" PAFT=" ">persons</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="11" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;appear&gt;occur,obj&gt;thing)" DEF="">turned</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="11" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;appear&gt;occur,obj&gt;person)" DEF="COME, USUALLY IN ANSWER TO AN INVITATION OR SUMMONS" TRANS="являться,приходить">turned</W> 
 <W DOM="11" FEAT="ADV" HYPOT="phras-junct.10" ID="12" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="11" FEAT="PART" HYPOT="1-compl.28" ID="13" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="13" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="14" KSNAME="WATCH1" LEMMA="WATCH" LINK="prepos" PAFT=" ">watch</W> 

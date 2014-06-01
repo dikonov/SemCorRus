@@ -1233,7 +1233,7 @@
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="REPORT2" LEMMA="REPORT" LINK="1-compl" PAFT=" ">report</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="11" KSNAME="SHOULD" LEMMA="SHOULD" LINK="subord-conj" MSNAME="SHOULD" PAFT=" ">should</W> 
-<W DOM="11" FEAT="V MF" HYPOT="analyt.13" ID="12" KSNAME="REFER2" LEMMA="REFER" LINK="analyt" PAFT=" " UNL="refer(icl&gt;research&gt;do,equ&gt;consult,agt&gt;thing)" DEF="">refer</W> 
+<W DOM="11" FEAT="V MF" HYPOT="analyt.13" ID="12" KSNAME="REFER2" LEMMA="REFER" LINK="analyt" PAFT=" " UNL="refer(icl&gt;consult&gt;do,agt&gt;person,obj&gt;information)" DEF="SEEK INFORMATION FROM" TRANS="обращаться">refer</W> 
 <W DOM="12" FEAT="PR" HYPOT="2-compl.02" ID="13" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" &quot;">to</W> 
 "<W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="14,15,16,17,18,19,20" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="14,15,16,17,18,19,20" HYPOT="prepos.01" ID="15" KSNAME="ORGANIZATION" LEMMA="ORGANIZATION" LINK="prepos" PAFT=" ">organization</W> 
@@ -1431,7 +1431,7 @@
 <W DOM="10" FEAT="S SG" HYPOT="compos.01" ID="9" KSNAME="TEACHER" LEMMA="TEACHER" LINK="compos" PAFT=" ">teacher</W> 
 <W DOM="3" FEAT="S PL" ID="10" KSNAME="DECLINE1" LEMMA="DECLINE" LINK="fictit" PAFT=" ">declines</W> 
 <W DOM="10" FEAT="PART" HYPOT="attrib.15" ID="11" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="11" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="GAMBLE2" LEMMA="GAMBLE" LINK="prepos" PAFT=" " UNL="gamble(icl&gt;try&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="">gamble</W> 
+<W DOM="11" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="GAMBLE2" LEMMA="GAMBLE" LINK="prepos" PAFT=" " UNL="gamble(icl&gt;try&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="TAKE A RISK IN THE HOPE OF A FAVORABLE OUTCOME" TRANS="рисковать">gamble</W> 
 <W DOM="16" FEAT="NUM" HYPOT="quantit.10" ID="13" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.10" ID="14" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="14" FEAT="NUM" HYPOT="coord-conj.10" ID="15" KSNAME="THREE1" LEMMA="THREE" LINK="coord-conj" PAFT=" ">three</W> 
@@ -1744,7 +1744,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="19" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="19" FEAT="A" HYPOT="copulat.11" ID="20" KSNAME="PRONE" LEMMA="PRONE" LINK="copulat" PAFT=" ">prone</W> 
 <W DOM="20" FEAT="PART" HYPOT="1-compl.15" ID="21" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="UNDERESTIMATE1" LEMMA="UNDERESTIMATE" LINK="prepos" PAFT=" " UNL="underestimate(icl&gt;misjudge&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">underestimate</W> 
+<W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="UNDERESTIMATE1" LEMMA="UNDERESTIMATE" LINK="prepos" PAFT=" " UNL="underestimate(icl&gt;misjudge&gt;do,agt&gt;thing,obj&gt;thing)" DEF="MAKE TOO LOW AN ESTIMATE OF" TRANS="недооценивать">underestimate</W> 
 <W DOM="29" FEAT="PART" HYPOT="correl.00" ID="23" KSNAME="BOTH2" LEMMA="BOTH" LINK="correl" MSNAME="BOTH2" PAFT=" ">both</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="26" FEAT="S POSS SG" HYPOT="posses.01" ID="25" KSNAME="LAYMAN" LEMMA="LAYMAN" LINK="posses" PAFT=" ">layman's</W> 

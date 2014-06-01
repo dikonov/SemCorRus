@@ -35,7 +35,7 @@
 <S DATE="29 11 2010 20:02:40" EXTRACOMM="Some nodes are not confirmed" ID="2" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_4\\br-f10.tgt;2" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="compos.06" ID="1" KSNAME="DOCTOR1" LEMMA="DOCTOR" LINK="compos" PAFT="&quot; " PBEF="&quot;" UNL="doctor(icl&gt;medical_practitioner&gt;thing)" DEF="A LICENSED MEDICAL PRACTITIONER" TRANS="врач,доктор">Doctor</W>" 
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="FICT-PERS" LEMMA="LEE" LINK="predic" PAFT=" ">Lee</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="4" KSNAME="SHE" LEMMA="SHE" LINK="1-compl" PAFT=" ">her</W> 
 <W DOM="3" FEAT="PART" HYPOT="2-compl.12" ID="5" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="5" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="LIE1" LEMMA="LIE" LINK="prepos" PAFT=" " UNL="lie_down(icl&gt;change_posture&gt;do,agt&gt;living_thing,plc&gt;thing)" DEF="">lie</W> 
@@ -691,7 +691,7 @@
 <W DOM="24" FEAT="PR" HYPOT="quasiagent.10" ID="25" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="25" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="26" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="prepos" PAFT=" ">Americans</W> 
 <W DOM="16" FEAT="PR" HYPOT="adverb.02" ID="27" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
-<W DOM="27" FEAT="V ING" HYPOT="prepos.01" ID="28" KSNAME="ROB1" LEMMA="ROB" LINK="prepos" PAFT=" " UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="">robbing</W> 
+<W DOM="27" FEAT="V ING" HYPOT="prepos.01" ID="28" KSNAME="ROB1" LEMMA="ROB" LINK="prepos" PAFT=" " UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="RIP OFF" TRANS="обчищать">robbing</W> 
 <W DOM="28" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="29" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=" ">them</W> 
 <W DOM="28" FEAT="PR" HYPOT="2-compl.02" ID="30" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
 <W DOM="30" FEAT="S PL" HYPOT="prepos.01" ID="31" KSNAME="MILLION2" LEMMA="MILLION" LINK="prepos" PAFT=" ">millions</W> 
@@ -1051,7 +1051,7 @@
 <W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="9" KSNAME="KNOW" LEMMA="KNOW" LINK="modif" PAFT=" ">known</W> 
 <W DOM="9" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
-<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="CON2" LEMMA="CON" LINK="pass-anal" PAFT=" " UNL="con(icl&gt;cheat&gt;do,equ&gt;victimize,agt&gt;thing,obj&gt;thing)" DEF="">conned</W> 
+<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="CON2" LEMMA="CON" LINK="pass-anal" PAFT=" " UNL="con(icl&gt;cheat&gt;do,equ&gt;victimize,agt&gt;thing,obj&gt;thing)" DEF="DEPRIVE OF BY DECEIT" TRANS="выманивать">conned</W> 
 <W DOM="12" FEAT="PR" HYPOT="agent.10" ID="13" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="MEDICAL" LEMMA="MEDICAL" LINK="modif" PAFT=" " UNL="medical(icl&gt;adj,com&gt;medicine)" DEF="RELATING TO THE STUDY OR PRACTICE OF MEDICINE" TRANS="медицинский">medical</W> 
 <W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="PIRATE1" LEMMA="PIRATE" LINK="prepos" PAFT=" " UNL="pirate(icl&gt;thief&gt;thing,equ&gt;plagiarist)" DEF="">pirates</W> 
@@ -1222,7 +1222,7 @@
 <W DOM="2" FEAT="PR" ID="28" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
 <W DOM="2" FEAT="ART" ID="29" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="31" FEAT="A" HYPOT="modif.01" ID="30" KSNAME="REAL" LEMMA="REAL" LINK="modif" PAFT=" " UNL="real(icl&gt;adj,ant&gt;unreal)" DEF="BEING OR OCCURRING IN FACT OR ACTUALITY" TRANS="реальный">real</W> 
-<W DOM="23" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="LOOT1" LEMMA="LOOT" LINK="prepos" PAFT=" " UNL="loot(icl&gt;money&gt;thing,equ&gt;boodle)" DEF="">loot</W> 
+<W DOM="23" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="LOOT1" LEMMA="LOOT" LINK="prepos" PAFT=" " UNL="loot(icl&gt;money&gt;thing,equ&gt;boodle)" DEF="INFORMAL TERMS FOR MONEY" TRANS="бабло,бабки">loot</W> 
 <W DOM="31" FEAT="PR" HYPOT="attrib.01" ID="32" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="35" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="35" FEAT="A" HYPOT="modif.01" ID="34" KSNAME="MEDICAL" LEMMA="MEDICAL" LINK="modif" PAFT=" " UNL="medical(icl&gt;adj,com&gt;medicine)" DEF="RELATING TO THE STUDY OR PRACTICE OF MEDICINE" TRANS="медицинский">medical</W> 
@@ -1283,7 +1283,7 @@
 <W DOM="24" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="THERAPEUTIC" LEMMA="THERAPEUTIC" LINK="modif" PAFT=" " UNL="therapeutic(icl&gt;adj,com&gt;therapy)" DEF="RELATING TO OR INVOLVED IN THERAPY" TRANS="терапевтический">therapeutic</W> 
 <W DOM="20" FEAT="S PL" HYPOT="prepos.01" ID="24" KSNAME="GADGET" LEMMA="GADGET" LINK="prepos" PAFT=" " UNL="gadget(icl&gt;device&gt;thing,equ&gt;appliance)" DEF="A DEVICE OR CONTROL THAT IS VERY USEFUL FOR A PARTICULAR JOB" TRANS="приспособление">gadgets</W> 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="subord-conj.10" ID="25" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">are</W> 
-<W DOM="25" FEAT="V ING" HYPOT="analyt.11" ID="26" KSNAME="GAMBLE2" LEMMA="GAMBLE" LINK="analyt" PAFT=" " UNL="gamble(icl&gt;try&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="">gambling</W> 
+<W DOM="25" FEAT="V ING" HYPOT="analyt.11" ID="26" KSNAME="GAMBLE2" LEMMA="GAMBLE" LINK="analyt" PAFT=" " UNL="gamble(icl&gt;try&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="TAKE A RISK IN THE HOPE OF A FAVORABLE OUTCOME" TRANS="рисковать">gambling</W> 
 <W DOM="26" FEAT="ADV" HYPOT="phras-junct.10" ID="27" KSNAME="AWAY2" LEMMA="AWAY" LINK="phras-junct" PAFT=". ">away</W>. 
 </S>
 <S DATE="29 11 2010 20:02:58" EXTRACOMM="Tagging contradicts ETAP parsing: DESPERATE - DESPERATE" ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_4\\br-f10.tgt;60" STATUS="doubt">
@@ -1405,7 +1405,7 @@
 <W DOM="1" EXTRAFEAT="CAP CAPIT" FEAT="ART" GRP="1,2" HYPOT="appos.03" ID="2" KSNAME="AN1" LEMMA="AN" LINK="appos" MSNAME="AN1" PAFT=", ">A</W>, 
 <W DOM="4" FEAT="A" HYPOT="determ.13" ID="3" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="7" FEAT="S SG" HYPOT="parenth.20" ID="4" KSNAME="FELLOW" LEMMA="FELLOW" LINK="parenth" PAFT=" ">fellow</W> 
-<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="TOWNSMAN" LEMMA="TOWNSMAN" LINK="predic" PAFT=", " UNL="townsman(icl&gt;peer&gt;thing)" DEF="">townsman</W>, 
+<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="TOWNSMAN" LEMMA="TOWNSMAN" LINK="predic" PAFT=", " UNL="townsman(icl&gt;peer&gt;person)" DEF="">townsman</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="6" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="EXPERIENCE2" LEMMA="EXPERIENCE" PAFT=" ">experienced</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1735,7 +1735,7 @@
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="PART1" LEMMA="PART" LINK="prepos" PAFT=" " UNL="part(icl&gt;line&gt;thing,com&gt;hair)" DEF="A LINE OF SCALP THAT CAN BE SEEN WHEN SECTIONS OF HAIR ARE COMBED IN OPPOSITE DIRECTIONS" TRANS="пробор">parts</W> 
 <W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="YOUR" LEMMA="YOUR" LINK="determ" PAFT=" ">your</W> 
-<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="ANATOMY" LEMMA="ANATOMY" LINK="prepos" PAFT=", " UNL="anatomy(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="">anatomy</W>, 
+<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="ANATOMY" LEMMA="ANATOMY" LINK="prepos" PAFT=", " UNL="anatomy(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="ALTERNATIVE NAMES FOR THE BODY OF A HUMAN BEING" TRANS="тушка">anatomy</W>, 
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="sent-coordin.10" ID="15" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="determ.13" ID="16" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="predic.01" ID="17" KSNAME="RAY1" LEMMA="RAY" LINK="predic" PAFT=" " UNL="ray(icl&gt;light&gt;thing,equ&gt;beam)" DEF="A LINE OF LIGHT" TRANS="луч">rays</W> 

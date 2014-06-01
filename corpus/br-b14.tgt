@@ -270,7 +270,7 @@
 <W DOM="3" FEAT="CONJ" HYPOT="adverb.10" ID="5" KSNAME="AFTER2" LEMMA="AFTER" LINK="adverb" MSNAME="AFTER2" PAFT=" ">after</W> 
 <W DOM="7" FEAT="S NOM PL" HYPOT="predic.01" ID="6" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="7" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">have</W> 
-<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="PASS1" LEMMA="PASS" LINK="analyt" PAFT=" " UNL="pass_by(icl&gt;travel&gt;occur,equ&gt;travel_by,cob&gt;thing,obj&gt;thing)" DEF="">passed</W> 
+<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="PASS1" LEMMA="PASS" LINK="analyt" PAFT=" " UNL="pass_by(icl&gt;travel&gt;occur,equ&gt;travel_by,cob&gt;thing,obj&gt;thing)" DEF="PASS BY" TRANS="проходить мимо,миновать">passed</W> 
 <W DOM="8" FEAT="ADV" HYPOT="phras-junct.10" ID="9" KSNAME="BY2" LEMMA="BY" LINK="phras-junct" PAFT=". ">by</W>. 
 </S>
 <S DATE="29 11 2010 20:09:19" ID="10" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_34\\br-b14.tgt;10" STATUS="doubt">
@@ -1824,7 +1824,7 @@
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM PL" GRP="1,2,3,4,5,6" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" " PBEF="&quot;">They</W> 
 <W DOM="8" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS PL" GRP="1,2,3,4,5,6" HYPOT="1-compl.30" ID="2" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">are</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6" HYPOT="restr.11" ID="3" KSNAME="JUST1" LEMMA="JUST" LINK="restr" PAFT=" ">just</W> 
-<W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6" HYPOT="analyt.11" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6" HYPOT="analyt.11" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6" HYPOT="restr.12" ID="5" KSNAME="TOO1" LEMMA="TOO" LINK="restr" PAFT=" ">too</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6" HYPOT="1-compl.01" ID="6" KSNAME="MUCH" LEMMA="MUCH" LINK="1-compl" PAFT="&quot;, ">much</W>", 
 <W DOM="8" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 

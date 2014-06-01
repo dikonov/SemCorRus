@@ -1623,7 +1623,7 @@
 <W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="LOCATE" LEMMA="LOCATE" LINK="pass-anal" PAFT=" ">located</W> 
 <W DOM="11" FEAT="CONJ" HYPOT="sent-coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="15" FEAT="NUM" HYPOT="predic.01" ID="14" KSNAME="ELEVEN" LEMMA="ELEVEN" LINK="predic" PAFT=" ">eleven</W> 
-<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="15" KSNAME="PREFER1" LEMMA="PREFER" LINK="coord-conj" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">preferred</W> 
+<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="15" KSNAME="PREFER1" LEMMA="PREFER" LINK="coord-conj" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">preferred</W> 
 <W DOM="15" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="ASSESSMENT" LEMMA="ASSESSMENT" LINK="1-compl" PAFT=" ">assessment</W> 
 <W DOM="15" FEAT="PR" HYPOT="adverb.02" ID="17" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1655,7 +1655,7 @@
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="BY1" LEMMA="BY" LINK="attrib" PAFT=" ">by</W> 
 <W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="LOCATION" LEMMA="LOCATION" LINK="prepos" PAFT=" ">location</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="13" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="13" FEAT="V PP" HYPOT="pass-anal.10" ID="14" KSNAME="PREFER1" LEMMA="PREFER" LINK="pass-anal" PAFT=". " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">preferred</W>. 
+<W DOM="13" FEAT="V PP" HYPOT="pass-anal.10" ID="14" KSNAME="PREFER1" LEMMA="PREFER" LINK="pass-anal" PAFT=". " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">preferred</W>. 
 </S>
 <S DATE="30 11 2010 10:47:41" ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_45\\br-h05.tgt;60" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="PART" HYPOT="predic.10" ID="1" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">There</W> 
@@ -1732,7 +1732,7 @@
 <W ID="44">of</W> 
 <W FEAT="S SG" ID="45" KSNAME="LOCATION" LEMMA="LOCATION">location</W> 
 <W FEAT="V" ID="46" KSNAME="BE" LEMMA="BE">is</W> 
-<W FEAT="V" ID="47" KSNAME="PREFER1" LEMMA="PREFER" UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:31:00::">preferred</W> 
+<W FEAT="V" ID="47" KSNAME="PREFER1" LEMMA="PREFER" UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать" WN21="2:31:00::">preferred</W> 
 <W ID="48">on</W> 
 <W FEAT="ART" ID="49" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S" ID="50" KSNAME="BASIS" LEMMA="BASIS">basis</W> 

@@ -1016,7 +1016,7 @@
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" ID="38" KSNAME="MAKE1" LEMMA="MAKE" LINK="fictit" PAFT=" ">make</W> 
 <W DOM="41" FEAT="A" HYPOT="modif.01" ID="39" KSNAME="PINK" LEMMA="PINK" LINK="modif" PAFT=" ">pink</W> 
 <W DOM="41" FEAT="NID" HYPOT="compos.01" ID="40" KSNAME="FICT-LEX" LEMMA="PETTICOATED" LINK="compos" PAFT=" ">petticoated</W> 
-<W DOM="38" FEAT="S PL" HYPOT="1-compl.01" ID="41" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT="; " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies</W>; 
+<W DOM="38" FEAT="S PL" HYPOT="1-compl.01" ID="41" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT="; " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies</W>; 
 <W DOM="41" FEAT="CONJ" HYPOT="coordin.10" ID="42" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="47" FEAT="ART" HYPOT="determ.11" ID="43" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="47" FEAT="A" HYPOT="modif.01" ID="44" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=", " UNL="little(icl&gt;adj,equ&gt;small,ant&gt;big)" DEF="LIMITED OR BELOW AVERAGE IN NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="небольшой">little</W>, 
@@ -1229,13 +1229,13 @@
 <W DOM="25" FEAT="PR" HYPOT="attrib.01" ID="26" KSNAME="IN$FRONT$OF" LEMMA="IN FRONT OF" LINK="attrib" PAFT=" ">in front of</W> 
 <W DOM="29" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="28" KSNAME="PURPLE2" LEMMA="PURPLE" LINK="modif" PAFT=" ">purple</W> 
-<W DOM="26" FEAT="S PL" HYPOT="prepos.01" ID="29" KSNAME="FLAG1" LEMMA="FLAG" LINK="prepos" PAFT=". " UNL="flag(icl&gt;iridaceous_plant&gt;thing,equ&gt;iris)" DEF="">flags</W>. 
+<W DOM="26" FEAT="S PL" HYPOT="prepos.01" ID="29" KSNAME="FLAG1" LEMMA="FLAG" LINK="prepos" PAFT=". " UNL="flag(icl&gt;iridaceous_plant&gt;thing,equ&gt;iris)" DEF="PLANTS WITH SWORD-SHAPED LEAVES AND ERECT STALKS BEARING BRIGHT-COLORED FLOWERS COMPOSED OF THREE PETALS AND THREE DROOPING SEPALS" TRANS="ирис">flags</W>. 
 </S>
 <S DATE="29 11 2010 20:26:14" EXTRACOMM="Tagging contradicts ETAP parsing:  - CAST1,CAST2\nTagging contradicts ETAP parsing:  - COLOUR2,COLOUR2\nTagging contradicts ETAP parsing: GAP2 - GAPE1" ID="39" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g14.tgt;39" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="AND" LEMMA="AND" PAFT=" ">And</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="V PP" HYPOT="modif.01" ID="3" KSNAME="CAST2" LEMMA="CAST" LINK="modif" PAFT=" ">cast</W> 
-<W DOM="1" FEAT="S SG" HYPOT="coord-conj.00" ID="4" KSNAME="SHELL1" LEMMA="SHELL" LINK="coord-conj" PAFT=" " UNL="shell(icl&gt;scute&gt;thing,equ&gt;carapace)" DEF="">shell</W> 
+<W DOM="1" FEAT="S SG" HYPOT="coord-conj.00" ID="4" KSNAME="SHELL1" LEMMA="SHELL" LINK="coord-conj" PAFT=" " UNL="shell(icl&gt;scute&gt;concrete_thing,equ&gt;carapace,obj&gt;animal)" DEF="HARD OUTER COVERING OR CASE OF CERTAIN ORGANISMS SUCH AS ARTHROPODS AND TURTLES" TRANS="панцирь">shell</W> 
 <W DOM="4" FEAT="PR" HYPOT="quasiagent.10" ID="5" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="LOCUST" LEMMA="LOCUST" LINK="prepos" PAFT=", " UNL="locust(icl&gt;short-horned_grasshopper&gt;thing)" DEF="MIGRATORY GRASSHOPPERS OF WARM REGIONS HAVING SHORT ANTENNAE" TRANS="саранча">locust</W>, 
@@ -1283,7 +1283,7 @@
 <W DOM="19" FEAT="PR" HYPOT="1-compl.07" ID="20" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="LOCUST" LEMMA="LOCUST" LINK="compos" PAFT=" " UNL="locust(icl&gt;short-horned_grasshopper&gt;thing)" DEF="MIGRATORY GRASSHOPPERS OF WARM REGIONS HAVING SHORT ANTENNAE" TRANS="саранча">locust</W> 
-<W DOM="20" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="SHELL1" LEMMA="SHELL" LINK="prepos" PAFT=", " UNL="shell(icl&gt;scute&gt;thing,equ&gt;carapace)" DEF="">shells</W>, 
+<W DOM="20" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="SHELL1" LEMMA="SHELL" LINK="prepos" PAFT=", " UNL="shell(icl&gt;scute&gt;concrete_thing,equ&gt;carapace,obj&gt;animal)" DEF="HARD OUTER COVERING OR CASE OF CERTAIN ORGANISMS SUCH AS ARTHROPODS AND TURTLES" TRANS="панцирь">shells</W>, 
 <W DOM="25" FEAT="ADV" HYPOT="adverb.01" ID="24" KSNAME="CAREFULLY" LEMMA="CAREFULLY" LINK="adverb" PAFT=" " UNL="carefully(icl&gt;how,com&gt;careful)" DEF="TAKING CARE OR PAYING ATTENTION" TRANS="осторожно">carefully</W> 
 <W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="25" KSNAME="DETACH" LEMMA="DETACH" LINK="coordin" PAFT=" " UNL="detach(icl&gt;separate&gt;do,equ&gt;disconnect,cob&gt;concrete_thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="CAUSE TO BECOME PHYSICALLY SEPARATED" TRANS="отделять">detached</W> 
 <W DOM="28" FEAT="A" HYPOT="determ.13" ID="26" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
@@ -1597,7 +1597,7 @@
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="GATE1" LEMMA="GATE" LINK="prepos" PAFT=", " UNL="gate(icl&gt;movable_barrier&gt;thing)" DEF="A MOVABLE BARRIER IN A FENCE OR WALL" TRANS="ворота">gates</W>, 
 <W DOM="5" FEAT="CONJ" HYPOT="adverb.10" ID="9" KSNAME="LEST" LEMMA="LEST" LINK="adverb" PAFT=" ">lest</W> 
 <W DOM="11" FEAT="S NOM PL" HYPOT="predic.01" ID="10" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
-<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="11" KSNAME="SAG2" LEMMA="SAG" LINK="subord-conj" PAFT=" " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="">sag</W> 
+<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="11" KSNAME="SAG2" LEMMA="SAG" LINK="subord-conj" PAFT=" " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="DROOP, SINK, OR SETTLE FROM OR AS IF FROM PRESSURE OR LOSS OF TAUTNESS" TRANS="провисать,свисать,отвисать,обвисать">sag</W> 
 <W DOM="11" FEAT="PR" HYPOT="adverb.02" ID="12" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
 <W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="12" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="HINGE1" LEMMA="HINGE" LINK="prepos" PAFT=" " UNL="hinge(icl&gt;joint&gt;thing)" DEF="A JOINT THAT HOLDS TWO PARTS TOGETHER SO THAT ONE CAN SWING RELATIVE TO THE OTHER" TRANS="шарнир">hinges</W> 
@@ -1834,10 +1834,10 @@
 <W FEAT="V" ID="10" KSNAME="LIFT1" LEMMA="LIFT" UNL="lift(icl&gt;utter&gt;do,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:32:02::">lifted</W> 
 <W FEAT="A" ID="11" KSNAME="HIS1" LEMMA="HIS">his</W> 
 <W FEAT="S SG" ID="12" KSNAME="VOICE1" LEMMA="VOICE" WN21="1:10:00::">voice</W>: 
-"<W FEAT="S SG" GRP="13,14,15,16,17,18,19,20" ID="13" KSNAME="RHUBARB" LEMMA="RHUBARB" UNL="rhubarb(icl&gt;vegetable&gt;thing,equ&gt;pieplant)" DEF="" WN21="1:13:00::">Rhu beb</W> 
+"<W FEAT="S SG" GRP="13,14,15,16,17,18,19,20" ID="13" KSNAME="RHUBARB" LEMMA="RHUBARB" UNL="rhubarb(icl&gt;vegetable&gt;thing,equ&gt;pieplant)" DEF="LONG PINKISH SOUR LEAFSTALKS USUALLY EATEN COOKED AND SWEETENED" TRANS="ревень" WN21="1:13:00::">Rhu beb</W> 
 <W FEAT="A" GRP="13,14,15,16,17,18,19,20" ID="14" KSNAME="NICE1" LEMMA="NICE" UNL="nice(icl&gt;adj,ant&gt;nasty)" DEF="PLEASANT OR PLEASING OR AGREEABLE IN NATURE OR APPEARANCE" TRANS="приятный" WN21="3:00:00::">ni ice</W> 
 <W FEAT="A" GRP="13,14,15,16,17,18,19,20" ID="15" KSNAME="FRESH" LEMMA="FRESH" UNL="fresh(icl&gt;adj,ant&gt;stale)" DEF="RECENTLY MADE, PRODUCED, OR HARVESTED" TRANS="свежий" WN21="3:00:01::">fresh</W> 
-<W FEAT="S SG" GRP="13,14,15,16,17,18,19,20" ID="16" KSNAME="RHUBARB" LEMMA="RHUBARB" UNL="rhubarb(icl&gt;vegetable&gt;thing,equ&gt;pieplant)" DEF="" WN21="1:13:00::">rhu beb</W> 
+<W FEAT="S SG" GRP="13,14,15,16,17,18,19,20" ID="16" KSNAME="RHUBARB" LEMMA="RHUBARB" UNL="rhubarb(icl&gt;vegetable&gt;thing,equ&gt;pieplant)" DEF="LONG PINKISH SOUR LEAFSTALKS USUALLY EATEN COOKED AND SWEETENED" TRANS="ревень" WN21="1:13:00::">rhu beb</W> 
 <W FEAT="S SG" GRP="13,14,15,16,17,18,19,20" ID="17" KSNAME="TODAY2" LEMMA="TODAY" UNL="today(icl&gt;time,ant&gt;tomorrow,ant&gt;yesterday)" DEF="THE DAY THAT INCLUDES THE PRESENT MOMENT (AS OPPOSED TO YESTERDAY OR TOMORROW)" TRANS="сегодня" WN21="1:28:01::">today</W>"! 
 <W DOM="19" EXTRACOMM="CD entry FICT-LEX has POS NID but not , it should be changed" GRP="13,14,15,16,17,18,19,20" ID="18" LEMMA="FICT-LEX" LINK="compos" STATUS="doubt"/> 
 <W DOM="16" EXTRACOMM="CD entry FICT-LEX has POS NID but not , it should be changed" GRP="13,14,15,16,17,18,19,20" ID="19" LEMMA="FICT-LEX" LINK="1-compl" STATUS="doubt"/> 

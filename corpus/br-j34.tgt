@@ -735,7 +735,7 @@
 <W DOM="15" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="DIFFERENCE1" LEMMA="DIFFERENCE" LINK="predic" PAFT=" " UNL="difference(icl&gt;variation&gt;thing,equ&gt;deviation)" DEF="A VARIATION THAT DEVIATES FROM THE STANDARD OR NORM" TRANS="отклонение">differences</W> 
 <W DOM="2" FEAT="PR" HYPOT="1-compl.07" ID="3" KSNAME="FROM" LEMMA="FROM" LINK="1-compl" PAFT=" ">from</W> 
 <W DOM="5" FEAT="NUM" HYPOT="quantit.10" ID="4" KSNAME="ONE1" LEMMA="ONE" LINK="quantit" PAFT=" ">one</W> 
-<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="prepos" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speaker</W> 
+<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="prepos" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speaker</W> 
 <W DOM="3" FEAT="PR" HYPOT="correl.d0" ID="6" KSNAME="TO1" LEMMA="TO" LINK="correl" PAFT=" ">to</W> 
 <W DOM="6" FEAT="A" HYPOT="prepos.01" ID="7" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="prepos" PAFT=", ">another</W>, 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.11" ID="8" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
@@ -904,7 +904,7 @@
 <W DOM="8" FEAT="CONJ" HYPOT="adverb.10" ID="9" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="9" FEAT="A" HYPOT="comp-conj.10" ID="10" KSNAME="DIFFICULT" LEMMA="DIFFICULT" LINK="comp-conj" PAFT=" " UNL="difficult(icl&gt;adj,ant&gt;easy)" DEF="NOT EASY" TRANS="трудный,сложный">difficult</W> 
 <W DOM="10" FEAT="PART" HYPOT="objinfin.10" ID="11" KSNAME="TO2" LEMMA="TO" LINK="objinfin" PAFT=" ">to</W> 
-<W DOM="11" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="DISENTANGLE" LEMMA="DISENTANGLE" LINK="prepos" PAFT=" " UNL="disentangle(icl&gt;order&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="">disentangle</W> 
+<W DOM="11" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="DISENTANGLE" LEMMA="DISENTANGLE" LINK="prepos" PAFT=" " UNL="disentangle(icl&gt;order&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="EXTRICATE FROM ENTANGLEMENT" TRANS="выпутывать">disentangle</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="adverb.10" ID="13" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="subord-conj.10" ID="14" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">are</W> 
 <W DOM="14" FEAT="S SG" HYPOT="copulat.10" ID="15" KSNAME="TONE1" LEMMA="TONE" LINK="copulat" PAFT=" " UNL="tone(icl&gt;abstract_thing,com&gt;language)" DEF="(LINGUISTICS) A PITCH OR CHANGE IN PITCH OF THE VOICE THAT SERVES TO DISTINGUISH WORDS IN TONAL LANGUAGES" TRANS="тон">tone</W> 

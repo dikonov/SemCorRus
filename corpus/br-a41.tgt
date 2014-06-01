@@ -69,7 +69,7 @@
 <W DOM="16" FEAT="S NOM SG" HYPOT="predic.01" ID="15" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="16,17" HYPOT="subord-conj.10" ID="16" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="16" FEAT="A COMP" GRP="16,17" HYPOT="locut.d0" ID="17" KSNAME="GOOD1" LEMMA="GOOD" LINK="locut" PAFT=" ">better</W> 
-<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.d0" ID="18" KSNAME="GRAB1" LEMMA="GRAB" LINK="1-compl" PAFT=" " UNL="grab(icl&gt;take&gt;do,equ&gt;snap_up,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="">grab</W> 
+<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.d0" ID="18" KSNAME="GRAB1" LEMMA="GRAB" LINK="1-compl" PAFT=" " UNL="grab(icl&gt;take&gt;do,equ&gt;snap_up,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="GET HOLD OF OR SEIZE QUICKLY AND EASILY" TRANS="схватить">grab</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.10" ID="19" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="20" KSNAME="COLONY" LEMMA="COLONY" LINK="1-compl" PAFT=" ">colony</W> 
 <W DOM="18" FEAT="CONJ" HYPOT="adverb.10" ID="21" KSNAME="WHILE1" LEMMA="WHILE" LINK="adverb" PAFT=" ">while</W> 
@@ -652,7 +652,7 @@
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.00" ID="24" KSNAME="FEEL1" LEMMA="FEEL" LINK="coord-conj" PAFT=" ">felt</W> 
 <W DOM="24" FEAT="A" HYPOT="1-compl.11" ID="25" KSNAME="OBLIGED" LEMMA="OBLIGED" LINK="1-compl" PAFT=" ">obliged</W> 
 <W DOM="24" FEAT="PART" HYPOT="adverb.11" ID="26" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="26" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="27" KSNAME="DOLE2" LEMMA="DOLE" LINK="prepos" MSNAME="DOLE2" PAFT=" " UNL="dole_out(icl&gt;give&gt;do,equ&gt;distribute,agt&gt;thing,obj&gt;thing,rec&gt;thing)" DEF="">dole</W> 
+<W DOM="26" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="27" KSNAME="DOLE2" LEMMA="DOLE" LINK="prepos" MSNAME="DOLE2" PAFT=" " UNL="dole_out(icl&gt;give&gt;do,equ&gt;distribute,agt&gt;thing,obj&gt;thing,rec&gt;thing)" DEF="ADMINISTER OR BESTOW, AS IN SMALL PORTIONS" TRANS="выдавать">dole</W> 
 <W DOM="27" FEAT="ADV" HYPOT="phras-junct.10" ID="28" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="27" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="29" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="1" FEAT="ADV" ID="30" KSNAME="OUT1" LEMMA="OUT" LINK="fictit" PAFT=" ">out</W> 

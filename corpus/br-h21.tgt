@@ -111,7 +111,7 @@
 <W DOM="25" FEAT="ART" HYPOT="determ.10" ID="22" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="24" FEAT="S SG" GRP="23,24" HYPOT="compos.01" ID="23" KSNAME="YEAR" LEMMA="YEAR" LINK="compos" PAFT=" ">year</W> 
 <W DOM="25" FEAT="S SG" GRP="23,24" HYPOT="compos.01" ID="24" KSNAME="END1" LEMMA="END" LINK="compos" PAFT=" ">end</W> 
-<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="STRENGTH" LEMMA="STRENGTH" LINK="prepos" PAFT=" " UNL="strength(icl&gt;asset&gt;thing,equ&gt;forte)" DEF="">strength</W> 
+<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="STRENGTH" LEMMA="STRENGTH" LINK="prepos" PAFT=" " UNL="strength(icl&gt;asset&gt;thing,equ&gt;forte)" DEF="AN ASSET OF SPECIAL WORTH OR UTILITY" TRANS="сильная сторона">strength</W> 
 <W DOM="25" FEAT="PR" HYPOT="quasiagent.10" ID="26" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="28" FEAT="NUM" HYPOT="quantit.10" ID="27" KSNAME="NUM-THOUS" LEMMA="2489000" LINK="quantit" PAFT=" ">2489000</W> 
 <W DOM="26" FEAT="S PL" HYPOT="prepos.01" ID="28" KSNAME="MAN1" LEMMA="MAN" LINK="prepos" PAFT=" ">men</W> 
@@ -133,7 +133,7 @@
 <W FEAT="S SG" ID="8" KSNAME="ARMY" LEMMA="ARMY" UNL="army(icl&gt;military_service&gt;thing)" DEF="A PERMANENT ORGANIZATION OF THE MILITARY LAND FORCES OF A NATION OR STATE" TRANS="армия" WN21="1:14:00::">Army</W> 
 <W ID="9">of</W> 
 <W FEAT="NUM" ID="10" KSNAME="NUM-LARGE" LEMMA="14">14</W> 
-<W FEAT="S" ID="11" KSNAME="DIVISION3" LEMMA="DIVISION" UNL="division(icl&gt;army_unit&gt;thing)" DEF="" WN21="1:14:00::">divisions</W> 
+<W FEAT="S" ID="11" KSNAME="DIVISION3" LEMMA="DIVISION" UNL="division(icl&gt;army_unit&gt;thing,fld&gt;army)" DEF="AN ARMY UNIT LARGE ENOUGH TO SUSTAIN COMBAT" TRANS="дивизия" WN21="1:14:00::">divisions</W> 
 <W FEAT="CONJ" ID="12" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="NUM" ID="13" KSNAME="NUM-THOUS" LEMMA="870000">870000</W> 
 <W FEAT="S" ID="14" WN21="1:14:00::">men</W>; 
@@ -151,7 +151,7 @@
 <W FEAT="S" GRP="25,26" ID="26" KSNAME="CORPS" LEMMA="CORPS">Corps</W> 
 <W ID="27">of</W> 
 <W FEAT="NUM" ID="28" KSNAME="NUM-SMALL" LEMMA="3">3</W> 
-<W FEAT="S" ID="29" KSNAME="DIVISION3" LEMMA="DIVISION" UNL="division(icl&gt;army_unit&gt;thing)" DEF="" WN21="1:14:00::">divisions</W> 
+<W FEAT="S" ID="29" KSNAME="DIVISION3" LEMMA="DIVISION" UNL="division(icl&gt;army_unit&gt;thing,fld&gt;army)" DEF="AN ARMY UNIT LARGE ENOUGH TO SUSTAIN COMBAT" TRANS="дивизия" WN21="1:14:00::">divisions</W> 
 <W FEAT="CONJ" ID="30" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="NUM" ID="31" KSNAME="NUM-SMALL" LEMMA="3">3</W> 
 <W FEAT="A" ID="32" WN21="3:00:00::">air</W> 
@@ -572,7 +572,7 @@
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="MILITARY1" LEMMA="MILITARY" LINK="modif" PAFT=" " UNL="military(icl&gt;adj,com&gt;military_science)" DEF="OF OR RELATING TO THE STUDY OF THE PRINCIPLES OF WARFARE" TRANS="военный">military</W> 
 <W DOM="5" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="PAY2" LEMMA="PAY" LINK="compos" PAFT=" " UNL="pay(icl&gt;regular_payment&gt;thing,equ&gt;wage)" DEF="SOMETHING THAT REMUNERATES" TRANS="получка,денежное довольствие,плата">pay</W> 
 <W DOM="6" FEAT="S SG" ID="5" KSNAME="ACT1" LEMMA="ACT" LINK="fictit" PAFT=" " UNL="act(icl&gt;legal_document&gt;thing)" DEF="A LEGAL DOCUMENT CODIFYING THE RESULT OF DELIBERATIONS OF A COMMITTEE OR SOCIETY OR LEGISLATIVE BODY" TRANS="акт">act</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="DEPART" LEMMA="DEPART" PAFT=" " UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="">departed</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="DEPART" LEMMA="DEPART" PAFT=" " UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="BE AT VARIANCE WITH" TRANS="отклоняться">departed</W> 
 <W DOM="6" FEAT="PR" HYPOT="1-compl.07" ID="7" KSNAME="FROM" LEMMA="FROM" LINK="1-compl" PAFT=" ">from</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="10" FEAT="V PP" HYPOT="modif.01" ID="9" KSNAME="ESTABLISH" LEMMA="ESTABLISH" LINK="modif" PAFT=" ">established</W> 
@@ -905,7 +905,7 @@
 <W DOM="10" FEAT="CONJ" HYPOT="1-compl.21" ID="12" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="14" KSNAME="SECTION1" LEMMA="SECTION" LINK="predic" PAFT=" " UNL="section(icl&gt;writing&gt;thing)" DEF="A SELF-CONTAINED PART OF A LARGER COMPOSITION (WRITTEN OR MUSICAL)" TRANS="часть">section</W> 
-<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="15" KSNAME="VIOLATE" LEMMA="VIOLATE" LINK="subord-conj" PAFT=" " UNL="violate(icl&gt;disrespect&gt;do,equ&gt;transgress,agt&gt;thing,obj&gt;thing)" DEF="">violates</W> 
+<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="15" KSNAME="VIOLATE" LEMMA="VIOLATE" LINK="subord-conj" PAFT=" " UNL="violate(icl&gt;disrespect&gt;do,equ&gt;transgress,agt&gt;thing,obj&gt;thing)" DEF="ACT IN DISREGARD OF LAWS, RULES, CONTRACTS, OR PROMISES" TRANS="нарушать">violates</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="FUNDAMENTAL1" LEMMA="FUNDAMENTAL" LINK="modif" PAFT=" ">fundamental</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="CONSTITUTIONAL" LEMMA="CONSTITUTIONAL" LINK="modif" PAFT=" ">constitutional</W> 
 <W DOM="15" FEAT="S PL" HYPOT="1-compl.01" ID="18" KSNAME="PRINCIPLE" LEMMA="PRINCIPLE" LINK="1-compl" PAFT=". ">principles</W>. 
@@ -1025,7 +1025,7 @@
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="17" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="20" FEAT="A" HYPOT="determ.13" ID="18" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="EARLY1" LEMMA="EARLY" LINK="modif" PAFT=" ">early</W> 
-<W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="20" KSNAME="ENACTMENT" LEMMA="ENACTMENT" LINK="predic" MSNAME="ENACTMENT" PAFT=" " UNL="enactment(icl&gt;legislation&gt;thing)" DEF="">enactment</W> 
+<W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="20" KSNAME="ENACTMENT" LEMMA="ENACTMENT" LINK="predic" MSNAME="ENACTMENT" PAFT=" " UNL="enactment(icl&gt;legislation&gt;thing)" DEF="THE PASSING OF A LAW BY A LEGISLATIVE BODY" TRANS="утверждение">enactment</W> 
 <W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="coord-conj.10" ID="21" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">is</W> 
 <W DOM="21" FEAT="A" HYPOT="copulat.11" ID="22" KSNAME="DESIRABLE" LEMMA="DESIRABLE" LINK="copulat" PAFT=". " UNL="desirable(icl&gt;adj,ant&gt;undesirable)" DEF="WORTH HAVING OR SEEKING OR ACHIEVING" TRANS="желательный">desirable</W>. 
 </S>
@@ -1305,7 +1305,7 @@
 <W DOM="21" FEAT="PR" HYPOT="agent.10" ID="22" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="25" FEAT="A" HYPOT="modif.01" ID="24" KSNAME="SWIFT1" LEMMA="SWIFT" LINK="modif" PAFT=" " UNL="swift(icl&gt;adj,equ&gt;fleet)" DEF="MOVING VERY FAST" TRANS="стремительный">swift</W> 
-<W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="PACE1" LEMMA="PACE" LINK="prepos" PAFT=" " UNL="pace(icl&gt;rate&gt;abstract_thing,com&gt;progressaoj&gt;process)" DEF="">pace</W> 
+<W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="PACE1" LEMMA="PACE" LINK="prepos" PAFT=" " UNL="pace(icl&gt;rate&gt;abstract_thing,aoj&gt;process)" DEF="SPEED OR RHYTHM" TRANS="темп">pace</W> 
 <W DOM="25" FEAT="PR" HYPOT="quasiagent.10" ID="26" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="28" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="SCIENTIFIC" LEMMA="SCIENTIFIC" LINK="modif" PAFT=" " UNL="scientific(icl&gt;adj,com&gt;scientific_knowledge)" DEF="OF OR RELATING TO THE PRACTICE OF SCIENCE" TRANS="научный">scientific</W> 
 <W DOM="26" FEAT="S SG" HYPOT="prepos.01" ID="28" KSNAME="PROGRESS1" LEMMA="PROGRESS" LINK="prepos" PAFT=". " UNL="progress(icl&gt;development&gt;thing,equ&gt;advancement)" DEF="GRADUAL IMPROVEMENT OR GROWTH OR DEVELOPMENT" TRANS="прогресс">progress</W>. 
@@ -1770,7 +1770,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="9" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
 <W DOM="9" FEAT="V PP" HYPOT="analyt.12" ID="10" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="12" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="SHARPLY" LEMMA="SHARPLY" LINK="adverb" PAFT=" " UNL="sharply(icl&gt;how,equ&gt;aggressively,com&gt;aggressive)" DEF="IN AN AGGRESSIVE MANNER" TRANS="резко">sharply</W> 
-<W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="pass-anal" PAFT=". " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="">curtailed</W>. 
+<W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="pass-anal" PAFT=". " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="PLACE RESTRICTIONS ON" TRANS="ограничивать">curtailed</W>. 
 </S>
 <S DATE="30 11 2010 10:33:09" ID="63" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_22\\br-h21.tgt;63" STATUS="doubt">
 <W DOM="9" EXTRAFEAT="CAP" FEAT="A" ID="1" KSNAME="THESE" LEMMA="THESE" LINK="fictit" PAFT=" ">These</W> 

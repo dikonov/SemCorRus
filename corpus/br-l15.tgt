@@ -411,7 +411,7 @@
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="UPPER" LEMMA="UPPER" LINK="modif" PAFT=" " UNL="upper(icl&gt;adj)" DEF="THE TOPMOST ONE OF TWO" TRANS="верхний">upper</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="GASTROINTESTINAL" LEMMA="GASTROINTESTINAL" LINK="modif" PAFT=" " UNL="gastrointestinal(icl&gt;adj,com&gt;gastrointestinal_tract)" DEF="OF OR RELATING TO THE STOMACH AND INTESTINES" TRANS="гастроинтестинальный,желудочно-кишечный">gastrointestinal</W> 
-<W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="TRACT2" LEMMA="TRACT" LINK="prepos" PAFT=" " UNL="tract(icl&gt;system&gt;thing)" DEF="">tract</W> 
+<W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="TRACT2" LEMMA="TRACT" LINK="prepos" PAFT=" " UNL="tract(icl&gt;system&gt;thing,fld&gt;anatomy)" DEF="A SYSTEM OF BODY PARTS THAT TOGETHER SERVE SOME PARTICULAR PURPOSE" TRANS="тракт">tract</W> 
 <W DOM="15" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="23" KSNAME="INDICATE" LEMMA="INDICATE" LINK="coord-conj" PAFT=" " UNL="indicate(icl&gt;inform&gt;do,equ&gt;state,agt&gt;person,obj&gt;uw,rec&gt;person)" DEF="GIVE EVIDENCE OF" TRANS="показывать">indicate</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="1-compl.21" ID="24" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="27" EXTRAFEAT="CAP TRUN" FEAT="S SG" GRP="25,26" HYPOT="predic.01" ID="25" KSNAME="MRS" LEMMA="MRS" LINK="predic" PAFT=" ">Mrs.</W> 
@@ -654,7 +654,7 @@
 <S DATE="30 11 2010 10:36:58" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX\nTagging contradicts ETAP parsing: O'CLOCK - CLOCK1,CLOCK2" ID="48" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l15.tgt;48" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">Then</W> 
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="PART" HYPOT="2-compl.12" ID="4" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="USE2" LEMMA="USE" LINK="prepos" PAFT=" ">use</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -996,7 +996,7 @@
 </S>
 <S DATE="30 11 2010 10:36:59" ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l15.tgt;60" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="2" FEAT="PART" HYPOT="2-compl.12" ID="3" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="SEE1" LEMMA="SEE" LINK="prepos" PAFT=" " UNL="see(icl&gt;perceive&gt;be,cob&gt;uw,obj&gt;thing,aoj&gt;thing)" DEF="PERCEIVE BY SIGHT" TRANS="видеть">see</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1824,7 +1824,7 @@
 <W DOM="1" FEAT="PR" GRP="11,12" ID="12" KSNAME="TO1" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="ANY" LEMMA="ANY" LINK="determ" PAFT=" ">any</W> 
 <W DOM="1" FEAT="A" ID="14" KSNAME="LOCAL1" LEMMA="LOCAL" LINK="fictit" PAFT=" " UNL="local(icl&gt;adj,ant&gt;national)" DEF="RELATING TO OR APPLICABLE TO OR CONCERNED WITH THE ADMINISTRATION OF A CITY OR TOWN OR DISTRICT RATHER THAN A LARGER AREA" TRANS="местный">local</W> 
-<W DOM="25" FEAT="S PL" HYPOT="predic.01" ID="15" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT="-" UNL="club(icl&gt;association&gt;thing)" DEF="">clubs</W>- 
+<W DOM="25" FEAT="S PL" HYPOT="predic.01" ID="15" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT="-" UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">clubs</W>- 
 <W DOM="17" FEAT="A" HYPOT="determ.13" ID="16" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="WORK1" LEMMA="WORK" LINK="predic" PAFT=" " UNL="work(icl&gt;abstract_thing,equ&gt;employment)" DEF="JOB SOMEONE IS PAID TO DO" TRANS="работа">work</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="18" KSNAME="TAKE" LEMMA="TAKE" LINK="fictit" PAFT=" ">took</W> 
@@ -1934,7 +1934,7 @@
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="13" KSNAME="FEEL1" LEMMA="FEEL" LINK="coord-conj" PAFT=" ">felt</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" ">no</W> 
-<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="GRIEF" LEMMA="GRIEF" LINK="1-compl" PAFT=" " UNL="grief(icl&gt;sorrow&gt;thing)" DEF="">grief</W> 
+<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="GRIEF" LEMMA="GRIEF" LINK="1-compl" PAFT=" " UNL="grief(icl&gt;sorrow&gt;thing)" DEF="INTENSE SORROW CAUSED BY LOSS OF A LOVED ONE (ESPECIALLY BY DEATH)" TRANS="горе">grief</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="OVER1" LEMMA="OVER" LINK="1-compl" PAFT=" ">over</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="PASSING1" LEMMA="PASSING" LINK="prepos" PAFT=". " UNL="passing(icl&gt;death&gt;thing)" DEF="EUPHEMISTIC EXPRESSIONS FOR DEATH" TRANS="уход">passing</W>. 
@@ -2016,7 +2016,7 @@
 <W DOM="29" FEAT="A" HYPOT="determ.13" ID="26" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="PRIVATE1" LEMMA="PRIVATE" LINK="modif" PAFT=" " UNL="private(icl&gt;adj,ant&gt;public)" DEF="CONFINED TO PARTICULAR PERSONS OR GROUPS OR PROVIDING PRIVACY" TRANS="частный">private</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="28" KSNAME="FINANCIAL" LEMMA="FINANCIAL" LINK="modif" PAFT=" " UNL="financial(icl&gt;adj,equ&gt;fiscal,ant&gt;nonfinancial,com&gt;finance)" DEF="INVOLVING FINANCIAL MATTERS" TRANS="финансовый">financial</W> 
-<W DOM="24" FEAT="S SG" HYPOT="1-compl.01" ID="29" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="1-compl" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W> 
+<W DOM="24" FEAT="S SG" HYPOT="1-compl.01" ID="29" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="1-compl" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="30" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT="? " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W>? 
 </S>
 <S DATE="30 11 2010 10:37:07" ID="119" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l15.tgt;119" STATUS="doubt">
@@ -2136,7 +2136,7 @@
 <W DOM="12" FEAT="A" HYPOT="comp-conj.10" ID="14" KSNAME="REMARKABLE" LEMMA="REMARKABLE" LINK="comp-conj" PAFT=" ">remarkable</W> 
 <W DOM="14" FEAT="CONJ" HYPOT="compar.10" ID="15" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
 <W DOM="17" FEAT="A" HYPOT="determ.13" ID="16" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
-<W DOM="15" FEAT="S SG" HYPOT="comp-conj.10" ID="17" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="comp-conj" PAFT=". " UNL="occupant(icl&gt;inhabitant&gt;thing,equ&gt;resident,ant&gt;nonresident)" DEF="">occupant</W>. 
+<W DOM="15" FEAT="S SG" HYPOT="comp-conj.10" ID="17" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="comp-conj" PAFT=". " UNL="occupant(icl&gt;inhabitant&gt;person,equ&gt;resident,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="обитатель">occupant</W>. 
 </S>
 <S DATE="30 11 2010 10:37:10" ID="126" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l15.tgt;126" STATUS="doubt">
 <W DOM="5" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">In</W> 

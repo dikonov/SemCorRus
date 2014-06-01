@@ -1918,7 +1918,7 @@
 <W DOM="2" FEAT="ADV" HYPOT="restr.10" ID="3" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="2" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="copulat.10" ID="5" KSNAME="PROGRAMME2" LEMMA="PROGRAMME" LINK="copulat" PAFT=" ">program</W> 
-<W DOM="2" FEAT="V PP" ID="6" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="2" FEAT="V PP" ID="6" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="6" FEAT="PART" HYPOT="adverb.11" ID="7" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="7" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="ILLUSTRATE" LEMMA="ILLUSTRATE" LINK="prepos" PAFT=" " UNL="illustrate(icl&gt;clarify&gt;do,equ&gt;exemplify,agt&gt;person,obj&gt;thing,met&gt;thing)" DEF="TO MAKE THE MEANING OF SOMETHING CLEARER BY GIVING EXAMPLES" TRANS="иллюстрировать">illustrate</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="AUTHENTIC" LEMMA="AUTHENTIC" LINK="modif" PAFT=" ">authentic</W> 

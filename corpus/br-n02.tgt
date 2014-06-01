@@ -1485,7 +1485,7 @@
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="16" FEAT="A" HYPOT="determ.13" ID="15" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="16" KSNAME="VOICE1" LEMMA="VOICE" LINK="predic" PAFT=" ">voice</W> 
-<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="17" KSNAME="COME" LEMMA="COME" LINK="coord-conj" PAFT=" " UNL="come_out(icl&gt;occur,equ&gt;issue,obj&gt;thing)" DEF="">came</W> 
+<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="17" KSNAME="COME" LEMMA="COME" LINK="coord-conj" PAFT=" " UNL="come_out(icl&gt;occur,equ&gt;issue,obj&gt;thing)" DEF="COME OUT OF" TRANS="выходить">came</W> 
 <W DOM="17" FEAT="PR" HYPOT="1-compl.07" ID="18" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="1-compl" PAFT=" ">out of</W> 
 <W DOM="20" FEAT="A" HYPOT="determ.13" ID="19" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="THROAT" LEMMA="THROAT" LINK="prepos" PAFT=", ">throat</W>, 
@@ -2184,7 +2184,7 @@
 <W DOM="11" FEAT="PR" HYPOT="2-compl.02" ID="15" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
 <W DOM="15" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="HOOF1" LEMMA="HOOF" LINK="prepos" PAFT=" ">hoofs</W> 
 <W DOM="2" FEAT="CONJ" ID="17" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
-<W DOM="16" FEAT="V PP" HYPOT="modif.01" ID="18" KSNAME="FAN2" LEMMA="FAN" LINK="modif" PAFT=" " UNL="fan_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="">fanned</W> 
+<W DOM="16" FEAT="V PP" HYPOT="modif.01" ID="18" KSNAME="FAN2" LEMMA="FAN" LINK="modif" PAFT=" " UNL="fan_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">fanned</W> 
 <W DOM="18" FEAT="ADV" HYPOT="phras-junct.10" ID="19" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="18" FEAT="PR" HYPOT="adverb.02" ID="20" KSNAME="ACROSS1" LEMMA="ACROSS" LINK="adverb" PAFT=" ">across</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

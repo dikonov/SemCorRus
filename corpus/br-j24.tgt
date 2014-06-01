@@ -81,7 +81,7 @@
 <W DOM="25" FEAT="A" HYPOT="modif.01" ID="24" KSNAME="TERRIBLE" LEMMA="TERRIBLE" LINK="modif" PAFT=" ">terrible</W> 
 <W DOM="26" FEAT="S SG" HYPOT="predic.01" ID="25" KSNAME="HARM1" LEMMA="HARM" LINK="predic" PAFT=" ">harm</W> 
 <W DOM="22" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="26" KSNAME="WOULD" LEMMA="WOULD" LINK="subord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="26" FEAT="V MF" HYPOT="analyt.13" ID="27" KSNAME="BEFALL" LEMMA="BEFALL" LINK="analyt" PAFT=" " UNL="befall(icl&gt;happen&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">befall</W> 
+<W DOM="26" FEAT="V MF" HYPOT="analyt.13" ID="27" KSNAME="BEFALL" LEMMA="BEFALL" LINK="analyt" PAFT=" " UNL="befall(icl&gt;happen&gt;do,agt&gt;thing,obj&gt;thing)" DEF="BECOME OF" TRANS="случаться">befall</W> 
 <W DOM="29" FEAT="ART" HYPOT="determ.11" ID="28" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="30" FEAT="A" HYPOT="predic.01" ID="29" KSNAME="SECOND1" LEMMA="SECOND" LINK="predic" PAFT=" ">second</W> 
 <W DOM="35" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.14" ID="30" KSNAME="TWIN2" LEMMA="TWIN" LINK="1-compl" MSNAME="TWIN2" PAFT=", ">twin</W>, 
@@ -97,7 +97,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" GRP="2,3" HYPOT="posses.02" ID="2" KSNAME="MRS" LEMMA="MRS" LINK="posses" PAFT=" ">Mrs</W> 
 <W DOM="2" FEAT="S POSS SG" GRP="2,3" HYPOT="appos.03" ID="3" KSNAME="FRM-PROP" LEMMA="B'S" LINK="appos" PAFT=" ">B's</W>. 
 <W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="FEAR1" LEMMA="FEAR" LINK="predic" PAFT=" ">fears</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="THREATEN2" LEMMA="THREATEN" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatened</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="THREATEN2" LEMMA="THREATEN" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatened</W> 
 <W DOM="5" FEAT="PART" HYPOT="adverb.11" ID="6" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="BURST2" LEMMA="BURST" LINK="prepos" PAFT=" ">burst</W> 
 <W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="INTO" LEMMA="INTO" LINK="1-compl" PAFT=" ">into</W> 
@@ -716,7 +716,7 @@
 <W DOM="15" FEAT="NID" HYPOT="prepos.01" ID="16" KSNAME="FICT-LEX" LEMMA="MATURATIONAL" LINK="prepos" PAFT=" ">maturational</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="DYNAMIC" LEMMA="DYNAMIC" LINK="modif" PAFT=" ">dynamic</W> 
 <W DOM="6" FEAT="PART" ID="18" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
-<W DOM="18" FEAT="V MF" HYPOT="prepos.16" ID="19" KSNAME="COUNTERACT" LEMMA="COUNTERACT" LINK="prepos" PAFT=" " UNL="counteract(icl&gt;cancel&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">counteract</W> 
+<W DOM="18" FEAT="V MF" HYPOT="prepos.16" ID="19" KSNAME="COUNTERACT" LEMMA="COUNTERACT" LINK="prepos" PAFT=" " UNL="counteract(icl&gt;cancel&gt;do,agt&gt;thing,obj&gt;thing)" DEF="OPPOSE AND MITIGATE THE EFFECTS OF BY CONTRARY ACTIONS" TRANS="противодействовать">counteract</W> 
 <W DOM="19" FEAT="S PL" HYPOT="1-compl.01" ID="20" KSNAME="FEELING" LEMMA="FEELING" LINK="1-compl" PAFT=" ">feelings</W> 
 <W DOM="20" FEAT="PR" HYPOT="1-compl.07" ID="21" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="HELPLESSNESS" LEMMA="HELPLESSNESS" LINK="prepos" PAFT=" ">helplessness</W> 
@@ -1230,7 +1230,7 @@
 <W DOM="24" FEAT="V PP" GRP="25,26" HYPOT="coordin.02" ID="26" KSNAME="ORIENT1" LEMMA="ORIENT" LINK="coordin" PAFT=" ">oriented</W> 
 <W DOM="28" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="PREVENTIVE" LEMMA="PREVENTIVE" LINK="modif" PAFT=" ">preventive</W> 
 <W DOM="29" FEAT="NID" HYPOT="predic.01" ID="28" KSNAME="FICT-LEX" LEMMA="CASEWORK" LINK="predic" PAFT=" ">casework</W> 
-<W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="29" KSNAME="OCCUPY" LEMMA="OCCUPY" LINK="sent-coordin" PAFT=" " UNL="occupy(icl&gt;be&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="">occupy</W> 
+<W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="29" KSNAME="OCCUPY" LEMMA="OCCUPY" LINK="sent-coordin" PAFT=" " UNL="occupy(icl&gt;be&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="OCCUPY THE WHOLE OF" TRANS="заполнять">occupy</W> 
 <W DOM="29" FEAT="PR" HYPOT="adverb.02" ID="30" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="33" FEAT="A" HYPOT="determ.13" ID="31" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
 <W DOM="33" FEAT="A" HYPOT="modif.01" ID="32" KSNAME="TOTAL1" LEMMA="TOTAL" LINK="modif" PAFT=" ">total</W> 

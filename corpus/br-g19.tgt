@@ -164,7 +164,7 @@
 <W DOM="20" FEAT="ADV" HYPOT="restr.11" ID="19" KSNAME="EVER" LEMMA="EVER" LINK="restr" PAFT=" ">ever</W> 
 <W DOM="18" FEAT="V MF" GRP="20,21" HYPOT="analyt.13" ID="20" KSNAME="THINK" LEMMA="THINK" LINK="analyt" PAFT=" ">think</W> 
 <W DOM="20" FEAT="PR" GRP="20,21" HYPOT="2-compl.02" ID="21" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
-<W DOM="21" FEAT="V ING" HYPOT="prepos.01" ID="22" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="21" FEAT="V ING" HYPOT="prepos.01" ID="22" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="22" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="23" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="22" FEAT="PART" HYPOT="2-compl.12" ID="24" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="24" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="25" KSNAME="DO1" LEMMA="DO" LINK="prepos" PAFT=" " UNL="do(icl&gt;carry_through&gt;do,agt&gt;thing,obj&gt;thing)" DEF="GET (SOMETHING) DONE" TRANS="делать">do</W> 
@@ -894,7 +894,7 @@
 <W DOM="11" EXTRAFEAT="CAP CAPIT TRUN" FEAT="S SG" GRP="12,13" HYPOT="1-compl.01" ID="12" KSNAME="DOCTOR1" LEMMA="DOCTOR" LINK="1-compl" PAFT=" ">Dr.</W> 
 <W DOM="12" EXTRAFEAT="CAP" FEAT="S SG" GRP="12,13" HYPOT="appos.03" ID="13" KSNAME="FREUD" LEMMA="FREUD" LINK="appos" PAFT=" ">Freud</W> 
 <W DOM="11" FEAT="PR" HYPOT="2-compl.02" ID="14" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
-<W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="AMPLE" LEMMA="AMPLE" LINK="modif" PAFT=" " UNL="ample(icl&gt;adj)" DEF="">ample</W> 
+<W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="AMPLE" LEMMA="AMPLE" LINK="modif" PAFT=" " UNL="ample(icl&gt;adj)" DEF="FAIRLY LARGE" TRANS="значительный">ample</W> 
 <W DOM="14" FEAT="S SG" GRP="16,17,18" HYPOT="prepos.01" ID="16" KSNAME="FOOD" LEMMA="FOOD" LINK="prepos" PAFT=" ">food</W> 
 <W DOM="16" FEAT="PR" GRP="16,17,18" HYPOT="attrib.01" ID="17" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="17" FEAT="S SG" GRP="16,17,18" HYPOT="prepos.01" ID="18" KSNAME="THOUGHT" LEMMA="THOUGHT" LINK="prepos" PAFT=". ">thought</W>. 
@@ -1033,7 +1033,7 @@
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="11" KSNAME="SOCIETY" LEMMA="SOCIETY" LINK="predic" PAFT=" " UNL="society(icl&gt;group,obj&gt;thing)" DEF="AN EXTENDED SOCIAL GROUP HAVING A DISTINCTIVE CULTURAL AND ECONOMIC ORGANIZATION" TRANS="общество">society</W> 
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.03" ID="12" KSNAME="WHICH1" LEMMA="WHICH" LINK="1-compl" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="14" FEAT="S NOM SG" HYPOT="predic.01" ID="13" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="14" KSNAME="SERVE2" LEMMA="SERVE" LINK="relat" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serves</W> 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="14" KSNAME="SERVE2" LEMMA="SERVE" LINK="relat" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serves</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="15" KSNAME="BORE1" LEMMA="BORE" LINK="coord-conj" PAFT=" " UNL="bore(icl&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="CAUSE TO BE BORED" TRANS="надоедать">bores</W> 
 <W DOM="15" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="15" FEAT="PR" HYPOT="adverb.02" ID="17" KSNAME="TO1" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
@@ -1643,7 +1643,7 @@
 <S DATE="29 11 2010 20:28:41" ID="77" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g19.tgt;77" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.10" ID="1" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">A</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="SIMILAR" LEMMA="SIMILAR" LINK="modif" PAFT=" " UNL="similar(icl&gt;adj,ant&gt;dissimilar)" DEF="MARKED BY CORRESPONDENCE OR RESEMBLANCE" TRANS="близкий">similar</W> 
-<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="TONE1" LEMMA="TONE" LINK="predic" PAFT=" " UNL="tone(icl&gt;impression&gt;abstract_thing)" DEF="">tone</W> 
+<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="TONE1" LEMMA="TONE" LINK="predic" PAFT=" " UNL="tone(icl&gt;impression&gt;abstract_thing)" DEF="THE GENERAL ATMOSPHERE OF A PLACE OR SITUATION AND THE EFFECT THAT IT HAS ON PEOPLE" TRANS="атмосфера">tone</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="UNDERLYING" LEMMA="UNDERLYING" LINK="modif" PAFT=" ">underlying</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="FUTILITY" LEMMA="FUTILITY" LINK="prepos" PAFT=" " UNL="futility(icl&gt;inutility&gt;thing)" DEF="USELESSNESS AS A CONSEQUENCE OF HAVING NO PRACTICAL RESULT" TRANS="тщетность">futility</W> 
@@ -1756,7 +1756,7 @@
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="A" GRP="3,4" HYPOT="modif.01" ID="3" KSNAME="PRIVATE1" LEMMA="PRIVATE" LINK="modif" PAFT=" ">private</W> 
 <W DOM="5" FEAT="S SG" GRP="3,4" HYPOT="predic.01" ID="4" KSNAME="EYE1" LEMMA="EYE" LINK="predic" PAFT=" ">eye</W> 
-<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="5" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intends</W> 
+<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="5" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intends</W> 
 <W DOM="5" FEAT="PART" HYPOT="1-compl.15" ID="6" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="SAVE2" LEMMA="SAVE" LINK="prepos" PAFT=" " UNL="save(icl&gt;rescue&gt;do,equ&gt;salvage,agt&gt;thing,obj&gt;thing)" DEF="">save</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="SOCIETY" LEMMA="SOCIETY" LINK="1-compl" PAFT=" " UNL="society(icl&gt;group,obj&gt;thing)" DEF="AN EXTENDED SOCIAL GROUP HAVING A DISTINCTIVE CULTURAL AND ECONOMIC ORGANIZATION" TRANS="общество">society</W> 
@@ -1932,7 +1932,7 @@
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="predic.02" ID="2" KSNAME="BE" LEMMA="BE" LINK="predic" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="6" FEAT="ADV" HYPOT="restr.11" ID="3" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;merely)" DEF="AND NOTHING MORE" TRANS="всего">only</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="VAGUE" LEMMA="VAGUE" LINK="modif" PAFT=" " UNL="vague(icl&gt;adj,equ&gt;undefined,ant&gt;defined)" DEF="">vague</W> 
+<W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="VAGUE" LEMMA="VAGUE" LINK="modif" PAFT=" " UNL="vague(icl&gt;adj,equ&gt;undefined,ant&gt;defined)" DEF="NOT PRECISELY LIMITED, DETERMINED, OR DISTINGUISHED" TRANS="неопределенный,расплывчатый">vague</W> 
 <W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="SUSPICION" LEMMA="SUSPICION" LINK="copulat" PAFT=" " UNL="suspicion(icl&gt;impression&gt;thing,equ&gt;intuition)" DEF="AN IMPRESSION THAT SOMETHING MIGHT BE THE CASE" TRANS="подозрение">suspicion</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

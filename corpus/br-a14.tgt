@@ -377,7 +377,7 @@
 <W DOM="15" FEAT="PR" HYPOT="3-compl.01" ID="16" KSNAME="FOR1" LEMMA="FOR" LINK="3-compl" PAFT=" ">for</W> 
 <W DOM="16" FEAT="V ING" HYPOT="prepos.01" ID="17" KSNAME="WIN" LEMMA="WIN" LINK="prepos" PAFT=" " UNL="win(icl&gt;prize&gt;do,agt&gt;volitional_thing,obj&gt;thing,cag&gt;volitional_thing,scn&gt;thing)" DEF="" TRANS="выигрывать">winning</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="17" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="CHAMPIONSHIP" LEMMA="CHAMPIONSHIP" LINK="1-compl" PAFT=". " UNL="championship(icl&gt;high_status&gt;thing)" DEF="">championship</W>. 
+<W DOM="17" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="CHAMPIONSHIP" LEMMA="CHAMPIONSHIP" LINK="1-compl" PAFT=". " UNL="championship(icl&gt;high_status&gt;thing)" DEF="THE STATUS OF BEING A CHAMPION" TRANS="чемпионство">championship</W>. 
 </S>
 <S DATE="29 11 2010 19:49:06" EXTRACOMM="Tagging contradicts ETAP parsing:  - SILVER1" ID="23" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;23" STATUS="doubt">
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="SHAW" LEMMA="SHAW" LINK="predic" PAFT=" ">Shaw</W> 
@@ -1039,7 +1039,7 @@
 <W DOM="8" FEAT="S SG" HYPOT="coord-conj.10" ID="9" KSNAME="FRM-PROP" LEMMA="SNEAD" LINK="coord-conj" PAFT=" ">Snead</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="10" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="10" FEAT="V MF" HYPOT="analyt.13" ID="11" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
-<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="SALUTE1" LEMMA="SALUTE" LINK="pass-anal" PAFT=" " UNL="salute(icl&gt;honor&gt;do,equ&gt;toast,agt&gt;thing,obj&gt;thing)" DEF="">saluted</W> 
+<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="SALUTE1" LEMMA="SALUTE" LINK="pass-anal" PAFT=" " UNL="salute(icl&gt;honor&gt;do,equ&gt;toast,agt&gt;thing,obj&gt;thing)" DEF="PROPOSE A TOAST TO" TRANS="предлагать тост">saluted</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="2-compl.17" ID="13" KSNAME="AS1" LEMMA="AS" LINK="2-compl" PAFT=" ">as</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="WINNING" LEMMA="WINNING" LINK="modif" MSNAME="WINNING" PAFT=" " UNL="winning(icl&gt;adj,equ&gt;victorious)" DEF="">winning</W> 
@@ -1071,7 +1071,7 @@
 <W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" GRP="14,15" HYPOT="1-compl.01" ID="14" KSNAME="BOB3" LEMMA="BOB" LINK="1-compl" PAFT=" ">Bob</W> 
 <W DOM="14" EXTRAFEAT="CAP" FEAT="S SG" GRP="14,15" HYPOT="appos.10" ID="15" KSNAME="GARDNER" LEMMA="GARDNER" LINK="appos" PAFT=", ">Gardner</W>, 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="19" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="AMATEUR1" LEMMA="AMATEUR" LINK="modif" PAFT=" " UNL="amateur(icl&gt;adj)" DEF="">amateur</W> 
+<W DOM="19" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="AMATEUR1" LEMMA="AMATEUR" LINK="modif" PAFT=" " UNL="amateur(icl&gt;adj)" DEF="ENGAGED IN AS A PASTIME" TRANS="любительский">amateur</W> 
 <W DOM="19" FEAT="S SG" GRP="18,19" HYPOT="compos.01" ID="18" KSNAME="TITLE1" LEMMA="TITLE" LINK="compos" PAFT=" ">title</W> 
 <W DOM="15" FEAT="S SG" GRP="18,19" HYPOT="descr-appos.01" ID="19" KSNAME="HOLDER" LEMMA="HOLDER" LINK="descr-appos" PAFT=", ">holder</W>, 
 <W DOM="21" FEAT="ADV" HYPOT="restr.11" ID="20" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 
@@ -1135,7 +1135,7 @@
 <S DATE="29 11 2010 19:49:13" ID="58" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;58" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="PRINCIPAL1" LEMMA="PRINCIPAL" LINK="modif" PAFT=" " UNL="principal(icl&gt;adj,equ&gt;chief)" DEF="MOST IMPORTANT ELEMENT" TRANS="главный">principal</W> 
-<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speaker</W> 
+<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speaker</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="4" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="4" FEAT="V MF" HYPOT="analyt.13" ID="5" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">be</W> 
 <W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="6,7,8" HYPOT="copulat.10" ID="6" KSNAME="SENATOR" LEMMA="SENATOR" LINK="copulat" PAFT=" ">Senator</W> 
@@ -1235,7 +1235,7 @@
 <W DOM="14" FEAT="ADV" HYPOT="restr.11" ID="13" KSNAME="EVER" LEMMA="EVER" LINK="restr" PAFT=" ">ever</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="14" KSNAME="FLUB2" LEMMA="FLUB" LINK="relat" PAFT=" " UNL="flub(icl&gt;fail&gt;do,equ&gt;botch,agt&gt;thing,obj&gt;thing)" DEF="MAKE A MESS OF, DESTROY OR RUIN" TRANS="срывать">flubbed</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="SHOT1" LEMMA="SHOT" LINK="1-compl" PAFT=". " UNL="shot(icl&gt;maneuver&gt;thing,equ&gt;stroke)" DEF="">shot</W>. 
+<W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="SHOT1" LEMMA="SHOT" LINK="1-compl" PAFT=". " UNL="shot(icl&gt;maneuver&gt;action,equ&gt;stroke,fld&gt;sport)" DEF="(SPORTS) THE ACT OF SWINGING OR STRIKING AT A BALL WITH A CLUB OR RACKET OR BAT OR CUE OR HAND" TRANS="удар">shot</W>. 
 </S>
 <S DATE="29 11 2010 19:49:15" EXTRACOMM="Tagging contradicts ETAP parsing: NUM-LARGE - NUM-LARGE" ID="63" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;63" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP STRICT_ABBR" FEAT="COM" GRP="1,2,3" HYPOT="compos.01" ID="1" KSNAME="FICT-COM" LEMMA="A-INITIAL" LINK="compos" MSNAME="A-INITIAL" PAFT=" ">A</W> 
@@ -1344,7 +1344,7 @@
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="11" KSNAME="RESPECT2" LEMMA="RESPECT" LINK="fictit" PAFT=" " UNL="respect(icl&gt;consider&gt;be,rsn&gt;thing,obj&gt;thing,aoj&gt;person)" DEF="REGARD HIGHLY" TRANS="уважать">respects</W> 
 <W DOM="11" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="NO$ONE" LEMMA="NO ONE" LINK="1-compl" PAFT=" ">no one</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.13" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="14" KSNAME="AGGRAVATE" LEMMA="AGGRAVATE" LINK="coord-conj" PAFT=" " UNL="aggravate(icl&gt;anger&gt;do,equ&gt;exacerbate,agt&gt;thing,obj&gt;thing)" DEF="">aggravates</W> 
+<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="14" KSNAME="AGGRAVATE" LEMMA="AGGRAVATE" LINK="coord-conj" PAFT=" " UNL="aggravate(icl&gt;anger&gt;do,equ&gt;exacerbate,agt&gt;thing,obj&gt;thing)" DEF="EXASPERATE OR IRRITATE" TRANS="раздражать">aggravates</W> 
 <W DOM="14" FEAT="A" HYPOT="1-compl.01" ID="15" KSNAME="ALL1" LEMMA="ALL" LINK="1-compl" PAFT=". ">all</W>. 
 </S>
 <S DATE="29 11 2010 19:49:16" EXTRACOMM="Tagging contradicts ETAP parsing:  - OPEN2,OPENING" ID="69" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;69" STATUS="doubt">
@@ -1417,7 +1417,7 @@
 <W DOM="11" FEAT="PR" HYPOT="3-compl.01" ID="12" KSNAME="INTO" LEMMA="INTO" LINK="3-compl" PAFT=" ">into</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="SECOND1" LEMMA="SECOND" LINK="modif" PAFT=" " UNL="second(icl&gt;adj)" DEF="COMING NEXT AFTER FIRST" TRANS="второй">second</W> 
-<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="SHOT1" LEMMA="SHOT" LINK="prepos" PAFT=". " UNL="shot(icl&gt;maneuver&gt;thing,equ&gt;stroke)" DEF="">shot</W>. 
+<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="SHOT1" LEMMA="SHOT" LINK="prepos" PAFT=". " UNL="shot(icl&gt;maneuver&gt;action,equ&gt;stroke,fld&gt;sport)" DEF="(SPORTS) THE ACT OF SWINGING OR STRIKING AT A BALL WITH A CLUB OR RACKET OR BAT OR CUE OR HAND" TRANS="удар">shot</W>. 
 </S>
 <S DATE="29 11 2010 19:49:16" ID="73" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;73" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -1471,7 +1471,7 @@
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="NUM" HYPOT="quantit.10" ID="4" KSNAME="FOUR1" LEMMA="FOUR" LINK="quantit" PAFT=" ">four</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="WAYWARD" LEMMA="WAYWARD" LINK="modif" PAFT=" " UNL="wayward(icl&gt;adj,equ&gt;contrary)" DEF="RESISTANT TO GUIDANCE OR DISCIPLINE" TRANS="своенравный">wayward</W> 
-<W DOM="2" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="SHOT1" LEMMA="SHOT" LINK="prepos" PAFT=" " UNL="shot(icl&gt;maneuver&gt;thing,equ&gt;stroke)" DEF="">shots</W> 
+<W DOM="2" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="SHOT1" LEMMA="SHOT" LINK="prepos" PAFT=" " UNL="shot(icl&gt;maneuver&gt;action,equ&gt;stroke,fld&gt;sport)" DEF="(SPORTS) THE ACT OF SWINGING OR STRIKING AT A BALL WITH A CLUB OR RACKET OR BAT OR CUE OR HAND" TRANS="удар">shots</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="COST2" LEMMA="COST" PAFT=" " UNL="cost(icl&gt;necessitate&gt;be,obj&gt;thing,aoj&gt;thing,ben&gt;volitional_thing)" DEF="REQUIRE TO SUFFER OR SACRIFICE" TRANS="стоить">cost</W> 
 <W DOM="7" FEAT="S OBJ SG" HYPOT="2-compl.10" ID="8" KSNAME="HE1" LEMMA="HE" LINK="2-compl" PAFT=" ">him</W> 
 <W DOM="8" FEAT="NUM" HYPOT="quantit.13" ID="9" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
@@ -1520,7 +1520,7 @@
 <W DOM="8" FEAT="ADV" HYPOT="parenth.16" ID="9" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">however</W>, 
 <W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="THIS2" LEMMA="THIS" LINK="predic" PAFT=" ">this</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="11" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="EASILY" LEMMA="EASILY" LINK="adverb" PAFT=" " UNL="easily(icl&gt;how)" DEF="">easily</W> 
+<W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="EASILY" LEMMA="EASILY" LINK="adverb" PAFT=" " UNL="easily(icl&gt;how)" DEF="WITHOUT QUESTION" TRANS="бесспорно">easily</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.16" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="ADV" HYPOT="adverb.01" ID="14" KSNAME="MOST" LEMMA="MOST" LINK="adverb" PAFT=" ">most</W> 
 <W DOM="16" FEAT="V ING" HYPOT="modif.01" ID="15" KSNAME="HEARTEN" LEMMA="HEARTEN" LINK="modif" PAFT=" ">heartening</W> 
@@ -1573,7 +1573,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="HERO1" LEMMA="HERO" LINK="predic" PAFT=" " UNL="hero(icl&gt;leader&gt;thing)" DEF="A MAN DISTINGUISHED BY EXCEPTIONAL COURAGE AND NOBILITY AND STRENGTH" TRANS="герой">hero</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
 <W DOM="6" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" ">another</W> 
-<W DOM="4" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="PRO1" LEMMA="PRO" LINK="copulat" MSNAME="PRO1" PAFT=", " UNL="pro(icl&gt;athlete&gt;thing,equ&gt;professional,ant&gt;amateur)" DEF="">pro</W>, 
+<W DOM="4" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="PRO1" LEMMA="PRO" LINK="copulat" MSNAME="PRO1" PAFT=", " UNL="pro(icl&gt;athlete&gt;thing,equ&gt;professional,ant&gt;amateur)" DEF="AN ATHLETE WHO PLAYS FOR PAY" TRANS="про">pro</W>, 
 <W DOM="8" FEAT="S SG" GRP="7,8" HYPOT="compos.01" ID="7" KSNAME="FRM-PROP" LEMMA="WILLIE" LINK="compos" PAFT=" ">Willie</W> 
 <W DOM="6" FEAT="S SG" GRP="7,8" HYPOT="coordin.01" ID="8" KSNAME="FRM-PROP" LEMMA="CHISHOLM" LINK="coordin" PAFT=", ">Chisholm</W>, 
 <W DOM="10" FEAT="S NOM SG" HYPOT="predic.01" ID="9" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
@@ -1706,7 +1706,7 @@
 <S DATE="29 11 2010 19:49:17" ID="92" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;92" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">His</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,ant&gt;last)" DEF="PRECEDING ALL OTHERS IN TIME OR SPACE OR DEGREE" TRANS="первый">first</W> 
-<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SHOT1" LEMMA="SHOT" LINK="predic" PAFT=" " UNL="shot(icl&gt;maneuver&gt;thing,equ&gt;stroke)" DEF="">shot</W> 
+<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SHOT1" LEMMA="SHOT" LINK="predic" PAFT=" " UNL="shot(icl&gt;maneuver&gt;action,equ&gt;stroke,fld&gt;sport)" DEF="(SPORTS) THE ACT OF SWINGING OR STRIKING AT A BALL WITH A CLUB OR RACKET OR BAT OR CUE OR HAND" TRANS="удар">shot</W> 
 <W DOM="3" FEAT="PR" HYPOT="attrib.01" ID="4" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="OPEN1" LEMMA="OPEN" LINK="modif" PAFT=" ">Open</W> 
@@ -1911,7 +1911,7 @@
 <S DATE="29 11 2010 19:49:20" ID="103" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;103" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="1" KSNAME="ARNOLD" LEMMA="ARNOLD" LINK="posses" PAFT=" ">Arnold's</W> 
 <W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="IRON1" LEMMA="IRON" LINK="compos" PAFT=" " UNL="iron(icl&gt;golf_club&gt;thing)" DEF="A GOLF CLUB THAT HAS A RELATIVELY NARROW METAL HEAD" TRANS="айрон">iron</W> 
-<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SHOT1" LEMMA="SHOT" LINK="predic" PAFT=" " UNL="shot(icl&gt;maneuver&gt;thing,equ&gt;stroke)" DEF="">shot</W> 
+<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SHOT1" LEMMA="SHOT" LINK="predic" PAFT=" " UNL="shot(icl&gt;maneuver&gt;action,equ&gt;stroke,fld&gt;sport)" DEF="(SPORTS) THE ACT OF SWINGING OR STRIKING AT A BALL WITH A CLUB OR RACKET OR BAT OR CUE OR HAND" TRANS="удар">shot</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.02" ID="4" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="TEE" LEMMA="TEE" LINK="prepos" PAFT=" " UNL="tee(icl&gt;site&gt;thing)" DEF="">tee</W> 
@@ -2187,7 +2187,7 @@
 <W DOM="19" FEAT="S PL" HYPOT="prepos.01" ID="20" KSNAME="TEAM" LEMMA="TEAM" LINK="prepos" PAFT=" " UNL="team(icl&gt;unit&gt;thing)" DEF="A COOPERATIVE UNIT" TRANS="команда">teams</W> 
 <W DOM="20" FEAT="PR" HYPOT="attrib.01" ID="21" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="23" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
-<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=", " UNL="division(icl&gt;administrative_unit&gt;thing)" DEF="">division</W>, 
+<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=", " UNL="division(icl&gt;administrative_unit&gt;abstract_thing)" DEF="AN ADMINISTRATIVE UNIT IN GOVERNMENT OR BUSINESS" TRANS="отдел">division</W>, 
 <W DOM="20" FEAT="PR" HYPOT="attrib.01" ID="24" KSNAME="PLUS2" LEMMA="PLUS" LINK="attrib" PAFT=" ">plus</W> 
 <W DOM="26" FEAT="NUM" HYPOT="quantit.10" ID="25" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
 <W DOM="24" FEAT="S PL" HYPOT="prepos.01" ID="26" KSNAME="GAME1" LEMMA="GAME" LINK="prepos" PAFT=" " UNL="game(icl&gt;activity&gt;thing)" DEF="A CONTEST WITH RULES TO DETERMINE A WINNER" TRANS="игра">games</W> 
@@ -2196,7 +2196,7 @@
 <W DOM="28" FEAT="PR" HYPOT="attrib.01" ID="29" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="32" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="32" FEAT="A" HYPOT="modif.01" ID="31" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
-<W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=". " UNL="division(icl&gt;administrative_unit&gt;thing)" DEF="">division</W>. 
+<W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=". " UNL="division(icl&gt;administrative_unit&gt;abstract_thing)" DEF="AN ADMINISTRATIVE UNIT IN GOVERNMENT OR BUSINESS" TRANS="отдел">division</W>. 
 </S>
 <S DATE="29 11 2010 19:49:22" EXTRACOMM="Tagging contradicts ETAP parsing:  - LENGTHEN" ID="117" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a14.tgt;117" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">However</W>, 

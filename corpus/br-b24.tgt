@@ -1813,7 +1813,7 @@
 <W DOM="10" FEAT="ADV" GRP="9,10" HYPOT="restr.12" ID="9" KSNAME="SO1" LEMMA="SO" LINK="restr" PAFT=" ">so</W> 
 <W DOM="11" FEAT="ADV" GRP="9,10" HYPOT="restr.15" ID="10" KSNAME="MUCH" LEMMA="MUCH" LINK="restr" PAFT=" ">much</W> 
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="TIME1" LEMMA="TIME" LINK="1-compl" PAFT=" ">time</W> 
-<W DOM="8" FEAT="V ING" HYPOT="2-compl.15" ID="12" KSNAME="TURN2" LEMMA="TURN" LINK="2-compl" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turning</W> 
+<W DOM="8" FEAT="V ING" HYPOT="2-compl.15" ID="12" KSNAME="TURN2" LEMMA="TURN" LINK="2-compl" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turning</W> 
 <W DOM="12" FEAT="ADV" HYPOT="phras-junct.10" ID="13" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="12" FEAT="S PL" HYPOT="1-compl.01" ID="14" KSNAME="DRAWING" LEMMA="DRAWING" LINK="1-compl" PAFT=" ">drawings</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="1-compl.23" ID="15" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 

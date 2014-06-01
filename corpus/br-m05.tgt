@@ -2121,7 +2121,7 @@
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="PART" HYPOT="1-compl.15" ID="4" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="DO1" LEMMA="DO" LINK="prepos" PAFT=" " UNL="do(icl&gt;do,equ&gt;perform,cob&gt;thing,agt&gt;volitional_thing,obj&gt;action)" DEF="CARRY OUT OR PERFORM SMTH" TRANS="делать,выполнять,заниматься">do</W> 
 <W DOM="3" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS SG TP" ID="6" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
-<W DOM="3" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="fictit" PAFT="&quot;, " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W>", 
+<W DOM="3" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="fictit" PAFT="&quot;, " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W>", 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.01" ID="8" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="explic.02" ID="9" KSNAME="RETORT2" LEMMA="RETORT" LINK="explic" PAFT=" " UNL="retort(icl&gt;answer&gt;do,agt&gt;volitional_thing,obj&gt;uw,rec&gt;volitional_thing)" DEF="ANSWER BACK" TRANS="возражать">retorted</W> 
 <W DOM="9" FEAT="ADV" HYPOT="parenth.10" ID="10" KSNAME="HOPEFULLY" LEMMA="HOPEFULLY" LINK="parenth" PAFT=". ">hopefully</W>. 

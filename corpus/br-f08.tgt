@@ -53,7 +53,7 @@
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="FAR2" LEMMA="FAR" LINK="adverb" PAFT=" ">far</W> 
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="ABOVE2" LEMMA="ABOVE" LINK="adverb" PAFT=" " UNL="above(icl&gt;how,ant&gt;below)" DEF="IN OR TO A PLACE THAT IS HIGHER" TRANS="выше">above</W> 
 <W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="WORLDLY" LEMMA="WORLDLY" LINK="modif" PAFT=" " UNL="worldly(icl&gt;adj,ant&gt;unworldly)" DEF="CHARACTERISTIC OF OR DEVOTED TO THE TEMPORAL WORLD" TRANS="мирской">worldly</W> 
-<W DOM="9" FEAT="S PL" HYPOT="copulat.10" ID="14" KSNAME="CARE1" LEMMA="CARE" LINK="copulat" PAFT=". " UNL="care(icl&gt;anxiety&gt;thing,equ&gt;concern)" DEF="">cares</W>. 
+<W DOM="9" FEAT="S PL" HYPOT="copulat.10" ID="14" KSNAME="CARE1" LEMMA="CARE" LINK="copulat" PAFT=". " UNL="care(icl&gt;anxiety&gt;thing,equ&gt;concern)" DEF="AN ANXIOUS FEELING" TRANS="забота">cares</W>. 
 </S>
 <S DATE="29 11 2010 20:17:14" ID="4" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-f08.tgt;4" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="EVERYTHING" LEMMA="EVERYTHING" LINK="predic" PAFT=" ">Everything</W> 
@@ -476,7 +476,7 @@
 <W DOM="18" FEAT="CONJ" HYPOT="coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="19" FEAT="S SG" HYPOT="coord-conj.10" ID="20" KSNAME="PLEASURE1" LEMMA="PLEASURE" LINK="coord-conj" PAFT=" " UNL="pleasure(icl&gt;feeling&gt;thing,ant&gt;pain)" DEF="A FUNDAMENTAL FEELING THAT IS HARD TO DEFINE BUT THAT PEOPLE DESIRE TO EXPERIENCE" TRANS="удовольствие">pleasure</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="NATURE" LEMMA="NATURE" LINK="prepos" PAFT=" " UNL="nature(icl&gt;causal_agent&gt;thing)" DEF="A CAUSAL AGENT CREATING AND CONTROLLING THINGS IN THE UNIVERSE" TRANS="природа">nature</W> 
-<W DOM="21" FEAT="V PP" HYPOT="modif.01" ID="22" KSNAME="INTEND1" LEMMA="INTEND" LINK="modif" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="21" FEAT="V PP" HYPOT="modif.01" ID="22" KSNAME="INTEND1" LEMMA="INTEND" LINK="modif" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="22" FEAT="PR" HYPOT="collig-adv.10" ID="23" KSNAME="FOR1" LEMMA="FOR" LINK="collig-adv" PAFT=" ">for</W> 
 <W DOM="14" FEAT="A" ID="24" KSNAME="HER" LEMMA="HER" LINK="fictit" MSNAME="HER" PAFT=". ">her</W>. 
 </S>
@@ -508,7 +508,7 @@
 <W DOM="13" FEAT="COM" HYPOT="compos.01" ID="12" KSNAME="SELF1" LEMMA="SELF" LINK="compos" PAFT=" ">self</W> 
 <W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="RESPECT1" LEMMA="RESPECT" LINK="1-compl" PAFT=", ">respect</W>, 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.13" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="15" KSNAME="ROB1" LEMMA="ROB" LINK="coord-conj" PAFT=" " UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="">robs</W> 
+<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="15" KSNAME="ROB1" LEMMA="ROB" LINK="coord-conj" PAFT=" " UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="RIP OFF" TRANS="обчищать">robs</W> 
 <W DOM="15" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="15" FEAT="PR" HYPOT="2-compl.02" ID="17" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
 <W DOM="19" FEAT="A" HYPOT="determ.13" ID="18" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
@@ -694,7 +694,7 @@
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="3" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
 <W DOM="3" FEAT="PR" HYPOT="copulat.13" ID="4" KSNAME="IN1" LEMMA="IN" LINK="copulat" PAFT=" ">in</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CUSTODY" LEMMA="CUSTODY" LINK="prepos" PAFT=" " UNL="custody(icl&gt;confinement&gt;thing,equ&gt;detention)" DEF="">custody</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CUSTODY" LEMMA="CUSTODY" LINK="prepos" PAFT=" " UNL="custody(icl&gt;confinement&gt;thing,equ&gt;detention)" DEF="A STATE OF BEING CONFINED (USUALLY FOR A SHORT TIME)" TRANS="арест">custody</W> 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="8" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="WIFE" LEMMA="WIFE" LINK="predic" PAFT=" " UNL="wife(icl&gt;woman&gt;thing,ant&gt;husband)" DEF="A MARRIED WOMAN" TRANS="жена,баба">wife</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="8" KSNAME="DIVORCE2" LEMMA="DIVORCE" PAFT=" " UNL="divorce(icl&gt;split_up&gt;do,agt&gt;person,cag&gt;person)" DEF="GET A DIVORCE; FORMALLY TERMINATE A MARRIAGE" TRANS="разводиться">divorced</W> 
@@ -728,7 +728,7 @@
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="7,8" HYPOT="copulat.11" ID="8" KSNAME="TIRED" LEMMA="TIRED" LINK="copulat" PAFT="&quot; " UNL="tired(icl&gt;adj,ant&gt;rested)" DEF="DEPLETED OF STRENGTH OR ENERGY" TRANS="уставший">tired</W>" 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="MARITAL" LEMMA="MARITAL" LINK="modif" PAFT=" " UNL="marital(icl&gt;adj,com&gt;marriage)" DEF="OF OR RELATING TO THE STATE OF MARRIAGE" TRANS="супружеский">marital</W> 
-<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="RELATION1" LEMMA="RELATION" LINK="prepos" PAFT=". " UNL="relation(icl&gt;action,com&gt;sex,agt&gt;person,cag&gt;person)" DEF="">relations</W>. 
+<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="RELATION1" LEMMA="RELATION" LINK="prepos" PAFT=". " UNL="relation(icl&gt;action,com&gt;sex,agt&gt;person,cag&gt;person)" DEF="" TRANS="связь">relations</W>. 
 </S>
 <S DATE="29 11 2010 20:17:19" ID="41" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-f08.tgt;41" STATUS="doubt">
 <W DOM="6" EXTRAFEAT="CAP" FEAT="PART" HYPOT="adverb.11" ID="1" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">To</W> 
@@ -763,7 +763,7 @@
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="17" KSNAME="REFUSE1" LEMMA="REFUSE" LINK="coord-conj" PAFT=" " UNL="refuse(icl&gt;affirm&gt;do,agt&gt;volitional_thing,obj&gt;uw,rec&gt;thing)" DEF="TO EXPRESS UNWILLINGNESS TO DO SOMETHING" TRANS="отказываться">refused</W> 
 <W DOM="17" FEAT="PART" HYPOT="1-compl.15" ID="18" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="18" FEAT="V MF" HYPOT="prepos.16" ID="19" KSNAME="HAVE" LEMMA="HAVE" LINK="prepos" PAFT=" ">have</W> 
-<W DOM="19" FEAT="S PL" HYPOT="1-compl.01" ID="20" KSNAME="RELATION1" LEMMA="RELATION" LINK="1-compl" PAFT=" " UNL="relation(icl&gt;action,com&gt;sex,agt&gt;person,cag&gt;person)" DEF="">relations</W> 
+<W DOM="19" FEAT="S PL" HYPOT="1-compl.01" ID="20" KSNAME="RELATION1" LEMMA="RELATION" LINK="1-compl" PAFT=" " UNL="relation(icl&gt;action,com&gt;sex,agt&gt;person,cag&gt;person)" DEF="" TRANS="связь">relations</W> 
 <W DOM="22" FEAT="ADV" HYPOT="restr.12" ID="21" KSNAME="AS2" LEMMA="AS" LINK="restr" MSNAME="AS2" PAFT=" ">as</W> 
 <W DOM="19" FEAT="ADV" HYPOT="adverb.01" ID="22" KSNAME="OFTEN" LEMMA="OFTEN" LINK="adverb" PAFT=" " UNL="often(icl&gt;how,equ&gt;frequently,ant&gt;rarely,com&gt;frequent)" DEF="MANY TIMES AT SHORT INTERVALS" TRANS="зачастую,часто">often</W> 
 <W DOM="21" FEAT="CONJ" HYPOT="compar.10" ID="23" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
@@ -1475,7 +1475,7 @@
 </S>
 <S DATE="29 11 2010 20:17:32" EXTRACOMM="Tagging contradicts ETAP parsing: WOMAN - WOMAN\nTagging contradicts ETAP parsing: MAN1 - MAN1" ID="77" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-f08.tgt;77" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="predic.01" ID="1" KSNAME="SOME1" LEMMA="SOME" LINK="predic" PAFT=" ">Some</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="2" KSNAME="DATE5" LEMMA="DATE" PAFT=" " UNL="date(icl&gt;determine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">date</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="2" KSNAME="DATE5" LEMMA="DATE" PAFT=" " UNL="date(icl&gt;determine&gt;do,agt&gt;person,obj&gt;thing)" DEF="ASSIGN A DATE" TRANS="датировать">date</W> 
 <W DOM="2" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="3" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="4" KSNAME="FROM" LEMMA="FROM" LINK="adverb" PAFT=" ">from</W> 
 <W DOM="6" FEAT="S SG" HYPOT="compos.01" ID="5" KSNAME="WOMAN" LEMMA="WOMAN" LINK="compos" PAFT=" ">woman</W> 
@@ -2022,7 +2022,7 @@
 <W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="15" KSNAME="SUDDENLY" LEMMA="SUDDENLY" LINK="adverb" PAFT=" " UNL="suddenly(icl&gt;how)" DEF="HAPPENING UNEXPECTEDLY" TRANS="неожиданно">suddenly</W> 
 <W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="16" KSNAME="BECOME" LEMMA="BECOME" LINK="1-compl" PAFT=" " UNL="become(icl&gt;occur,obj&gt;thing,gol&gt;uw)" DEF="ENTER OR ASSUME A CERTAIN STATE OR CONDITION" TRANS="становиться">become</W> 
 <W DOM="18" FEAT="A" HYPOT="compos.02" ID="17" KSNAME="PASSIVE1" LEMMA="PASSIVE" LINK="compos" PAFT="-">passive</W>- 
-<W DOM="16" FEAT="V ING" HYPOT="adverb.03" ID="18" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=", " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W>, 
+<W DOM="16" FEAT="V ING" HYPOT="adverb.03" ID="18" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=", " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W>, 
 <W DOM="20" FEAT="S PL" HYPOT="predic.01" ID="19" KSNAME="PSYCHOLOGIST" LEMMA="PSYCHOLOGIST" LINK="predic" PAFT=" " UNL="psychologist(icl&gt;scientist&gt;thing)" DEF="A SCIENTIST TRAINED IN PSYCHOLOGY" TRANS="психолог">psychologists</W> 
 <W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="parenth.13" ID="20" KSNAME="SAY" LEMMA="SAY" LINK="parenth" PAFT=", " UNL="say(icl&gt;assert&gt;do,equ&gt;allege,agt&gt;person,obj&gt;uw)" DEF="REPORT OR MAINTAIN" TRANS="утверждать">say</W>, 
 <W DOM="20" FEAT="PR" HYPOT="adverb.02" ID="21" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 

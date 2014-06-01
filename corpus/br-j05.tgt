@@ -353,7 +353,7 @@
 <S DATE="29 11 2010 20:09:15" EXTRACOMM="Tagging contradicts ETAP parsing:  - OVERSIMPLIFY" ID="14" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j05.tgt;14" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.10" ID="1" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">An</W> 
 <W DOM="3" FEAT="V PP" HYPOT="modif.01" ID="2" KSNAME="OVERSIMPLIFY" LEMMA="OVERSIMPLIFY" LINK="modif" MSNAME="OVERSIMPLIFY" PAFT=" ">oversimplified</W> 
-<W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="predic" PAFT=" " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="">differentiation</W> 
+<W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="predic" PAFT=" " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="A DISCRIMINATION BETWEEN THINGS AS DIFFERENT AND DISTINCT" TRANS="различение">differentiation</W> 
 <W DOM="3" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="1-compl" PAFT=" ">between</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="SOFT" LEMMA="SOFT" LINK="modif" PAFT="-">soft</W>- 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -890,7 +890,7 @@
 <W DOM="7" FEAT="ADV COMP" HYPOT="adverb.01" ID="10" KSNAME="MORE" LEMMA="MORE" LINK="adverb" PAFT=" ">more</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="adverb.10" ID="11" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="13" FEAT="V ING" HYPOT="modif.01" ID="12" KSNAME="PEPTIZE" LEMMA="PEPTIZE" LINK="modif" PAFT=" ">peptizing</W> 
-<W DOM="11" FEAT="S PL" HYPOT="comp-conj.10" ID="13" KSNAME="AGENT2" LEMMA="AGENT" LINK="comp-conj" PAFT=" " UNL="agent(icl&gt;causal_agent&gt;thing)" DEF="">agents</W> 
+<W DOM="11" FEAT="S PL" HYPOT="comp-conj.10" ID="13" KSNAME="AGENT2" LEMMA="AGENT" LINK="comp-conj" PAFT=" " UNL="agent(icl&gt;causal_agent&gt;abstract_thing)" DEF="AN ACTIVE CAUSE CAPABLE OF PRODUCING AN EFFECT" TRANS="причина">agents</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="compar.10" ID="14" KSNAME="THAN" LEMMA="THAN" LINK="compar" PAFT=" ">than</W> 
 <W DOM="14" FEAT="S SG" HYPOT="comp-conj.10" ID="15" KSNAME="ANYTHING" LEMMA="ANYTHING" LINK="comp-conj" PAFT=" ">anything</W> 
 <W DOM="15" FEAT="ADV" HYPOT="attrib.00" ID="16" KSNAME="ELSE" LEMMA="ELSE" LINK="attrib" PAFT=". ">else</W>. 
@@ -1473,7 +1473,7 @@
 <W DOM="26" FEAT="V ING" HYPOT="prepos.01" ID="27" KSNAME="FORM2" LEMMA="FORM" LINK="prepos" PAFT=" " UNL="form(icl&gt;change&gt;do,equ&gt;shape,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="GIVE SHAPE OR FORM TO" TRANS="придавать">forming</W> 
 <W DOM="27" EXTRAFEAT="ALT" FEAT="S PL" HYPOT="1-compl.01" ID="28" KSNAME="MICELLA" LEMMA="MICELLA" LINK="1-compl" PAFT=" ">micelles</W> 
 <W DOM="23" FEAT="PR" HYPOT="2-compl.02" ID="29" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
-<W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=". " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W>. 
+<W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=". " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W>. 
 </S>
 <S DATE="29 11 2010 20:09:23" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="59" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j05.tgt;59" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="ALT CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="PHYSICO-CHEMICAL" LEMMA="PHYSICO-CHEMICAL" LINK="modif" PAFT=" ">Physicochemical</W> 
@@ -1548,7 +1548,7 @@
 <W DOM="21" FEAT="PR" HYPOT="quasiagent.10" ID="22" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="POLYMERIZATION" LEMMA="POLYMERIZATION" LINK="prepos" PAFT=" " UNL="polymerization(icl&gt;chemical_process&gt;thing)" DEF="A CHEMICAL PROCESS THAT COMBINES SEVERAL MONOMERS TO FORM A POLYMER OR POLYMERIC COMPOUND" TRANS="полимеризация">polymerization</W> 
 <W DOM="23" FEAT="V ING" HYPOT="modif.01" ID="24" KSNAME="AVERAGE3" LEMMA="AVERAGE" LINK="modif" PAFT=" " UNL="average(icl&gt;total&gt;be,aoj&gt;thing,val&gt;thing)" DEF="AMOUNT TO OR COME TO AN AVERAGE, WITHOUT LOSS OR GAIN" TRANS="составлять в среднем">averaging</W> 
-<W DOM="24" FEAT="ADV" HYPOT="adverb.01" ID="25" KSNAME="AROUND2" LEMMA="AROUND" LINK="adverb" PAFT=" " UNL="around(icl&gt;how,equ&gt;approximately)" DEF="">around</W> 
+<W DOM="24" FEAT="ADV" HYPOT="adverb.01" ID="25" KSNAME="AROUND2" LEMMA="AROUND" LINK="adverb" PAFT=" " UNL="around(icl&gt;how,equ&gt;approximately)" DEF="(OF QUANTITIES) IMPRECISE BUT FAIRLY CLOSE TO CORRECT" TRANS="приблизительно">around</W> 
 <W DOM="24" FEAT="NUM" HYPOT="1-compl.01" ID="26" KSNAME="NUM-LARGE" LEMMA="60" LINK="1-compl" PAFT="-">60</W>- 
 <W DOM="26" FEAT="NUM" HYPOT="sequent.02" ID="27" KSNAME="NUM-LARGE" LEMMA="80." LINK="sequent" PAFT=". ">80.</W> 
 </S>
@@ -2210,7 +2210,7 @@
 <W FEAT="A SG" ID="35" KSNAME="ACTIVE" LEMMA="ACTIVE" WN21="1:27:00::">active</W>, 
 <W FEAT="S SG" ID="36" KSNAME="BUILDER" LEMMA="BUILDER" UNL="builder(icl&gt;material&gt;thing)" DEF="A SUBSTANCE ADDED TO SOAPS OR DETERGENTS TO INCREASE THEIR CLEANSING ACTION" TRANS="моющий компонент" WN21="1:27:00::">builder</W>, 
 <W FEAT="S" ID="37" WN21="1:22:00::">antiredeposition</W> 
-<W FEAT="S SG" ID="38" KSNAME="AGENT2" LEMMA="AGENT" UNL="agent(icl&gt;causal_agent&gt;thing)" DEF="" WN21="1:27:00::">agent</W>, 
+<W FEAT="S SG" ID="38" KSNAME="AGENT2" LEMMA="AGENT" UNL="agent(icl&gt;causal_agent&gt;abstract_thing)" DEF="AN ACTIVE CAUSE CAPABLE OF PRODUCING AN EFFECT" TRANS="причина" WN21="1:27:00::">agent</W>, 
 <W FEAT="ADV" ID="39" KSNAME="ETC" LEMMA="ETC" WN21="4:02:00::">etc</W> 
 <W FEAT="CONJ" ID="40" KSNAME="THAN" LEMMA="THAN">than</W> 
 <W FEAT="PART" ID="41" KSNAME="THERE2" LEMMA="THERE">there</W> 

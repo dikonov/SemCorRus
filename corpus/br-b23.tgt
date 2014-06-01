@@ -119,7 +119,7 @@
 <W DOM="23" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="1-compl.21" ID="24" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="S NOM PL" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="predic.01" ID="25" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="adverb.01" ID="26" KSNAME="SUBJECTIVELY" LEMMA="SUBJECTIVELY" LINK="adverb" PAFT=" ">subjectively</W> 
-<W DOM="24" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="subord-conj.10" ID="27" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intend</W> 
+<W DOM="24" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="subord-conj.10" ID="27" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intend</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="PART" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="1-compl.15" ID="28" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="28" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="prepos.16" ID="29" KSNAME="REENTER" LEMMA="REENTER" LINK="prepos" PAFT=" ">reenter</W> 
 <W DOM="31" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="21,22,23,24,25,26,27,28,29,30,31" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1899,7 +1899,7 @@
 <W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="CONGO" LEMMA="CONGO" LINK="predic" PAFT=" ">Congo</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="6" KSNAME="SHOULD" LEMMA="SHOULD" LINK="subord-conj" MSNAME="SHOULD" PAFT=" ">should</W> 
 <W DOM="6" FEAT="V MF" HYPOT="analyt.13" ID="7" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
-<W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="UNIFY" LEMMA="UNIFY" LINK="pass-anal" PAFT=", " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">unified</W>, 
+<W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="UNIFY" LEMMA="UNIFY" LINK="pass-anal" PAFT=", " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="BECOME ONE" TRANS="объединяться">unified</W>, 
 <W DOM="10" FEAT="S NOM PL" HYPOT="predic.01" ID="9" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="10" KSNAME="DO1" LEMMA="DO" LINK="sent-coordin" PAFT=" ">do</W> 
 <W DOM="10" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="11" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 

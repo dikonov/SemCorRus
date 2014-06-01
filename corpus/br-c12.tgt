@@ -399,7 +399,7 @@
 <W DOM="18" FEAT="S PL" HYPOT="predic.01" ID="15" KSNAME="PROJECT1" LEMMA="PROJECT" LINK="predic" PAFT=", ">projects</W>, 
 <W DOM="17" FEAT="ADV" HYPOT="restr.11" ID="16" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="18" FEAT="ADV" HYPOT="adverb.01" ID="17" KSNAME="SIMPLY" LEMMA="SIMPLY" LINK="adverb" PAFT=" ">simply</W> 
-<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="18" KSNAME="SERVE2" LEMMA="SERVE" LINK="relat" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serve</W> 
+<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="18" KSNAME="SERVE2" LEMMA="SERVE" LINK="relat" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serve</W> 
 <W DOM="18" FEAT="PR" HYPOT="1-compl.07" ID="19" KSNAME="ON1" LEMMA="ON" LINK="1-compl" PAFT=" ">on</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="AIR1" LEMMA="AIR" LINK="prepos" PAFT=". ">air</W>. 

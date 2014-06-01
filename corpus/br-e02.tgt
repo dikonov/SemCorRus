@@ -257,7 +257,7 @@
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="FEELING" LEMMA="FEELING" LINK="1-compl" PAFT=" " UNL="feeling(icl&gt;somesthesia&gt;thing)" DEF="">feeling</W> 
 <W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="ADEQUACY" LEMMA="ADEQUACY" LINK="prepos" PAFT=" " UNL="adequacy(icl&gt;quality&gt;thing,equ&gt;sufficiency,ant&gt;inadequacy)" DEF="">adequacy</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="ADEQUACY" LEMMA="ADEQUACY" LINK="prepos" PAFT=" " UNL="adequacy(icl&gt;quality&gt;thing,equ&gt;sufficiency,ant&gt;inadequacy)" DEF="THE QUALITY OF BEING SUFFICIENT FOR THE END IN VIEW" TRANS="достаточность">adequacy</W> 
 <W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" GRP="11,12" HYPOT="relat.01" ID="11" KSNAME="COME" LEMMA="COME" LINK="relat" PAFT=" ">comes</W> 
 <W DOM="11" FEAT="PR" GRP="11,12" HYPOT="adverb.02" ID="12" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
@@ -564,7 +564,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="EVERY" LEMMA="EVERY" LINK="determ" PAFT=" ">Every</W> 
 <W DOM="8" FEAT="S SG" HYPOT="adverb.04" ID="2" KSNAME="TIME1" LEMMA="TIME" LINK="adverb" PAFT=" " UNL="time(icl&gt;abstract_thing,equ&gt;occasion)" DEF="A SINGLE OCCASION FOR SOME EVENT" TRANS="раз">time</W> 
 <W DOM="4" FEAT="S NOM PL" HYPOT="predic.01" ID="3" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
-<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.31" ID="4" KSNAME="TRANSPLANT1" LEMMA="TRANSPLANT" LINK="1-compl" PAFT=" " UNL="transplant(icl&gt;displace&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="">transplant</W> 
+<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.31" ID="4" KSNAME="TRANSPLANT1" LEMMA="TRANSPLANT" LINK="1-compl" PAFT=" " UNL="transplant(icl&gt;displace&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="LIFT AND RESET IN ANOTHER SOIL OR SITUATION" TRANS="переносить">transplant</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="PANSY" LEMMA="PANSY" LINK="1-compl" MSNAME="PANSY" PAFT=" " UNL="pansy(icl&gt;viola&gt;thing)" DEF="LARGE-FLOWERED GARDEN PLANT DERIVED CHIEFLY FROM THE WILD PANSY OF EUROPE AND HAVING VELVETY PETALS OF VARIOUS COLORS" TRANS="анютины глазки">pansy</W> 
 <W DOM="8" FEAT="S NOM PL" HYPOT="predic.01" ID="7" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
@@ -581,7 +581,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=": " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W>: 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V MF" ID="4" KSNAME="DO1" LEMMA="DO" LINK="fictit" PAFT=" ">do</W> 
 <W DOM="4" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="5" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
-<W DOM="4" FEAT="V MF" HYPOT="analyt.10" ID="6" KSNAME="TRANSPLANT1" LEMMA="TRANSPLANT" LINK="analyt" PAFT=" " UNL="transplant(icl&gt;displace&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="">transplant</W> 
+<W DOM="4" FEAT="V MF" HYPOT="analyt.10" ID="6" KSNAME="TRANSPLANT1" LEMMA="TRANSPLANT" LINK="analyt" PAFT=" " UNL="transplant(icl&gt;displace&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="LIFT AND RESET IN ANOTHER SOIL OR SITUATION" TRANS="переносить">transplant</W> 
 <W DOM="6" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="7" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="ANY" LEMMA="ANY" LINK="determ" PAFT=" ">any</W> 
 <W DOM="3" FEAT="NID" ID="9" KSNAME="FICT-LEX" LEMMA="OFTENER" LINK="fictit" PAFT=" ">oftener</W> 
@@ -1867,7 +1867,7 @@
 <W DOM="15" FEAT="S SG" GRP="17,18" HYPOT="prepos.01" ID="17" KSNAME="SORT1" LEMMA="SORT" LINK="prepos" PAFT=" ">sort</W> 
 <W DOM="17" FEAT="PR" GRP="17,18" HYPOT="quasiagent.10" ID="18" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="DORMANT" LEMMA="DORMANT" LINK="modif" MSNAME="DORMANT" PAFT=" ">dormant</W> 
-<W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=". " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W>. 
+<W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=". " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W>. 
 </S>
 <S DATE="29 11 2010 20:00:24" EXTRACOMM="Tagging contradicts ETAP parsing:  - COOL2" ID="98" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e02.tgt;98" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.14" ID="1" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">This</W> 

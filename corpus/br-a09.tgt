@@ -1130,7 +1130,7 @@
 </S>
 <S DATE="30 11 2010 10:45:17" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="54" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_28\\br-a09.tgt;54">
 <W FEAT="S PL" ID="1" KSNAME="PETITION1" LEMMA="PETITION">Petitions</W> 
-<W FEAT="V" ID="2" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="" WN21="2:32:01::">asking</W> 
+<W FEAT="V" ID="2" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить" WN21="2:32:01::">asking</W> 
 <W ID="3">for</W> 
 <W FEAT="ART" ID="4" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="S SG" ID="5" KSNAME="JAIL1" LEMMA="JAIL">jail</W> 
@@ -1270,7 +1270,7 @@
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="10" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
 <W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="11" KSNAME="REPRIMAND2" LEMMA="REPRIMAND" LINK="pass-anal" MSNAME="REPRIMAND2" PAFT=" " UNL="reprimand(icl&gt;knock&gt;do,rsn&gt;thing,agt&gt;volitional_thing,rec&gt;person)" DEF="">reprimanded</W> 
 <W DOM="11" FEAT="PR" HYPOT="2-compl.02" ID="12" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
-<W DOM="12" FEAT="V ING" HYPOT="prepos.01" ID="13" KSNAME="VIOLATE" LEMMA="VIOLATE" LINK="prepos" PAFT=" " UNL="violate(icl&gt;disrespect&gt;do,equ&gt;transgress,agt&gt;thing,obj&gt;thing)" DEF="">violating</W> 
+<W DOM="12" FEAT="V ING" HYPOT="prepos.01" ID="13" KSNAME="VIOLATE" LEMMA="VIOLATE" LINK="prepos" PAFT=" " UNL="violate(icl&gt;disrespect&gt;do,equ&gt;transgress,agt&gt;thing,obj&gt;thing)" DEF="ACT IN DISREGARD OF LAWS, RULES, CONTRACTS, OR PROMISES" TRANS="нарушать">violating</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="PROBATION" LEMMA="PROBATION" LINK="1-compl" PAFT=". ">probation</W>. 
 </S>

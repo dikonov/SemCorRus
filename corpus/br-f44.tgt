@@ -196,7 +196,7 @@
 <W DOM="31" FEAT="PR" HYPOT="2-compl.02" ID="35" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="37" FEAT="A" GRP="36,37" HYPOT="modif.01" ID="36" KSNAME="LOWER2" LEMMA="LOWER" LINK="modif" PAFT=" ">lower</W> 
 <W DOM="38" FEAT="S SG" GRP="36,37" HYPOT="compos.01" ID="37" KSNAME="CLASS1" LEMMA="CLASS" LINK="compos" PAFT=" ">class</W> 
-<W DOM="35" FEAT="S PL" HYPOT="prepos.01" ID="38" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="prepos" PAFT=". " UNL="resident(icl&gt;inhabitant&gt;thing,ant&gt;nonresident)" DEF="">residents</W>. 
+<W DOM="35" FEAT="S PL" HYPOT="prepos.01" ID="38" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="prepos" PAFT=". " UNL="resident(icl&gt;inhabitant&gt;person,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="резидент,житель">residents</W>. 
 </S>
 <S DATE="29 11 2010 20:25:18" EXTRACOMM="Tagging contradicts ETAP parsing: PEOPLE2 - PEOPLE1,PEOPLE2,PEOPLE3" ID="8" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f44.tgt;8" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" GRP="1,2" HYPOT="modif.01" ID="1" KSNAME="CENTRAL" LEMMA="CENTRAL" LINK="modif" PAFT=" ">Central</W> 
@@ -206,7 +206,7 @@
 <W DOM="4" FEAT="V PP" HYPOT="analyt.12" ID="5" KSNAME="BECOME" LEMMA="BECOME" LINK="analyt" PAFT=" " UNL="become(icl&gt;occur,obj&gt;thing,gol&gt;uw)" DEF="ENTER OR ASSUME A CERTAIN STATE OR CONDITION" TRANS="становиться">become</W> 
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="PROGRESSIVELY" LEMMA="PROGRESSIVELY" LINK="adverb" PAFT=" " UNL="progressively(icl&gt;how,equ&gt;increasingly,com&gt;progressive)" DEF="ADVANCING IN AMOUNT OR INTENSITY" TRANS="по нарастающей,все более">progressively</W> 
 <W DOM="8" FEAT="A COMP" HYPOT="modif.01" ID="7" KSNAME="POOR" LEMMA="POOR" LINK="modif" PAFT=" " UNL="poor(icl&gt;adj,ant&gt;rich)" DEF="">poorer</W> 
-<W DOM="5" FEAT="S PL" HYPOT="1-compl.01" ID="8" KSNAME="LOCALE" LEMMA="LOCALE" LINK="1-compl" MSNAME="LOCALE" PAFT=" " UNL="locale(icl&gt;scene&gt;thing,equ&gt;venue)" DEF="">locales</W> 
+<W DOM="5" FEAT="S PL" HYPOT="1-compl.01" ID="8" KSNAME="LOCALE" LEMMA="LOCALE" LINK="1-compl" MSNAME="LOCALE" PAFT=" " UNL="locale(icl&gt;scene&gt;thing,equ&gt;venue)" DEF="THE SCENE OF ANY EVENT OR ACTION (ESPECIALLY THE PLACE OF A MEETING)" TRANS="место">locales</W> 
 <W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="9" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="MAJOR1" LEMMA="MAJOR" LINK="modif" PAFT=" ">major</W> 
@@ -436,7 +436,7 @@
 <W DOM="7" FEAT="A" HYPOT="subj-copr.01" ID="8" KSNAME="SOCIAL1" LEMMA="SOCIAL" LINK="subj-copr" PAFT=" ">social</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="A" HYPOT="coord-conj.10" ID="10" KSNAME="ECONOMIC" LEMMA="ECONOMIC" LINK="coord-conj" PAFT=" " UNL="economic(icl&gt;adj,com&gt;economy)" DEF="OF OR RELATING TO AN ECONOMY, THE SYSTEM OF PRODUCTION AND MANAGEMENT OF MATERIAL WEALTH" TRANS="экономический">economic</W> 
-<W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="11" KSNAME="PEER1" LEMMA="PEER" LINK="1-compl" PAFT=". " UNL="peer(icl&gt;person&gt;thing)" DEF="">peers</W>. 
+<W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="11" KSNAME="PEER1" LEMMA="PEER" LINK="1-compl" PAFT=". " UNL="peer(icl&gt;person&gt;thing)" DEF="A PERSON WHO IS OF EQUAL STANDING WITH ANOTHER IN A GROUP" TRANS="ровня">peers</W>. 
 </S>
 <S DATE="29 11 2010 20:25:21" EXTRACOMM="Tagging contradicts ETAP parsing:  - PROTESTANT" ID="16" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f44.tgt;16" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -487,7 +487,7 @@
 <W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="CONFINE2" LEMMA="CONFINE" LINK="pass-anal" PAFT=" " UNL="confine(icl&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing,gol&gt;uw)" DEF="TO LIMIT OR RESTRICT" TRANS="ограничивать">confined</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.02" ID="10" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="ECONOMIC" LEMMA="ECONOMIC" LINK="modif" PAFT=" " UNL="economic(icl&gt;adj,com&gt;economy)" DEF="OF OR RELATING TO AN ECONOMY, THE SYSTEM OF PRODUCTION AND MANAGEMENT OF MATERIAL WEALTH" TRANS="экономический">economic</W> 
-<W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="PEER1" LEMMA="PEER" LINK="prepos" PAFT="; " UNL="peer(icl&gt;person&gt;thing)" DEF="">peers</W>; 
+<W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="PEER1" LEMMA="PEER" LINK="prepos" PAFT="; " UNL="peer(icl&gt;person&gt;thing)" DEF="A PERSON WHO IS OF EQUAL STANDING WITH ANOTHER IN A GROUP" TRANS="ровня">peers</W>; 
 <W DOM="15" FEAT="ADV" HYPOT="parenth.16" ID="13" KSNAME="CONSEQUENTLY" LEMMA="CONSEQUENTLY" LINK="parenth" MSNAME="CONSEQUENTLY" PAFT=", ">consequently</W>, 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="VULNERABILITY" LEMMA="VULNERABILITY" LINK="predic" PAFT=" " UNL="vulnerability(icl&gt;danger&gt;thing)" DEF="THE STATE OF BEING VULNERABLE OR EXPOSED" TRANS="уязвимость">vulnerability</W> 
@@ -1488,7 +1488,7 @@
 <W FEAT="A" ID="4" KSNAME="IMPERSONAL" LEMMA="IMPERSONAL" UNL="impersonal(icl&gt;adj,ant&gt;personal)" DEF="NOT RELATING TO OR RESPONSIVE TO INDIVIDUAL PERSONS" TRANS="безличный" WN21="3:00:00::">impersonal</W> 
 <W FEAT="S SG" ID="5" KSNAME="INTERDEPENDENCE" LEMMA="INTERDEPENDENCE" UNL="interdependence(icl&gt;reciprocality&gt;thing,equ&gt;mutuality)" DEF="A RECIPROCAL RELATION BETWEEN INTERDEPENDENT ENTITIES (OBJECTS OR INDIVIDUALS OR GROUPS)" TRANS="взаимозависимость" WN21="1:24:00::">interdependence</W> 
 <W FEAT="CONJ" ID="6" KSNAME="AND" LEMMA="AND">and</W> 
-<W FEAT="S SG" ID="7" KSNAME="INSULATION" LEMMA="INSULATION" UNL="insulation(icl&gt;isolation&gt;thing)" DEF="" WN21="1:26:00::">insulation</W> 
+<W FEAT="S SG" ID="7" KSNAME="INSULATION" LEMMA="INSULATION" UNL="insulation(icl&gt;isolation&gt;thing)" DEF="THE STATE OF BEING ISOLATED OR DETACHED" TRANS="изолированность" WN21="1:26:00::">insulation</W> 
 <W ID="8">of</W> 
 <W FEAT="A" ID="9" KSNAME="RESIDENTIAL" LEMMA="RESIDENTIAL" UNL="residential(icl&gt;adj,ant&gt;nonresidential)" DEF="USED OR DESIGNED FOR RESIDENCE OR LIMITED TO RESIDENCES" TRANS="жилой" WN21="3:00:00::">residential</W> 
 <W FEAT="S" ID="10" KSNAME="COMMUNITY" LEMMA="COMMUNITY" UNL="community(icl&gt;gathering&gt;thing)" DEF="A GROUP OF PEOPLE LIVING IN A PARTICULAR LOCAL AREA" TRANS="жители" WN21="1:14:00::">communities</W> 
@@ -1560,7 +1560,7 @@
 <S DATE="29 11 2010 20:25:27" EXTRACOMM="Unexpected exception occured" ID="48" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f44.tgt;48" STATUS="error">
 <W FEAT="ART" ID="1" KSNAME="THE" LEMMA="THE">The</W> 
 <W FEAT="V PP" ID="2" KSNAME="ACCELERATE" LEMMA="ACCELERATE" WN21="5:00:00:expedited:">accelerated</W> 
-<W FEAT="S SG" ID="3" KSNAME="PACE1" LEMMA="PACE" UNL="pace(icl&gt;rate&gt;abstract_thing,com&gt;progressaoj&gt;process)" DEF="" WN21="1:07:01::">pace</W> 
+<W FEAT="S SG" ID="3" KSNAME="PACE1" LEMMA="PACE" UNL="pace(icl&gt;rate&gt;abstract_thing,aoj&gt;process)" DEF="SPEED OR RHYTHM" TRANS="темп" WN21="1:07:01::">pace</W> 
 <W ID="4">of</W> 
 <W FEAT="A" ID="5" KSNAME="METROPOLITAN1" LEMMA="METROPOLITAN" UNL="metropolitan(icl&gt;adj,com&gt;metropolis)" DEF="RELATING TO OR CHARACTERISTIC OF A METROPOLIS" TRANS="столичный" WN21="3:01:00::">metropolitan</W> 
 <W FEAT="S" ID="6" WN21="1:11:00::">changes</W> 
@@ -1687,10 +1687,10 @@
 </S>
 <S DATE="29 11 2010 20:25:27" EXTRACOMM="Unexpected exception occured" ID="53" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f44.tgt;53" STATUS="error">
 <W FEAT="S" ID="1" KSNAME="NEGRO2" LEMMA="NEGRO" UNL="negro(icl&gt;person&gt;thing,equ&gt;black)" DEF="A PERSON WITH DARK SKIN WHO COMES FROM AFRICA (OR WHOSE ANCESTORS CAME FROM AFRICA)" TRANS="негр" WN21="1:18:00::">Negroes</W>, 
-<W FEAT="S" ID="2" KSNAME="PUERTO$RICAN2" LEMMA="PUERTO$RICAN" UNL="puerto_rican(icl&gt;american&gt;thing)" DEF="" WN21="1:18:00::">Puerto Ricans</W>, 
+<W FEAT="S" ID="2" KSNAME="PUERTO$RICAN2" LEMMA="PUERTO$RICAN" UNL="puerto_rican(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF PUERTO RICO" TRANS="пуэрториканец" WN21="1:18:00::">Puerto Ricans</W>, 
 <W FEAT="CONJ" ID="3" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="A" ID="4" KSNAME="RURAL" LEMMA="RURAL" UNL="rural(icl&gt;adj,com&gt;country)" DEF="" WN21="3:01:01::">rural</W> 
-<W FEAT="S" ID="5" KSNAME="NEWCOMER" LEMMA="NEWCOMER" UNL="newcomer(icl&gt;novice&gt;thing)" DEF="" WN21="1:18:00::">newcomers</W> 
+<W FEAT="S" ID="5" KSNAME="NEWCOMER" LEMMA="NEWCOMER" UNL="newcomer(icl&gt;novice&gt;thing)" DEF="ANY NEW PARTICIPANT IN SOME ACTIVITY" TRANS="новичок" WN21="1:18:00::">newcomers</W> 
 <W FEAT="V" ID="6" KSNAME="BE" LEMMA="BE">are</W> 
 <W FEAT="ADV" ID="7" KSNAME="SLOWLY" LEMMA="SLOWLY" UNL="slowly(icl&gt;how,ant&gt;quickly,com&gt;slow)" DEF="WITHOUT SPEED (`SLOW' IS SOMETIMES USED INFORMALLY FOR `SLOWLY')" TRANS="потихоньку,тихонько,медленно" WN21="4:02:02::">slowly</W> 
 <W FEAT="S" ID="8" KSNAME="MAKING" LEMMA="MAKING" WN21="2:38:00::">making</W> 
@@ -2124,7 +2124,7 @@
 <W FEAT="S SG" ID="20" KSNAME="IDENTITY" LEMMA="IDENTITY" UNL="identity(icl&gt;property&gt;abstract_thing,equ&gt;personality,aoj&gt;person)" DEF="THE DISTINCT PERSONALITY OF AN INDIVIDUAL REGARDED AS A PERSISTING ENTITY" TRANS="личность" WN21="1:07:00::">identity</W> 
 <W ID="21">when</W> 
 <W FEAT="A" ID="22" KSNAME="THEIR" LEMMA="THEIR">their</W> 
-<W FEAT="S" ID="23" KSNAME="CLUB1" LEMMA="CLUB" UNL="club(icl&gt;association&gt;thing)" DEF="" WN21="1:14:00::">clubs</W> 
+<W FEAT="S" ID="23" KSNAME="CLUB1" LEMMA="CLUB" UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб" WN21="1:14:00::">clubs</W> 
 <W FEAT="CONJ" ID="24" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="S" ID="25" KSNAME="CHARITY" LEMMA="CHARITY" UNL="charity(icl&gt;foundation&gt;thing)" DEF="" WN21="1:14:00::">charities</W> 
 <W FEAT="V" ID="26" KSNAME="SHOULD" LEMMA="SHOULD">should</W> 

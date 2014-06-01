@@ -443,7 +443,7 @@
 <W FEAT="ART" ID="1" KSNAME="THE" LEMMA="THE">The</W> 
 <W FEAT="S SG" ID="2" KSNAME="PARENT1" LEMMA="PARENT" UNL="parent(icl&gt;genitor&gt;thing,ant&gt;child)" DEF="A FATHER OR MOTHER" TRANS="родитель" WN21="1:18:00::">parent</W> 
 <W FEAT="V" ID="3" KSNAME="BE" LEMMA="BE">was</W> 
-<W FEAT="V" ID="4" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="" WN21="2:32:01::">asked</W> 
+<W FEAT="V" ID="4" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить" WN21="2:32:01::">asked</W> 
 <W FEAT="PART" ID="5" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="6" KSNAME="DESCRIBE" LEMMA="DESCRIBE" WN21="2:32:01::">describe</W> 
 <W FEAT="ART" ID="7" KSNAME="THE" LEMMA="THE">the</W> 
@@ -826,7 +826,7 @@
 <S DATE="30 11 2010 10:33:45" EXTRACOMM="Tagging contradicts ETAP parsing:  - FRM1\nTagging contradicts ETAP parsing:  - ZERO1\nSome punctuation marks are not confirmed" ID="34" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_22\\br-j29.tgt;34" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="NUM" HYPOT="quantit.10" ID="2" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
-<W DOM="4" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">ratings</W> 
+<W DOM="4" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">ratings</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="4" KSNAME="YIELD1" LEMMA="YIELD" PAFT=" ">yield</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="CORRELATION" LEMMA="CORRELATION" LINK="1-compl" PAFT=" " UNL="correlation(icl&gt;parametric_statistic&gt;thing,equ&gt;correlation_coefficient)" DEF="">correlation</W> 
@@ -1145,7 +1145,7 @@
 <W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="16" KSNAME="WOULD" LEMMA="WOULD" LINK="relat" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="16" FEAT="V MF" HYPOT="analyt.13" ID="17" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
-<W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="PREDICT" LEMMA="PREDICT" LINK="pass-anal" PAFT=" " UNL="predict(icl&gt;bespeak&gt;do,equ&gt;bode,agt&gt;thing,obj&gt;thing)" DEF="">predicted</W> 
+<W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="PREDICT" LEMMA="PREDICT" LINK="pass-anal" PAFT=" " UNL="predict(icl&gt;bespeak&gt;do,equ&gt;bode,agt&gt;thing,obj&gt;thing)" DEF="INDICATE BY SIGNS" TRANS="предвещать">predicted</W> 
 <W DOM="18" FEAT="PR" HYPOT="collig-adv.10" ID="19" KSNAME="BY1" LEMMA="BY" LINK="collig-adv" PAFT=" ">by</W> 
 <W DOM="2" FEAT="ART" ID="20" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" GRP="21,22" ID="21" KSNAME="I" LEMMA="I" LINK="fictit" PAFT=" ">I</W> 
@@ -1962,7 +1962,7 @@
 <W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="SYMBOL" LEMMA="SYMBOL" LINK="predic" PAFT=" " UNL="symbol(icl&gt;signal&gt;thing)" DEF="AN ARBITRARY SIGN (WRITTEN OR PRINTED) THAT HAS ACQUIRED A CONVENTIONAL SIGNIFICANCE" TRANS="символ">symbols</W> 
 <W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="5" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">is</W> 
-<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="6" FEAT="PART" HYPOT="2-compl.12" ID="7" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="7" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="LEARN" LEMMA="LEARN" LINK="prepos" PAFT=" " UNL="learn(icl&gt;memorize&gt;do,agt&gt;thing,obj&gt;information)" DEF="COMMIT TO MEMORY" TRANS="выучивать">learn</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="1-compl.31" ID="9" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">are</W> 
@@ -2059,7 +2059,7 @@
 <W DOM="26" FEAT="PR" HYPOT="adverb.02" ID="27" KSNAME="TO1" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.10" ID="28" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="30" FEAT="A" HYPOT="modif.01" ID="29" KSNAME="ENERGETIC" LEMMA="ENERGETIC" LINK="modif" PAFT=" " UNL="energetic(icl&gt;adj,ant&gt;lethargic)" DEF="POSSESSING OR EXERTING OR DISPLAYING ENERGY" TRANS="сильный">energetic</W> 
-<W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="30" FEAT="PR" HYPOT="attrib.01" ID="31" KSNAME="WITHOUT" LEMMA="WITHOUT" LINK="attrib" PAFT=" ">without</W> 
 <W DOM="31" FEAT="V ING" HYPOT="prepos.01" ID="32" KSNAME="BECOME" LEMMA="BECOME" LINK="prepos" PAFT=" " UNL="become(icl&gt;occur,obj&gt;thing,gol&gt;uw)" DEF="ENTER OR ASSUME A CERTAIN STATE OR CONDITION" TRANS="становиться">becoming</W> 
 <W DOM="32" FEAT="A" HYPOT="1-compl.11" ID="33" KSNAME="CONFUSED" LEMMA="CONFUSED" LINK="1-compl" PAFT=" ">confused</W> 

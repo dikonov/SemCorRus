@@ -979,7 +979,7 @@
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="13" KSNAME="GLAND" LEMMA="GLAND" LINK="predic" PAFT=" " UNL="gland(icl&gt;organ&gt;thing)" DEF="ANY OF VARIOUS ORGANS THAT SYNTHESIZE SUBSTANCES NEEDED BY THE BODY AND RELEASE IT THROUGH DUCTS OR DIRECTLY INTO THE BLOODSTREAM" TRANS="железа">gland</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="14" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="14" FEAT="A" HYPOT="copulat.11" ID="15" KSNAME="SLUGGISH" LEMMA="SLUGGISH" LINK="copulat" PAFT=". " UNL="sluggish(icl&gt;adj)" DEF="">sluggish</W>. 
+<W DOM="14" FEAT="A" HYPOT="copulat.11" ID="15" KSNAME="SLUGGISH" LEMMA="SLUGGISH" LINK="copulat" PAFT=". " UNL="sluggish(icl&gt;adj)" DEF="WITH LITTLE MOVEMENT" TRANS="неповоротливый">sluggish</W>. 
 </S>
 <S DATE="29 11 2010 19:53:50" ID="62" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-b13.tgt;62" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -1243,17 +1243,17 @@
 </S>
 <S DATE="29 11 2010 19:53:55" EXTRACOMM="Tagging contradicts ETAP parsing: FRENCH2 - FRENCH1,FRENCH2" ID="75" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-b13.tgt;75" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="PREVIOUS" LEMMA="PREVIOUS" LINK="modif" PAFT=" ">Previous</W> 
-<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="PRESENTATION" LEMMA="PRESENTATION" LINK="predic" PAFT=" " UNL="presentation(icl&gt;representation&gt;thing,equ&gt;display)" DEF="">presentations</W> 
+<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="PRESENTATION" LEMMA="PRESENTATION" LINK="predic" PAFT=" " UNL="presentation(icl&gt;representation&gt;thing,equ&gt;display)" DEF="A VISUAL REPRESENTATION OF SOMETHING" TRANS="показ">presentations</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">have</W> 
 <W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="4" FEAT="PR" HYPOT="copulat.13" ID="5" KSNAME="ON1" LEMMA="ON" LINK="copulat" PAFT=" ">on</W> 
-<W DOM="5" EXTRAFEAT="CAP" FEAT="A" HYPOT="prepos.01" ID="6" KSNAME="FRENCH1" LEMMA="FRENCH" LINK="prepos" PAFT=", " UNL="french(icl&gt;romance&gt;thing)" DEF="">French</W>, 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="A" HYPOT="prepos.01" ID="6" KSNAME="FRENCH1" LEMMA="FRENCH" LINK="prepos" PAFT=", " UNL="french(icl&gt;romance&gt;abstract_thing,iof&gt;language)" DEF="">French</W>, 
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="parenth.20" ID="7" KSNAME="SPANISH2" LEMMA="SPANISH" LINK="parenth" PAFT=", " UNL="spanish(iof&gt;language) spanish(icl&gt;romance&gt;thing)" DEF="">Spanish</W>, 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="8" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="coordin" PAFT=", " UNL="russian(icl&gt;slavic&gt;thing) russian(iof&gt;language)" DEF="">Russian</W>, 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="9" KSNAME="ITALIAN2" LEMMA="ITALIAN" LINK="coordin" PAFT=", " UNL="italian(icl&gt;romance&gt;thing)" DEF="">Italian</W>, 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="9" KSNAME="ITALIAN2" LEMMA="ITALIAN" LINK="coordin" PAFT=", " UNL="italian(icl&gt;romance&gt;abstract_thing,iof&gt;language)" DEF="">Italian</W>, 
 <W DOM="9" EXTRAFEAT="CAP" FEAT="A" HYPOT="descr-modif.01" ID="10" KSNAME="GERMAN1" LEMMA="GERMAN" LINK="descr-modif" PAFT=" " UNL="german(iof&gt;language) german(icl&gt;west_germanic&gt;thing)" DEF="">German</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="JAPANESE2" LEMMA="JAPANESE" LINK="coord-conj" PAFT=". " UNL="japanese(icl&gt;altaic&gt;thing)" DEF="">Japanese</W>. 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="JAPANESE2" LEMMA="JAPANESE" LINK="coord-conj" PAFT=". " UNL="japanese(icl&gt;altaic&gt;abstract_thing,iof&gt;language)" DEF="THE LANGUAGE (USUALLY CONSIDERED TO BE ALTAIC) SPOKEN BY THE JAPANESE" TRANS="японский,японский язык">Japanese</W>. 
 </S>
 <S DATE="29 11 2010 19:53:55" ID="76" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-b13.tgt;76" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="BUT1" LEMMA="BUT" PAFT=" ">But</W> 
@@ -1287,7 +1287,7 @@
 <W DOM="30" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="29,30" HYPOT="modif.01" ID="29" KSNAME="MODERN" LEMMA="MODERN" LINK="modif" PAFT=" ">modern</W> 
 <W DOM="28" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="29,30" HYPOT="1-compl.01" ID="30" KSNAME="GREEK2" LEMMA="GREEK" LINK="1-compl" PAFT=" ">Greek</W> 
 <W DOM="30" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="31" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="31" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="coord-conj.10" ID="32" KSNAME="PORTUGUESE2" LEMMA="PORTUGUESE" LINK="coord-conj" PAFT=" " UNL="portuguese(icl&gt;romance&gt;thing)" DEF="">Portuguese</W> 
+<W DOM="31" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="coord-conj.10" ID="32" KSNAME="PORTUGUESE2" LEMMA="PORTUGUESE" LINK="coord-conj" PAFT=" " UNL="portuguese(icl&gt;european&gt;person)" DEF="">Portuguese</W> 
 <W DOM="32" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="attrib.01" ID="33" KSNAME="THROUGH1" LEMMA="THROUGH" LINK="attrib" PAFT=" ">through</W> 
 <W DOM="33" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="prepos.01" ID="34" KSNAME="RECORDING" LEMMA="RECORDING" LINK="prepos" PAFT=". " UNL="recording(icl&gt;document&gt;information,equ&gt;record(icl&gt;document&gt;information),obj&gt;thing)" DEF="SIGNAL ENCODING SOMETHING (E.G., PICTURE OR SOUND) THAT HAS BEEN RECORDED" TRANS="запись">recordings</W>. 
 </S>
@@ -1393,7 +1393,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="PROGRAMME2" LEMMA="PROGRAMME" LINK="predic" PAFT=" ">program</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="pass-anal" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">instituted</W> 
+<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="pass-anal" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ADVANCE OR SET FORTH IN COURT" TRANS="возбуждать">instituted</W> 
 <W DOM="4" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="5" FEAT="NUM SG" HYPOT="prepos.01" ID="6" KSNAME="FRM-YEAR" LEMMA="1940" LINK="prepos" PAFT=", ">1940</W>, 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
@@ -1742,7 +1742,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="7" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="7" FEAT="PR" HYPOT="copulat.13" ID="8" KSNAME="LIKE1" LEMMA="LIKE" LINK="copulat" PAFT=" ">like</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="WESTERNER" LEMMA="WESTERNER" LINK="prepos" PAFT=" " UNL="westerner(icl&gt;inhabitant&gt;thing)" DEF="">Westerner</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="WESTERNER" LEMMA="WESTERNER" LINK="prepos" PAFT=" " UNL="westerner(icl&gt;inhabitant&gt;person)" DEF="AN INHABITANT OF A WESTERN AREA" TRANS="западник,житель запада">Westerner</W> 
 <W DOM="12" FEAT="S NOM SG" HYPOT="predic.01" ID="11" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="12" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" " UNL="have(icl&gt;be,equ&gt;possess,obj&gt;thing,aoj&gt;thing)" DEF="POSESS A THING" TRANS="иметь">had</W> 
 <W DOM="12" FEAT="PR" HYPOT="adverb.02" ID="13" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
@@ -1923,7 +1923,7 @@
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="S POSS SG" HYPOT="coord-conj.10" ID="10" KSNAME="MOTHER1" LEMMA="MOTHER" LINK="coord-conj" PAFT=" ">mother's</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=" ">little</W> 
-<W DOM="5" FEAT="S SG" HYPOT="2-compl.11" ID="12" KSNAME="HELPER" LEMMA="HELPER" LINK="2-compl" PAFT=". " UNL="helper(icl&gt;worker&gt;thing,equ&gt;assistant)" DEF="">helper</W>. 
+<W DOM="5" FEAT="S SG" HYPOT="2-compl.11" ID="12" KSNAME="HELPER" LEMMA="HELPER" LINK="2-compl" PAFT=". " UNL="helper(icl&gt;worker&gt;thing,equ&gt;assistant)" DEF="A PERSON WHO CONTRIBUTES TO THE FULFILLMENT OF A NEED OR FURTHERANCE OF AN EFFORT OR PURPOSE" TRANS="помощник">helper</W>. 
 </S>
 <S DATE="29 11 2010 19:53:59" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="108" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-b13.tgt;108" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="BUT1" LEMMA="BUT" PAFT=" ">But</W> 

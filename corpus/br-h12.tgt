@@ -557,7 +557,7 @@
 <W DOM="28" FEAT="V MF" HYPOT="1-compl.17" ID="29" KSNAME="PRESCRIBE" LEMMA="PRESCRIBE" LINK="1-compl" PAFT=", " UNL="prescribe(icl&gt;order&gt;do,agt&gt;thing,obj&gt;uw,rec&gt;person)" DEF="WHAT PUNISHMENT (OBJ) DOES THE LAW (AGT) PRESCRIBE FOR THIS CRIME?" TRANS="предписывать">prescribe</W>, 
 <W DOM="19" FEAT="PR" ID="30" KSNAME="TO1" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="19" FEAT="ART" ID="31" KSNAME="AN1" LEMMA="AN" LINK="fictit" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="19" FEAT="S SG" ID="32" KSNAME="HEARING2" LEMMA="HEARING" LINK="fictit" PAFT=" " UNL="hearing(icl&gt;opportunity&gt;thing)" DEF="">hearing</W> 
+<W DOM="19" FEAT="S SG" ID="32" KSNAME="HEARING2" LEMMA="HEARING" LINK="fictit" PAFT=" " UNL="hearing(icl&gt;opportunity&gt;event)" DEF="AN OPPORTUNITY TO STATE YOUR CASE AND BE HEARD" TRANS="слушание">hearing</W> 
 <W DOM="32" FEAT="PR" HYPOT="attrib.01" ID="33" KSNAME="BEFORE1" LEMMA="BEFORE" LINK="attrib" PAFT=" ">before</W> 
 <W DOM="35" FEAT="ART" HYPOT="determ.11" ID="34" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="33" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="35" KSNAME="COMMISSION1" LEMMA="COMMISSION" LINK="prepos" PAFT=", " UNL="commission(icl&gt;administrative_unit&gt;thing,equ&gt;committee)" DEF="A SPECIAL GROUP DELEGATED TO CONSIDER SOME MATTER" TRANS="комиссия">Commission</W>, 
@@ -575,7 +575,7 @@
 <S DATE="29 11 2010 20:02:33" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="12" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_21\\br-h12.tgt;12" STATUS="doubt">
 <W DOM="6" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="UPON" LEMMA="UPON" LINK="adverb" PAFT=" ">Upon</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
-<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="HEARING2" LEMMA="HEARING" LINK="prepos" PAFT=", " UNL="hearing(icl&gt;opportunity&gt;thing)" DEF="">hearing</W>, 
+<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="HEARING2" LEMMA="HEARING" LINK="prepos" PAFT=", " UNL="hearing(icl&gt;opportunity&gt;event)" DEF="AN OPPORTUNITY TO STATE YOUR CASE AND BE HEARD" TRANS="слушание">hearing</W>, 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="COMMISSION1" LEMMA="COMMISSION" LINK="predic" PAFT=" " UNL="commission(icl&gt;administrative_unit&gt;thing,equ&gt;committee)" DEF="A SPECIAL GROUP DELEGATED TO CONSIDER SOME MATTER" TRANS="комиссия">Commission</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="6" KSNAME="MAY1" LEMMA="MAY" PAFT=" ">may</W> 

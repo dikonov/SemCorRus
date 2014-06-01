@@ -1528,7 +1528,7 @@
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="JUDGE3" LEMMA="JUDGE" LINK="prepos" PAFT=" ">Judge</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="10" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">were</W> 
-<W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="11" FEAT="PART" HYPOT="2-compl.12" ID="12" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="PICK1" LEMMA="PICK" LINK="prepos" PAFT=" " UNL="pick(icl&gt;choose&gt;do,src&gt;thing,agt&gt;person,obj&gt;thing)" DEF="TO CHOOSE SMTH OR SMB" TRANS="выбирать">pick</W> 
 <W DOM="15" FEAT="NUM" HYPOT="quantit.10" ID="14" KSNAME="NUM-SMALL" LEMMA="4" LINK="quantit" PAFT=" ">4</W> 

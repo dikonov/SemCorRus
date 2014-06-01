@@ -121,7 +121,7 @@
 <W DOM="11" FEAT="CONJ" HYPOT="compar.10" ID="13" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
 <W DOM="15" FEAT="COM" GRP="14,15" HYPOT="compos.01" ID="14" KSNAME="AUTO" LEMMA="AUTO" LINK="compos" PAFT=" ">auto</W> 
 <W DOM="13" FEAT="S PL" GRP="14,15" HYPOT="comp-conj.10" ID="15" KSNAME="MECHANIC2" LEMMA="MECHANIC" LINK="comp-conj" PAFT=", ">mechanics</W>, 
-<W DOM="15" FEAT="S SG" HYPOT="coordin.01" ID="16" KSNAME="CARPENTRY" LEMMA="CARPENTRY" LINK="coordin" MSNAME="CARPENTRY" PAFT=", " UNL="carpentry(icl&gt;trade&gt;thing)" DEF="">carpentry</W>, 
+<W DOM="15" FEAT="S SG" HYPOT="coordin.01" ID="16" KSNAME="CARPENTRY" LEMMA="CARPENTRY" LINK="coordin" MSNAME="CARPENTRY" PAFT=", " UNL="carpentry(icl&gt;trade&gt;thing)" DEF="THE CRAFT OF A CARPENTER: MAKING THINGS OUT OF WOOD" TRANS="плотничанье,плотничество">carpentry</W>, 
 <W DOM="16" FEAT="V ING" HYPOT="coordin.01" ID="17" KSNAME="DRAFT1" LEMMA="DRAFT" LINK="coordin" PAFT=", ">drafting</W>, 
 <W DOM="19" FEAT="A" GRP="18,19" HYPOT="modif.01" ID="18" KSNAME="ELECTRICAL" LEMMA="ELECTRICAL" LINK="modif" PAFT=" ">electrical</W> 
 <W DOM="17" FEAT="S SG" GRP="18,19" HYPOT="coordin.01" ID="19" KSNAME="WORK1" LEMMA="WORK" LINK="coordin" PAFT=", ">work</W>, 
@@ -259,7 +259,7 @@
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="S PL" HYPOT="coord-conj.10" ID="9" KSNAME="EMPLOYER" LEMMA="EMPLOYER" LINK="coord-conj" PAFT=" " UNL="employer(icl&gt;leader&gt;thing,ant&gt;employee)" DEF="A PERSON OR FIRM THAT EMPLOYS WORKERS" TRANS="работодатель,наниматель">employers</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
-<W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="CLERICAL2" LEMMA="CLERICAL" LINK="modif" PAFT=" " UNL="clerical(icl&gt;adj,com&gt;clerk)" DEF="">clerical</W> 
+<W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="CLERICAL2" LEMMA="CLERICAL" LINK="modif" PAFT=" " UNL="clerical(icl&gt;adj,com&gt;office)" DEF="APPROPRIATE FOR OR ENGAGED IN OFFICE WORK" TRANS="канцелярский">clerical</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="WORK1" LEMMA="WORK" LINK="prepos" PAFT=" " UNL="work(icl&gt;abstract_thing,equ&gt;employment)" DEF="JOB SOMEONE IS PAID TO DO" TRANS="работа">work</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="13" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">have</W> 
 <W DOM="13" FEAT="V PP" HYPOT="analyt.12" ID="14" KSNAME="SHOW1" LEMMA="SHOW" LINK="analyt" PAFT=" " UNL="show(icl&gt;demonstrate&gt;do,agt&gt;thing,obj&gt;thing,rec&gt;thing)" DEF="SHOW OR DEMONSTRATE SOMETHING TO AN INTERESTED AUDIENCE" TRANS="выставлять,показывать,демонстрировать">shown</W> 
@@ -1144,7 +1144,7 @@
 </S>
 <S DATE="29 11 2010 20:25:07" ID="45" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f33.tgt;45" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="2" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intend</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="2" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intend</W> 
 <W DOM="2" FEAT="PART" HYPOT="1-compl.15" ID="3" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="3" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="INCLUDE" LEMMA="INCLUDE" LINK="prepos" PAFT=" " UNL="include(icl&gt;see&gt;do,cob&gt;abstract_thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="CONSIDER AS PART OF SOMETHING" TRANS="включать">include</W> 
 <W DOM="4" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="UNDER1" LEMMA="UNDER" LINK="adverb" PAFT=" ">under</W> 
@@ -1291,7 +1291,7 @@
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="USE1" LEMMA="USE" LINK="coord-conj" PAFT=" " UNL="use(icl&gt;activity&gt;thing)" DEF="THE ACT OF USING" TRANS="использование">use</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="CLERICAL2" LEMMA="CLERICAL" LINK="modif" PAFT=" " UNL="clerical(icl&gt;adj,com&gt;clerk)" DEF="">clerical</W> 
+<W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="CLERICAL2" LEMMA="CLERICAL" LINK="modif" PAFT=" " UNL="clerical(icl&gt;adj,com&gt;office)" DEF="APPROPRIATE FOR OR ENGAGED IN OFFICE WORK" TRANS="канцелярский">clerical</W> 
 <W DOM="16" FEAT="S PL" HYPOT="prepos.01" ID="18" KSNAME="MACHINE1" LEMMA="MACHINE" LINK="prepos" PAFT=" " UNL="machine(icl&gt;device&gt;thing)" DEF="ANY MECHANICAL OR ELECTRICAL DEVICE THAT TRANSMITS OR MODIFIES ENERGY TO PERFORM OR ASSIST IN THE PERFORMANCE OF HUMAN TASKS" TRANS="машина">machines</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="sent-coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="21" FEAT="S NOM SG" HYPOT="predic.01" ID="20" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
@@ -2157,7 +2157,7 @@
 <W DOM="9" FEAT="S SG" GRP="8,9" HYPOT="compos.02" ID="8" KSNAME="SHOE1" LEMMA="SHOE" LINK="compos" PAFT=" ">shoe</W> 
 <W DOM="10" FEAT="V ING" GRP="8,9" HYPOT="modif.01" ID="9" KSNAME="REPAIR1" LEMMA="REPAIR" LINK="modif" PAFT=", ">repairing</W>, 
 <W DOM="7" FEAT="S SG" HYPOT="comp-conj.10" ID="10" KSNAME="BRICKLAYING" LEMMA="BRICKLAYING" LINK="comp-conj" MSNAME="BRICKLAYING" PAFT=", " UNL="bricklaying(icl&gt;masonry&gt;thing)" DEF="THE CRAFT OF LAYING BRICKS" TRANS="кладка кирпича">bricklaying</W>, 
-<W DOM="10" FEAT="S SG" HYPOT="coordin.01" ID="11" KSNAME="CARPENTRY" LEMMA="CARPENTRY" LINK="coordin" MSNAME="CARPENTRY" PAFT=", " UNL="carpentry(icl&gt;trade&gt;thing)" DEF="">carpentry</W>, 
+<W DOM="10" FEAT="S SG" HYPOT="coordin.01" ID="11" KSNAME="CARPENTRY" LEMMA="CARPENTRY" LINK="coordin" MSNAME="CARPENTRY" PAFT=", " UNL="carpentry(icl&gt;trade&gt;thing)" DEF="THE CRAFT OF A CARPENTER: MAKING THINGS OUT OF WOOD" TRANS="плотничанье,плотничество">carpentry</W>, 
 <W DOM="13" FEAT="S SG" HYPOT="compos.01" ID="12" KSNAME="CABINET1" LEMMA="CABINET" LINK="compos" PAFT=" " UNL="cabinet(icl&gt;furniture&gt;thing)" DEF="A PIECE OF FURNITURE WITH DOORS AND SHELVES AND DRAWERS" TRANS="шкаф,комод">cabinet</W> 
 <W DOM="18" FEAT="S SG" HYPOT="compos.01" ID="13" KSNAME="MAKING" LEMMA="MAKING" LINK="compos" PAFT=", " UNL="making(icl&gt;production&gt;action,equ&gt;devising,agt&gt;person,obj&gt;thing)" DEF="THE ACT THAT RESULTS IN SOMETHING COMING TO BE" TRANS="делание">making</W>, 
 <W DOM="15" FEAT="COM" GRP="14,15" HYPOT="compos.01" ID="14" KSNAME="AUTO" LEMMA="AUTO" LINK="compos" PAFT=" ">auto</W> 

@@ -873,7 +873,7 @@
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="S SG" HYPOT="coord-conj.10" ID="9" KSNAME="JAZZ1" LEMMA="JAZZ" LINK="coord-conj" PAFT=", ">jazz</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="10" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="10" FEAT="V PP" ID="11" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="10" FEAT="V PP" ID="11" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="11" FEAT="PART" HYPOT="adverb.11" ID="12" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="12" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="PROVIDE" LEMMA="PROVIDE" LINK="prepos" PAFT=" " UNL="provide(icl&gt;equip&gt;do,cob&gt;thing,obj&gt;thing)" DEF="TO EQUIP OR FURNISH WITH" TRANS="снабжать">provide</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

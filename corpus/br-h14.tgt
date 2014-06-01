@@ -1339,7 +1339,7 @@
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="14" KSNAME="ALLOTMENT" LEMMA="ALLOTMENT" LINK="1-compl" PAFT=" " UNL="allotment(icl&gt;share&gt;thing)" DEF="A SHARE SET ASIDE FOR A SPECIFIC PURPOSE" TRANS="доля">allotment</W> 
 <W DOM="16" FEAT="A" GRP="15,16" HYPOT="determ.13" ID="15" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
 <W DOM="14" FEAT="S SG" GRP="15,16" HYPOT="attrib.10" ID="16" KSNAME="YEAR" LEMMA="YEAR" LINK="attrib" PAFT=" ">year</W> 
-<W DOM="16" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="EQUAL1" LEMMA="EQUAL" LINK="modif" PAFT=" " UNL="equal(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="">equal</W> 
+<W DOM="16" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="EQUAL1" LEMMA="EQUAL" LINK="modif" PAFT=" " UNL="equal(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="EQUAL IN AMOUNT OR VALUE" TRANS="равный">equal</W> 
 <W DOM="17" FEAT="PR" HYPOT="1-compl.07" ID="18" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="ALLOTMENT" LEMMA="ALLOTMENT" LINK="prepos" PAFT=" " UNL="allotment(icl&gt;share&gt;thing)" DEF="A SHARE SET ASIDE FOR A SPECIFIC PURPOSE" TRANS="доля">allotment</W> 

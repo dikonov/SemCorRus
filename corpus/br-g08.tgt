@@ -786,7 +786,7 @@
 <W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="CHANGE2" LEMMA="CHANGE" LINK="prepos" PAFT=" ">changes</W> 
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="7" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">have</W> 
-<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="CREEP2" LEMMA="CREEP" LINK="analyt" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">crept</W> 
+<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="CREEP2" LEMMA="CREEP" LINK="analyt" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">crept</W> 
 <W DOM="8" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="OVER1" LEMMA="OVER" LINK="adverb" PAFT=" ">over</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" EXTRAFEAT="ALT CAP" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="SOUTHERN" LEMMA="SOUTHERN" LINK="modif" PAFT=" ">Southern</W> 
@@ -1609,7 +1609,7 @@
 </S>
 <S DATE="30 11 2010 10:45:34" ID="53" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_44\\br-g08.tgt;53" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="BEWILDER" LEMMA="BEWILDER" PAFT=" " UNL="bewilder(icl&gt;confuse&gt;be,equ&gt;perplex,obj&gt;thing,aoj&gt;thing,met&gt;thing)" DEF="">bewilders</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="BEWILDER" LEMMA="BEWILDER" PAFT=" " UNL="bewilder(icl&gt;confuse&gt;be,equ&gt;perplex,obj&gt;thing,aoj&gt;thing,met&gt;thing)" DEF="BE A MYSTERY OR BEWILDERING TO" TRANS="сбивать с панталыку,сбивать с толку,озадачивать">bewilders</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="4" KSNAME="BEFUDDLE" LEMMA="BEFUDDLE" LINK="coord-conj" MSNAME="BEFUDDLE" PAFT=" ">befuddles</W> 
 <W DOM="4" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="5" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=". ">him</W>. 

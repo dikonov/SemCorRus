@@ -796,7 +796,7 @@
 <W DOM="73" FEAT="A" GRP="71,72,73" ID="72" KSNAME="ALL1" LEMMA="ALL" LINK="modif">all</W> 
 <W DOM="71" FEAT="S" GRP="71,72,73" ID="73" KSNAME="TIME1" LEMMA="TIME" LINK="prepos">times</W> 
 <W FEAT="PART" ID="74" KSNAME="TO2" LEMMA="TO">to</W> 
-<W FEAT="V" ID="75" KSNAME="SERVE2" LEMMA="SERVE" UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:41:02::">serve</W> 
+<W FEAT="V" ID="75" KSNAME="SERVE2" LEMMA="SERVE" UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать" WN21="2:41:02::">serve</W> 
 <W FEAT="A" ID="76" KSNAME="OUR" LEMMA="OUR">our</W> 
 <W FEAT="S SG" ID="77" KSNAME="NATION" LEMMA="NATION">Nation</W> 
 <W ID="78">in</W> 

@@ -587,7 +587,7 @@
 <W DOM="14" FEAT="S NOM SG" HYPOT="predic.01" ID="13" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.05" ID="14" KSNAME="DO1" LEMMA="DO" LINK="1-compl" PAFT=" ">did</W> 
 <W DOM="14" FEAT="ADV" HYPOT="restr.10" ID="15" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
-<W DOM="14" FEAT="V MF" HYPOT="analyt.10" ID="16" KSNAME="INTEND1" LEMMA="INTEND" LINK="analyt" PAFT=" " UNL="intend(icl&gt;convey&gt;do,equ&gt;mean,agt&gt;thing,obj&gt;thing)" DEF="">intend</W> 
+<W DOM="14" FEAT="V MF" HYPOT="analyt.10" ID="16" KSNAME="INTEND1" LEMMA="INTEND" LINK="analyt" PAFT=" " UNL="intend(icl&gt;convey&gt;do,equ&gt;mean,agt&gt;person,obj&gt;uw,met&gt;thing)" DEF="TO WANT SOMETHING TO HAVE A PARTICULAR MEANING" TRANS="подразумевать">intend</W> 
 <W DOM="7" FEAT="PART" HYPOT="adverb.11" ID="17" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="GO1" LEMMA="GO" LINK="prepos" PAFT=". " UNL="go(icl&gt;occur,equ&gt;vanish,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="DISAPPEAR" TRANS="исчезать">go</W>. 
 </S>
@@ -776,7 +776,7 @@
 <W DOM="2" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="3" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="IN2" LEMMA="IN" LINK="phras-junct" PAFT=" " UNL="in(icl&gt;how)" DEF="TO OR TOWARD THE INSIDE OF" TRANS="внутри">in</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="5" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="6" KSNAME="TUMBLE2" LEMMA="TUMBLE" LINK="coord-conj" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="">tumbled</W> 
+<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="6" KSNAME="TUMBLE2" LEMMA="TUMBLE" LINK="coord-conj" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="валиться">tumbled</W> 
 <W DOM="6" FEAT="PR" HYPOT="3-compl.01" ID="7" KSNAME="INTO" LEMMA="INTO" LINK="3-compl" PAFT=" ">into</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="DARKNESS" LEMMA="DARKNESS" LINK="prepos" PAFT=". " UNL="darkness(icl&gt;illumination&gt;thing,equ&gt;dark,ant&gt;light)" DEF="ABSENCE OF LIGHT OR ILLUMINATION" TRANS="тьма,темнота,темь">darkness</W>. 
 </S>
@@ -851,7 +851,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="PART" HYPOT="predic.10" ID="1" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">There</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.10" ID="3" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="1" FEAT="S SG" HYPOT="explet.13" ID="4" KSNAME="LADY" LEMMA="LADY" LINK="explet" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W> 
+<W DOM="1" FEAT="S SG" HYPOT="explet.13" ID="4" KSNAME="LADY" LEMMA="LADY" LINK="explet" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W> 
 <W DOM="2" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="THERE1" LEMMA="THERE" LINK="adverb" PAFT=", ">there</W>, 
 <W DOM="5" FEAT="PR" HYPOT="attrib.02" ID="6" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -866,7 +866,7 @@
 <W DOM="5" FEAT="PART" HYPOT="1-compl.15" ID="6" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="HURT1" LEMMA="HURT" LINK="prepos" PAFT=" ">hurt</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT=". " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W>. 
+<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT=". " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W>. 
 </S>
 <S DATE="29 11 2010 20:34:54" EXTRACOMM="Tagging contradicts ETAP parsing: THIS2 - THIS1" ID="73" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_10\\br-k05.tgt;73" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" ">Another</W> 
@@ -1496,7 +1496,7 @@
 <W DOM="39" EXTRAFEAT="CAP" FEAT="S SG" GRP="39,40" HYPOT="appos.03" ID="40" KSNAME="HARRIS" LEMMA="HARRIS" LINK="appos" PAFT=", ">Harris</W>, 
 <W DOM="42" FEAT="S NOM SG" HYPOT="predic.01" ID="41" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="23" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="42" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">had</W> 
-<W DOM="42" FEAT="V PP" HYPOT="analyt.12" ID="43" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="42" FEAT="V PP" HYPOT="analyt.12" ID="43" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="43" FEAT="PR" HYPOT="2-compl.02" ID="44" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="44" FEAT="S OBJ SG" HYPOT="prepos.01" ID="45" KSNAME="IT" LEMMA="IT" LINK="prepos" PAFT=". ">it</W>. 
 </S>
@@ -2023,7 +2023,7 @@
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="4" KSNAME="HAPPEN" LEMMA="HAPPEN" LINK="subord-conj" PAFT=", ">happened</W>, 
 <W DOM="7" FEAT="NUM" HYPOT="predic.01" ID="5" KSNAME="ONE1" LEMMA="ONE" LINK="predic" PAFT=" ">one</W> 
 <W DOM="7" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="ALWAYS" LEMMA="ALWAYS" LINK="adverb" PAFT=" ">always</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="WATER1" LEMMA="WATER" LINK="prepos" PAFT=" ">water</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="2-compl.16" ID="10" KSNAME="IF" LEMMA="IF" LINK="2-compl" PAFT=" ">if</W> 

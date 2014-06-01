@@ -515,7 +515,7 @@
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8" HYPOT="1-compl.01" ID="5" KSNAME="KID1" LEMMA="KID" LINK="1-compl" PAFT=" " UNL="kid(icl&gt;juvenile&gt;thing,equ&gt;child)" DEF="A YOUNG PERSON OF EITHER SEX" TRANS="ребенок,малыш,дитя">kid</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="1,2,3,4,5,6,7,8" HYPOT="2-compl.02" ID="6" KSNAME="BY1" LEMMA="BY" LINK="2-compl" PAFT=" ">by</W> 
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3,4,5,6,7,8" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8" HYPOT="prepos.01" ID="8" KSNAME="CRIB1" LEMMA="CRIB" LINK="prepos" PAFT="&quot;. " UNL="crib(icl&gt;baby_bed&gt;thing)" DEF="">crib</W>". 
+<W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8" HYPOT="prepos.01" ID="8" KSNAME="CRIB1" LEMMA="CRIB" LINK="prepos" PAFT="&quot;. " UNL="crib(icl&gt;baby_bed&gt;functional_thing)" DEF="">crib</W>". 
 </S>
 <S DATE="29 11 2010 20:02:15" ID="34" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k24.tgt;34" STATUS="doubt">
 "<W DOM="_root" EXTRAFEAT="CAP IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5" ID="1" KSNAME="GET" LEMMA="GET" PAFT=" " PBEF="&quot;" UNL="get_out(icl&gt;move&gt;occur,equ&gt;exit,plf&gt;thing,obj&gt;thing)" DEF="MOVE OUT OF OR DEPART FROM" TRANS="выходить,вылезать">Get</W> 
@@ -585,7 +585,7 @@
 <W DOM="2" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5,6" HYPOT="prepos.16" ID="3" KSNAME="STEAL1" LEMMA="STEAL" LINK="prepos" PAFT=" " UNL="steal(icl&gt;filch&gt;do,agt&gt;living_thing,obj&gt;concrete_thing,cag&gt;thing)" DEF="TAKE SOMETHING THAT BELONGS TO SOMEONE ELSE" TRANS="красть">steal</W> 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="1,2,3,4,5,6" HYPOT="2-compl.02" ID="4" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3,4,5,6" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6" HYPOT="prepos.01" ID="6" KSNAME="CRIB1" LEMMA="CRIB" LINK="prepos" PAFT="&quot;. " UNL="crib(icl&gt;baby_bed&gt;thing)" DEF="">crib</W>". 
+<W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6" HYPOT="prepos.01" ID="6" KSNAME="CRIB1" LEMMA="CRIB" LINK="prepos" PAFT="&quot;. " UNL="crib(icl&gt;baby_bed&gt;functional_thing)" DEF="">crib</W>". 
 </S>
 <S DATE="29 11 2010 20:02:15" ID="45" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k24.tgt;45" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="ADV" GRP="1,2,3" HYPOT="restr.11" ID="1" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " PBEF="&quot;" UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">Not</W> 
@@ -628,7 +628,7 @@
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="NOTHING1" LEMMA="NOTHING" LINK="1-compl" PAFT=" " UNL="nothing(icl&gt;relative_quantity&gt;thing)" DEF="A QUANTITY OF NO IMPORTANCE" TRANS="ничто">nothing</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="3-compl.01" ID="6" KSNAME="IN1" LEMMA="IN" LINK="3-compl" PAFT=" ">in</W> 
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="CRIB1" LEMMA="CRIB" LINK="prepos" PAFT="&quot;. " UNL="crib(icl&gt;baby_bed&gt;thing)" DEF="">crib</W>". 
+<W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="CRIB1" LEMMA="CRIB" LINK="prepos" PAFT="&quot;. " UNL="crib(icl&gt;baby_bed&gt;functional_thing)" DEF="">crib</W>". 
 </S>
 <S DATE="29 11 2010 20:02:16" ID="51" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k24.tgt;51" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" " PBEF="&quot;">You</W> 
@@ -1868,7 +1868,7 @@
 <S DATE="29 11 2010 20:02:29" ID="161" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k24.tgt;161" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="PUT" LEMMA="PUT" LINK="pass-anal" PAFT=" " UNL="put_out(icl&gt;affect&gt;do,equ&gt;trouble,agt&gt;thing,obj&gt;person)" DEF="">put</W> 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="PUT" LEMMA="PUT" LINK="pass-anal" PAFT=" " UNL="put_out(icl&gt;affect&gt;do,equ&gt;trouble,agt&gt;thing,obj&gt;person)" DEF="TO CAUSE INCONVENIENCE OR DISCOMFORT TO" TRANS="беспокоить">put</W> 
 <W DOM="3" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="TOO2" LEMMA="TOO" LINK="adverb" PAFT=" " UNL="too(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="тоже">too</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="adverb.10" ID="6" KSNAME="BECAUSE" LEMMA="BECAUSE" LINK="adverb" PAFT=" ">because</W> 

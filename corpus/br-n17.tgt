@@ -245,7 +245,7 @@
 <W DOM="29" FEAT="S SG" GRP="28,29" HYPOT="predic.01" ID="28" KSNAME="LOW4" LEMMA="LOW" LINK="predic" PAFT=" ">low</W> 
 <W DOM="32" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="28,29" HYPOT="1-compl.31" ID="29" KSNAME="PITCH2" LEMMA="PITCH" LINK="1-compl" PAFT=", ">pitched</W>, 
 <W DOM="29" FEAT="V ING" HYPOT="adverb.03" ID="30" KSNAME="WOBBLE2" LEMMA="WOBBLE" LINK="adverb" PAFT=" ">wobbling</W> 
-<W DOM="30" FEAT="S SG" HYPOT="1-compl.01" ID="31" KSNAME="SOUND1" LEMMA="SOUND" LINK="1-compl" PAFT=" " UNL="sound(icl&gt;language_unit&gt;thing,equ&gt;phone)" DEF="">sound</W> 
+<W DOM="30" FEAT="S SG" HYPOT="1-compl.01" ID="31" KSNAME="SOUND1" LEMMA="SOUND" LINK="1-compl" PAFT=" " UNL="sound(icl&gt;language_unit&gt;thing,equ&gt;phone,fld&gt;phonetics)" DEF="(PHONETICS) AN INDIVIDUAL SOUND UNIT OF SPEECH WITHOUT CONCERN AS TO WHETHER OR NOT IT IS A PHONEME OF SOME LANGUAGE" TRANS="звук">sound</W> 
 <W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="32" KSNAME="LIKE2" LEMMA="LIKE" LINK="coord-conj" PAFT=" ">like</W> 
 <W DOM="35" FEAT="ART" HYPOT="determ.10" ID="33" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="35" FEAT="S SG" HYPOT="compos.02" ID="34" KSNAME="MUFFLER" LEMMA="MUFFLER" LINK="compos" PAFT=" " UNL="muffler(icl&gt;acoustic_device&gt;thing,equ&gt;silencer)" DEF="A TUBULAR ACOUSTIC DEVICE INSERTED IN THE EXHAUST SYSTEM THAT IS DESIGNED TO REDUCE NOISE" TRANS="глушитель">muffler</W> 
@@ -779,7 +779,7 @@
 <W ID="14">of</W> 
 <W FEAT="A" ID="15" KSNAME="THICK" LEMMA="THICK" UNL="thick(icl&gt;adj,ant&gt;thin)" DEF="RELATIVELY DENSE IN CONSISTENCY" TRANS="густой" WN21="3:00:02::">thick</W>, 
 <W FEAT="A" ID="16" KSNAME="FOAMY" LEMMA="FOAMY" WN21="5:00:00:gaseous:">foamy</W> 
-<W FEAT="S" ID="17" KSNAME="SOAPSUDS" LEMMA="SOAPSUDS" UNL="soapsuds(icl&gt;foam&gt;thing)" DEF="" WN21="1:17:00::">soapsuds</W>- 
+<W FEAT="S" ID="17" KSNAME="SOAPSUDS" LEMMA="SOAPSUDS" UNL="soapsuds(icl&gt;foam&gt;thing)" DEF="THE FROTH PRODUCED BY SOAPS OR DETERGENTS" TRANS="мыльная пена" WN21="1:17:00::">soapsuds</W>- 
 <W FEAT="V" ID="18" KSNAME="FASHION2" LEMMA="FASHION" UNL="fashion(icl&gt;make&gt;do,agt&gt;volitional_thing,obj&gt;thing,cao&gt;thing)" DEF="MAKE OUT OF COMPONENTS (OFTEN IN AN IMPROVISING MANNER)" TRANS="выделывать" WN21="2:36:00::">fashioned</W>, 
 <W FEAT="ADV" ID="19" KSNAME="OF$COURSE" LEMMA="OF$COURSE" UNL="of_course(icl&gt;how,equ&gt;naturally,ant&gt;unnaturally)" DEF="AS MIGHT BE EXPECTED" TRANS="разумеется,понятно,безусловно,конечно" WN21="4:02:00::">of course</W>, 
 <W ID="20">from</W> 
@@ -822,7 +822,7 @@
 <W FEAT="S SG" ID="14" KSNAME="FICT-PERS" LEMMA="JOYCE" REM="PERSON" WN21="1:03:00::">Joyce</W> 
 <W FEAT="V" ID="15" KSNAME="ENTER1" LEMMA="ENTER" UNL="enter(icl&gt;move&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;thing)" DEF="GO INTO" TRANS="входить" WN21="2:38:00::">entering</W> 
 <W FEAT="ART" ID="16" KSNAME="THE" LEMMA="THE">the</W> 
-<W FEAT="S" ID="17" KSNAME="SUDS" LEMMA="SUDS" UNL="suds(icl&gt;foam&gt;thing,equ&gt;soapsuds)" DEF="" WN21="1:17:00::">suds</W>, 
+<W FEAT="S" ID="17" KSNAME="SUDS" LEMMA="SUDS" UNL="suds(icl&gt;foam&gt;thing,equ&gt;soapsuds)" DEF="THE FROTH PRODUCED BY SOAPS OR DETERGENTS" TRANS="мыльная пена" WN21="1:17:00::">suds</W>, 
 <W FEAT="ADV" ID="18" KSNAME="THEN" LEMMA="THEN" WN21="4:02:00::">then</W> 
 <W FEAT="V" ID="19" KSNAME="BURST2" LEMMA="BURST" UNL="burst(icl&gt;move&gt;do,plt&gt;thing,plf&gt;place,agt&gt;living_thing)" DEF="MOVE SUDDENLY" TRANS="прорываться" WN21="2:38:00::">bursting</W> 
 <W ID="20">above</W> 
@@ -869,7 +869,7 @@
 <W DOM="6" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="parenth.20" ID="8" KSNAME="LOU" LEMMA="LOU" LINK="parenth" PAFT="-">Lou</W>- 
 <W DOM="11" EXTRAFEAT="ALT CAP IN-QUOT" FEAT="S SG" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="predic.01" ID="9" KSNAME="MR" LEMMA="MR" LINK="predic" PAFT=" ">Mr.</W> 
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="appos.03" ID="10" KSNAME="FRM-PROP" LEMMA="THOR" LINK="appos" PAFT="-">Thor</W>- 
-<W DOM="6" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="sent-coordin.01" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="sent-coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="6" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="sent-coordin.01" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="sent-coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="S OBJ SG" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="1-compl.01" ID="12" KSNAME="I" LEMMA="I" LINK="1-compl" PAFT=" ">me</W> 
 <W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="PART" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="2-compl.12" ID="13" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="13" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="4,5,6,7,8,9,10,11,12,13,14,15,16,17" HYPOT="prepos.16" ID="14" KSNAME="STAY3" LEMMA="STAY" LINK="prepos" PAFT=" " UNL="stay(icl&gt;occur,obj&gt;thing)" DEF="">stay</W> 
@@ -1388,7 +1388,7 @@
 <W DOM="13" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="15" KSNAME="GO1" LEMMA="GO" LINK="analyt" PAFT=" ">go</W> 
 <W DOM="15" FEAT="PR" HYPOT="2-compl.02" ID="16" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="19" FEAT="S POSS SG" HYPOT="posses.01" ID="18" KSNAME="SPONSOR1" LEMMA="SPONSOR" LINK="posses" PAFT=" " UNL="sponsor(icl&gt;benefactor&gt;thing,equ&gt;patron)" DEF="">sponsor's</W> 
+<W DOM="19" FEAT="S POSS SG" HYPOT="posses.01" ID="18" KSNAME="SPONSOR1" LEMMA="SPONSOR" LINK="posses" PAFT=" " UNL="sponsor(icl&gt;benefactor&gt;thing,equ&gt;patron)" DEF="SOMEONE WHO SUPPORTS OR CHAMPIONS SOMETHING" TRANS="покровитель">sponsor's</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="WIFE" LEMMA="WIFE" LINK="prepos" PAFT=", " UNL="wife(icl&gt;woman&gt;thing,ant&gt;husband)" DEF="A MARRIED WOMAN" TRANS="жена,баба">wife</W>, 
 <W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" GRP="20,21,22" HYPOT="parenth.20" ID="20" KSNAME="MRS" LEMMA="MRS" LINK="parenth" PAFT=" ">Mrs</W> 
 <W DOM="20" FEAT="S SG" GRP="20,21,22" HYPOT="appos.03" ID="21" KSNAME="FRM-PROP" LEMMA="OATNUT" LINK="appos" PAFT=" ">Oatnut</W> 
@@ -1572,7 +1572,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG FP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="LOAD2" LEMMA="LOAD" LINK="pass-anal" PAFT=" ">loaded</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.02" ID="4" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
-<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="SUDS" LEMMA="SUDS" LINK="prepos" MSNAME="SUDS" PAFT=" " UNL="suds(icl&gt;foam&gt;thing,equ&gt;soapsuds)" DEF="">suds</W> 
+<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="SUDS" LEMMA="SUDS" LINK="prepos" MSNAME="SUDS" PAFT=" " UNL="suds(icl&gt;foam&gt;thing,equ&gt;soapsuds)" DEF="THE FROTH PRODUCED BY SOAPS OR DETERGENTS" TRANS="мыльная пена">suds</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="adverb.10" ID="6" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="8" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="8" KSNAME="RUN1" LEMMA="RUN" LINK="subord-conj" PAFT=" " UNL="run_away(icl&gt;go&gt;do,equ&gt;flee,plt&gt;uw,plf&gt;uw,agt&gt;thing)" DEF="FLEE" TRANS="убегать">ran</W> 
@@ -2376,7 +2376,7 @@
 <W DOM="12" FEAT="PR" HYPOT="quasiagent.10" ID="13" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="16" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="THOSE" LEMMA="THOSE" LINK="determ" PAFT=" ">those</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="THICK" LEMMA="THICK" LINK="modif" PAFT=" ">thick</W> 
-<W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="SUDS" LEMMA="SUDS" LINK="prepos" MSNAME="SUDS" PAFT=" " UNL="suds(icl&gt;foam&gt;thing,equ&gt;soapsuds)" DEF="">suds</W> 
+<W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="SUDS" LEMMA="SUDS" LINK="prepos" MSNAME="SUDS" PAFT=" " UNL="suds(icl&gt;foam&gt;thing,equ&gt;soapsuds)" DEF="THE FROTH PRODUCED BY SOAPS OR DETERGENTS" TRANS="мыльная пена">suds</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="20" FEAT="V PP" HYPOT="modif.01" ID="18" KSNAME="STRANGLE" LEMMA="STRANGLE" LINK="modif" PAFT=" " UNL="strangle(icl&gt;kill&gt;do,agt&gt;volitional_thing,obj&gt;thing,ins&gt;functional_thing)" DEF="">strangled</W> 
 <W DOM="20" FEAT="NID" HYPOT="compos.01" ID="19" KSNAME="FICT-LEX" LEMMA="ON" LINK="compos" PAFT="' ">on</W>' 

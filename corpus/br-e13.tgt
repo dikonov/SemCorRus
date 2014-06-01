@@ -69,7 +69,7 @@
 <W DOM="5" FEAT="A" HYPOT="prepos.01" ID="6" KSNAME="THESE" LEMMA="THESE" LINK="prepos" PAFT=" ">these</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="7" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="7" FEAT="V ING" HYPOT="analyt.11" ID="8" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">being</W> 
-<W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="PULL1" LEMMA="PULL" LINK="pass-anal" PAFT=" " UNL="pull_down(icl&gt;destroy&gt;do,equ&gt;level,agt&gt;thing,obj&gt;thing)" DEF="">pulled</W> 
+<W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="PULL1" LEMMA="PULL" LINK="pass-anal" PAFT=" " UNL="pull_down(icl&gt;destroy&gt;do,equ&gt;level,agt&gt;thing,obj&gt;thing)" DEF="TEAR DOWN SO AS TO MAKE FLAT WITH THE GROUND" TRANS="срыть">pulled</W> 
 <W DOM="9" FEAT="ADV" HYPOT="phras-junct.10" ID="10" KSNAME="DOWN1" LEMMA="DOWN" LINK="phras-junct" PAFT=". ">down</W>. 
 </S>
 <S DATE="29 11 2010 20:49:57" ID="4" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_41\\br-e13.tgt;4" STATUS="doubt">
@@ -781,7 +781,7 @@
 <W DOM="17" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="BYZANTINE1" LEMMA="BYZANTINE" LINK="modif" PAFT=" ">Byzantine</W> 
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S PL" ID="17" KSNAME="EMPEROR" LEMMA="EMPEROR" LINK="fictit" PAFT=" ">Emperors</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="relat.01" ID="18" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">were</W> 
-<W DOM="18" FEAT="V PP" HYPOT="pass-anal.10" ID="19" KSNAME="CROWN2" LEMMA="CROWN" LINK="pass-anal" PAFT=". " UNL="crown(icl&gt;invest&gt;do,agt&gt;thing,obj&gt;thing,ins&gt;thing)" DEF="">crowned</W>. 
+<W DOM="18" FEAT="V PP" HYPOT="pass-anal.10" ID="19" KSNAME="CROWN2" LEMMA="CROWN" LINK="pass-anal" PAFT=". " UNL="crown(icl&gt;invest&gt;do,agt&gt;thing,obj&gt;thing,ins&gt;thing)" DEF="INVEST WITH REGAL POWER" TRANS="короновать">crowned</W>. 
 </S>
 <S DATE="29 11 2010 20:50:06" ID="28" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_41\\br-e13.tgt;28" STATUS="doubt">
 <W DOM="10" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="AFTER2" LEMMA="AFTER" LINK="adverb" MSNAME="AFTER2" PAFT=" ">After</W> 
@@ -956,7 +956,7 @@
 <W DOM="11" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="BYZANTINE1" LEMMA="BYZANTINE" LINK="modif" PAFT=" ">Byzantine</W> 
 <W DOM="12" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="predic.01" ID="11" KSNAME="EMPEROR" LEMMA="EMPEROR" LINK="predic" PAFT=" ">Emperors</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="relat.01" ID="12" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">were</W> 
-<W DOM="12" FEAT="V PP" HYPOT="pass-anal.10" ID="13" KSNAME="CROWN2" LEMMA="CROWN" LINK="pass-anal" PAFT=", " UNL="crown(icl&gt;invest&gt;do,agt&gt;thing,obj&gt;thing,ins&gt;thing)" DEF="">crowned</W>, 
+<W DOM="12" FEAT="V PP" HYPOT="pass-anal.10" ID="13" KSNAME="CROWN2" LEMMA="CROWN" LINK="pass-anal" PAFT=", " UNL="crown(icl&gt;invest&gt;do,agt&gt;thing,obj&gt;thing,ins&gt;thing)" DEF="INVEST WITH REGAL POWER" TRANS="короновать">crowned</W>, 
 <W DOM="15" FEAT="ART" GRP="14,15" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="13" FEAT="S SG" GRP="14,15" HYPOT="restr.d1" ID="15" KSNAME="BIT1" LEMMA="BIT" LINK="restr" PAFT=" ">bit</W> 
 <W DOM="15" FEAT="PR" HYPOT="quasiagent.10" ID="16" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -1935,7 +1935,7 @@
 <W DOM="3" FEAT="NID" HYPOT="compos.01" ID="2" KSNAME="FICT-LEX" LEMMA="ARROWED" LINK="compos" PAFT=" ">arrowed</W> 
 <W DOM="1" FEAT="S PL" HYPOT="1-compl.01" ID="3" KSNAME="SIGN1" LEMMA="SIGN" LINK="1-compl" PAFT=", ">signs</W>, 
 <W DOM="5" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="VEER2" LEMMA="VEER" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veered</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="VEER2" LEMMA="VEER" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veered</W> 
 <W DOM="5" FEAT="ADV" HYPOT="parenth.10" ID="6" KSNAME="RIGHT2" LEMMA="RIGHT" LINK="parenth" PAFT=" ">right</W> 
 <W DOM="5" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="TOWARD" LEMMA="TOWARD" LINK="adverb" PAFT=" ">toward</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

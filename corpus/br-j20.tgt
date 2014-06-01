@@ -59,7 +59,7 @@
 <W DOM="18" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="SQUARE1" LEMMA="SQUARE" LINK="prepos" PAFT=" " UNL="square(icl&gt;rectangle&gt;thing)" DEF="(GEOMETRY) A PLANE RECTANGLE WITH FOUR EQUAL SIDES AND FOUR RIGHT ANGLES" TRANS="квадрат">squares</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="subord-conj.10" ID="20" KSNAME="CAN1" LEMMA="CAN" LINK="subord-conj" PAFT=" ">can</W> 
 <W DOM="20" FEAT="V MF" HYPOT="1-compl.17" ID="21" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
-<W DOM="21" FEAT="V PP" HYPOT="pass-anal.10" ID="22" KSNAME="INSCRIBE" LEMMA="INSCRIBE" LINK="pass-anal" PAFT=" " UNL="inscribe(icl&gt;carve&gt;do,equ&gt;scratch,agt&gt;person,obj&gt;thing,ins&gt;thing)" DEF="">inscribed</W> 
+<W DOM="21" FEAT="V PP" HYPOT="pass-anal.10" ID="22" KSNAME="INSCRIBE" LEMMA="INSCRIBE" LINK="pass-anal" PAFT=" " UNL="inscribe(icl&gt;carve&gt;do,equ&gt;scratch,agt&gt;person,obj&gt;thing,ins&gt;thing)" DEF="CARVE, CUT, OR ETCH INTO A MATERIAL OR SURFACE" TRANS="вырезать">inscribed</W> 
 <W DOM="22" FEAT="PR" HYPOT="2-compl.02" ID="23" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="26" FEAT="A" HYPOT="determ.13" ID="24" KSNAME="EVERY" LEMMA="EVERY" LINK="determ" PAFT=" ">every</W> 
 <W DOM="26" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
@@ -482,7 +482,7 @@
 <W DOM="33" FEAT="S SG" HYPOT="prepos.01" ID="35" KSNAME="CURVE1" LEMMA="CURVE" LINK="prepos" PAFT=" " UNL="curve(icl&gt;line&gt;thing,ant&gt;straight_line)" DEF="THE TRACE OF A POINT WHOSE DIRECTION OF MOTION CHANGES" TRANS="траектория">curve</W> 
 <W DOM="35" FEAT="V PP" HYPOT="modif.01" ID="36" KSNAME="OBTAIN" LEMMA="OBTAIN" LINK="modif" PAFT=" " UNL="obtain(icl&gt;get&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="TO GAIN OR ATTAIN USUALLY BY PLANNED ACTION OR EFFORT" TRANS="получать,доставать,добиваться">obtained</W> 
 <W DOM="36" FEAT="PR" HYPOT="agent.10" ID="37" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
-<W DOM="39" FEAT="V ING" HYPOT="modif.01" ID="38" KSNAME="ROTATE" LEMMA="ROTATE" LINK="modif" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotating</W> 
+<W DOM="39" FEAT="V ING" HYPOT="modif.01" ID="38" KSNAME="ROTATE" LEMMA="ROTATE" LINK="modif" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotating</W> 
 <W DOM="37" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="39" KSNAME="FRM-PROP" LEMMA="C" LINK="prepos" PAFT=" ">C</W> 
 <W DOM="39" FEAT="A" HYPOT="modif.01" ID="40" KSNAME="CLOCKWISE2" LEMMA="CLOCKWISE" LINK="modif" MSNAME="CLOCKWISE2" PAFT=" " UNL="clockwise(icl&gt;adj,ant&gt;counterclockwise)" DEF="IN THE SAME DIRECTION AS THE ROTATING HANDS OF A CLOCK" TRANS="по часовой стрелке,по часовой,по часам">clockwise</W> 
 <W DOM="40" FEAT="PR" HYPOT="attrib.02" ID="41" KSNAME="THROUGH1" LEMMA="THROUGH" LINK="attrib" PAFT=" ">through</W> 
@@ -1044,7 +1044,7 @@
 <W DOM="17" FEAT="ADV" HYPOT="adverb.01" ID="18" KSNAME="ALWAYS" LEMMA="ALWAYS" LINK="adverb" PAFT=" ">always</W> 
 <W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="19" KSNAME="OBTAIN" LEMMA="OBTAIN" LINK="pass-anal" PAFT=" " UNL="obtain(icl&gt;get&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="TO GAIN OR ATTAIN USUALLY BY PLANNED ACTION OR EFFORT" TRANS="получать,доставать,добиваться">obtained</W> 
 <W DOM="19" FEAT="PR" HYPOT="collig-adv.10" ID="20" KSNAME="BY1" LEMMA="BY" LINK="collig-adv" PAFT=" ">by</W> 
-<W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="21" KSNAME="ROTATE" LEMMA="ROTATE" LINK="modif" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotating</W> 
+<W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="21" KSNAME="ROTATE" LEMMA="ROTATE" LINK="modif" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotating</W> 
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="parenth.20" ID="22" KSNAME="FRM-PROP" LEMMA="C" LINK="parenth" PAFT=" ">C</W> 
 <W DOM="22" FEAT="PR" HYPOT="attrib.01" ID="23" KSNAME="THROUGH1" LEMMA="THROUGH" LINK="attrib" PAFT=" ">through</W> 
 <W DOM="25" FEAT="ADV" HYPOT="restr.11" ID="24" KSNAME="EXACTLY" LEMMA="EXACTLY" LINK="restr" PAFT=" " UNL="exactly(icl&gt;how,equ&gt;precisely,com&gt;exact)" DEF="INDICATING EXACTNESS OR PRECISENESS" TRANS="точно">exactly</W> 
@@ -1637,7 +1637,7 @@
 <W DOM="14" EXTRAFEAT="CAP-MIX STRICT_ABBR" FEAT="COM" ID="12" KSNAME="FICT-COM" LEMMA="F-INITIAL" LINK="fictit" MSNAME="F-INITIAL" PAFT=" (">f</W>( 
 <W DOM="14" EXTRAFEAT="CAP-MIX IN-BR STRICT_ABBR" FEAT="COM" GRP="13" ID="13" KSNAME="FICT-COM" LEMMA="T-INITIAL" LINK="fictit" MSNAME="T-INITIAL" PAFT=") ">t</W>) 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="14" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="14" FEAT="A" HYPOT="copulat.11" ID="15" KSNAME="EQUAL1" LEMMA="EQUAL" LINK="copulat" PAFT=" " UNL="equal(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="">equal</W> 
+<W DOM="14" FEAT="A" HYPOT="copulat.11" ID="15" KSNAME="EQUAL1" LEMMA="EQUAL" LINK="copulat" PAFT=" " UNL="equal(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="EQUAL IN AMOUNT OR VALUE" TRANS="равный">equal</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" (">the</W>( 
 <W DOM="17" EXTRAFEAT="IN-BR" FEAT="A" HYPOT="juxtapos.01" ID="18" KSNAME="FINITE" LEMMA="FINITE" LINK="juxtapos" PAFT=") ">finite</W>) 

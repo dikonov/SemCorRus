@@ -327,7 +327,7 @@
 <W DOM="7" FEAT="ADV" HYPOT="parenth.16" ID="6" KSNAME="SO1" LEMMA="SO" LINK="parenth" PAFT=" ">so</W> 
 <W DOM="5" FEAT="A" HYPOT="copulat.11" ID="7" KSNAME="FAST1" LEMMA="FAST" LINK="copulat" PAFT=", ">fast</W>, 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="5" FEAT="S SG" ID="9" KSNAME="PACE1" LEMMA="PACE" LINK="fictit" PAFT=" " UNL="pace(icl&gt;rate&gt;abstract_thing,com&gt;progressaoj&gt;process)" DEF="">pace</W> 
+<W DOM="5" FEAT="S SG" ID="9" KSNAME="PACE1" LEMMA="PACE" LINK="fictit" PAFT=" " UNL="pace(icl&gt;rate&gt;abstract_thing,aoj&gt;process)" DEF="SPEED OR RHYTHM" TRANS="темп">pace</W> 
 <W DOM="11" FEAT="ADV" HYPOT="restr.12" ID="10" KSNAME="SO1" LEMMA="SO" LINK="restr" PAFT=" ">so</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="SEVERE" LEMMA="SEVERE" LINK="modif" PAFT=", ">severe</W>, 
 <W DOM="10" FEAT="CONJ" HYPOT="1-compl.23" ID="12" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
@@ -497,7 +497,7 @@
 <W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="5" KSNAME="IDEA" LEMMA="IDEA" LINK="1-compl" PAFT=" " UNL="idea(icl&gt;content&gt;thing)" DEF="THE CONTENT OF COGNITION" TRANS="идея">ideas</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;part&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;part&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWEST PART OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="6" FEAT="PR" HYPOT="correl.d0" ID="9" KSNAME="TO1" LEMMA="TO" LINK="correl" PAFT=" ">to</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="TOP1" LEMMA="TOP" LINK="prepos" PAFT=" " UNL="top(icl&gt;part&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE UPPER PART OF ANYTHING" TRANS="верхушка,верх">top</W> 
@@ -528,7 +528,7 @@
 <W DOM="17" FEAT="ADV" HYPOT="2-compl.04" ID="20" KSNAME="DOWN1" LEMMA="DOWN" LINK="2-compl" PAFT=" ">down</W> 
 <W DOM="17" FEAT="PR" HYPOT="adverb.02" ID="21" KSNAME="TO1" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="22" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;part&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;part&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWEST PART OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="17" FEAT="CONJ" HYPOT="coordin.13" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="24" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="25" KSNAME="GO1" LEMMA="GO" LINK="coord-conj" PAFT=" " UNL="go(icl&gt;move&gt;do,plt&gt;place,plf&gt;place,agt&gt;thing)" DEF="TO MOVE ON A COURSE" TRANS="идти,двигаться">goes</W> 
 <W DOM="28" FEAT="A" GRP="26,27,28" HYPOT="modif.01" ID="26" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
@@ -754,7 +754,7 @@
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="6" KSNAME="CAN1" LEMMA="CAN" LINK="subord-conj" PAFT=" ">could</W> 
 <W DOM="6" FEAT="V MF" HYPOT="1-compl.17" ID="7" KSNAME="CREATE" LEMMA="CREATE" LINK="1-compl" PAFT=" ">create</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="37" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="24" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.06" ID="12" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" LINK="predic" PAFT=" " UNL="department(icl&gt;division&gt;thing)" DEF="A SPECIALIZED DIVISION OF A LARGE ORGANIZATION" TRANS="отдел,департамент">Department</W> 
@@ -1596,7 +1596,7 @@
 <W DOM="7" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="7" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" " UNL="have(icl&gt;be,equ&gt;possess,obj&gt;thing,aoj&gt;thing)" DEF="POSESS A THING" TRANS="иметь">have</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="STAKE1" LEMMA="STAKE" LINK="1-compl" PAFT=" " UNL="stake(icl&gt;share&gt;thing,equ&gt;interest)" DEF="">stake</W> 
+<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="STAKE1" LEMMA="STAKE" LINK="1-compl" PAFT=" " UNL="stake(icl&gt;share&gt;thing,equ&gt;interest)" DEF="(LAW) A RIGHT OR LEGAL SHARE OF SOMETHING" TRANS="доля">stake</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="QUESTION1" LEMMA="QUESTION" LINK="prepos" PAFT=" " UNL="question(icl&gt;problem&gt;abstract_thing,obj&gt;thing)" DEF="THE SUBJECT MATTER AT ISSUE" TRANS="вопрос">question</W> 

@@ -426,7 +426,7 @@
 <W DOM="11" FEAT="CONJ" GRP="6,7,8,9,10,11,12,13" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="6,7,8,9,10,11,12,13" HYPOT="coord-conj.10" ID="13" KSNAME="RECREATION" LEMMA="RECREATION" LINK="coord-conj" PAFT=" (">Recreation</W>( 
 <W DOM="15" EXTRAFEAT="IN-BR" FEAT="ART" GRP="14,15,16,17,18,19,20" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="13" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="14,15,16,17,18,19,20" HYPOT="juxtapos.01" ID="15" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="juxtapos" PAFT=" " UNL="division(icl&gt;concept&gt;thing,equ&gt;part)" DEF="">division</W> 
+<W DOM="13" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="14,15,16,17,18,19,20" HYPOT="juxtapos.01" ID="15" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="juxtapos" PAFT=" " UNL="division(icl&gt;abstract_thing,equ&gt;part)" DEF="ONE OF THE PORTIONS INTO WHICH SOMETHING IS REGARDED AS DIVIDED AND WHICH TOGETHER CONSTITUTE A WHOLE" TRANS="часть">division</W> 
 <W DOM="15" EXTRAFEAT="IN-BR" FEAT="PR" GRP="14,15,16,17,18,19,20" HYPOT="quasiagent.10" ID="16" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="20" EXTRAFEAT="IN-BR" FEAT="ART" GRP="14,15,16,17,18,19,20" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="20" EXTRAFEAT="CAP CAPIT IN-BR" FEAT="A" GRP="14,15,16,17,18,19,20" HYPOT="modif.01" ID="18" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif" PAFT=" ">National</W> 
@@ -729,12 +729,12 @@
 <W DOM="6" FEAT="CONJ" GRP="6,7" HYPOT="2-compl.17" ID="7" KSNAME="AS1" LEMMA="AS" LINK="2-compl" PAFT=" &quot;">as</W> 
 "<W DOM="10" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="A" GRP="8,9,10" HYPOT="modif.01" ID="8" KSNAME="TEEN1" LEMMA="TEEN" LINK="modif" PAFT=" " UNL="teen(icl&gt;adj,equ&gt;adolescent)" DEF="BEING OF THE AGE 13 THROUGH 19" TRANS="юношеский">Teen</W> 
 <W DOM="10" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S SG" GRP="8,9,10" HYPOT="compos.01" ID="9" KSNAME="HUNTER" LEMMA="HUNTER" LINK="compos" PAFT=" " UNL="hunter(icl&gt;skilled_worker&gt;thing)" DEF="SOMEONE WHO HUNTS GAME" TRANS="охотник,егерь">Hunter</W> 
-<W DOM="7" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S PL" GRP="8,9,10" HYPOT="comp-conj.10" ID="10" KSNAME="CLUB1" LEMMA="CLUB" LINK="comp-conj" PAFT="&quot;. " UNL="club(icl&gt;association&gt;thing)" DEF="">Clubs</W>". 
+<W DOM="7" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="S PL" GRP="8,9,10" HYPOT="comp-conj.10" ID="10" KSNAME="CLUB1" LEMMA="CLUB" LINK="comp-conj" PAFT="&quot;. " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">Clubs</W>". 
 </S>
 <S DATE="29 11 2010 20:16:57" ID="29" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e31.tgt;29" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="TEEN1" LEMMA="TEEN" LINK="modif" PAFT=" " UNL="teen(icl&gt;adj,equ&gt;adolescent)" DEF="BEING OF THE AGE 13 THROUGH 19" TRANS="юношеский">Teen</W> 
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="HUNTER" LEMMA="HUNTER" LINK="compos" PAFT=" " UNL="hunter(icl&gt;skilled_worker&gt;thing)" DEF="SOMEONE WHO HUNTS GAME" TRANS="охотник,егерь">Hunter</W> 
-<W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT=" " UNL="club(icl&gt;association&gt;thing)" DEF="">Clubs</W> 
+<W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT=" " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">Clubs</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="4" FEAT="ADV" HYPOT="parenth.10" ID="5" KSNAME="INITIALLY" LEMMA="INITIALLY" LINK="parenth" PAFT=" " UNL="initially(icl&gt;how)" DEF="AT THE BEGINNING" TRANS="вначале">initially</W> 
 <W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="SPONSOR2" LEMMA="SPONSOR" LINK="pass-anal" PAFT=" ">sponsored</W> 
@@ -749,7 +749,7 @@
 </S>
 <S DATE="29 11 2010 20:16:57" EXTRACOMM="Some nodes are not confirmed" ID="30" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e31.tgt;30" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,equ&gt;inaugural)" DEF="">first</W> 
+<W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,equ&gt;inaugural)" DEF="SERVING TO SET IN MOTION" TRANS="начальный">first</W> 
 <W DOM="4" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="PROGRAMME2" LEMMA="PROGRAMME" LINK="predic" PAFT=" ">program</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="SPONSOR2" LEMMA="SPONSOR" LINK="pass-anal" PAFT=" ">sponsored</W> 
@@ -860,7 +860,7 @@
 <W DOM="12" FEAT="NUM" HYPOT="prepos.01" ID="13" KSNAME="NUM-LARGE" LEMMA="75" LINK="prepos" PAFT=" ">75</W> 
 <W DOM="16" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="TEEN1" LEMMA="TEEN" LINK="modif" PAFT=" " UNL="teen(icl&gt;adj,equ&gt;adolescent)" DEF="BEING OF THE AGE 13 THROUGH 19" TRANS="юношеский">Teen</W> 
 <W DOM="16" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="15" KSNAME="HUNTER" LEMMA="HUNTER" LINK="compos" PAFT=" " UNL="hunter(icl&gt;skilled_worker&gt;thing)" DEF="SOMEONE WHO HUNTS GAME" TRANS="охотник,егерь">Hunter</W> 
-<W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="16" KSNAME="CLUB1" LEMMA="CLUB" LINK="compos" PAFT=" " UNL="club(icl&gt;association&gt;thing)" DEF="">Club</W> 
+<W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="16" KSNAME="CLUB1" LEMMA="CLUB" LINK="compos" PAFT=" " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">Club</W> 
 <W DOM="19" FEAT="S PL" HYPOT="predic.01" ID="17" KSNAME="ACTIVITY" LEMMA="ACTIVITY" LINK="predic" PAFT=" " UNL="activity(icl&gt;act&gt;thing,ant&gt;inactivity)" DEF="ANY SPECIFIC BEHAVIOR" TRANS="активность">activities</W> 
 <W DOM="20" FEAT="S SG" HYPOT="1-compl.03" ID="18" KSNAME="WHICH1" LEMMA="WHICH" LINK="1-compl" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="19" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">have</W> 
@@ -1148,7 +1148,7 @@
 <W DOM="4" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="ORGANIZE" LEMMA="ORGANIZE" LINK="prepos" PAFT=" " UNL="organize(icl&gt;form&gt;do,agt&gt;thing,obj&gt;thing)" DEF="CREATE (AS AN ENTITY)" TRANS="создавать">organize</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="TEEN1" LEMMA="TEEN" LINK="modif" PAFT=" " UNL="teen(icl&gt;adj,equ&gt;adolescent)" DEF="BEING OF THE AGE 13 THROUGH 19" TRANS="юношеский">Teen</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="compos.01" ID="7" KSNAME="HUNTER" LEMMA="HUNTER" LINK="compos" PAFT=" " UNL="hunter(icl&gt;skilled_worker&gt;thing)" DEF="SOMEONE WHO HUNTS GAME" TRANS="охотник,егерь">Hunters</W> 
-<W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="1-compl.01" ID="8" KSNAME="CLUB1" LEMMA="CLUB" LINK="1-compl" PAFT=", " UNL="club(icl&gt;association&gt;thing)" DEF="">Clubs</W>, 
+<W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="1-compl.01" ID="8" KSNAME="CLUB1" LEMMA="CLUB" LINK="1-compl" PAFT=", " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">Clubs</W>, 
 <W DOM="10" FEAT="S SG" HYPOT="compos.01" ID="9" KSNAME="SHOOTING" LEMMA="SHOOTING" LINK="compos" PAFT=" " UNL="shooting(icl&gt;propulsion&gt;thing)" DEF="THE ACT OF FIRING A PROJECTILE" TRANS="стрельба">shooting</W> 
 <W DOM="8" EXTRAFEAT="ALT" FEAT="S PL" HYPOT="descr-appos.01" ID="10" KSNAME="PROGRAMME2" LEMMA="PROGRAMME" LINK="descr-appos" PAFT=", ">programs</W>, 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.13" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1170,7 +1170,7 @@
 <W DOM="26" FEAT="S PL" GRP="26,27" HYPOT="1-compl.01" ID="27" KSNAME="PRESERVE2" LEMMA="PRESERVE" LINK="1-compl" PAFT="? ">preserves</W>? 
 </S>
 <S DATE="29 11 2010 20:17:05" ID="45" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e31.tgt;45" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Ask</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Ask</W> 
 <W DOM="1" FEAT="S SG" GRP="2,3" HYPOT="1-compl.01" ID="2" KSNAME="FRM-PROP" LEMMA="SAMMY" LINK="1-compl" PAFT=" ">Sammy</W> 
 <W DOM="2" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="2,3" HYPOT="appos.10" ID="3" KSNAME="SHOOTER" LEMMA="SHOOTER" LINK="appos" PAFT=". ">Shooter</W>. 
 </S>
@@ -1310,7 +1310,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">We</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SEE1" LEMMA="SEE" PAFT=" " UNL="see(icl&gt;perceive&gt;be,cob&gt;uw,obj&gt;thing,aoj&gt;thing)" DEF="PERCEIVE BY SIGHT" TRANS="видеть">saw</W> 
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="SIMILAR" LEMMA="SIMILAR" LINK="modif" PAFT=" " UNL="similar(icl&gt;adj,ant&gt;dissimilar)" DEF="MARKED BY CORRESPONDENCE OR RESEMBLANCE" TRANS="близкий">similar</W> 
-<W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="4" KSNAME="DISPLAY1" LEMMA="DISPLAY" LINK="1-compl" PAFT=" " UNL="display(icl&gt;representation&gt;thing)" DEF="">displays</W> 
+<W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="4" KSNAME="DISPLAY1" LEMMA="DISPLAY" LINK="1-compl" PAFT=" " UNL="display(icl&gt;representation&gt;thing)" DEF="A VISUAL REPRESENTATION OF SOMETHING" TRANS="показ">displays</W> 
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="5" KSNAME="IN2" LEMMA="IN" LINK="phras-junct" PAFT=" ">in</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="A" ID="7" KSNAME="OTHER1" LEMMA="OTHER" LINK="fictit" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
@@ -1835,7 +1835,7 @@
 <W DOM="12" FEAT="S SG" HYPOT="coordin.01" ID="13" KSNAME="DOLLAR-SIGN" LEMMA="DOLLAR-SIGN" LINK="coordin" PAFT=" " UNL="dollar(icl&gt;monetary_unit&gt;thing)" DEF="THE BASIC MONETARY UNIT IN MANY COUNTRIES" TRANS="доллар">$</W> 
 <W DOM="13" FEAT="NUM" HYPOT="quantit.12" ID="14" KSNAME="NUM-DECIM" LEMMA="9.50" LINK="quantit" PAFT=" ">9.50</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
-<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="LODGING" LEMMA="LODGING" LINK="prepos" PAFT=", " UNL="lodging(icl&gt;structure&gt;thing,equ&gt;housing)" DEF="">lodging</W>, 
+<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="LODGING" LEMMA="LODGING" LINK="prepos" PAFT=", " UNL="lodging(icl&gt;structure&gt;thing,equ&gt;housing)" DEF="STRUCTURES COLLECTIVELY IN WHICH PEOPLE ARE HOUSED" TRANS="жилье">lodging</W>, 
 <W DOM="13" FEAT="S SG" HYPOT="coordin.01" ID="17" KSNAME="DOLLAR-SIGN" LEMMA="DOLLAR-SIGN" LINK="coordin" PAFT=" " UNL="dollar(icl&gt;monetary_unit&gt;thing)" DEF="THE BASIC MONETARY UNIT IN MANY COUNTRIES" TRANS="доллар">$</W> 
 <W DOM="17" FEAT="NUM" HYPOT="quantit.12" ID="18" KSNAME="NUM-LARGE" LEMMA="7" LINK="quantit" PAFT=" ">7</W> 
 <W DOM="17" FEAT="PR" HYPOT="attrib.01" ID="19" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
@@ -1868,7 +1868,7 @@
 <W DOM="_root" FEAT="S SG" ID="2" KSNAME="DOLLAR-SIGN" LEMMA="DOLLAR-SIGN" PAFT=" " UNL="dollar(icl&gt;monetary_unit&gt;thing)" DEF="THE BASIC MONETARY UNIT IN MANY COUNTRIES" TRANS="доллар">$</W> 
 <W DOM="2" FEAT="NUM" HYPOT="quantit.12" ID="3" KSNAME="NUM-DECIM" LEMMA="9.50" LINK="quantit" PAFT=" ">9.50</W> 
 <W DOM="2" FEAT="PR" HYPOT="attrib.01" ID="4" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="LODGING" LEMMA="LODGING" LINK="prepos" PAFT=" " UNL="lodging(icl&gt;structure&gt;thing,equ&gt;housing)" DEF="">lodging</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="LODGING" LEMMA="LODGING" LINK="prepos" PAFT=" " UNL="lodging(icl&gt;structure&gt;thing,equ&gt;housing)" DEF="STRUCTURES COLLECTIVELY IN WHICH PEOPLE ARE HOUSED" TRANS="жилье">lodging</W> 
 <W DOM="7" FEAT="S NOM PL" HYPOT="predic.01" ID="6" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="7" KSNAME="SAVE2" LEMMA="SAVE" LINK="relat" PAFT=". " UNL="save(icl&gt;do,equ&gt;spare,agt&gt;thing,obj&gt;thing)" DEF="SPEND SPARINGLY" TRANS="экономить">save</W>. 
 </S>

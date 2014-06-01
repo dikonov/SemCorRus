@@ -755,7 +755,7 @@
 </S>
 <S DATE="30 11 2010 10:49:08" EXTRACOMM="Tagging contradicts ETAP parsing: FIRST1 - FIRST1,FIRST2" ID="26" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_29\\br-a22.tgt;26" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM PL" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13" HYPOT="predic.01" ID="1" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" " PBEF="&quot;">We</W> 
-<W DOM="18" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13" HYPOT="1-compl.30" ID="2" KSNAME="INTEND1" LEMMA="INTEND" LINK="1-compl" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intend</W> 
+<W DOM="18" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13" HYPOT="1-compl.30" ID="2" KSNAME="INTEND1" LEMMA="INTEND" LINK="1-compl" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intend</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="PART" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13" HYPOT="1-compl.15" ID="3" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13" HYPOT="prepos.16" ID="4" KSNAME="ATTEND" LEMMA="ATTEND" LINK="prepos" PAFT=" " UNL="attend(icl&gt;go_to&gt;do,agt&gt;person,obj&gt;place)" DEF="rus:быть где-нибудь в данное время" TRANS="присутствовать">attend</W> 
 <W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -967,7 +967,7 @@
 <S DATE="30 11 2010 10:49:10" ID="36" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_29\\br-a22.tgt;36" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="1" KSNAME="FRIDAY" LEMMA="FRIDAY" LINK="posses" PAFT=" ">Friday's</W> 
 <W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="LETTER2" LEMMA="LETTER" LINK="predic" PAFT=" ">letters</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.02" ID="4" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT TRUN" FEAT="S SG" HYPOT="compos.01" ID="6" KSNAME="NOVEMBER" LEMMA="NOVEMBER" LINK="compos" PAFT=" ">Nov</W> 
@@ -1751,7 +1751,7 @@
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S POSS SG" HYPOT="posses.01" ID="8" KSNAME="CLUB1" LEMMA="CLUB" LINK="posses" PAFT=" ">club's</W> 
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="HISTORY" LEMMA="HISTORY" LINK="prepos" PAFT=" ">history</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;appear&gt;occur,obj&gt;thing)" DEF="">turned</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;appear&gt;occur,obj&gt;person)" DEF="COME, USUALLY IN ANSWER TO AN INVITATION OR SUMMONS" TRANS="являться,приходить">turned</W> 
 <W DOM="10" FEAT="ADV" HYPOT="phras-junct.10" ID="11" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="10" FEAT="PART" HYPOT="1-compl.28" ID="12" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="PAY3" LEMMA="PAY" LINK="prepos" MSNAME="PAY3" PAFT=" " UNL="pay(icl&gt;give&gt;do,agt&lt;thing,obj&gt;abstract_thing,rec&gt;thing)" DEF="CONVEY, AS OF A COMPLIMENT, REGARDS, ATTENTION, ETC." TRANS="уделять">pay</W> 
@@ -1810,7 +1810,7 @@
 <W DOM="20" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="21" KSNAME="TREAT1" LEMMA="TREAT" LINK="prepos" PAFT=" " UNL="treat(icl&gt;affect&gt;do,equ&gt;process,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="SUBJECT TO A PROCESS OR TREATMENT, WITH THE AIM OF READYING FOR SOME PURPOSE, IMPROVING, OR REMEDYING A CONDITION" TRANS="подвергать воздействию,обрабатывать">treat</W> 
 <W DOM="23" FEAT="NUM" HYPOT="quantit.10" ID="22" KSNAME="NUM-THOUS" LEMMA="132000" LINK="quantit" PAFT=" ">132000</W> 
 <W DOM="21" FEAT="S PL" HYPOT="1-compl.01" ID="23" KSNAME="ACRE" LEMMA="ACRE" LINK="1-compl" PAFT=" ">acres</W> 
-<W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="24" KSNAME="INFEST" LEMMA="INFEST" LINK="coord-conj" PAFT=" " UNL="infest(icl&gt;invade&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="">infested</W> 
+<W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="24" KSNAME="INFEST" LEMMA="INFEST" LINK="coord-conj" PAFT=" " UNL="infest(icl&gt;invade&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="INVADE IN GREAT NUMBERS" TRANS="наводнять">infested</W> 
 <W DOM="24" FEAT="PR" HYPOT="adverb.02" ID="25" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.11" ID="26" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="25" FEAT="S PL" HYPOT="prepos.01" ID="27" KSNAME="ANT" LEMMA="ANT" LINK="prepos" PAFT=", ">ants</W>, 
@@ -1903,7 +1903,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="THINK" LEMMA="THINK" LINK="pass-anal" PAFT=" " UNL="think(icl&gt;be,equ&gt;expect,obj&gt;uw,aoj&gt;person)" DEF="HAVE AS AN EXPECTATION OR GUESS" TRANS="ожидать,думать">thought</W> 
 <W DOM="5" FEAT="PART" HYPOT="2-compl.13" ID="6" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
-<W DOM="6" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="INFEST" LEMMA="INFEST" LINK="prepos" PAFT=" " UNL="infest(icl&gt;invade&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="">infest</W> 
+<W DOM="6" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="INFEST" LEMMA="INFEST" LINK="prepos" PAFT=" " UNL="infest(icl&gt;invade&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="INVADE IN GREAT NUMBERS" TRANS="наводнять">infest</W> 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="APPROXIMATELY" LEMMA="APPROXIMATELY" LINK="restr" PAFT=" ">approximately</W> 
 <W DOM="10" FEAT="NUM" HYPOT="quant-aux.10" ID="9" KSNAME="TWO1" LEMMA="TWO" LINK="quant-aux" PAFT=" ">two</W> 
 <W DOM="11" FEAT="NUM" HYPOT="quantit.10" ID="10" KSNAME="MILLION1" LEMMA="MILLION" LINK="quantit" PAFT=" ">million</W> 

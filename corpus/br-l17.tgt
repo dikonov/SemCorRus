@@ -553,7 +553,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="14" FEAT="NUM" GRP="2,3,4" ID="2" KSNAME="NUM-LARGE" LEMMA="7" LINK="fictit" PAFT=" ">7</W> 
 : <W DOM="2" FEAT="NUM" HYPOT="num-appos.10" ID="3" KSNAME="NUM-LARGE" LEMMA="45" LINK="num-appos" PAFT=" ">45</W> 
-<W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="BELL1" LEMMA="BELL" LINK="predic" PAFT=" " UNL="bell(icl&gt;sound&gt;thing)" DEF="">bell</W> 
+<W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="BELL1" LEMMA="BELL" LINK="predic" PAFT=" " UNL="bell(icl&gt;sound&gt;thing)" DEF="THE SOUND OF A BELL BEING STRUCK" TRANS="звон">bell</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="RING1" LEMMA="RING" LINK="fictit" PAFT=" " UNL="ring(icl&gt;sound&gt;occur,obj&gt;thing)" DEF="">rang</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.13" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -877,7 +877,7 @@
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="3" KSNAME="FORWARD1" LEMMA="FORWARD" LINK="phras-junct" PAFT="; " UNL="forward(icl&gt;how,ant&gt;backward)" DEF="AT OR TO OR TOWARD THE FRONT" TRANS="вперед">forward</W>; 
 <W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="FOOT1" LEMMA="FOOT" LINK="predic" PAFT=" " UNL="foot(icl&gt;vertebrate_foot&gt;thing)" DEF="THE PART OF THE LEG OF A HUMAN BEING BELOW THE ANKLE JOINT" TRANS="ступня">foot</W> 
-<W DOM="5" FEAT="V PP" HYPOT="modif.01" ID="6" KSNAME="SLIP3" LEMMA="SLIP" LINK="modif" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;glide&gt;occur,equ&gt;skid,obj&gt;thing)" DEF="">slipped</W> 
+<W DOM="5" FEAT="V PP" HYPOT="modif.01" ID="6" KSNAME="SLIP3" LEMMA="SLIP" LINK="modif" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;slide&gt;thing,equ&gt;skid)" DEF="AN UNEXPECTED SLIDE" TRANS="скольжение">slipped</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="OFF2" LEMMA="OFF" LINK="adverb" PAFT=" ">off</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="CHAIR1" LEMMA="CHAIR" LINK="prepos" PAFT=" " UNL="chair(icl&gt;seat&gt;thing)" DEF="A SEAT FOR ONE PERSON, WITH A SUPPORT FOR THE BACK" TRANS="стул">chair</W> 
@@ -920,7 +920,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="STUPIDITY" LEMMA="STUPIDITY" LINK="predic" PAFT=" " UNL="stupidity(icl&gt;inability&gt;thing,ant&gt;intelligence)" DEF="A POOR ABILITY TO UNDERSTAND OR TO PROFIT FROM EXPERIENCE" TRANS="глупость">stupidity</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="coord-conj.00" ID="3" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" " UNL="no(icl&gt;quantity,qua&lt;thing)" DEF="QUANTIFIER" TRANS="никакой">no</W> 
-<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="5" KSNAME="CONSOLATION" LEMMA="CONSOLATION" LINK="copulat" PAFT=" " UNL="consolation(icl&gt;comfort&gt;thing)" DEF="">consolation</W> 
+<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="5" KSNAME="CONSOLATION" LEMMA="CONSOLATION" LINK="copulat" PAFT=" " UNL="consolation(icl&gt;comfort&gt;thing)" DEF="THE COMFORT YOU FEEL WHEN CONSOLED IN TIMES OF DISAPPOINTMENT" TRANS="утешение">consolation</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="adverb.10" ID="6" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="8" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="8" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
@@ -1097,7 +1097,7 @@
 <W FEAT="V" ID="2" KSNAME="SUCK1" LEMMA="SUCK" REM="phrasverb" UNL="suck_in(icl&gt;hollow&gt;do,agt&gt;thing,obj&gt;thing)" DEF="DRAW IN AS IF BY SUCTION" TRANS="засасывать" WN21="2:35:01::">sucked</W> 
 <W FEAT="ADV" ID="3" KSNAME="IN2" LEMMA="IN">in</W> 
 <W FEAT="A" ID="4" KSNAME="HIS1" LEMMA="HIS">his</W> 
-<W FEAT="S SG" ID="5" KSNAME="BREATH" LEMMA="BREATH" UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="вдох" WN21="1:27:00::">breath</W> 
+<W FEAT="S SG" ID="5" KSNAME="BREATH" LEMMA="BREATH" UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="дыхание,вдох" WN21="1:27:00::">breath</W> 
 <W FEAT="CONJ" ID="6" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="V" ID="7" KSNAME="KEEP" LEMMA="KEEP" UNL="keep(icl&gt;be,equ&gt;continue,obj&gt;action,aoj&gt;thing)" DEF="CONTINUE A CERTAIN STATE, CONDITION, OR ACTIVITY" TRANS="продолжать" WN21="2:42:07::">kept</W> 
 <W FEAT="A" ID="8" KSNAME="QUIET" LEMMA="QUIET" UNL="quiet(icl&gt;adj,ant&gt;noisy)" DEF="FREE OF NOISE OR UPROAR" TRANS="тихий" WN21="3:00:01::">quiet</W> 
@@ -1344,12 +1344,12 @@
 <W DOM="2" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FICT-PERS" LEMMA="GUN" LINK="predic" PAFT=" ">Gun</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="HOLD1" LEMMA="HOLD" PAFT=" ">held</W> 
 <W DOM="4" FEAT="A" HYPOT="determ.13" ID="3" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="BREATH" LEMMA="BREATH" LINK="1-compl" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="вдох">breath</W> 
+<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="BREATH" LEMMA="BREATH" LINK="1-compl" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="дыхание,вдох">breath</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="2" FEAT="S SG" HYPOT="durat.10" ID="6" KSNAME="MOMENT" LEMMA="MOMENT" LINK="durat" PAFT=", " UNL="moment(icl&gt;period&gt;time,obj&gt;thing)" DEF="A VERY SHORT PERIOD OF TIME" TRANS="мгновение">moment</W>, 
 <W DOM="6" FEAT="V ING" HYPOT="coordin.01" ID="7" KSNAME="PUSH1" LEMMA="PUSH" LINK="coordin" PAFT=" " UNL="push(icl&gt;move(icl&gt;cause)&gt;do,ant&gt;pull,plt&gt;uw,plf&gt;uw,obj&gt;thing)" DEF="MOVE WITH FORCE, HE PUSHED THE TABLE INTO A CORNER" TRANS="толкать">pushing</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="1-compl" PAFT=" " UNL="volume(icl&gt;sound_property&gt;thing)" DEF="">volume</W> 
+<W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="1-compl" PAFT=" " UNL="volume(icl&gt;property,obj&gt;sound)" DEF="THE MAGNITUDE OF SOUND (USUALLY IN A SPECIFIED DIRECTION)" TRANS="громкость">volume</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="10" FEAT="S SG" HYPOT="coord-conj.10" ID="11" KSNAME="PITCH1" LEMMA="PITCH" LINK="coord-conj" PAFT=" " UNL="pitch(icl&gt;sound_property&gt;thing)" DEF="THE PROPERTY OF SOUND THAT VARIES WITH VARIATION IN THE FREQUENCY OF VIBRATION" TRANS="высота тона,тон,высота звука">pitch</W> 
 <W DOM="11" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -1955,10 +1955,10 @@
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="DAY" LEMMA="DAY" LINK="prepos" PAFT=" " UNL="day(icl&gt;time_period&gt;thing,equ&gt;daylight,ant&gt;night)" DEF="THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE" TRANS="день">day</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.10" ID="23" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="19" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="MYRIAD1" LEMMA="MYRIAD" LINK="1-compl" MSNAME="MYRIAD1" PAFT=" " UNL="myriad(icl&gt;large_indefinite_quantity&gt;thing)" DEF="">myriad</W> 
+<W DOM="19" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="MYRIAD1" LEMMA="MYRIAD" LINK="1-compl" MSNAME="MYRIAD1" PAFT=" " UNL="myriad(icl&gt;large_indefinite_quantity&gt;thing)" DEF="A LARGE INDEFINITE NUMBER" TRANS="мириады">myriad</W> 
 <W DOM="24" FEAT="PR" HYPOT="quasiagent.10" ID="25" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="BUSY1" LEMMA="BUSY" LINK="modif" MSNAME="BUSY1" PAFT=" " UNL="busy(icl&gt;adj,ant&gt;idle)" DEF="ACTIVELY OR FULLY ENGAGED OR OCCUPIED" TRANS="занятый">busy</W> 
-<W DOM="25" FEAT="S PL" HYPOT="prepos.01" ID="27" KSNAME="CREATURE" LEMMA="CREATURE" LINK="prepos" PAFT=" " UNL="creature(icl&gt;person&gt;thing)" DEF="">creatures</W> 
+<W DOM="25" FEAT="S PL" HYPOT="prepos.01" ID="27" KSNAME="CREATURE" LEMMA="CREATURE" LINK="prepos" PAFT=" " UNL="creature(icl&gt;person&gt;thing)" DEF="A HUMAN BEING" TRANS="тварь">creatures</W> 
 <W DOM="29" FEAT="S SG" HYPOT="predic.01" ID="28" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="27" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="29" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">had</W> 
 <W DOM="29" EXTRAFEAT="ALT" FEAT="V PP" GRP="29,30" HYPOT="analyt.12" ID="30" KSNAME="LAY1" LEMMA="LAY" LINK="analyt" PAFT=" ">lain</W> 
@@ -2112,7 +2112,7 @@
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="8" KSNAME="HAVE" LEMMA="HAVE" LINK="sent-coordin" PAFT=" ">had</W> 
 <W DOM="8" FEAT="ADV" HYPOT="restr.11" ID="9" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;merely)" DEF="AND NOTHING MORE" TRANS="всего">only</W> 
 <W DOM="8" FEAT="PART" HYPOT="1-compl.15" ID="10" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="SIGNAL2" LEMMA="SIGNAL" LINK="prepos" PAFT=" " UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="">signal</W> 
+<W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="SIGNAL2" LEMMA="SIGNAL" LINK="prepos" PAFT=" " UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="" TRANS="сигналить,давать сигнал">signal</W> 
 <W DOM="11" FEAT="PR" HYPOT="adverb.02" ID="12" KSNAME="FROM" LEMMA="FROM" LINK="adverb" PAFT=" ">from</W> 
 <W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="DOORWAY" LEMMA="DOORWAY" LINK="prepos" PAFT=" " UNL="doorway(icl&gt;entrance&gt;thing)" DEF="THE ENTRANCE (THE SPACE IN A WALL) THROUGH WHICH YOU ENTER OR LEAVE A ROOM OR BUILDING" TRANS="проход">doorway</W> 

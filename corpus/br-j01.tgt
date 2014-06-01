@@ -51,7 +51,7 @@
 <W DOM="19" FEAT="ADV" HYPOT="restr.12" ID="18" KSNAME="VERY1" LEMMA="VERY" LINK="restr" PAFT=" ">very</W> 
 <W DOM="21" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="LOW1" LEMMA="LOW" LINK="modif" PAFT=" ">low</W> 
 <W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="THERMAL" LEMMA="THERMAL" LINK="modif" PAFT=" " UNL="thermal(icl&gt;adj,ant&gt;nonthermal,com&gt;heat)" DEF="RELATING TO OR ASSOCIATED WITH HEAT" TRANS="тепловой,термальный">thermal</W> 
-<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="CONDUCTIVITY" LEMMA="CONDUCTIVITY" LINK="prepos" PAFT=" " UNL="conductivity(icl&gt;physical_phenomenon&gt;thing,equ&gt;conduction)" DEF="">conductivity</W> 
+<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="CONDUCTIVITY" LEMMA="CONDUCTIVITY" LINK="prepos" PAFT=" " UNL="conductivity(icl&gt;physical_phenomenon&gt;thing,equ&gt;conduction)" DEF="THE TRANSMISSION OF HEAT OR ELECTRICITY OR SOUND" TRANS="проводимость">conductivity</W> 
 <W DOM="21" FEAT="PR" HYPOT="1-compl.07" ID="22" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="25" FEAT="S SG" HYPOT="compos.01" ID="24" KSNAME="SURFACE1" LEMMA="SURFACE" LINK="compos" PAFT=" " UNL="surface(icl&gt;artifact&gt;thing)" DEF="THE OUTER BOUNDARY OF AN ARTIFACT OR A MATERIAL LAYER CONSTITUTING OR RESEMBLING SUCH A BOUNDARY" TRANS="поверхность">surface</W> 
@@ -776,7 +776,7 @@
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="1-compl" PAFT=" " UNL="origin(icl&gt;point&gt;thing,equ&gt;beginning)" DEF="THE PLACE WHERE SOMETHING BEGINS, WHERE IT SPRINGS INTO BEING" TRANS="источник">origin</W> 
 <W DOM="19" FEAT="PR" HYPOT="quasiagent.10" ID="20" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="INTERFERENCE" LEMMA="INTERFERENCE" LINK="prepos" PAFT=" " UNL="interference(icl&gt;trouble&gt;thing,equ&gt;noise)" DEF="">interference</W> 
+<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="INTERFERENCE" LEMMA="INTERFERENCE" LINK="prepos" PAFT=" " UNL="interference(icl&gt;trouble&gt;thing,equ&gt;noise)" DEF="ELECTRICAL OR ACOUSTIC ACTIVITY THAT CAN DISTURB COMMUNICATION" TRANS="помехи">interference</W> 
 <W DOM="21" FEAT="PR" HYPOT="attrib.01" ID="22" KSNAME="LIKE1" LEMMA="LIKE" LINK="attrib" PAFT=" ">like</W> 
 <W DOM="24" FEAT="S SG" GRP="23,24" HYPOT="compos.01" ID="23" KSNAME="RADIO1" LEMMA="RADIO" LINK="compos" PAFT=" ">radio</W> 
 <W DOM="22" FEAT="S SG" GRP="23,24" HYPOT="prepos.01" ID="24" KSNAME="NOISE" LEMMA="NOISE" LINK="prepos" PAFT=" ">noise</W> 

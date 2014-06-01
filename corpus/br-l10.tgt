@@ -207,7 +207,7 @@
 <W DOM="8" FEAT="S SG" GRP="7,8,9,10" HYPOT="prepos.01" ID="9" KSNAME="HALF2" LEMMA="HALF" LINK="prepos" PAFT=" ">half</W> 
 <W DOM="9" FEAT="V PP" GRP="7,8,9,10" HYPOT="modif.01" ID="10" KSNAME="COCK2" LEMMA="COCK" LINK="modif" PAFT=" ">cocked</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="BEFORE1" LEMMA="BEFORE" LINK="adverb" PAFT=" ">before</W> 
-<W DOM="11" FEAT="V ING" HYPOT="prepos.01" ID="12" KSNAME="PICK1" LEMMA="PICK" LINK="prepos" PAFT=" " UNL="pick_up(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="">picking</W> 
+<W DOM="11" FEAT="V ING" HYPOT="prepos.01" ID="12" KSNAME="PICK1" LEMMA="PICK" LINK="prepos" PAFT=" " UNL="pick_up(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="TAKE INTO CUSTODY" TRANS="забирать">picking</W> 
 <W DOM="12" FEAT="ADV" HYPOT="phras-junct.10" ID="13" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="14" KSNAME="FICT-PERS" LEMMA="BLACK" LINK="1-compl" PAFT=", ">Black</W>, 
 <W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
@@ -1666,7 +1666,7 @@
 <W DOM="10" FEAT="S SG" HYPOT="adverb.04" ID="8" KSNAME="DAY" LEMMA="DAY" LINK="adverb" PAFT=" ">day</W> 
 <W DOM="10" FEAT="S NOM SG" HYPOT="predic.01" ID="9" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="10" KSNAME="WOULD" LEMMA="WOULD" LINK="subord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="10" FEAT="V MF" HYPOT="analyt.13" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="10" FEAT="V MF" HYPOT="analyt.13" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="11" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="12" KSNAME="SHE" LEMMA="SHE" LINK="1-compl" PAFT=" ">her</W> 
 <W DOM="11" FEAT="PART" HYPOT="2-compl.12" ID="13" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="13" FEAT="V MF" HYPOT="prepos.16" ID="14" KSNAME="MARRY" LEMMA="MARRY" LINK="prepos" PAFT=" " UNL="marry(icl&gt;do,agt&gt;person,cag&gt;person)" DEF="GET MARRIED" TRANS="заключать брак">marry</W> 
@@ -2075,7 +2075,7 @@
 <W DOM="21" FEAT="S NOM SG" HYPOT="predic.01" ID="20" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="21" KSNAME="HAVE" LEMMA="HAVE" LINK="sent-coordin" PAFT=" ">had</W> 
 <W DOM="23" FEAT="ADV" HYPOT="adverb.01" ID="22" KSNAME="POLITELY" LEMMA="POLITELY" LINK="adverb" PAFT=" " UNL="politely(icl&gt;how,ant&gt;impolitely,com&gt;polite)" DEF="IN A POLITE MANNER" TRANS="вежливо">politely</W> 
-<W DOM="21" FEAT="V PP" HYPOT="analyt.12" ID="23" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="21" FEAT="V PP" HYPOT="analyt.12" ID="23" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="23" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="FRM-PROP" LEMMA="KITTI" LINK="1-compl" PAFT=" ">Kitti</W> 
 <W DOM="23" FEAT="PART" HYPOT="2-compl.12" ID="25" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="26" KSNAME="JOIN1" LEMMA="JOIN" LINK="prepos" PAFT=" " UNL="join(icl&gt;do,equ&gt;accompany,agt&gt;person,cag&gt;person,pur&gt;uw)" DEF="COME INTO THE COMPANY OF" TRANS="присоединиться">join</W> 

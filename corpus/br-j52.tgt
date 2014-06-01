@@ -81,7 +81,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="THEORY" LEMMA="THEORY" LINK="predic" PAFT=" " UNL="theory(icl&gt;explanation&gt;thing)" DEF="A WELL-SUBSTANTIATED EXPLANATION OF SOME ASPECT OF THE NATURAL WORLD" TRANS="теория">theory</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="6" KSNAME="CAN1" LEMMA="CAN" LINK="subord-conj" PAFT=" ">could</W> 
 <W DOM="6" FEAT="V MF" HYPOT="1-compl.17" ID="7" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
-<W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="SAVE2" LEMMA="SAVE" LINK="pass-anal" PAFT=" " UNL="save(icl&gt;refrain&gt;do,equ&gt;spare,agt&gt;thing,obj&gt;thing)" DEF="">saved</W> 
+<W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="SAVE2" LEMMA="SAVE" LINK="pass-anal" PAFT=" " UNL="save(icl&gt;refrain&gt;do,equ&gt;spare,agt&gt;living_thing,obj&gt;concrete_thing)" DEF="REFRAIN FROM HARMING" TRANS="сохранять,беречь">saved</W> 
 <W DOM="8" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="11" FEAT="NUM" HYPOT="quantit.10" ID="10" KSNAME="ONE1" LEMMA="ONE" LINK="quantit" PAFT=" ">one</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="WAY" LEMMA="WAY" LINK="prepos" PAFT=" " UNL="way(icl&gt;implementation&gt;abstract_thing,equ&gt;means,pos&gt;volitional_thing,pur&gt;uw)" DEF="A COURSE OF ACTION" TRANS="способ">way</W> 
@@ -701,7 +701,7 @@
 <W DOM="26" FEAT="V MF" HYPOT="analyt.13" ID="27" KSNAME="HAVE" LEMMA="HAVE" LINK="analyt" PAFT=" ">have</W> 
 <W DOM="27" FEAT="V PP" HYPOT="analyt.12" ID="28" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="30" FEAT="A" HYPOT="determ.13" ID="29" KSNAME="EVERY" LEMMA="EVERY" LINK="determ" PAFT=" " UNL="every(icl&gt;quantity,per&gt;thing)" DEF="EACH AND ALL OF THE MEMBERS OF A GROUP CONSIDERED SINGLY AND WITHOUT EXCEPTION" TRANS="каждый">every</W> 
-<W DOM="28" FEAT="S SG" HYPOT="copulat.10" ID="30" KSNAME="WHIT" LEMMA="WHIT" LINK="copulat" PAFT=" " UNL="whit(icl&gt;small_indefinite_quantity&gt;thing,equ&gt;shred)" DEF="">whit</W> 
+<W DOM="28" FEAT="S SG" HYPOT="copulat.10" ID="30" KSNAME="WHIT" LEMMA="WHIT" LINK="copulat" PAFT=" " UNL="whit(icl&gt;small_indefinite_quantity&gt;thing,equ&gt;shred)" DEF="A TINY OR SCARCELY DETECTABLE AMOUNT" TRANS="йота">whit</W> 
 <W DOM="30" FEAT="CONJ" HYPOT="attrib.18" ID="31" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="31" FEAT="A" HYPOT="comp-conj.10" ID="32" KSNAME="BAD" LEMMA="BAD" LINK="comp-conj" PAFT=" " UNL="bad(icl&gt;adj,ant&gt;good)" DEF="HAVING UNDESIRABLE OR NEGATIVE QUALITIES" TRANS="плохой,дурной">bad</W> 
 <W DOM="16" FEAT="CONJ" ID="33" KSNAME="WHETHER" LEMMA="WHETHER" LINK="fictit" PAFT=" ">whether</W> 
@@ -717,7 +717,7 @@
 <W DOM="41" FEAT="S SG" HYPOT="1-compl.01" ID="43" KSNAME="BODY1" LEMMA="BODY" LINK="1-compl" PAFT=" ">body</W> 
 <W DOM="41" FEAT="CONJ" HYPOT="coordin.13" ID="44" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="44" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="45" KSNAME="FEEL1" LEMMA="FEEL" LINK="coord-conj" PAFT=" ">feel</W> 
-<W DOM="45" FEAT="S SG" HYPOT="1-compl.01" ID="46" KSNAME="REPUGNANCE" LEMMA="REPUGNANCE" LINK="1-compl" PAFT=" " UNL="repugnance(icl&gt;disgust&gt;thing)" DEF="">repugnance</W> 
+<W DOM="45" FEAT="S SG" HYPOT="1-compl.01" ID="46" KSNAME="REPUGNANCE" LEMMA="REPUGNANCE" LINK="1-compl" PAFT=" " UNL="repugnance(icl&gt;disgust&gt;thing)" DEF="INTENSE AVERSION" TRANS="отвращение">repugnance</W> 
 <W DOM="46" FEAT="CONJ" HYPOT="coordin.d1" ID="47" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="47" FEAT="ADV" HYPOT="coord-conj.d0" ID="48" KSNAME="NOT" LEMMA="NOT" LINK="coord-conj" PAFT=". " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W>. 
 </S>
@@ -949,7 +949,7 @@
 <W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="CASE1" LEMMA="CASE" LINK="prepos" PAFT=" " UNL="case(icl&gt;happening&gt;thing)" DEF="AN OCCURRENCE OF SOMETHING" TRANS="случай">case</W> 
 <W DOM="25" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="33" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
 <W DOM="35" FEAT="ART" HYPOT="determ.10" ID="34" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="33" FEAT="S SG" HYPOT="copulat.10" ID="35" KSNAME="STATE1" LEMMA="STATE" LINK="copulat" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="33" FEAT="S SG" HYPOT="copulat.10" ID="35" KSNAME="STATE1" LEMMA="STATE" LINK="copulat" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="35" FEAT="PR" HYPOT="attrib.01" ID="36" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="36" FEAT="S SG" HYPOT="prepos.01" ID="37" KSNAME="FEELING" LEMMA="FEELING" LINK="prepos" PAFT=", " UNL="feeling(icl&gt;state&gt;thing)" DEF="THE EXPERIENCING OF AFFECTIVE AND EMOTIONAL STATES" TRANS="чувство">feeling</W>, 
 <W DOM="25" FEAT="CONJ" HYPOT="coordin.11" ID="38" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1662,7 +1662,7 @@
 <W DOM="24" FEAT="S OBJ PL" HYPOT="prepos.01" ID="25" KSNAME="WE" LEMMA="WE" LINK="prepos" PAFT=" ">us</W> 
 <W DOM="28" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.10" ID="27" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" ID="28" KSNAME="BELIEF" LEMMA="BELIEF" LINK="fictit" PAFT=" " UNL="belief(icl&gt;idea&gt;thing,equ&gt;impression)" DEF="">belief</W> 
+<W DOM="3" FEAT="S SG" ID="28" KSNAME="BELIEF" LEMMA="BELIEF" LINK="fictit" PAFT=" " UNL="belief(icl&gt;idea&gt;thing,equ&gt;impression)" DEF="A VAGUE IDEA IN WHICH SOME CONFIDENCE IS PLACED" TRANS="мнение">belief</W> 
 <W DOM="20" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="29" KSNAME="WOULD" LEMMA="WOULD" LINK="coord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="29" FEAT="ADV" HYPOT="restr.10" ID="30" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="32" FEAT="S SG" GRP="31,32" HYPOT="compos.01" ID="31" KSNAME="MAKE2" LEMMA="MAKE" LINK="compos" PAFT=" ">make</W> 
@@ -1768,7 +1768,7 @@
 <W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="copulat.15" ID="1" KSNAME="WHATEVER1" LEMMA="WHATEVER" LINK="copulat" PAFT=" ">Whatever</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="UNHAPPY" LEMMA="UNHAPPY" LINK="modif" PAFT=" " UNL="unhappy(icl&gt;adj,ant&gt;happy)" DEF="EXPERIENCING OR MARKED BY OR CAUSING SADNESS OR SORROW OR DISCONTENT" TRANS="несчастный">unhappy</W> 
-<W DOM="8" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="INMATE" LEMMA="INMATE" LINK="predic" PAFT=" " UNL="inmate(icl&gt;prisoner&gt;thing,equ&gt;convict)" DEF="">inmates</W> 
+<W DOM="8" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="INMATE" LEMMA="INMATE" LINK="predic" PAFT=" " UNL="inmate(icl&gt;prisoner&gt;person,equ&gt;convict)" DEF="A PERSON SERVING A SENTENCE IN A JAIL OR PRISON" TRANS="зэка,зек,заключенный">inmates</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
 <W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="7" KSNAME="CAMP1" LEMMA="CAMP" LINK="prepos" PAFT=" " UNL="camp(icl&gt;prison&gt;thing)" DEF="A PRISON FOR FORCED LABORERS" TRANS="лагерь">camps</W> 
@@ -2120,7 +2120,7 @@
 <W DOM="1" FEAT="V MF" HYPOT="prepos.16" ID="2" KSNAME="GREET" LEMMA="GREET" LINK="prepos" PAFT=" " UNL="greet(icl&gt;address&gt;do,cob&gt;uw,agt&gt;person,obj&gt;person)" DEF="EXPRESS GREETINGS" TRANS="приветствовать">greet</W> 
 <W DOM="2" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="3" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=" ">them</W> 
 <W DOM="2" FEAT="PR" HYPOT="2-compl.02" ID="4" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="REPULSION" LEMMA="REPULSION" LINK="prepos" PAFT=" " UNL="repulsion(icl&gt;disgust&gt;thing,equ&gt;repugnance)" DEF="">repulsion</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="REPULSION" LEMMA="REPULSION" LINK="prepos" PAFT=" " UNL="repulsion(icl&gt;disgust&gt;thing,equ&gt;repugnance)" DEF="INTENSE AVERSION" TRANS="омерзение">repulsion</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="WOULD" LEMMA="WOULD" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="6" FEAT="V MF" HYPOT="analyt.13" ID="7" KSNAME="TURN2" LEMMA="TURN" LINK="analyt" PAFT=" ">turn</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="WHAT1" LEMMA="WHAT" LINK="predic" PAFT=" ">what</W> 

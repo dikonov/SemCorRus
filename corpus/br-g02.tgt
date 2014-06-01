@@ -1666,7 +1666,7 @@
 </S>
 <S DATE="30 11 2010 10:43:51" EXTRACOMM="Tagging contradicts ETAP parsing: LESS2 - LESSER" ID="61" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_44\\br-g02.tgt;61" STATUS="doubt">
 <W DOM="8" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">By</W> 
-<W DOM="1" FEAT="V ING" HYPOT="prepos.01" ID="2" KSNAME="SUBDUE" LEMMA="SUBDUE" LINK="prepos" PAFT=" " UNL="subdue(icl&gt;oppress&gt;do,equ&gt;repress,agt&gt;thing,obj&gt;thing)" DEF="">subduing</W> 
+<W DOM="1" FEAT="V ING" HYPOT="prepos.01" ID="2" KSNAME="SUBDUE" LEMMA="SUBDUE" LINK="prepos" PAFT=" " UNL="subdue(icl&gt;oppress&gt;do,equ&gt;repress,agt&gt;thing,obj&gt;thing)" DEF="PUT DOWN BY FORCE OR INTIMIDATION" TRANS="подавлять">subduing</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="DISPARATE" LEMMA="DISPARATE" LINK="modif" PAFT=" ">disparate</W> 
 <W DOM="5" FEAT="A COMP" HYPOT="modif.01" ID="4" KSNAME="LESSER" LEMMA="LESSER" LINK="modif" PAFT=" ">lesser</W> 
 <W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="5" KSNAME="GROUP1" LEMMA="GROUP" LINK="1-compl" PAFT=" ">groups</W> 

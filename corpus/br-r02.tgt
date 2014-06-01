@@ -286,7 +286,7 @@
 <W FEAT="A" ID="19" KSNAME="HER" LEMMA="HER">her</W> 
 <W FEAT="S SG" ID="20" KSNAME="BREATH" LEMMA="BREATH">breath</W> 
 <W FEAT="CONJ" ID="21" KSNAME="AND" LEMMA="AND">and</W> 
-<W FEAT="V" ID="22" KSNAME="PRETEND1" LEMMA="PRETEND" UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="" WN21="2:32:00::">pretending</W> 
+<W FEAT="V" ID="22" KSNAME="PRETEND1" LEMMA="PRETEND" UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться" WN21="2:32:00::">pretending</W> 
 <W FEAT="PART" ID="23" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="24" KSNAME="BLACK3" LEMMA="BLACK" REM="phrasverb" UNL="black_out(icl&gt;change_state&gt;occur,equ&gt;zonk_out,obj&gt;thing)" DEF="" WN21="2:29:00::">black</W> 
 <W FEAT="ADV" ID="25" KSNAME="OUT1" LEMMA="OUT">out</W>, 

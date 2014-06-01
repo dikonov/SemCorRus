@@ -603,7 +603,7 @@
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="SCHOOL1" LEMMA="SCHOOL" LINK="prepos" PAFT=", ">schools</W>, 
 <W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
-<W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="18" KSNAME="EXPEND" LEMMA="EXPEND" LINK="relat" PAFT=" " UNL="expend(icl&gt;pay&gt;do,equ&gt;spend,agt&gt;person,obj&gt;thing,val&gt;thing)" DEF="">expend</W> 
+<W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="18" KSNAME="EXPEND" LEMMA="EXPEND" LINK="relat" PAFT=" " UNL="expend(icl&gt;pay&gt;do,equ&gt;spend,agt&gt;person,obj&gt;thing,val&gt;thing)" DEF="PAY OUT" TRANS="тратить">expend</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="21" FEAT="A SUP" HYPOT="modif.01" ID="20" KSNAME="LARGE" LEMMA="LARGE" LINK="modif" PAFT=" ">largest</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="21" KSNAME="SHARE2" LEMMA="SHARE" LINK="1-compl" PAFT=" ">share</W> 
@@ -864,7 +864,7 @@
 <W DOM="14" FEAT="PR" HYPOT="1-compl.07" ID="15" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="15" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="TAX1" LEMMA="TAX" LINK="prepos" PAFT=" ">taxes</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="17" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="pass-anal" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">instituted</W> 
+<W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="pass-anal" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ADVANCE OR SET FORTH IN COURT" TRANS="возбуждать">instituted</W> 
 <W DOM="17" FEAT="CONJ" HYPOT="sent-coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" ">first</W> 

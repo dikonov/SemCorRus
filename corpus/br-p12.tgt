@@ -395,7 +395,7 @@
 <W DOM="3" FEAT="A COMP" HYPOT="copulat.11" ID="4" KSNAME="HAPPY" LEMMA="HAPPY" LINK="copulat" PAFT=" ">happier</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="adverb.10" ID="5" KSNAME="IF" LEMMA="IF" LINK="adverb" PAFT=" ">if</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="MAKE1" LEMMA="MAKE" LINK="subord-conj" PAFT=" " UNL="make_up(icl&gt;think_up&gt;do,equ&gt;fabricate,agt&gt;thing,obj&gt;thing)" DEF="">made</W> 
+<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="MAKE1" LEMMA="MAKE" LINK="subord-conj" PAFT=" " UNL="make_up(icl&gt;think_up&gt;do,equ&gt;fabricate,agt&gt;thing,obj&gt;thing)" DEF="MAKE UP SOMETHING ARTIFICIAL OR UNTRUE" TRANS="сочинять">made</W> 
 <W DOM="7" FEAT="ADV" HYPOT="phras-junct.10" ID="8" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
 <W DOM="7" FEAT="S PL" HYPOT="1-compl.01" ID="10" KSNAME="STORY" LEMMA="STORY" LINK="1-compl" PAFT=" " UNL="story(icl&gt;lie&gt;thing,equ&gt;fib)" DEF="">stories</W> 
@@ -783,7 +783,7 @@
 <W DOM="2" FEAT="PR" GRP="2,3" HYPOT="1-compl.07" ID="3" KSNAME="LIKE1" LEMMA="LIKE" LINK="1-compl" PAFT=" ">like</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="NID" HYPOT="compos.01" ID="5" KSNAME="FICT-LEX" LEMMA="TWEEDY" LINK="compos" PAFT=" ">tweedy</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="prepos" PAFT=". " UNL="englishman(icl&gt;english_person&gt;thing)" DEF="">Englishman</W>. 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="prepos" PAFT=". " UNL="englishman(icl&gt;english&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF ENGLAND" TRANS="англичанин">Englishman</W>. 
 </S>
 <S DATE="30 11 2010 10:43:14" EXTRACOMM="Tagging contradicts ETAP parsing: CAN1 - FRM-PROP" ID="62" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-p12.tgt;62" STATUS="doubt">
 <W DOM="4" FEAT="S SG" ID="1" KSNAME="FRM-PROP" LEMMA="CA" LINK="fictit" PAFT=" ">Ca</W> 
@@ -1058,7 +1058,7 @@
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="15,16" HYPOT="sent-coordin.01" ID="15" KSNAME="THINK" LEMMA="THINK" LINK="sent-coordin" PAFT=" ">thought</W> 
 <W DOM="15" FEAT="PR" GRP="15,16" HYPOT="2-compl.02" ID="16" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.04" ID="17" KSNAME="HER" LEMMA="HER" LINK="modif" MSNAME="HER" PAFT=" ">her</W> 
-<W DOM="16" FEAT="V ING" HYPOT="prepos.01" ID="18" KSNAME="SCOLD1" LEMMA="SCOLD" LINK="prepos" PAFT=" " UNL="scold(icl&gt;knock&gt;do,equ&gt;call_on_the_carpet,rsn&gt;thing,agt&gt;person,obj&gt;thing)" DEF="">scolding</W> 
+<W DOM="16" FEAT="V ING" HYPOT="prepos.01" ID="18" KSNAME="SCOLD1" LEMMA="SCOLD" LINK="prepos" PAFT=" " UNL="scold(icl&gt;knock&gt;do,equ&gt;call_on_the_carpet,rsn&gt;thing,agt&gt;person,obj&gt;thing)" DEF="CENSURE SEVERELY OR ANGRILY" TRANS="бранить">scolding</W> 
 <W DOM="15" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="19" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="2" FEAT="PR" ID="20" KSNAME="FOR1" LEMMA="FOR" LINK="fictit" PAFT=" ">for</W> 
 <W DOM="22" FEAT="A" HYPOT="determ.13" ID="21" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
@@ -1170,7 +1170,7 @@
 <W DOM="10" FEAT="CONJ" HYPOT="sent-coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="19" FEAT="CONJ" HYPOT="adverb.10" ID="13" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="15" FEAT="S NOM SG" HYPOT="predic.01" ID="14" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">she</W> 
-<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="15" KSNAME="SNUGGLE" LEMMA="SNUGGLE" LINK="subord-conj" PAFT=" " UNL="snuggle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,plc&gt;thing)" DEF="">snuggled</W> 
+<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="15" KSNAME="SNUGGLE" LEMMA="SNUGGLE" LINK="subord-conj" PAFT=" " UNL="snuggle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,plc&gt;thing)" DEF="MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION" TRANS="устраиваться,располагаться">snuggled</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="AGAINST" LEMMA="AGAINST" LINK="1-compl" PAFT=" ">against</W> 
 <W DOM="16" FEAT="S OBJ SG" HYPOT="prepos.01" ID="17" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=", ">him</W>, 
 <W DOM="19" FEAT="S NOM SG" HYPOT="predic.01" ID="18" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -1721,7 +1721,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="APARTMENT" LEMMA="APARTMENT" LINK="prepos" PAFT=", " UNL="apartment(icl&gt;housing&gt;thing)" DEF="A SUITE OF ROOMS USUALLY ON ONE FLOOR OF AN APARTMENT HOUSE" TRANS="квартира">apartment</W>, 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">old</W> 
-<W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=", " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W>, 
+<W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=", " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W>, 
 <W DOM="10" FEAT="V ING" HYPOT="descr-modif.01" ID="11" KSNAME="BOW2" LEMMA="BOW" LINK="descr-modif" PAFT=" ">bowing</W> 
 <W DOM="11" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="V ING" HYPOT="coord-conj.10" ID="13" KSNAME="SMILE2" LEMMA="SMILE" LINK="coord-conj" PAFT=", " UNL="smile(icl&gt;do,agt&gt;person,obj&gt;thing)" DEF="TO CHANGE FACIAL EXPRESSION BY SPREADING THE LIPS" TRANS="улыбаться">smiling</W>, 
@@ -1809,7 +1809,7 @@
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="LAP1" LEMMA="LAP" LINK="prepos" MSNAME="LAP1" PAFT=", " UNL="lap(icl&gt;thigh&gt;thing)" DEF="THE UPPER SIDE OF THE THIGHS OF A SEATED PERSON" TRANS="колени">lap</W>, 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="coordin.05" ID="12" KSNAME="BE" LEMMA="BE" LINK="coordin" PAFT=" ">was</W> 
 <W DOM="12" FEAT="ADV" HYPOT="adverb.01" ID="13" KSNAME="UTTERLY" LEMMA="UTTERLY" LINK="adverb" PAFT=" " UNL="utterly(icl&gt;how,equ&gt;absolutely,com&gt;utter)" DEF="COMPLETELY AND WITHOUT QUALIFICATION" TRANS="крайне">utterly</W> 
-<W DOM="12" FEAT="A" HYPOT="copulat.11" ID="14" KSNAME="IMPERSONAL" LEMMA="IMPERSONAL" LINK="copulat" PAFT=". " UNL="impersonal(icl&gt;adj)" DEF="">impersonal</W>. 
+<W DOM="12" FEAT="A" HYPOT="copulat.11" ID="14" KSNAME="IMPERSONAL" LEMMA="IMPERSONAL" LINK="copulat" PAFT=". " UNL="impersonal(icl&gt;adj)" DEF="HAVING NO PERSONAL PREFERENCE" TRANS="беспристрастный">impersonal</W>. 
 </S>
 <S DATE="30 11 2010 10:43:25" ID="131" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-p12.tgt;131" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">She</W> 
@@ -2193,7 +2193,7 @@
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="IMPORTANCE" LEMMA="IMPORTANCE" LINK="prepos" PAFT=", " UNL="importance(icl&gt;standing&gt;thing)" DEF="A PROMINENT STATUS" TRANS="значимость,важность">importance</W>, 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">old</W> 
-<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="WHISPER1" LEMMA="WHISPER" PAFT=" " UNL="whisper(icl&gt;speak&gt;do,agt&gt;person,obj&gt;abstract_thing,rec&gt;person)" DEF="" TRANS="шептать">whispered</W> 
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="CONFIDENTIALLY" LEMMA="CONFIDENTIALLY" LINK="adverb" PAFT=". " UNL="confidentially(icl&gt;how,com&gt;confidential)" DEF="IN A CONFIDENTIAL MANNER" TRANS="конфиденциально">confidentially</W>. 
 </S>
@@ -2291,7 +2291,7 @@
 <W DOM="8" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="WOMAN" LEMMA="WOMAN" LINK="predic" PAFT=" ">women</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="8" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">were</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="copulat.10" ID="10" KSNAME="ITALIAN2" LEMMA="ITALIAN" LINK="copulat" PAFT=", " UNL="italian(icl&gt;european&gt;thing)" DEF="">Italians</W>, 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="copulat.10" ID="10" KSNAME="ITALIAN2" LEMMA="ITALIAN" LINK="copulat" PAFT=", " UNL="italian(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF ITALY" TRANS="итальянец">Italians</W>, 
 <W DOM="13" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="TOO2" LEMMA="TOO" LINK="adverb" PAFT=", " UNL="too(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="тоже">too</W>, 
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="13" KSNAME="THINK" LEMMA="THINK" LINK="sent-coordin" PAFT=". ">thought</W>. 

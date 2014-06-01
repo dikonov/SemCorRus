@@ -172,7 +172,7 @@
 <W DOM="5" FEAT="A" GRP="4,5" HYPOT="modif.01" ID="4" KSNAME="PHYSICAL" LEMMA="PHYSICAL" LINK="modif" PAFT=" ">physical</W> 
 <W DOM="1" FEAT="S PL" GRP="4,5" HYPOT="1-compl.01" ID="5" KSNAME="ABILITY" LEMMA="ABILITY" LINK="1-compl" PAFT=" ">abilities</W> 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="6" KSNAME="ALREADY" LEMMA="ALREADY" LINK="restr" PAFT=" " UNL="already(icl&gt;how,ant&gt;not_yet)" DEF="PRIOR TO A SPECIFIED OR IMPLIED TIME" TRANS="уже">already</W> 
-<W DOM="1" FEAT="V PP" HYPOT="obj-copr.12" ID="7" KSNAME="DETERIORATE" LEMMA="DETERIORATE" LINK="obj-copr" PAFT=" " UNL="deteriorate(icl&gt;worsen&gt;occur,equ&gt;devolve,obj&gt;thing)" DEF="">deteriorated</W> 
+<W DOM="1" FEAT="V PP" HYPOT="obj-copr.12" ID="7" KSNAME="DETERIORATE" LEMMA="DETERIORATE" LINK="obj-copr" PAFT=" " UNL="deteriorate(icl&gt;worsen&gt;occur,equ&gt;devolve,obj&gt;thing)" DEF="GROW WORSE" TRANS="ухудшаться">deteriorated</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="BECAUSE$OF" LEMMA="BECAUSE OF" LINK="adverb" PAFT=" ">because of</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="ADV COMP" HYPOT="restr.12" ID="10" KSNAME="MORE" LEMMA="MORE" LINK="restr" PAFT=" ">more</W> 
@@ -546,7 +546,7 @@
 <W DOM="11" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">In</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="4" FEAT="S SG" HYPOT="compos.01" ID="3" KSNAME="BOOK1" LEMMA="BOOK" LINK="compos" PAFT=" ">book</W> 
-<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="REVIEW1" LEMMA="REVIEW" LINK="prepos" PAFT=" " UNL="review(icl&gt;action,agt&gt;thing,obj&gt;thing)" DEF="">review</W> 
+<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="REVIEW1" LEMMA="REVIEW" LINK="prepos" PAFT=" " UNL="review(icl&gt;action,agt&gt;thing,obj&gt;thing)" DEF="" TRANS="пересмотр">review</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" &quot;">of</W> 
 "<W DOM="9" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="ART" GRP="6,7,8,9" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="9" EXTRAFEAT="CAP IN-QUOT" FEAT="A" GRP="6,7,8,9" HYPOT="modif.01" ID="7" KSNAME="SOVIET1" LEMMA="SOVIET" LINK="modif" PAFT=" ">Soviet</W> 
@@ -1029,7 +1029,7 @@
 </S>
 <S DATE="29 11 2010 20:29:54" ID="41" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g22.tgt;41" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="SERVE2" LEMMA="SERVE" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serves</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="SERVE2" LEMMA="SERVE" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serves</W> 
 <W DOM="6" FEAT="ADV" HYPOT="restr.11" ID="3" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;entirely)" DEF="WITHOUT ANY OTHERS BEING INCLUDED OR INVOLVED" TRANS="только">only</W> 
 <W DOM="5" FEAT="A" HYPOT="determ.00" ID="4" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="OWN1" LEMMA="OWN" LINK="modif" PAFT=" ">own</W> 
@@ -1246,7 +1246,7 @@
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="adverb.07" ID="13" KSNAME="HAVE" LEMMA="HAVE" LINK="adverb" PAFT=" ">has</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="GREAT" LEMMA="GREAT" LINK="modif" PAFT=" ">great</W> 
-<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="STAKE1" LEMMA="STAKE" LINK="1-compl" PAFT=" " UNL="stake(icl&gt;share&gt;thing,equ&gt;interest)" DEF="">stake</W> 
+<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="STAKE1" LEMMA="STAKE" LINK="1-compl" PAFT=" " UNL="stake(icl&gt;share&gt;thing,equ&gt;interest)" DEF="(LAW) A RIGHT OR LEGAL SHARE OF SOMETHING" TRANS="доля">stake</W> 
 <W DOM="16" FEAT="PR" HYPOT="attrib.01" ID="17" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="CONTINUITY" LEMMA="CONTINUITY" LINK="prepos" PAFT=" " UNL="continuity(icl&gt;coherence&gt;thing,ant&gt;discontinuity)" DEF="UNINTERRUPTED CONNECTION OR UNION" TRANS="непрерывность">continuity</W> 
@@ -1925,7 +1925,7 @@
 <W DOM="6" FEAT="ADV" HYPOT="restr.10" ID="7" KSNAME="NOT" LEMMA="NOT" LINK="restr" NODETYPE="FANTOM" PAFT=" "/>
 <W DOM="6" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="HOPE1" LEMMA="HOPE" LINK="1-compl" PAFT=" ">hope</W> 
 <W DOM="8" FEAT="PART" HYPOT="1-compl.15" ID="9" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serve</W> 
+<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serve</W> 
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="HERE" LEMMA="HERE" LINK="adverb" PAFT="-">here</W>- 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="10" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="JUDGEMENT" LEMMA="JUDGEMENT" LINK="1-compl" PAFT=" ">judgment</W> 

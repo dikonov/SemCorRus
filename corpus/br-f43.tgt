@@ -134,7 +134,7 @@
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="GREAT" LEMMA="GREAT" LINK="modif" PAFT=" " UNL="great(icl&gt;adj,equ&gt;outstanding,com&gt;importance)" DEF="OF MAJOR SIGNIFICANCE OR IMPORTANCE" TRANS="великий">great</W> 
 <W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="11" KSNAME="WAVE1" LEMMA="WAVE" LINK="predic" PAFT=" ">wave</W> 
-<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="12" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="coord-conj" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatens</W> 
+<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="12" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="coord-conj" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatens</W> 
 <W DOM="12" FEAT="PART" HYPOT="adverb.11" ID="13" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="13" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="14" KSNAME="BREAK1" LEMMA="BREAK" LINK="prepos" PAFT=" ">break</W> 
 <W DOM="14" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="OVER1" LEMMA="OVER" LINK="adverb" PAFT=" ">over</W> 
@@ -658,7 +658,7 @@
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="EYE1" LEMMA="EYE" LINK="predic" PAFT=" ">eye</W> 
 <W DOM="8" FEAT="S SG" HYPOT="attrib.11" ID="9" KSNAME="ITSELF" LEMMA="ITSELF" LINK="attrib" PAFT=" ">itself</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="10" KSNAME="ENDOW" LEMMA="ENDOW" PAFT=" " UNL="endow(icl&gt;enable&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="">endows</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="10" KSNAME="ENDOW" LEMMA="ENDOW" PAFT=" " UNL="endow(icl&gt;enable&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="GIVE QUALITIES OR ABILITIES TO" TRANS="наделять">endows</W> 
 <W DOM="10" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="11" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=" ">them</W> 
 <W DOM="11" FEAT="PR" HYPOT="attrib.01" ID="12" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1932,7 +1932,7 @@
 <W DOM="13" FEAT="S NOM PL" HYPOT="predic.01" ID="12" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="22" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="13" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">were</W> 
 <W DOM="15" FEAT="ADV" HYPOT="restr.11" ID="14" KSNAME="STILL1" LEMMA="STILL" LINK="restr" PAFT=" " UNL="still(icl&gt;how,com&gt;duration)" DEF="WITHOUT CHANGE OR INTERRUPTION" TRANS="по-прежнему">still</W> 
-<W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="CHEAP" LEMMA="CHEAP" LINK="modif" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="">cheap</W> 
+<W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="CHEAP" LEMMA="CHEAP" LINK="modif" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="RELATIVELY LOW IN PRICE OR CHARGING LOW PRICES" TRANS="дешевый">cheap</W> 
 <W DOM="17" FEAT="S SG" HYPOT="compos.02" ID="16" KSNAME="ENTERTAINMENT" LEMMA="ENTERTAINMENT" LINK="compos" PAFT=" " UNL="entertainment(icl&gt;diversion&gt;thing)" DEF="AN ACTIVITY THAT IS DIVERTING AND THAT HOLDS THE ATTENTION" TRANS="развлечение">entertainment</W> 
 <W DOM="13" FEAT="A" HYPOT="copulat.11" ID="17" KSNAME="CAPABLE" LEMMA="CAPABLE" LINK="copulat" PAFT=" ">capable</W> 
 <W DOM="22" FEAT="PR" ID="18" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 

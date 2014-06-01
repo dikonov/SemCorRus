@@ -817,7 +817,7 @@
 </S>
 <S DATE="29 11 2010 20:34:40" ID="25" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_38\\br-d05.tgt;25" STATUS="doubt">
 <W DOM="2" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FRM-PROP" LEMMA="EMERSON" LINK="predic" PAFT=" ">Emerson</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="EVADE" LEMMA="EVADE" PAFT=" " UNL="evade(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="">evaded</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="EVADE" LEMMA="EVADE" PAFT=" " UNL="evade(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="AVOID OR TRY TO AVOID FULFILLING, ANSWERING, OR PERFORMING (DUTIES, QUESTIONS, OR ISSUES)" TRANS="уклоняться">evaded</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="PROBLEM" LEMMA="PROBLEM" LINK="1-compl" PAFT=" ">problem</W> 
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
@@ -1817,7 +1817,7 @@
 <W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="10" KSNAME="KNOW" LEMMA="KNOW" LINK="1-compl" PAFT=" ">know</W> 
 <W DOM="1" FEAT="CONJ" ID="11" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="13" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;convey&gt;do,equ&gt;mean,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="13" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;convey&gt;do,equ&gt;mean,agt&gt;person,obj&gt;uw,met&gt;thing)" DEF="TO WANT SOMETHING TO HAVE A PARTICULAR MEANING" TRANS="подразумевать">intended</W> 
 <W DOM="10" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="14" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=": &quot;">them</W>: 
 "<W DOM="1" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="ADV" ID="15" KSNAME="EVEN1" LEMMA="EVEN" LINK="fictit" PAFT=" ">Even</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -2220,7 +2220,7 @@
 <W DOM="30" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="29,30,31" HYPOT="appos.03" ID="31" KSNAME="SCHOOL1" LEMMA="SCHOOL" LINK="appos" PAFT=" ">School</W> 
 <W DOM="33" FEAT="S NOM SG" HYPOT="predic.01" ID="32" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="31" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="33" KSNAME="WOULD" LEMMA="WOULD" LINK="relat" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="33" FEAT="V MF" HYPOT="analyt.13" ID="34" KSNAME="MUSTER2" LEMMA="MUSTER" LINK="analyt" PAFT=" " UNL="muster(icl&gt;gather&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">muster</W> 
+<W DOM="33" FEAT="V MF" HYPOT="analyt.13" ID="34" KSNAME="MUSTER2" LEMMA="MUSTER" LINK="analyt" PAFT=" " UNL="muster(icl&gt;gather&gt;do,agt&gt;thing,obj&gt;thing)" DEF="GATHER OR BRING TOGETHER" TRANS="собирать">muster</W> 
 <W DOM="36" FEAT="ART" HYPOT="determ.11" ID="35" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="34" FEAT="S SG" HYPOT="1-compl.01" ID="36" KSNAME="AUDACITY" LEMMA="AUDACITY" LINK="1-compl" PAFT=" ">audacity</W> 
 <W DOM="34" FEAT="PART" HYPOT="adverb.11" ID="37" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 

@@ -675,7 +675,7 @@
 <W DOM="28" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="33" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="33" FEAT="PART" HYPOT="1-compl.15" ID="34" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="34" FEAT="V MF" HYPOT="prepos.16" ID="35" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
-<W DOM="35" FEAT="V PP" HYPOT="pass-anal.10" ID="36" KSNAME="RETRACT" LEMMA="RETRACT" LINK="pass-anal" PAFT=". " UNL="retract(icl&gt;renounce&gt;do,equ&gt;abjure,agt&gt;volitional_thing,obj&gt;thing)" DEF="">retracted</W>. 
+<W DOM="35" FEAT="V PP" HYPOT="pass-anal.10" ID="36" KSNAME="RETRACT" LEMMA="RETRACT" LINK="pass-anal" PAFT=". " UNL="retract(icl&gt;renounce&gt;do,equ&gt;abjure,agt&gt;volitional_thing,obj&gt;thing)" DEF="FORMALLY REJECT OR DISAVOW A FORMERLY HELD BELIEF, USUALLY UNDER PRESSURE" TRANS="отказываться">retracted</W>. 
 </S>
 <S DATE="30 11 2010 10:50:12" ID="32" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_47\\br-j27.tgt;32" STATUS="doubt">
 <W DOM="4" EXTRAFEAT="CAP" FEAT="PR" GRP="1,2" HYPOT="adverb.02" ID="1" KSNAME="AFTER1" LEMMA="AFTER" LINK="adverb" PAFT=" ">After</W> 
@@ -1127,7 +1127,7 @@
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="subord-conj.10" ID="3" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">are</W> 
 <W DOM="3" FEAT="A" HYPOT="copulat.11" ID="4" KSNAME="ALL1" LEMMA="ALL" LINK="copulat" PAFT=" ">all</W> 
 <W DOM="3" FEAT="A" HYPOT="subj-copr.10" ID="5" KSNAME="EITHER1" LEMMA="EITHER" LINK="subj-copr" PAFT=" ">either</W> 
-<W DOM="11" FEAT="V PP" HYPOT="descr-modif.01" ID="6" KSNAME="RENT2" LEMMA="RENT" LINK="descr-modif" PAFT=" " UNL="rent(icl&gt;get&gt;do,equ&gt;lease,agt&gt;thing,obj&gt;thing)" DEF="">rented</W> 
+<W DOM="11" FEAT="V PP" HYPOT="descr-modif.01" ID="6" KSNAME="RENT2" LEMMA="RENT" LINK="descr-modif" PAFT=" " UNL="rent(icl&gt;get&gt;do,equ&gt;lease,agt&gt;thing,obj&gt;thing)" DEF="ENGAGE FOR SERVICE UNDER A TERM OF CONTRACT" TRANS="снимать,арендовать">rented</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="7" FEAT="V PP" HYPOT="coord-conj.10" ID="8" KSNAME="BORROW1" LEMMA="BORROW" LINK="coord-conj" PAFT=", " UNL="borrow(icl&gt;take&gt;do,agt&gt;person,obj&gt;thing,cag&gt;person,pur&gt;thing)" DEF="TAKE TEMPORARILY" TRANS="одалживать">borrowed</W>, 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

@@ -123,7 +123,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="13" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="13" FEAT="A" HYPOT="copulat.11" ID="14" KSNAME="EXCELLENT" LEMMA="EXCELLENT" LINK="copulat" PAFT=" " UNL="excellent(icl&gt;adj)" DEF="OF THE HIGHEST QUALITY" TRANS="превосходный">excellent</W> 
 <W DOM="14" FEAT="PR" HYPOT="attrib.02" ID="15" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
-<W DOM="15" FEAT="V ING" HYPOT="prepos.01" ID="16" KSNAME="ORIENT1" LEMMA="ORIENT" LINK="prepos" PAFT=" " UNL="orient(icl&gt;decide&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing,scn&gt;thing)" DEF="">orienting</W> 
+<W DOM="15" FEAT="V ING" HYPOT="prepos.01" ID="16" KSNAME="ORIENT1" LEMMA="ORIENT" LINK="prepos" PAFT=" " UNL="orient(icl&gt;decide&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing,scn&gt;thing)" DEF="DETERMINE ONE'S POSITION WITH REFERENCE TO ANOTHER POINT" TRANS="ориентироваться">orienting</W> 
 <W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="17" KSNAME="YOURSELF" LEMMA="YOURSELF" LINK="1-compl" PAFT=" ">yourself</W> 
 <W DOM="16" FEAT="PR" HYPOT="2-compl.02" ID="18" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1840,7 +1840,7 @@
 <S DATE="29 11 2010 20:00:58" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="86" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e21.tgt;86" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="CHECK2" LEMMA="CHECK" PAFT=" " UNL="check(icl&gt;appraisal&gt;thing,equ&gt;assay)" DEF="AN APPRAISAL OF THE STATE OF AFFAIRS" TRANS="проверка">Check</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="1" FEAT="S SG" ID="3" KSNAME="ELEVATION" LEMMA="ELEVATION" LINK="fictit" PAFT=" " UNL="elevation(icl&gt;angular_position&gt;thing)" DEF="">elevation</W> 
+<W DOM="1" FEAT="S SG" ID="3" KSNAME="ELEVATION" LEMMA="ELEVATION" LINK="fictit" PAFT=" " UNL="elevation(icl&gt;angular_position&gt;thing)" DEF="ANGULAR DISTANCE ABOVE THE HORIZON (ESPECIALLY OF A CELESTIAL OBJECT)" TRANS="высота">elevation</W> 
 <W DOM="3" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="GROUND1" LEMMA="GROUND" LINK="prepos" PAFT=", ">ground</W>, 

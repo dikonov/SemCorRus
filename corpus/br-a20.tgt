@@ -355,7 +355,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="restr.11" ID="1" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" ">Only</W> 
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="S SG" ID="2" KSNAME="MISS2" LEMMA="MISS" PAFT=" ">Miss</W> 
 <W DOM="2" EXTRAFEAT="CAP CAPIT" FEAT="INTJ" HYPOT="appos.03" ID="3" KSNAME="GEE1" LEMMA="GEE" LINK="appos" MSNAME="GEE1" PAFT=" ">Gee</W> 
-<W DOM="2" FEAT="V PP" HYPOT="modif.01" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="2" FEAT="V PP" HYPOT="modif.01" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="2" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BAIL1" LEMMA="BAIL" LINK="prepos" PAFT=". ">bail</W>. 
 </S>
@@ -852,7 +852,7 @@
 <W DOM="28" FEAT="V PP" HYPOT="pass-anal.10" ID="29" KSNAME="IMPOSE" LEMMA="IMPOSE" LINK="pass-anal" PAFT=" ">imposed</W> 
 <W DOM="29" FEAT="PR" HYPOT="adverb.02" ID="30" KSNAME="AFTER1" LEMMA="AFTER" LINK="adverb" PAFT=" ">after</W> 
 <W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="FRM-PROP" LEMMA="FUCHS" LINK="prepos" PAFT=" ">Fuchs</W> 
-<W DOM="31" FEAT="V PP" HYPOT="modif.01" ID="32" KSNAME="BLAB2" LEMMA="BLAB" LINK="modif" PAFT=". " UNL="blab(icl&gt;unwrap&gt;do,equ&gt;spill_the_beans,agt&gt;volitional_thing,obj&gt;uw)" DEF="">blabbed</W>. 
+<W DOM="31" FEAT="V PP" HYPOT="modif.01" ID="32" KSNAME="BLAB2" LEMMA="BLAB" LINK="modif" PAFT=". " UNL="blab(icl&gt;unwrap&gt;do,equ&gt;spill_the_beans,agt&gt;volitional_thing,obj&gt;uw)" DEF="DIVULGE CONFIDENTIAL INFORMATION OR SECRETS" TRANS="выбалтывать">blabbed</W>. 
 </S>
 <S DATE="30 11 2010 10:48:08" ID="36" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_29\\br-a20.tgt;36" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -2158,7 +2158,7 @@
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="AVENUE" LEMMA="AVENUE" LINK="prepos" PAFT=", ">avenue</W>, 
 <W DOM="10" FEAT="CONJ" GRP="16,17" HYPOT="coordin.13" ID="16" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="16" FEAT="ADV" GRP="16,17" HYPOT="parenth.00" ID="17" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
-<W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="18" KSNAME="VIOLATE" LEMMA="VIOLATE" LINK="coord-conj" PAFT=" " UNL="violate(icl&gt;disrespect&gt;do,equ&gt;transgress,agt&gt;thing,obj&gt;thing)" DEF="">violated</W> 
+<W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="18" KSNAME="VIOLATE" LEMMA="VIOLATE" LINK="coord-conj" PAFT=" " UNL="violate(icl&gt;disrespect&gt;do,equ&gt;transgress,agt&gt;thing,obj&gt;thing)" DEF="ACT IN DISREGARD OF LAWS, RULES, CONTRACTS, OR PROMISES" TRANS="нарушать">violated</W> 
 <W DOM="21" FEAT="NUM" HYPOT="quantit.10" ID="19" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
 <W DOM="21" FEAT="S SG" HYPOT="compos.01" ID="20" KSNAME="STOP1" LEMMA="STOP" LINK="compos" PAFT=" ">stop</W> 
 <W DOM="18" FEAT="S PL" HYPOT="1-compl.01" ID="21" KSNAME="LIGHTS" LEMMA="LIGHTS" LINK="1-compl" PAFT=" ">lights</W> 

@@ -601,7 +601,7 @@
 <W DOM="16" FEAT="ADV" HYPOT="parenth.16" ID="15" KSNAME="THEREFORE" LEMMA="THEREFORE" LINK="parenth" PAFT=", " UNL="therefore(icl&gt;how)" DEF="(USED TO INTRODUCE A LOGICAL CONCLUSION) FROM THAT FACT OR REASON OR AS A RESULT" TRANS="следовательно,поэтому">therefore</W>, 
 <W DOM="17" FEAT="ADV" HYPOT="restr.11" ID="16" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;entirely)" DEF="WITHOUT ANY OTHERS BEING INCLUDED OR INVOLVED" TRANS="только">only</W> 
 <W DOM="24" FEAT="PR" HYPOT="adverb.02" ID="17" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
-<W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="PRECISE1" LEMMA="PRECISE" LINK="modif" PAFT=" " UNL="precise(icl&gt;adj,equ&gt;accurate)" DEF="">precise</W> 
+<W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="PRECISE1" LEMMA="PRECISE" LINK="modif" PAFT=" " UNL="precise(icl&gt;adj,equ&gt;accurate)" DEF="(OF IDEAS, IMAGES, REPRESENTATIONS, EXPRESSIONS) CHARACTERIZED BY PERFECT CONFORMITY TO FACT OR TRUTH" TRANS="точный">precise</W> 
 <W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="FOREKNOWLEDGE" LEMMA="FOREKNOWLEDGE" LINK="prepos" PAFT=" " UNL="foreknowledge(icl&gt;clairvoyance&gt;thing,equ&gt;precognition)" DEF="KNOWLEDGE OF AN EVENT BEFORE IT OCCURS" TRANS="предвидение">foreknowledge</W> 
 <W DOM="19" FEAT="PR" HYPOT="attrib.01" ID="20" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1574,7 +1574,7 @@
 <W DOM="30" FEAT="PR" HYPOT="attrib.01" ID="31" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="31" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="VISCOSITY" LEMMA="VISCOSITY" LINK="prepos" PAFT=", " UNL="viscosity(icl&gt;consistency&gt;thing)" DEF="RESISTANCE OF A LIQUID TO SHEER FORCES (AND HENCE TO FLOW)" TRANS="вязкость">viscosity</W>, 
 <W DOM="34" FEAT="A" HYPOT="modif.01" ID="33" KSNAME="THERMAL" LEMMA="THERMAL" LINK="modif" PAFT=" " UNL="thermal(icl&gt;adj,ant&gt;nonthermal,com&gt;heat)" DEF="RELATING TO OR ASSOCIATED WITH HEAT" TRANS="тепловой,термальный">thermal</W> 
-<W DOM="32" FEAT="S SG" HYPOT="coordin.01" ID="34" KSNAME="CONDUCTIVITY" LEMMA="CONDUCTIVITY" LINK="coordin" PAFT=", " UNL="conductivity(icl&gt;physical_phenomenon&gt;thing,equ&gt;conduction)" DEF="">conductivity</W>, 
+<W DOM="32" FEAT="S SG" HYPOT="coordin.01" ID="34" KSNAME="CONDUCTIVITY" LEMMA="CONDUCTIVITY" LINK="coordin" PAFT=", " UNL="conductivity(icl&gt;physical_phenomenon&gt;thing,equ&gt;conduction)" DEF="THE TRANSMISSION OF HEAT OR ELECTRICITY OR SOUND" TRANS="проводимость">conductivity</W>, 
 <W DOM="36" FEAT="A" HYPOT="modif.01" ID="35" KSNAME="THERMAL" LEMMA="THERMAL" LINK="modif" PAFT=" " UNL="thermal(icl&gt;adj,ant&gt;nonthermal,com&gt;heat)" DEF="RELATING TO OR ASSOCIATED WITH HEAT" TRANS="тепловой,термальный">thermal</W> 
 <W DOM="39" FEAT="S SG" HYPOT="compos.01" ID="36" KSNAME="DIFFUSION" LEMMA="DIFFUSION" LINK="compos" PAFT=", " UNL="diffusion(icl&gt;natural_process&gt;thing)" DEF="(PHYSICS) THE PROCESS OF DIFFUSING" TRANS="диффузия">diffusion</W>, 
 <W DOM="36" FEAT="CONJ" HYPOT="coordin.10" ID="37" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 

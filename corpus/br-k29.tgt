@@ -692,7 +692,7 @@
 <W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="21" KSNAME="KNOW" LEMMA="KNOW" LINK="subord-conj" PAFT=" " UNL="know(icl&gt;be,equ&gt;cognise,obj&gt;uw,cao&gt;thing,aoj&gt;volitional_thing)" DEF="BE AWARE OF A FACT OR A SPECIFIC PIECE OF INFORMATION" TRANS="знать">knew</W> 
 <W DOM="2" FEAT="CONJ" ID="22" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="24" FEAT="ADV" HYPOT="restr.11" ID="23" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;entirely)" DEF="WITHOUT ANY OTHERS BEING INCLUDED OR INVOLVED" TRANS="только">only</W> 
-<W DOM="25" FEAT="S SG" HYPOT="predic.01" ID="24" KSNAME="TORMENT1" LEMMA="TORMENT" LINK="predic" PAFT=" " UNL="torment(icl&gt;suffering&gt;thing,equ&gt;agony)" DEF="">torment</W> 
+<W DOM="25" FEAT="S SG" HYPOT="predic.01" ID="24" KSNAME="TORMENT1" LEMMA="TORMENT" LINK="predic" PAFT=" " UNL="torment(icl&gt;suffering&gt;thing,equ&gt;agony)" DEF="INTENSE FEELINGS OF SUFFERING" TRANS="терзание">torment</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="25" KSNAME="WOULD" LEMMA="WOULD" LINK="coord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="27" FEAT="ADV" HYPOT="restr.11" ID="26" KSNAME="EVER" LEMMA="EVER" LINK="restr" PAFT=" ">ever</W> 
 <W DOM="25" FEAT="V MF" HYPOT="analyt.13" ID="27" KSNAME="BRING" LEMMA="BRING" LINK="analyt" PAFT=" ">bring</W> 
@@ -700,7 +700,7 @@
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="27" FEAT="S SG" HYPOT="1-compl.01" ID="30" KSNAME="COURAGE" LEMMA="COURAGE" LINK="1-compl" PAFT=" " UNL="courage(icl&gt;spirit&gt;thing,ant&gt;cowardice)" DEF="A QUALITY OF SPIRIT THAT ENABLES YOU TO FACE DANGER OR PAIN WITHOUT SHOWING FEAR" TRANS="мужество">courage</W> 
 <W DOM="27" FEAT="PART" HYPOT="adverb.11" ID="31" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="31" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="32" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="31" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="32" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="25" FEAT="PART" HYPOT="adverb.11" ID="33" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="33" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="34" KSNAME="SEE1" LEMMA="SEE" LINK="prepos" PAFT=" ">see</W> 
 <W DOM="2" FEAT="A" ID="35" KSNAME="HER" LEMMA="HER" LINK="fictit" MSNAME="HER" PAFT=" ">her</W> 
@@ -731,7 +731,7 @@
 <W DOM="5" FEAT="S SG" HYPOT="2-compl.10" ID="9" KSNAME="FRM-PROP" LEMMA="HALLOWEEN" LINK="2-compl" PAFT=" ">Halloween</W> 
 <W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="PARTY" LEMMA="PARTY" LINK="1-compl" MSNAME="PARTY" PAFT=", ">party</W>, 
 <W DOM="12" FEAT="S NOM SG" HYPOT="predic.01" ID="11" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">she</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="12" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="12" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="2-compl.16" ID="13" KSNAME="THAT1" LEMMA="THAT" LINK="2-compl" PAFT=" ">that</W> 
 <W DOM="15" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="14" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="13" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="15" KSNAME="COME" LEMMA="COME" LINK="subord-conj" PAFT=" " UNL="come(icl&gt;move&gt;do,plt&gt;place,agt&gt;person)" DEF="TRAVEL TOWARD SOMETHING OR SOMEBODY" TRANS="идти">come</W> 
@@ -1023,7 +1023,7 @@
 <W DOM="21" FEAT="A COMP" HYPOT="modif.01" ID="20" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">older</W> 
 <W DOM="19" FEAT="S PL" HYPOT="prepos.01" ID="21" KSNAME="BOY" LEMMA="BOY" LINK="prepos" PAFT=", " UNL="boy(icl&gt;child&gt;person,ant&gt;girl)" DEF="A YOUNG MALE PERSON" TRANS="мальчик">boys</W>, 
 <W DOM="23" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="22" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="23" KSNAME="ASK1" LEMMA="ASK" LINK="subord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="23" KSNAME="ASK1" LEMMA="ASK" LINK="subord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="23" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="FRM-PROP" LEMMA="JESSIE" LINK="1-compl" PAFT=" ">Jessie</W> 
 <W DOM="23" FEAT="PART" HYPOT="2-compl.12" ID="25" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="25" FEAT="V MF" HYPOT="prepos.16" ID="26" KSNAME="SPEND" LEMMA="SPEND" LINK="prepos" PAFT=" " UNL="spend(icl&gt;pass&gt;do,com&gt;time,cob&gt;thing,agt&gt;person,obj&gt;abstract_thing)" DEF="PASS TIME" TRANS="проводить">spend</W> 
@@ -1087,7 +1087,7 @@
 <S DATE="29 11 2010 20:06:57" ID="34" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-k29.tgt;34" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">She</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="">terribly</W> 
+<W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="USED AS INTENSIFIERS" TRANS="очень,ужасно,страшно">terribly</W> 
 <W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="PLEASE" LEMMA="PLEASE" LINK="pass-anal" PAFT=". ">pleased</W>. 
 </S>
 <S DATE="29 11 2010 20:06:57" ID="35" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-k29.tgt;35" STATUS="doubt">
@@ -1224,7 +1224,7 @@
 <W DOM="1" FEAT="CONJ" HYPOT="sent-coordin.10" ID="11" KSNAME="OR" LEMMA="OR" LINK="sent-coordin" PAFT=" ">or</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="12" KSNAME="SHOULD" LEMMA="SHOULD" LINK="coord-conj" MSNAME="SHOULD" PAFT=" ">should</W> 
 <W DOM="12" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.07" ID="13" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="14" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="14" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="14" FEAT="PART" HYPOT="2-compl.12" ID="15" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="15" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
 <W DOM="16" FEAT="V PP" HYPOT="pass-anal.10" ID="17" KSNAME="INVITE" LEMMA="INVITE" LINK="pass-anal" PAFT=" ">invited</W> 
@@ -1560,7 +1560,7 @@
 <W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="relat.01" ID="31" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">was</W> 
 <W DOM="31" FEAT="V ING" HYPOT="analyt.11" ID="32" KSNAME="CARRY" LEMMA="CARRY" LINK="analyt" PAFT=" " UNL="carry(icl&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing,opl&gt;thing)" DEF="MOVE WHILE HOLDING IN ONE'S ARMS OR ON THE BACK" TRANS="нести">carrying</W> 
 <W DOM="34" FEAT="A" HYPOT="determ.13" ID="33" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
-<W DOM="32" FEAT="S PL" HYPOT="1-compl.01" ID="34" KSNAME="PACK1" LEMMA="PACK" LINK="1-compl" PAFT=" " UNL="pack(icl&gt;large_indefinite_quantity&gt;thing,equ&gt;battalion)" DEF="">packs</W> 
+<W DOM="32" FEAT="S PL" HYPOT="1-compl.01" ID="34" KSNAME="PACK1" LEMMA="PACK" LINK="1-compl" PAFT=" " UNL="pack(icl&gt;large_indefinite_quantity&gt;thing,equ&gt;battalion)" DEF="A LARGE INDEFINITE NUMBER" TRANS="множество">packs</W> 
 <W DOM="34" FEAT="PR" HYPOT="quasiagent.10" ID="35" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="35" FEAT="S PL" HYPOT="prepos.01" ID="36" KSNAME="PASSENGER" LEMMA="PASSENGER" LINK="prepos" PAFT=" " UNL="passenger(icl&gt;traveler&gt;thing)" DEF="A TRAVELER RIDING IN A VEHICLE (A BOAT OR BUS OR CAR OR PLANE OR TRAIN ETC) WHO IS NOT OPERATING IT" TRANS="пассажир">passengers</W> 
 <W DOM="32" FEAT="PR" HYPOT="2-compl.02" ID="37" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="2-compl" PAFT=" ">out of</W> 
@@ -1687,7 +1687,7 @@
 <W DOM="17" FEAT="S PL" HYPOT="predic.01" ID="16" KSNAME="REGULATION" LEMMA="REGULATION" LINK="predic" PAFT=" " UNL="regulation(icl&gt;rule&gt;thing)" DEF="AN AUTHORITATIVE RULE" TRANS="правило">regulations</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.31" ID="17" KSNAME="HAVE" LEMMA="HAVE" LINK="1-compl" PAFT=" ">had</W> 
 <W DOM="17" FEAT="V PP" HYPOT="analyt.12" ID="18" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="18" FEAT="V PP" HYPOT="pass-anal.10" ID="19" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="pass-anal" PAFT=", " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">instituted</W>, 
+<W DOM="18" FEAT="V PP" HYPOT="pass-anal.10" ID="19" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="pass-anal" PAFT=", " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ADVANCE OR SET FORTH IN COURT" TRANS="возбуждать">instituted</W>, 
 <W DOM="17" FEAT="CONJ" HYPOT="sent-coordin.10" ID="20" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="S SG" HYPOT="predic.01" ID="22" KSNAME="ATMOSPHERE" LEMMA="ATMOSPHERE" LINK="predic" PAFT=" " UNL="atmosphere(icl&gt;condition&gt;thing)" DEF="A PARTICULAR ENVIRONMENT OR SURROUNDING INFLUENCE" TRANS="атмосфера">atmosphere</W> 

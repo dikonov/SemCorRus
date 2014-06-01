@@ -34,7 +34,7 @@
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="REDUCTION" LEMMA="REDUCTION" LINK="predic" PAFT=" " UNL="reduction(icl&gt;change_of_magnitude&gt;thing,equ&gt;decrease,ant&gt;increase)" DEF="THE ACT OF DECREASING OR REDUCING SOMETHING" TRANS="сокращение,снижение">reduction</W> 
 <W DOM="3" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" FEAT="NID" HYPOT="prepos.01" ID="6" KSNAME="FICT-LEX" LEMMA="VOUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">voume</W> 
+<W DOM="4" FEAT="NID" HYPOT="prepos.01" ID="6" KSNAME="FICT-LEX" LEMMA="VOUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">voume</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="9" FEAT="S SG" HYPOT="compos.01" ID="8" KSNAME="STORE2" LEMMA="STORE" LINK="compos" PAFT=" " UNL="store(icl&gt;abstract_thing,equ&gt;stock,obj&gt;thing)" DEF="" TRANS="запас">store</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="INFORMATION" LEMMA="INFORMATION" LINK="prepos" PAFT=" " UNL="information(icl&gt;message&gt;thing)" DEF="A MESSAGE RECEIVED AND UNDERSTOOD" TRANS="информация">information</W> 
@@ -1129,7 +1129,7 @@
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="DICTIONARY" LEMMA="DICTIONARY" LINK="prepos" PAFT=" " UNL="dictionary(icl&gt;wordbook&gt;thing,obj&gt;thing)" DEF="A REFERENCE BOOK" TRANS="словарь">dictionary</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="7" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="7" FEAT="V PP" HYPOT="pass-anal.12" ID="8" KSNAME="LOOK1" LEMMA="LOOK" LINK="pass-anal" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="">looked</W> 
+<W DOM="7" FEAT="V PP" HYPOT="pass-anal.12" ID="8" KSNAME="LOOK1" LEMMA="LOOK" LINK="pass-anal" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться">looked</W> 
 <W DOM="8" FEAT="ADV" HYPOT="phras-junct.10" ID="9" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="8" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1250,7 +1250,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="DICTIONARY" LEMMA="DICTIONARY" LINK="compos" PAFT=" " UNL="dictionary(icl&gt;wordbook&gt;thing,obj&gt;thing)" DEF="A REFERENCE BOOK" TRANS="словарь">dictionary</W> 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="FORM1" LEMMA="FORM" LINK="predic" PAFT=" " UNL="form(icl&gt;word&gt;thing)" DEF="THE PHONOLOGICAL OR ORTHOGRAPHIC SOUND OR APPEARANCE OF A WORD THAT CAN BE USED TO DESCRIBE OR IDENTIFY SOMETHING" TRANS="форма">form</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="4" FEAT="V PP" HYPOT="pass-anal.12" ID="5" KSNAME="LOOK1" LEMMA="LOOK" LINK="pass-anal" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="">looked</W> 
+<W DOM="4" FEAT="V PP" HYPOT="pass-anal.12" ID="5" KSNAME="LOOK1" LEMMA="LOOK" LINK="pass-anal" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться">looked</W> 
 <W DOM="5" FEAT="ADV" HYPOT="phras-junct.10" ID="6" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="5" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1263,7 +1263,7 @@
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="METHOD" LEMMA="METHOD" LINK="prepos" PAFT=" " UNL="method(icl&gt;know-how&gt;thing)" DEF="A WAY OF DOING SOMETHING, ESPECIALLY A SYSTEMATIC WAY" TRANS="метод">method</W> 
 <W DOM="15" FEAT="V PP" HYPOT="modif.01" ID="16" KSNAME="USE2" LEMMA="USE" LINK="modif" PAFT=" ">used</W> 
 <W DOM="16" FEAT="PART" HYPOT="2-compl.12" ID="17" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
-<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="LOOK1" LEMMA="LOOK" LINK="prepos" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="">look</W> 
+<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="LOOK1" LEMMA="LOOK" LINK="prepos" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться">look</W> 
 <W DOM="18" FEAT="ADV" HYPOT="phras-junct.10" ID="19" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="20" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" " UNL="new(icl&gt;adj,ant&gt;old)" DEF="RECENTLY MADE" TRANS="новый">new</W> 
@@ -1889,9 +1889,9 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="A" HYPOT="predic.01" ID="2" KSNAME="FORMER2" LEMMA="FORMER" LINK="predic" PAFT=" " UNL="former(icl&gt;adj,equ&gt;former,ant&gt;latter)" DEF="REFERRING TO THE FIRST OF TWO THINGS OR PERSONS MENTIONED (OR THE EARLIER ONE OR ONES OF SEVERAL)" TRANS="предыдущий,предшествующий,предшествующи">former</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="3" FEAT="V PP" ID="4" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="3" FEAT="V PP" ID="4" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="4" FEAT="PART" HYPOT="adverb.11" ID="5" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="DECREASE2" LEMMA="DECREASE" LINK="prepos" PAFT=" " UNL="decrease(icl&gt;change&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing,val&gt;thing)" DEF="">decrease</W> 
+<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="DECREASE2" LEMMA="DECREASE" LINK="prepos" PAFT=" " UNL="decrease(icl&gt;change&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing,val&gt;thing)" DEF="MAKE SMALLER" TRANS="уменьшать">decrease</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="AMOUNT1" LEMMA="AMOUNT" LINK="1-compl" PAFT=" " UNL="amount(icl&gt;magnitude&gt;thing)" DEF="HOW MUCH OF SOMETHING IS AVAILABLE" TRANS="количество">amount</W> 
 <W DOM="8" FEAT="PR" HYPOT="quasiagent.10" ID="9" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -2202,6 +2202,6 @@
 <W DOM="25" FEAT="S SG" HYPOT="compos.01" ID="24" KSNAME="DICTIONARY" LEMMA="DICTIONARY" LINK="compos" PAFT=" " UNL="dictionary(icl&gt;wordbook&gt;thing,obj&gt;thing)" DEF="A REFERENCE BOOK" TRANS="словарь">dictionary</W> 
 <W DOM="23" FEAT="S PL" HYPOT="prepos.01" ID="25" KSNAME="OPERATION" LEMMA="OPERATION" LINK="prepos" PAFT=" " UNL="operation(icl&gt;data_processing&gt;thing)" DEF="(COMPUTER SCIENCE) DATA PROCESSING IN WHICH THE RESULT IS COMPLETELY SPECIFIED BY A RULE (ESPECIALLY THE PROCESSING THAT RESULTS FROM A SINGLE INSTRUCTION)" TRANS="операция">operations</W> 
 <W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="coord-conj.10" ID="26" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">is</W> 
-<W DOM="26" FEAT="V PP" HYPOT="pass-anal.10" ID="27" KSNAME="DECREASE2" LEMMA="DECREASE" LINK="pass-anal" PAFT=". " UNL="decrease(icl&gt;change&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing,val&gt;thing)" DEF="">decreased</W>. 
+<W DOM="26" FEAT="V PP" HYPOT="pass-anal.10" ID="27" KSNAME="DECREASE2" LEMMA="DECREASE" LINK="pass-anal" PAFT=". " UNL="decrease(icl&gt;change&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing,val&gt;thing)" DEF="MAKE SMALLER" TRANS="уменьшать">decreased</W>. 
 </S>
 </body>

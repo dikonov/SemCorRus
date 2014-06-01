@@ -1064,7 +1064,7 @@
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="ON1" LEMMA="ON" LINK="1-compl" PAFT=" ">on</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" EXTRAFEAT="CAP CAPIT" FEAT="S POSS PL" HYPOT="posses.01" ID="7" KSNAME="FALCON" LEMMA="FALCON" LINK="posses" PAFT="' ">Falcons'</W> 
-<W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="AERIAL2" LEMMA="AERIAL" LINK="modif" PAFT=" " UNL="aerial(icl&gt;adj,equ&gt;aeriform)" DEF="">aerial</W> 
+<W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="AERIAL2" LEMMA="AERIAL" LINK="modif" PAFT=" " UNL="aerial(icl&gt;adj,equ&gt;aeriform)" DEF="CHARACTERIZED BY LIGHTNESS AND INSUBSTANTIALITY" TRANS="воздушный">aerial</W> 
 <W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="THRUST1" LEMMA="THRUST" LINK="prepos" PAFT=" " UNL="thrust(icl&gt;propulsion&gt;thing,equ&gt;drive)" DEF="THE ACT OF APPLYING FORCE TO PROPEL SOMETHING" TRANS="тяга">thrusts</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.02" ID="10" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1918,7 +1918,7 @@
 <W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.10" ID="4" KSNAME="HIT1" LEMMA="HIT" LINK="analyt" PAFT=" " UNL="hit(icl&gt;arrive&gt;do,equ&gt;reach,plt&gt;thing,agt&gt;volitional_thing)" DEF="REACH A DESTINATION" TRANS="добираться">hit</W> 
 <W DOM="7" FEAT="NUM" HYPOT="quantit.10" ID="5" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="QUICK" LEMMA="QUICK" LINK="modif" PAFT=" ">quick</W> 
-<W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="STRIKE2" LEMMA="STRIKE" LINK="1-compl" PAFT=" " UNL="strike(icl&gt;attack&gt;thing)" DEF="">strikes</W> 
+<W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="STRIKE2" LEMMA="STRIKE" LINK="1-compl" PAFT=" " UNL="strike(icl&gt;attack&gt;do,agt&gt;thing,obj&gt;thing)" DEF="MAKE A STRATEGIC, OFFENSIVE, ASSAULT AGAINST AN ENEMY, OPPONENT, OR A TARGET" TRANS="нападать">strikes</W> 
 <W DOM="4" FEAT="PR" HYPOT="2-compl.02" ID="8" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="A" GRP="10,11" HYPOT="modif.01" ID="10" KSNAME="FINAL1" LEMMA="FINAL" LINK="modif" PAFT=" ">final</W> 

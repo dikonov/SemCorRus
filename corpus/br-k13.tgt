@@ -424,7 +424,7 @@
 <W DOM="24" FEAT="ADV" ID="7" KSNAME="OPENLY" LEMMA="OPENLY" LINK="fictit" PAFT=" " UNL="openly(icl&gt;how,com&gt;open)" DEF="IN AN OPEN WAY" TRANS="открыто">openly</W> 
 <W DOM="6" FEAT="A" HYPOT="coord-conj.10" ID="8" KSNAME="RUDE" LEMMA="RUDE" LINK="coord-conj" PAFT="-">rude</W>- 
 <W DOM="2" FEAT="CONJ" HYPOT="adverb.10" ID="9" KSNAME="UNLESS" LEMMA="UNLESS" LINK="adverb" PAFT=" ">unless</W> 
-<W DOM="9" FEAT="V ING" HYPOT="absol-conj.10" ID="10" KSNAME="ASK1" LEMMA="ASK" LINK="absol-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="9" FEAT="V ING" HYPOT="absol-conj.10" ID="10" KSNAME="ASK1" LEMMA="ASK" LINK="absol-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="FICT-PERS" LEMMA="HAROLD" LINK="1-compl" PAFT=" ">Harold</W> 
 <W DOM="10" FEAT="PART" HYPOT="2-compl.12" ID="12" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="12" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="MOVE1" LEMMA="MOVE" LINK="prepos" PAFT=" ">move</W> 
@@ -1335,9 +1335,9 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="7" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="SCANDALIZE" LEMMA="SCANDALIZE" LINK="pass-anal" PAFT=" " UNL="scandalize(icl&gt;disgust&gt;do,equ&gt;shock,agt&gt;volitional_thing,obj&gt;thing,met&gt;thing)" DEF="STRIKE WITH DISGUST OR REVULSION" TRANS="шокировать">scandalized</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="9" FEAT="V PP" HYPOT="coord-conj.10" ID="10" KSNAME="TICK2" LEMMA="TICK" LINK="coord-conj" PAFT=" " UNL="tick(icl&gt;sound&gt;occur,obj&gt;thing)" DEF="">ticked</W> 
+<W DOM="9" FEAT="V PP" HYPOT="coord-conj.10" ID="10" KSNAME="TICK2" LEMMA="TICK" LINK="coord-conj" PAFT=" " UNL="tick(icl&gt;sound&gt;occur,obj&gt;thing)" DEF="MAKE A SOUND LIKE A CLOCK OR A TIMER" TRANS="тикать">ticked</W> 
 <W DOM="12" FEAT="ADV" HYPOT="restr.12" ID="11" KSNAME="SO1" LEMMA="SO" LINK="restr" PAFT=" ">so</W> 
-<W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="LOUDLY" LEMMA="LOUDLY" LINK="adverb" PAFT=" " UNL="loudly(icl&gt;how,ant&gt;softly,com&gt;loud)" DEF="">loudly</W> 
+<W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="LOUDLY" LEMMA="LOUDLY" LINK="adverb" PAFT=" " UNL="loudly(icl&gt;how,ant&gt;softly,com&gt;loud)" DEF="WITH RELATIVELY HIGH VOLUME" TRANS="громко">loudly</W> 
 <W DOM="11" FEAT="CONJ" HYPOT="1-compl.23" ID="13" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="15" FEAT="S NOM SG" HYPOT="predic.01" ID="14" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="15" KSNAME="GLANCE2" LEMMA="GLANCE" LINK="subord-conj" PAFT=" ">glanced</W> 
@@ -1511,7 +1511,7 @@
 <W DOM="26" FEAT="S" HYPOT="prepos.01" ID="27" KSNAME="FICT-LOC" LEMMA="TOURS" LINK="prepos" PAFT=". ">Tours</W>. 
 </S>
 <S DATE="29 11 2010 19:56:56" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_11\\br-k13.tgt;83" STATUS="doubt">
-<W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="CHEAP" LEMMA="CHEAP" LINK="modif" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="">Cheap</W> 
+<W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="CHEAP" LEMMA="CHEAP" LINK="modif" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="RELATIVELY LOW IN PRICE OR CHARGING LOW PRICES" TRANS="дешевый">Cheap</W> 
 <W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="CLOTHING" LEMMA="CLOTHING" LINK="predic" PAFT=" " UNL="clothing(icl&gt;covering&gt;thing)" DEF="A COVERING DESIGNED TO BE WORN ON A PERSON'S BODY" TRANS="одежда">clothing</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.10" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="3" FEAT="S SG" HYPOT="coord-conj.10" ID="4" KSNAME="JUNK1" LEMMA="JUNK" LINK="coord-conj" PAFT=" " UNL="junk(icl&gt;rubbish&gt;thing,equ&gt;debris)" DEF="">junk</W> 
@@ -1544,7 +1544,7 @@
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="FICT-PERS" LEMMA="HAROLD" LINK="predic" PAFT=" ">Harold</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="8" KSNAME="BUY1" LEMMA="BUY" LINK="coord-conj" PAFT=" " UNL="buy(icl&gt;get&gt;do,cob&gt;thing,src&gt;thing,agt&gt;person,obj&gt;thing)" DEF="OBTAIN BY PURCHASE; ACQUIRE BY MEANS OF A FINANCIAL TRANSACTION" TRANS="покупать">bought</W> 
-<W DOM="8" FEAT="S PL" HYPOT="1-compl.01" ID="9" KSNAME="SHOESTRING" LEMMA="SHOESTRING" LINK="1-compl" PAFT=". " UNL="shoestring(icl&gt;lace&gt;thing,equ&gt;shoelace)" DEF="">shoestrings</W>. 
+<W DOM="8" FEAT="S PL" HYPOT="1-compl.01" ID="9" KSNAME="SHOESTRING" LEMMA="SHOESTRING" LINK="1-compl" PAFT=". " UNL="shoestring(icl&gt;lace&gt;thing,equ&gt;shoelace)" DEF="A LACE USED FOR FASTENING SHOES" TRANS="шнурок">shoestrings</W>. 
 </S>
 <S DATE="29 11 2010 19:56:59" EXTRACOMM="Tagging contradicts ETAP parsing: LOOSE2 - LOSE,LOSE\nTagging contradicts ETAP parsing: THAT1 - THAT3" ID="87" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_11\\br-k13.tgt;87" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 

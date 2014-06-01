@@ -23,7 +23,7 @@
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" " UNL="new(icl&gt;adj,ant&gt;old)" DEF="RECENTLY MADE" TRANS="новый">new</W> 
 <W DOM="4" FEAT="S SG" HYPOT="compos.01" ID="3" KSNAME="FICT-LOC" LEMMA="RIVERSIDE" LINK="compos" PAFT=" ">Riverside</W> 
 <W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="PITCHER" LEMMA="PITCHER" LINK="predic" PAFT=" " UNL="pitcher(icl&gt;thrower&gt;thing)" DEF="(BASEBALL) THE PERSON WHO DOES THE PITCHING" TRANS="питчер">pitcher</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="">turned</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться">turned</W> 
 <W DOM="5" FEAT="ADV" HYPOT="phras-junct.10" ID="6" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="5" FEAT="PART" HYPOT="1-compl.28" ID="7" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="7" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="HAVE" LEMMA="HAVE" LINK="prepos" PAFT=" ">have</W> 
@@ -251,7 +251,7 @@
 </S>
 <S DATE="30 11 2010 10:43:30" ID="19" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-p24.tgt;19" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="FIGHTER" LEMMA="FIGHTER" LINK="predic" PAFT=" " UNL="fighter(icl&gt;person&gt;thing,equ&gt;combatant)" DEF="">fighters</W> 
+<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="FIGHTER" LEMMA="FIGHTER" LINK="predic" PAFT=" " UNL="fighter(icl&gt;person&gt;thing,equ&gt;combatant)" DEF="SOMEONE WHO FIGHTS (OR IS FIGHTING)" TRANS="боец">fighters</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="SEPARATE1" LEMMA="SEPARATE" LINK="pass-anal" PAFT=" " UNL="separate(icl&gt;move&gt;do,agt&gt;thing,obj&gt;thing)" DEF="FORCE, TAKE, OR PULL APART" TRANS="разнимать,растаскивать">separated</W> 
 <W DOM="4" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
@@ -807,7 +807,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="VOICE1" LEMMA="VOICE" LINK="predic" PAFT=" ">voice</W> 
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="7" KSNAME="PITCH2" LEMMA="PITCH" LINK="sent-coordin" PAFT=" ">pitched</W> 
 <W DOM="7" FEAT="A" HYPOT="subj-copr.01" ID="8" KSNAME="LOW1" LEMMA="LOW" LINK="subj-copr" PAFT=", ">low</W>, 
-<W DOM="8" FEAT="V ING" HYPOT="coordin.02" ID="9" KSNAME="QUIVER1" LEMMA="QUIVER" LINK="coordin" PAFT=". " UNL="quiver(icl&gt;tremble&gt;occur,obj&gt;concrete_thing)" DEF="">quivering</W>. 
+<W DOM="8" FEAT="V ING" HYPOT="coordin.02" ID="9" KSNAME="QUIVER1" LEMMA="QUIVER" LINK="coordin" PAFT=". " UNL="quiver(icl&gt;tremble&gt;occur,obj&gt;concrete_thing)" DEF="SHAKE WITH FAST, TREMULOUS MOVEMENTS" TRANS="дрожать">quivering</W>. 
 </S>
 <S DATE="30 11 2010 10:43:33" ID="66" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-p24.tgt;66" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7" HYPOT="predic.01" ID="1" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" " PBEF="&quot;">That</W> 
@@ -1005,7 +1005,7 @@
 <S DATE="30 11 2010 10:43:34" EXTRACOMM="Some nodes are not confirmed" ID="82" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-p24.tgt;82" STATUS="doubt">
 "<W DOM="5" EXTRAFEAT="CAP IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3" HYPOT="1-compl.30" ID="1" KSNAME="HIT1" LEMMA="HIT" LINK="1-compl" PAFT=" " PBEF="&quot;" UNL="hit(icl&gt;do,equ&gt;strike,agt&gt;person,obj&gt;concrete_thing,plc&gt;thing,ins&gt;concrete_thing)" DEF="TO DEAL A BLOW" TRANS="ударять">Hit</W> 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3" HYPOT="1-compl.01" ID="3" KSNAME="BUM1" LEMMA="BUM" LINK="1-compl" PAFT="&quot;! " UNL="bum(icl&gt;unpleasant_person&gt;thing,equ&gt;rotter)" DEF="">bum</W>"! 
+<W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3" HYPOT="1-compl.01" ID="3" KSNAME="BUM1" LEMMA="BUM" LINK="1-compl" PAFT="&quot;! " UNL="bum(icl&gt;unpleasant_person&gt;thing,equ&gt;rotter)" DEF="A PERSON WHO IS DEEMED TO BE DESPICABLE OR CONTEMPTIBLE" TRANS="дрянь">bum</W>"! 
 <W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="SOMEBODY" LEMMA="SOMEBODY" LINK="predic" PAFT=" ">somebody</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="YELL2" LEMMA="YELL" PAFT=" " UNL="yell(icl&gt;bawl&gt;do,agt&gt;volitional_thing,pur&gt;uw,rec&gt;volitional_thing)" DEF="UTTER OR DECLARE IN A VERY LOUD VOICE" TRANS="кричать">yelled</W> 
 <W DOM="5" FEAT="PR" HYPOT="adverb.02" ID="6" KSNAME="FROM" LEMMA="FROM" LINK="adverb" PAFT=" ">from</W> 
@@ -1495,7 +1495,7 @@
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM SG" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" " PBEF="&quot;">I</W> 
 <W DOM="13" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="1-compl.30" ID="2" KSNAME="DO1" LEMMA="DO" LINK="1-compl" PAFT=" ">did</W> 
 <W DOM="2" EXTRAFEAT="ALT IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="restr.10" ID="3" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
-<W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="analyt.10" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="analyt.10" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="S OBJ PL" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="1-compl.01" ID="5" KSNAME="YOU" LEMMA="YOU" LINK="1-compl" PAFT=" ">you</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="PART" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="2-compl.12" ID="6" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10,11" HYPOT="prepos.16" ID="7" KSNAME="FIGHT2" LEMMA="FIGHT" LINK="prepos" PAFT=" " UNL="fight(icl&gt;do,equ&gt;struggle,agt&gt;volitional_thing,cag&gt;volitional_thing,pur&gt;uw)" DEF="CARRY ON A FIGHT" TRANS="сражаться">fight</W> 
@@ -2423,7 +2423,7 @@
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2" HYPOT="predic.07" ID="2" KSNAME="WHAT1" LEMMA="WHAT" LINK="predic" PAFT="&quot;? ">what</W>"? 
 </S>
 <S DATE="30 11 2010 10:43:43" ID="217" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-p24.tgt;217" STATUS="doubt">
-"<W DOM="_root" EXTRAFEAT="CAP IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " PBEF="&quot;" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Ask</W> 
+"<W DOM="_root" EXTRAFEAT="CAP IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " PBEF="&quot;" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Ask</W> 
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5" HYPOT="1-compl.01" ID="2" KSNAME="FRM-PROP" LEMMA="WHITEY" LINK="1-compl" PAFT=" ">Whitey</W> 
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="1,2,3,4,5" HYPOT="2-compl.02" ID="3" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3,4,5" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

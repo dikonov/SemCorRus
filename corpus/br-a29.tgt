@@ -256,7 +256,7 @@
 <W GRP="15,16" ID="16">of</W> 
 <W FEAT="ART" ID="17" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="18" KSNAME="TIME1" LEMMA="TIME">time</W> 
-<W FEAT="V" ID="19" KSNAME="COMMUTE" LEMMA="COMMUTE" UNL="commute(icl&gt;change_by_reversal&gt;occur,equ&gt;permute,obj&gt;thing)" DEF="" WN21="2:30:00::">commuting</W> 
+<W FEAT="V" ID="19" KSNAME="COMMUTE" LEMMA="COMMUTE" UNL="commute(icl&gt;change_by_reversal&gt;occur,equ&gt;permute,obj&gt;thing)" DEF="CHANGE THE ORDER OR ARRANGEMENT OF" TRANS="переставлять" WN21="2:30:00::">commuting</W> 
 <W ID="20">from</W> 
 <W FEAT="S" ID="21" KSNAME="DALLAS" LEMMA="DALLAS">Dallas</W>, 
 <W ID="22">where</W> 
@@ -1325,7 +1325,7 @@
 <W DOM="5" FEAT="S SG" ID="11" KSNAME="BUTTER" LEMMA="BUTTER" LINK="fictit" PAFT=". ">butter</W>. 
 </S>
 <S DATE="30 11 2010 10:52:12" ID="68" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_30\\br-a29.tgt;68" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="">Sprinkle</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="DISTRIBUTE LOOSELY" TRANS="разбрасывать">Sprinkle</W> 
 <W DOM="1" FEAT="PR" HYPOT="adverb.02" ID="2" KSNAME="OVER1" LEMMA="OVER" LINK="adverb" PAFT=" ">over</W> 
 <W DOM="2" FEAT="A" HYPOT="prepos.01" ID="3" KSNAME="TOP2" LEMMA="TOP" LINK="prepos" PAFT=" ">top</W> 
 <W DOM="3" FEAT="PR" HYPOT="attrib.02" ID="4" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
@@ -1345,7 +1345,7 @@
 <W DOM="11" FEAT="V PP" GRP="9,10" HYPOT="modif.01" ID="10" KSNAME="BAKE1" LEMMA="BAKE" LINK="modif" PAFT=" ">baked</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="HAM1" LEMMA="HAM" LINK="prepos" PAFT=" ">ham</W> 
 <W DOM="1" FEAT="CONJ" HYPOT="coordin.13" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="13" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" LINK="coord-conj" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="">sprinkle</W> 
+<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="13" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" LINK="coord-conj" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="DISTRIBUTE LOOSELY" TRANS="разбрасывать">sprinkle</W> 
 <W DOM="13" FEAT="PR" HYPOT="2-compl.02" ID="14" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="15" KSNAME="THOMPSON" LEMMA="THOMPSON" LINK="compos" PAFT=" ">Thompson</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="SEEDLESS" LEMMA="SEEDLESS" LINK="modif" MSNAME="SEEDLESS" PAFT=" ">seedless</W> 

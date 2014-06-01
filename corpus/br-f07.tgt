@@ -1552,7 +1552,7 @@
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="FREQUENT1" LEMMA="FREQUENT" LINK="modif" PAFT=" ">frequent</W> 
 <W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="NEED3" LEMMA="NEED" LINK="predic" PAFT=" ">need</W> 
 <W DOM="4" FEAT="PART" HYPOT="1-compl.15" ID="5" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="CHECK1" LEMMA="CHECK" LINK="prepos" PAFT=" " UNL="check(icl&gt;restrain&gt;do,equ&gt;control,agt&gt;thing,obj&gt;thing)" DEF="">check</W> 
+<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="CHECK1" LEMMA="CHECK" LINK="prepos" PAFT=" " UNL="check(icl&gt;restrain&gt;do,equ&gt;control,agt&gt;thing,obj&gt;thing)" DEF="LESSEN THE INTENSITY OF" TRANS="сдерживать">check</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.13" ID="7" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="8" KSNAME="DISCIPLINE2" LEMMA="DISCIPLINE" LINK="coord-conj" PAFT=" " UNL="discipline(icl&gt;develop&gt;do,agt&gt;thing,obj&gt;thing)" DEF="TRAIN BY INSTRUCTION AND PRACTICE" TRANS="дисциплинировать">discipline</W> 
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="HIMSELF" LEMMA="HIMSELF" LINK="1-compl" PAFT=" ">himself</W> 

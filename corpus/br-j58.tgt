@@ -13,7 +13,7 @@
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="S PL" HYPOT="1-compl.01" ID="10" KSNAME="PROCEEDING" LEMMA="PROCEEDING" LINK="1-compl" PAFT=" " UNL="proceeding(icl&gt;due_process&gt;thing)" DEF="(LAW) THE INSTITUTION OF A SEQUENCE OF STEPS BY WHICH LEGAL JUDGMENTS ARE INVOKED" TRANS="разбирательство">proceedings</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.13" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="12" KSNAME="HERALD2" LEMMA="HERALD" LINK="coord-conj" PAFT=" " UNL="herald(icl&gt;tell&gt;do,equ&gt;announce,agt&gt;thing,obj&gt;thing)" DEF="">heralded</W> 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="12" KSNAME="HERALD2" LEMMA="HERALD" LINK="coord-conj" PAFT=" " UNL="herald(icl&gt;tell&gt;do,equ&gt;announce,agt&gt;thing,obj&gt;thing)" DEF="FORESHADOW OR PRESAGE" TRANS="предвещать">heralded</W> 
 <W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="FICT-PERS" LEMMA="DORR" LINK="1-compl" PAFT=" ">Dorr</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="attrib.18" ID="14" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -161,7 +161,7 @@
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.10" ID="18" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="18" FEAT="V ING" HYPOT="coord-conj.10" ID="19" KSNAME="ATTEMPT2" LEMMA="ATTEMPT" LINK="coord-conj" PAFT=" " UNL="attempt(icl&gt;try&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="TO MAKE AN EFFORT TO DO" TRANS="пытаться">attempting</W> 
 <W DOM="19" FEAT="PART" HYPOT="1-compl.15" ID="20" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="20" FEAT="V MF" HYPOT="prepos.16" ID="21" KSNAME="FALSIFY" LEMMA="FALSIFY" LINK="prepos" PAFT=" " UNL="falsify(icl&gt;misrepresent&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">falsify</W> 
+<W DOM="20" FEAT="V MF" HYPOT="prepos.16" ID="21" KSNAME="FALSIFY" LEMMA="FALSIFY" LINK="prepos" PAFT=" " UNL="falsify(icl&gt;misrepresent&gt;do,agt&gt;thing,obj&gt;thing)" DEF="MAKE FALSE BY MUTILATION OR ADDITION" TRANS="искажать">falsify</W> 
 <W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="HISTORY" LEMMA="HISTORY" LINK="1-compl" PAFT=". " UNL="history(icl&gt;record&gt;thing)" DEF="A RECORD OR NARRATIVE DESCRIPTION OF PAST EVENTS" TRANS="история">history</W>. 
 </S>
 <S DATE="29 11 2010 20:29:22" EXTRACOMM="Some nodes are not confirmed" ID="5" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;5" STATUS="doubt">
@@ -226,7 +226,7 @@
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="TRIAL" LEMMA="TRIAL" LINK="prepos" PAFT=", ">trial</W>, 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="23" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.10" ID="24" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный">fair</W> 
+<W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный,справедливый">fair</W> 
 <W DOM="23" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="coord-conj.10" ID="26" KSNAME="TRIAL" LEMMA="TRIAL" LINK="coord-conj" PAFT="&quot;. ">trial</W>". 
 </S>
 <S DATE="29 11 2010 20:29:25" ID="7" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;7" STATUS="doubt">
@@ -285,7 +285,7 @@
 <W DOM="16" FEAT="V MF" HYPOT="1-compl.17" ID="17" KSNAME="GUARANTEE2" LEMMA="GUARANTEE" LINK="1-compl" PAFT=" " UNL="guarantee(icl&gt;back&gt;do,agt&gt;thing,obj&gt;thing)" DEF="STAND BEHIND AND GUARANTEE THE QUALITY, ACCURACY, OR CONDITION OF" TRANS="предоставлять гарантию,давать гарантию,обеспечивать гарантию">guarantee</W> 
 <W DOM="17" FEAT="S OBJ SG" HYPOT="2-compl.10" ID="18" KSNAME="HE1" LEMMA="HE" LINK="2-compl" PAFT=" ">him</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.10" ID="19" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный">fair</W> 
+<W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный,справедливый">fair</W> 
 <W DOM="17" FEAT="S SG" HYPOT="1-compl.01" ID="21" KSNAME="TRIAL" LEMMA="TRIAL" LINK="1-compl" PAFT=" ">trial</W> 
 <W DOM="17" FEAT="PART" HYPOT="adverb.11" ID="22" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="22" FEAT="V MF" HYPOT="prepos.16" ID="23" KSNAME="PRESERVE1" LEMMA="PRESERVE" LINK="prepos" PAFT=" " UNL="preserve(icl&gt;maintain&gt;do,agt&gt;thing,obj&gt;thing,cag&gt;thing)" DEF="CAUSE TO REMAIN OR LAST" TRANS="хранить">preserve</W> 
@@ -356,7 +356,7 @@
 </S>
 <S DATE="29 11 2010 20:29:26" EXTRACOMM="Some nodes are not confirmed" ID="12" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;12" STATUS="doubt">
 <W DOM="10" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="ALTHOUGH" LEMMA="ALTHOUGH" LINK="adverb" PAFT=" ">Although</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;thing)" DEF="">Rhode Islanders</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF RHODE ISLAND" TRANS="Житель Род-айленда">Rhode Islanders</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="3" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
 <W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="PREPARE" LEMMA="PREPARE" LINK="analyt" PAFT=" ">preparing</W> 
 <W DOM="4" FEAT="PR" HYPOT="2-compl.02" ID="5" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
@@ -403,7 +403,7 @@
 <W DOM="26" FEAT="S SG" HYPOT="1-compl.01" ID="28" KSNAME="PENALTY" LEMMA="PENALTY" LINK="1-compl" PAFT=" " UNL="penalty(icl&gt;social_control&gt;thing,equ&gt;punishment)" DEF="THE ACT OF PUNISHING" TRANS="санкция,наказание">penalty</W> 
 <W DOM="28" FEAT="PR" HYPOT="attrib.01" ID="29" KSNAME="WITHOUT" LEMMA="WITHOUT" LINK="attrib" PAFT=" ">without</W> 
 <W DOM="32" FEAT="ART" HYPOT="determ.10" ID="30" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="32" FEAT="A COMP" HYPOT="modif.01" ID="31" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный">fairer</W> 
+<W DOM="32" FEAT="A COMP" HYPOT="modif.01" ID="31" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный,справедливый">fairer</W> 
 <W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="TRIAL" LEMMA="TRIAL" LINK="prepos" PAFT=". ">trial</W>. 
 </S>
 <S DATE="29 11 2010 20:29:26" ID="14" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;14" STATUS="doubt">
@@ -443,7 +443,7 @@
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S" GRP="16,17" HYPOT="predic.01" ID="17" KSNAME="FICT-SURNAME" LEMMA="BROWN" LINK="predic" PAFT="&quot; ">Brown</W>" 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="18" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.10" ID="19" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный">fair</W> 
+<W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный,справедливый">fair</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="21" KSNAME="TRIAL" LEMMA="TRIAL" LINK="1-compl" PAFT=". ">trial</W>. 
 </S>
 <S DATE="29 11 2010 20:29:27" EXTRACOMM="Tagging contradicts ETAP parsing: CONCERN2 - CONCERNING\nTagging contradicts ETAP parsing: MAN1 - MAN1\nTagging contradicts ETAP parsing:  - FICT-LEX" ID="16" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;16" STATUS="doubt">
@@ -628,7 +628,7 @@
 <W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="predic.01" ID="19" KSNAME="SENTENCE3" LEMMA="SENTENCE" LINK="predic" PAFT=" " UNL="sentence(icl&gt;final_judgment&gt;thing,equ&gt;conviction,ant&gt;acquittal)" DEF="(CRIMINAL LAW) A FINAL JUDGMENT OF GUILTY IN A CRIMINAL CASE AND THE PUNISHMENT THAT IS IMPOSED" TRANS="приговор">sentence</W> 
 <W DOM="16" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS" HYPOT="subord-conj.10" ID="20" KSNAME="SHALL" LEMMA="SHALL" LINK="subord-conj" PAFT=" ">shall</W> 
 <W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="V MF" HYPOT="analyt.13" ID="21" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
-<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="pass-anal.10" ID="22" KSNAME="COMMUTE" LEMMA="COMMUTE" LINK="pass-anal" PAFT=" " UNL="commute(icl&gt;change_by_reversal&gt;occur,equ&gt;permute,obj&gt;thing)" DEF="">commuted</W> 
+<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="pass-anal.10" ID="22" KSNAME="COMMUTE" LEMMA="COMMUTE" LINK="pass-anal" PAFT=" " UNL="commute(icl&gt;change_by_reversal&gt;occur,equ&gt;permute,obj&gt;thing)" DEF="CHANGE THE ORDER OR ARRANGEMENT OF" TRANS="переставлять">commuted</W> 
 <W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="2-compl.02" ID="23" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="23" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="IMPRISONMENT" LEMMA="IMPRISONMENT" LINK="prepos" PAFT=", " UNL="imprisonment(icl&gt;punishment&gt;thing)" DEF="">imprisonment</W>, 
 <W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="S NOM SG" HYPOT="predic.01" ID="25" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
@@ -657,7 +657,7 @@
 <W DOM="10" FEAT="PR" HYPOT="quasiagent.10" ID="11" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" GRP="12,13" HYPOT="prepos.01" ID="12" KSNAME="JOHN" LEMMA="JOHN" LINK="prepos" PAFT=" ">John</W> 
 <W DOM="12" EXTRAFEAT="CAP" FEAT="S SG" GRP="12,13" HYPOT="appos.10" ID="13" KSNAME="BROWN3" LEMMA="BROWN" LINK="appos" PAFT=", ">Brown</W>, 
-<W DOM="15" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="14" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;thing)" DEF="">Rhode Islanders</W> 
+<W DOM="15" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="14" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF RHODE ISLAND" TRANS="Житель Род-айленда">Rhode Islanders</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="15" KSNAME="TURN2" LEMMA="TURN" PAFT=" ">turned</W> 
 <W DOM="17" FEAT="A" HYPOT="determ.13" ID="16" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="15" FEAT="S SG" HYPOT="1-compl.01" ID="17" KSNAME="ATTENTION" LEMMA="ATTENTION" LINK="1-compl" PAFT=" " UNL="attention(icl&gt;basic_cognitive_process&gt;thing,ant&gt;inattention)" DEF="THE PROCESS WHEREBY A PERSON CONCENTRATES ON SOME FEATURES OF THE ENVIRONMENT TO THE (RELATIVE) EXCLUSION OF OTHERS" TRANS="внимание">attention</W> 
@@ -839,7 +839,7 @@
 <W DOM="16" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="17,18" HYPOT="prepos.01" ID="18" KSNAME="FRM-PROP" LEMMA="B" LINK="prepos" PAFT="&quot;, ">B</W>", 
 <W DOM="21" FEAT="ART" HYPOT="determ.10" ID="19" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="21" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="20" KSNAME="QUAKER" LEMMA="QUAKER" LINK="compos" PAFT=" " UNL="quaker(icl&gt;christian&gt;thing,equ&gt;friend)" DEF="">Quaker</W> 
-<W DOM="18" FEAT="S SG" HYPOT="descr-appos.01" ID="21" KSNAME="LADY" LEMMA="LADY" LINK="descr-appos" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W> 
+<W DOM="18" FEAT="S SG" HYPOT="descr-appos.01" ID="21" KSNAME="LADY" LEMMA="LADY" LINK="descr-appos" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W> 
 <W DOM="21" FEAT="PR" HYPOT="attrib.01" ID="22" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="NEWPORT" LEMMA="NEWPORT" LINK="prepos" PAFT=". ">Newport</W>. 
 </S>
@@ -911,7 +911,7 @@
 "<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="COM" GRP="4,5" HYPOT="compos.01" ID="4" KSNAME="FICT-COM" LEMMA="FICT-COM" LINK="compos" MSNAME="FICT-COM" PAFT=" ">E</W> 
 <W DOM="3" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="4,5" HYPOT="prepos.01" ID="5" KSNAME="FRM-PROP" LEMMA="B" LINK="prepos" PAFT="&quot;, ">B</W>", 
 <W DOM="7" FEAT="ADV" HYPOT="restr.15" ID="6" KSNAME="MOST" LEMMA="MOST" LINK="restr" PAFT=" ">most</W> 
-<W DOM="9" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;thing)" DEF="">Rhode Islanders</W> 
+<W DOM="9" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF RHODE ISLAND" TRANS="Житель Род-айленда">Rhode Islanders</W> 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="HARDLY" LEMMA="HARDLY" LINK="restr" PAFT=" " UNL="hardly(icl&gt;how,equ&gt;barely)" DEF="BY A SMALL MARGIN" TRANS="едва">hardly</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="9,10" ID="9" KSNAME="THINK" LEMMA="THINK" PAFT=" ">thought</W> 
 <W DOM="9" FEAT="PR" GRP="9,10" HYPOT="2-compl.02" ID="10" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
@@ -1202,7 +1202,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="14" KSNAME="SEEM" LEMMA="SEEM" PAFT=" ">seems</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="explet.10" ID="15" KSNAME="THAT1" LEMMA="THAT" LINK="explet" PAFT=" ">that</W> 
 <W DOM="17" FEAT="ADV" HYPOT="restr.15" ID="16" KSNAME="MOST" LEMMA="MOST" LINK="restr" PAFT=" ">most</W> 
-<W DOM="18" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="17" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;thing)" DEF="">Rhode Islanders</W> 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="17" KSNAME="RHODE$ISLANDER" LEMMA="RHODE ISLANDER" LINK="predic" MSNAME="RHODE$ISLANDER" PAFT=" " UNL="rhode_islander(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF RHODE ISLAND" TRANS="Житель Род-айленда">Rhode Islanders</W> 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="18" KSNAME="DO1" LEMMA="DO" LINK="subord-conj" PAFT=" ">did</W> 
 <W DOM="18" FEAT="ADV" HYPOT="restr.10" ID="19" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="18" FEAT="V MF" HYPOT="analyt.10" ID="20" KSNAME="CONCUR" LEMMA="CONCUR" LINK="analyt" PAFT=" " UNL="concur(icl&gt;agree&gt;do,agt&gt;person,cag&gt;person,asp&gt;uw)" DEF="AGREE WITH SOMEONE OR HAVE THE SAME OPINION AS THEM" TRANS="соглашаться">concur</W> 
@@ -1564,7 +1564,7 @@
 <S DATE="29 11 2010 20:29:43" ID="57" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;57" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,ant&gt;last)" DEF="PRECEDING ALL OTHERS IN TIME OR SPACE OR DEGREE" TRANS="первый">first</W> 
-<W DOM="_root" FEAT="S SG" ID="3" KSNAME="SPEAKER1" LEMMA="SPEAKER" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speaker</W> 
+<W DOM="_root" FEAT="S SG" ID="3" KSNAME="SPEAKER1" LEMMA="SPEAKER" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speaker</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="adverb.13" ID="4" KSNAME="BE" LEMMA="BE" LINK="adverb" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" GRP="5,6,7" HYPOT="copulat.10" ID="5" KSNAME="FICT-S" LEMMA="AMOS" LINK="copulat" MSNAME="AMOS" PAFT=" ">Amos</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" GRP="5,6,7" HYPOT="compos.01" ID="6" KSNAME="FICT-S" LEMMA="C" LINK="compos" MSNAME="C" PAFT=" ">C</W> 
@@ -1592,7 +1592,7 @@
 <W DOM="9" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="SLAVERY" LEMMA="SLAVERY" LINK="prepos" PAFT=" " UNL="slavery(icl&gt;subjugation&gt;thing,equ&gt;bondage)" DEF="THE STATE OF BEING UNDER THE CONTROL OF ANOTHER PERSON" TRANS="рабство">slavery</W> 
 <W DOM="9" FEAT="PR" HYPOT="agent.10" ID="12" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
-<W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="PEACEABLE" LEMMA="PEACEABLE" LINK="modif" PAFT=" " UNL="peaceable(icl&gt;adj)" DEF="">peaceable</W> 
+<W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="PEACEABLE" LEMMA="PEACEABLE" LINK="modif" PAFT=" " UNL="peaceable(icl&gt;adj)" DEF="INCLINED OR DISPOSED TO PEACE" TRANS="миролюбивый">peaceable</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="MEANS" LEMMA="MEANS" LINK="prepos" PAFT=" ">means</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="15" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="17" FEAT="S NOM SG" HYPOT="predic.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -1641,7 +1641,7 @@
 <S DATE="29 11 2010 20:29:44" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-COM" ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j58.tgt;60" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="NEXT1" LEMMA="NEXT" LINK="modif" PAFT=" ">next</W> 
-<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speaker</W> 
+<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speaker</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" GRP="5,6,7" HYPOT="compos.01" ID="5" KSNAME="GEORGE" LEMMA="GEORGE" LINK="compos" PAFT=" ">George</W> 
 <W DOM="7" EXTRAFEAT="CAP STRICT_ABBR" FEAT="COM" GRP="5,6,7" HYPOT="compos.01" ID="6" KSNAME="FICT-COM" LEMMA="T-INITIAL" LINK="compos" MSNAME="T-INITIAL" PAFT=" ">T</W> 
@@ -1664,7 +1664,7 @@
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="modif.01" ID="14" KSNAME="COMMON1" LEMMA="COMMON" LINK="modif" PAFT=" " UNL="common(icl&gt;adj,equ&gt;ordinary)" DEF="HAVING NO SPECIAL DISTINCTION OR QUALITY" TRANS="обычный">common</W> 
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="copulat.10" ID="15" KSNAME="CRIMINAL2" LEMMA="CRIMINAL" LINK="copulat" PAFT="; " UNL="criminal(icl&gt;wrongdoer&gt;thing)" DEF="">criminal</W>; 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="determ.13" ID="16" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="predic.01" ID="17" KSNAME="DEED1" LEMMA="DEED" LINK="predic" PAFT=" " UNL="deed(icl&gt;accomplishment&gt;thing)" DEF="">deed</W> 
+<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="predic.01" ID="17" KSNAME="DEED1" LEMMA="DEED" LINK="predic" PAFT=" " UNL="deed(icl&gt;accomplishment&gt;thing)" DEF="A NOTABLE ACHIEVEMENT" TRANS="подвиг">deed</W> 
 <W DOM="12" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST SG TP" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="sent-coordin.01" ID="18" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" " UNL="be(icl&gt;be,equ&gt;be_located,aoj&gt;thing,plc&gt;uw)" DEF="TO BE IN A PARTICULAR PLACE" TRANS="находиться,быть">was</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="restr.10" ID="19" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="11,12,13,14,15,16,17,18,19,20,21,22,23,24" HYPOT="copulat.13" ID="20" KSNAME="BELOW2" LEMMA="BELOW" LINK="copulat" PAFT=", ">below</W>, 
@@ -1724,7 +1724,7 @@
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="FOURTH1" LEMMA="FOURTH" LINK="modif" PAFT=" " UNL="fourth(icl&gt;adj)" DEF="COMING NEXT AFTER THE THIRD AND JUST BEFORE THE FIFTH IN POSITION OR TIME OR DEGREE OR MAGNITUDE" TRANS="четвертый">fourth</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.10" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="3" FEAT="A" HYPOT="coord-conj.10" ID="4" KSNAME="LAST1" LEMMA="LAST" LINK="coord-conj" PAFT=" ">last</W> 
-<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speaker</W> 
+<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speaker</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="6" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" GRP="7,8" HYPOT="copulat.10" ID="7" KSNAME="THOMAS" LEMMA="THOMAS" LINK="copulat" PAFT=" ">Thomas</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" GRP="7,8" HYPOT="appos.10" ID="8" KSNAME="DAVIS" LEMMA="DAVIS" LINK="appos" PAFT=". ">Davis</W>. 

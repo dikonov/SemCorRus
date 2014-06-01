@@ -147,7 +147,7 @@
 <W DOM="6" FEAT="CONJ" HYPOT="1-compl.21" ID="7" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="RELIGIOUS" LEMMA="RELIGIOUS" LINK="modif" PAFT=" ">religious</W> 
-<W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="predic" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W> 
+<W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="predic" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="ENGLAND" LEMMA="ENGLAND" LINK="prepos" PAFT=" " UNL="england(iof&gt;european_country&gt;thing)" DEF="A DIVISION OF THE UNITED KINGDOM" TRANS="Англия">England</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="13" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">has</W> 
@@ -265,7 +265,7 @@
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" " UNL="new(icl&gt;adj,ant&gt;old)" DEF="RECENTLY MADE" TRANS="новый">new</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="prepos" PAFT=", " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W>, 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="prepos" PAFT=", " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W>, 
 <W DOM="9" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="8" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="9" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="9" FEAT="V MF" HYPOT="analyt.13" ID="10" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
@@ -287,7 +287,7 @@
 <W DOM="25" FEAT="PART" HYPOT="copulat.13" ID="26" KSNAME="TO2" LEMMA="TO" LINK="copulat" PAFT=" ">to</W> 
 <W DOM="26" FEAT="V MF" HYPOT="prepos.16" ID="27" KSNAME="TRANSCRIBE" LEMMA="TRANSCRIBE" LINK="prepos" PAFT=" " UNL="transcribe(icl&gt;transliterate&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="REWRITE IN A DIFFERENT SCRIPT" TRANS="транскрибировать">transcribe</W> 
 <W DOM="32" FEAT="S SG" HYPOT="1-compl.03" ID="28" KSNAME="WHAT1" LEMMA="WHAT" LINK="1-compl" PAFT=" ">what</W> 
-<W DOM="31" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="29" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="predic" PAFT=" " UNL="englishman(icl&gt;english_person&gt;thing)" DEF="">Englishmen</W> 
+<W DOM="31" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="29" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="predic" PAFT=" " UNL="englishman(icl&gt;english&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF ENGLAND" TRANS="англичанин">Englishmen</W> 
 <W DOM="31" FEAT="S PL" HYPOT="subj-copr.10" ID="30" KSNAME="THEMSELVES" LEMMA="THEMSELVES" LINK="subj-copr" PAFT=" ">themselves</W> 
 <W DOM="24" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="relat.01" ID="31" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">are</W> 
 <W DOM="31" FEAT="V ING" HYPOT="analyt.11" ID="32" KSNAME="SAY" LEMMA="SAY" LINK="analyt" PAFT=" " UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">saying</W> 
@@ -306,7 +306,7 @@
 <W DOM="48" FEAT="ART" HYPOT="determ.11" ID="45" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="48" FEAT="A" HYPOT="modif.01" ID="46" KSNAME="PRESENT1" LEMMA="PRESENT" LINK="modif" PAFT=" " UNL="present(icl&gt;adj,equ&gt;present,ant&gt;future)" DEF="TEMPORAL SENSE" TRANS="нынешний,текущий,теперешний,настоящий">present</W> 
 <W DOM="48" FEAT="A" HYPOT="modif.01" ID="47" KSNAME="RELIGIOUS" LEMMA="RELIGIOUS" LINK="modif" PAFT=" ">religious</W> 
-<W DOM="44" FEAT="S SG" HYPOT="prepos.01" ID="48" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="44" FEAT="S SG" HYPOT="prepos.01" ID="48" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="48" FEAT="PR" HYPOT="quasiagent.10" ID="49" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="49" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="50" KSNAME="ENGLAND" LEMMA="ENGLAND" LINK="prepos" PAFT=". " UNL="england(iof&gt;european_country&gt;thing)" DEF="A DIVISION OF THE UNITED KINGDOM" TRANS="Англия">England</W>. 
 </S>
@@ -344,7 +344,7 @@
 <W DOM="34" FEAT="ART" HYPOT="determ.10" ID="31" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="34" EXTRAFEAT="CAP" FEAT="A" GRP="32,33" HYPOT="modif.01" ID="32" KSNAME="ROMAN1" LEMMA="ROMAN" LINK="modif" PAFT=" ">Roman</W> 
 <W DOM="34" EXTRAFEAT="CAP" FEAT="S SG" GRP="32,33" HYPOT="compos.01" ID="33" KSNAME="CATHOLIC2" LEMMA="CATHOLIC" LINK="compos" PAFT=" ">Catholic</W> 
-<W DOM="30" FEAT="S SG" HYPOT="comp-conj.10" ID="34" KSNAME="CLERIC" LEMMA="CLERIC" LINK="comp-conj" MSNAME="CLERIC" PAFT=". " UNL="cleric(icl&gt;clergyman&gt;thing)" DEF="">cleric</W>. 
+<W DOM="30" FEAT="S SG" HYPOT="comp-conj.10" ID="34" KSNAME="CLERIC" LEMMA="CLERIC" LINK="comp-conj" MSNAME="CLERIC" PAFT=". " UNL="cleric(icl&gt;clergyman&gt;thing)" DEF="A CLERGYMAN OR OTHER PERSON IN RELIGIOUS ORDERS" TRANS="духовное лицо">cleric</W>. 
 </S>
 <S DATE="29 11 2010 19:58:05" EXTRACOMM="Tagging contradicts ETAP parsing:  - ANTI" ID="13" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-d03.tgt;13" STATUS="doubt">
 <W DOM="5" EXTRAFEAT="CAP" FEAT="PR" GRP="1,2,3" HYPOT="adverb.02" ID="1" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">In</W> 
@@ -360,7 +360,7 @@
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="UTMOST1" LEMMA="UTMOST" LINK="modif" PAFT=" ">utmost</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="COURTESY" LEMMA="COURTESY" LINK="prepos" PAFT=" " UNL="courtesy(icl&gt;politeness&gt;thing)" DEF="A COURTEOUS OR RESPECTFUL OR CONSIDERATE ACT" TRANS="любезность">courtesy</W> 
 <W DOM="8" FEAT="PR" HYPOT="agent.10" ID="13" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
-<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="prepos" PAFT=", " UNL="englishman(icl&gt;english_person&gt;thing)" DEF="">Englishmen</W>, 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="prepos" PAFT=", " UNL="englishman(icl&gt;english&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF ENGLAND" TRANS="англичанин">Englishmen</W>, 
 <W DOM="16" FEAT="ADV" HYPOT="restr.11" ID="15" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
 <W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="DEVONSHIRE" LEMMA="DEVONSHIRE" LINK="prepos" PAFT=" ">Devonshire</W> 
@@ -414,7 +414,7 @@
 <W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="23" KSNAME="TELL" LEMMA="TELL" LINK="pass-anal" PAFT=" " UNL="tell(icl&gt;say&gt;do,cob&gt;uw,agt&gt;person,obj&gt;uw,rec&gt;person)" DEF="LET SOMETHING BE KNOWN" TRANS="сказать">told</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="1-compl.21" ID="24" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="26" FEAT="ADV" HYPOT="restr.15" ID="25" KSNAME="MOST" LEMMA="MOST" LINK="restr" PAFT=" ">most</W> 
-<W DOM="28" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="26" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="predic" PAFT=" " UNL="englishman(icl&gt;english_person&gt;thing)" DEF="">Englishmen</W> 
+<W DOM="28" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="26" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="predic" PAFT=" " UNL="englishman(icl&gt;english&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF ENGLAND" TRANS="англичанин">Englishmen</W> 
 <W DOM="28" FEAT="A" HYPOT="subj-copr.10" ID="27" KSNAME="EITHER1" LEMMA="EITHER" LINK="subj-copr" PAFT=" ">either</W> 
 <W DOM="24" EXTRAFEAT="FIN QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="28" KSNAME="DO1" LEMMA="DO" LINK="subord-conj" PAFT=" ">do</W> 
 <W DOM="28" FEAT="ADV" HYPOT="restr.10" ID="29" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
@@ -571,7 +571,7 @@
 <W DOM="44" FEAT="V MF" HYPOT="analyt.10" ID="46" KSNAME="ENJOY" LEMMA="ENJOY" LINK="analyt" PAFT=" " UNL="enjoy(icl&gt;use&gt;do,agt&gt;thing,obj&gt;thing)" DEF="HAVE BENEFIT FROM" TRANS="наслаждаться">enjoy</W> 
 <W DOM="49" FEAT="ART" HYPOT="determ.10" ID="47" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="49" FEAT="A" HYPOT="modif.01" ID="48" KSNAME="GRACIOUS" LEMMA="GRACIOUS" LINK="modif" PAFT=" " UNL="gracious(icl&gt;adj,ant&gt;ungracious)" DEF="">gracious</W> 
-<W DOM="34" FEAT="S SG" ID="49" KSNAME="HEARING2" LEMMA="HEARING" LINK="fictit" PAFT=" " UNL="hearing(icl&gt;opportunity&gt;thing)" DEF="">hearing</W> 
+<W DOM="34" FEAT="S SG" ID="49" KSNAME="HEARING2" LEMMA="HEARING" LINK="fictit" PAFT=" " UNL="hearing(icl&gt;opportunity&gt;event)" DEF="AN OPPORTUNITY TO STATE YOUR CASE AND BE HEARD" TRANS="слушание">hearing</W> 
 <W DOM="49" FEAT="PR" HYPOT="attrib.01" ID="50" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
 <W DOM="53" FEAT="ART" HYPOT="determ.11" ID="51" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="53" FEAT="A" HYPOT="modif.01" ID="52" KSNAME="GENERAL1" LEMMA="GENERAL" LINK="modif" PAFT=" " UNL="general(icl&gt;adj,ant&gt;specific)" DEF="APPLYING TO ALL OR MOST MEMBERS OF A CATEGORY OR GROUP" TRANS="общий">general</W> 
@@ -625,7 +625,7 @@
 <W DOM="18" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="19" KSNAME="COMMAND2" LEMMA="COMMAND" LINK="prepos" PAFT=" " UNL="command(icl&gt;demand&gt;do,agt&gt;thing,obj&gt;thing)" DEF="DEMAND AS ONE'S DUE" TRANS="требовать">command</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.10" ID="20" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,ant&gt;unfair)" DEF="FREE FROM FAVORITISM OR SELF-INTEREST OR BIAS OR DECEPTION" TRANS="честный">fair</W> 
-<W DOM="19" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="HEARING2" LEMMA="HEARING" LINK="1-compl" PAFT=" " UNL="hearing(icl&gt;opportunity&gt;thing)" DEF="">hearing</W> 
+<W DOM="19" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="HEARING2" LEMMA="HEARING" LINK="1-compl" PAFT=" " UNL="hearing(icl&gt;opportunity&gt;event)" DEF="AN OPPORTUNITY TO STATE YOUR CASE AND BE HEARD" TRANS="слушание">hearing</W> 
 <W DOM="22" FEAT="PR" HYPOT="attrib.01" ID="23" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
 <W DOM="25" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="24" KSNAME="ENGLISH1" LEMMA="ENGLISH" LINK="modif" PAFT=" " UNL="english(icl&gt;adj)" DEF="OF OR RELATING TO THE ENGLISH LANGUAGE AND CULTURE" TRANS="английский">English</W> 
 <W DOM="23" FEAT="S PL" HYPOT="prepos.01" ID="25" KSNAME="READER" LEMMA="READER" LINK="prepos" PAFT=". " UNL="reader(icl&gt;scholar&gt;thing)" DEF="A PERSON WHO ENJOYS READING" TRANS="книголюб">readers</W>. 
@@ -1221,7 +1221,7 @@
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="NATIONALISTIC" LEMMA="NATIONALISTIC" LINK="modif" PAFT=" ">nationalistic</W> 
 <W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="SPIRIT1" LEMMA="SPIRIT" LINK="prepos" PAFT=", " UNL="spirit(icl&gt;atmosphere&gt;thing)" DEF="THE GENERAL ATMOSPHERE OF A PLACE OR SITUATION AND THE EFFECT THAT IT HAS ON PEOPLE" TRANS="дух">spirit</W>, 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
-<W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="compos.01" ID="6" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="compos" PAFT=" " UNL="englishman(icl&gt;english_person&gt;thing)" DEF="">Englishmen</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="compos.01" ID="6" KSNAME="ENGLISHMAN" LEMMA="ENGLISHMAN" LINK="compos" PAFT=" " UNL="englishman(icl&gt;english&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF ENGLAND" TRANS="англичанин">Englishmen</W> 
 <W DOM="4" FEAT="S SG" HYPOT="descr-appos.01" ID="7" KSNAME="CLAIM1" LEMMA="CLAIM" LINK="descr-appos" PAFT=" ">claim</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="1-compl.21" ID="8" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="10" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="ENGLISH1" LEMMA="ENGLISH" LINK="modif" PAFT=" " UNL="english(icl&gt;nation&gt;thing)" DEF="THE PEOPLE OF ENGLAND" TRANS="англичане">English</W> 
@@ -1274,7 +1274,7 @@
 <W DOM="20" FEAT="S PL" HYPOT="prepos.01" ID="22" KSNAME="CONGREGATION" LEMMA="CONGREGATION" LINK="prepos" PAFT=" " UNL="congregation(icl&gt;social_group&gt;thing)" DEF="A GROUP OF PEOPLE WHO ADHERE TO A COMMON FAITH AND HABITUALLY ATTEND A GIVEN CHURCH" TRANS="конгрегация">congregations</W> 
 <W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="RECITE" LEMMA="RECITE" LINK="modif" PAFT=" " UNL="recite(icl&gt;perform&gt;do,equ&gt;declaim,agt&gt;thing)" DEF="">reciting</W> 
 <W DOM="26" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="26" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="25" KSNAME="LATIN2" LEMMA="LATIN" LINK="compos" PAFT=" " UNL="latin(icl&gt;italic&gt;thing)" DEF="">Latin</W> 
+<W DOM="26" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="25" KSNAME="LATIN2" LEMMA="LATIN" LINK="compos" PAFT=" " UNL="latin(icl&gt;italic&gt;abstract_thing,iof&gt;language)" DEF="ANY DIALECT OF THE LANGUAGE OF ANCIENT ROME" TRANS="латынь">Latin</W> 
 <W DOM="23" FEAT="S PL" HYPOT="1-compl.01" ID="26" KSNAME="PRAYER" LEMMA="PRAYER" LINK="1-compl" PAFT=" " UNL="prayer(icl&gt;worship&gt;thing)" DEF="THE ACT OF COMMUNICATING WITH A DEITY (ESPECIALLY AS A PETITION OR IN ADORATION OR CONTRITION OR THANKSGIVING)" TRANS="молитва">prayers</W> 
 <W DOM="26" FEAT="CONJ" HYPOT="coordin.10" ID="27" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="27" FEAT="S PL" HYPOT="coord-conj.10" ID="28" KSNAME="RESPONSE" LEMMA="RESPONSE" LINK="coord-conj" PAFT=" " UNL="response(icl&gt;phrase&gt;thing)" DEF="A PHRASE RECITED OR SUNG BY THE CONGREGATION FOLLOWING A VERSICLE BY THE PRIEST OR MINISTER" TRANS="ответствие">responses</W> 
@@ -1566,7 +1566,7 @@
 <W DOM="42" FEAT="ADV" HYPOT="restr.11" ID="41" KSNAME="ESPECIALLY" LEMMA="ESPECIALLY" LINK="restr" PAFT=" " UNL="especially(icl&gt;how,equ&gt;particularly,com&gt;especial)" DEF="TO A DISTINCTLY GREATER EXTENT OR DEGREE THAN IS COMMON" TRANS="особенно,особо">especially</W> 
 <W DOM="27" FEAT="CONJ" HYPOT="adverb.10" ID="42" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="44" FEAT="A" HYPOT="determ.13" ID="43" KSNAME="THESE" LEMMA="THESE" LINK="determ" PAFT=" ">these</W> 
-<W DOM="45" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="44" KSNAME="IRISHMAN" LEMMA="IRISHMAN" LINK="predic" PAFT=" " UNL="irishman(icl&gt;irish_person&gt;thing)" DEF="">Irishmen</W> 
+<W DOM="45" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="44" KSNAME="IRISHMAN" LEMMA="IRISHMAN" LINK="predic" PAFT=" " UNL="irishman(icl&gt;irish_person&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF IRELAND" TRANS="ирландец">Irishmen</W> 
 <W DOM="42" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="45" KSNAME="OFFER1" LEMMA="OFFER" LINK="subord-conj" PAFT=" " UNL="offer(icl&gt;act&gt;do,equ&gt;volunteer,agt&gt;thing,obj&gt;thing)" DEF="TO DECLARE ONE'S READINESS OR WILLINGNESS" TRANS="предлагать">offer</W> 
 <W DOM="45" FEAT="PART" HYPOT="adverb.11" ID="46" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="46" FEAT="V MF" HYPOT="prepos.16" ID="47" KSNAME="REMIND" LEMMA="REMIND" LINK="prepos" PAFT=" ">remind</W> 
@@ -1758,7 +1758,7 @@
 <W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.02" ID="19" KSNAME="IMPLY" LEMMA="IMPLY" LINK="relat" PAFT=" ">implies</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.10" ID="20" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="KINDLY2" LEMMA="KINDLY" LINK="modif" PAFT=" ">kindly</W> 
-<W DOM="19" FEAT="S SG" HYPOT="predic.08" ID="22" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="predic" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="19" FEAT="S SG" HYPOT="predic.08" ID="22" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="predic" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="19" FEAT="CONJ" HYPOT="1-compl.21" ID="23" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="26" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="26" EXTRAFEAT="CAP" FEAT="A" GRP="25,26" HYPOT="modif.01" ID="25" KSNAME="CATHOLIC1" LEMMA="CATHOLIC" LINK="modif" PAFT=" ">Catholic</W> 

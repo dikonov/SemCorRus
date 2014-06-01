@@ -79,7 +79,7 @@
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.12" ID="27" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="27" FEAT="CONJ" HYPOT="coord-conj.10" ID="28" KSNAME="WHETHER" LEMMA="WHETHER" LINK="coord-conj" PAFT=" ">whether</W> 
 <W DOM="30" FEAT="S NOM PL" HYPOT="predic.01" ID="29" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
-<W DOM="28" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="30" KSNAME="MISUSE2" LEMMA="MISUSE" LINK="subord-conj" MSNAME="MISUSE2" PAFT=" " UNL="misuse(icl&gt;use&gt;do,equ&gt;misapply,agt&gt;thing,obj&gt;thing)" DEF="">misuse</W> 
+<W DOM="28" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="30" KSNAME="MISUSE2" LEMMA="MISUSE" LINK="subord-conj" MSNAME="MISUSE2" PAFT=" " UNL="misuse(icl&gt;use&gt;do,equ&gt;misapply,agt&gt;thing,obj&gt;thing)" DEF="APPLY TO A WRONG THING OR PERSON" TRANS="злоупотреблять">misuse</W> 
 <W DOM="32" FEAT="A" HYPOT="determ.13" ID="31" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="30" FEAT="S SG" HYPOT="1-compl.01" ID="32" KSNAME="POWER1" LEMMA="POWER" LINK="1-compl" PAFT=" ">power</W> 
 <W DOM="32" FEAT="PART" HYPOT="1-compl.15" ID="33" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
@@ -413,7 +413,7 @@
 <W DOM="27" FEAT="CONJ" HYPOT="adverb.10" ID="5" KSNAME="IF" LEMMA="IF" LINK="adverb" PAFT=" ">if</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="CAN1" LEMMA="CAN" LINK="subord-conj" PAFT=" ">could</W> 
-<W DOM="7" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="SNAP3" LEMMA="SNAP" LINK="1-compl" PAFT=" " UNL="snap(icl&gt;move&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">snap</W> 
+<W DOM="7" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="SNAP3" LEMMA="SNAP" LINK="1-compl" PAFT=" " UNL="snap(icl&gt;move&gt;do,agt&gt;living_thing,obj&gt;thing)" DEF="CAUSE TO MAKE A SNAPPING SOUND" TRANS="щелкать">snap</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" ">my</W> 
 <W DOM="2" FEAT="S PL" ID="10" KSNAME="FINGER1" LEMMA="FINGER" LINK="fictit" PAFT=" ">fingers</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -1868,7 +1868,7 @@
 <S DATE="29 11 2010 20:42:29" EXTRACOMM="Tagging contradicts ETAP parsing: WINDOWS - WINDOW1,WINDOW2" ID="68" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d13.tgt;68" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="THESE" LEMMA="THESE" LINK="determ" PAFT=" ">These</W> 
 <W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="RIPPLE1" LEMMA="RIPPLE" LINK="predic" PAFT=" ">ripples</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="SPREAD1" LEMMA="SPREAD" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="">spread</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="SPREAD1" LEMMA="SPREAD" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">spread</W> 
 <W DOM="3" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.02" ID="5" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="SYMMETRICAL" LEMMA="SYMMETRICAL" LINK="modif" PAFT=" ">symmetrical</W> 

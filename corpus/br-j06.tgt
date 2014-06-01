@@ -14,7 +14,7 @@
 <W DOM="11" EXTRAFEAT="CAP-MIX STRICT_ABBR" FEAT="COM" HYPOT="compos.12" ID="10" KSNAME="FICT-COM" LEMMA="F-INITIAL" LINK="compos" MSNAME="F-INITIAL" PAFT=" ">f</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="11" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="READILY" LEMMA="READILY" LINK="adverb" PAFT=" " UNL="readily(icl&gt;how)" DEF="WITHOUT MUCH DIFFICULTY" TRANS="легко">readily</W> 
-<W DOM="11" FEAT="A" HYPOT="copulat.11" ID="13" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="copulat" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="">measurable</W> 
+<W DOM="11" FEAT="A" HYPOT="copulat.11" ID="13" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="copulat" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="CAPABLE OF BEING MEASURED" TRANS="измеримый">measurable</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.02" ID="14" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="14" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="TEMPERATURE" LEMMA="TEMPERATURE" LINK="prepos" PAFT=" " UNL="temperature(icl&gt;fundamental_quantity&gt;thing)" DEF="THE DEGREE OF HOTNESS OR COLDNESS OF A BODY OR ENVIRONMENT (CORRESPONDING TO ITS MOLECULAR ACTIVITY)" TRANS="температура">temperatures</W> 
 <W DOM="15" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -566,7 +566,7 @@
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="S SG" HYPOT="predic.01" ID="11" KSNAME="EXCHANGE1" LEMMA="EXCHANGE" LINK="predic" PAFT=" " UNL="exchange(icl&gt;chemical_phenomenon&gt;thing)" DEF="CHEMICAL PROCESS IN WHICH ONE ATOM OR ION OR GROUP CHANGES PLACES WITH ANOTHER" TRANS="замещение">exchange</W> 
 <W DOM="11" FEAT="PR" HYPOT="1-compl.07" ID="12" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="INACTIVE" LEMMA="INACTIVE" LINK="modif" PAFT=" " UNL="inactive(icl&gt;adj)" DEF="">inactive</W> 
+<W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="INACTIVE" LEMMA="INACTIVE" LINK="modif" PAFT=" " UNL="inactive(icl&gt;adj)" DEF="NOT IN PHYSICAL MOTION" TRANS="недвижный,неподвижный">inactive</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="CHLORINE" LEMMA="CHLORINE" LINK="prepos" PAFT=" " UNL="chlorine(icl&gt;chemical_element&gt;thing)" DEF="A COMMON NONMETALLIC ELEMENT BELONGING TO THE HALOGENS" TRANS="хлор">chlorine</W> 
 <W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
 <W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="16" KSNAME="TAG2" LEMMA="TAG" LINK="modif" PAFT=" ">tagged</W> 
@@ -594,7 +594,7 @@
 <W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="PRECIPITATE1" LEMMA="PRECIPITATE" LINK="pass-anal" PAFT=" " UNL="precipitate(icl&gt;change_state&gt;occur,cob&gt;thing,obj&gt;matter)" DEF="SEPARATE AS A FINE SUSPENSION OF SOLID PARTICLES" TRANS="осаждать">precipitated</W> 
 <W DOM="8" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="FROM" LEMMA="FROM" LINK="adverb" PAFT=" ">from</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="10" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=" " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W> 
+<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=" " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W> 
 <W DOM="11" FEAT="S SG" HYPOT="appos.03" ID="12" KSNAME="FRM1" LEMMA="CONTAINING**" LINK="appos" PAFT=" " UNL="contain(icl&gt;be,equ&gt;comprise,obj&gt;abstract_thing,aoj&gt;information,pur&gt;abstract_thing)" DEF="HAVE AS A COMPONENT" TRANS="содержать">containing**</W> 
 <W DOM="14" EXTRAFEAT="CAP-MIX STRICT_ABBR" FEAT="COM" HYPOT="compos.12" ID="13" KSNAME="FICT-COM" LEMMA="F-INITIAL" LINK="compos" MSNAME="F-INITIAL" PAFT=" ">f</W> 
 <W DOM="12" FEAT="V PP" HYPOT="modif.01" ID="14" KSNAME="OBTAIN" LEMMA="OBTAIN" LINK="modif" PAFT=" " UNL="obtain(icl&gt;get&gt;do,src&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="TO GAIN OR ATTAIN USUALLY BY PLANNED ACTION OR EFFORT" TRANS="получать,доставать,добиваться">obtained</W> 
@@ -748,7 +748,7 @@
 </S>
 <S DATE="29 11 2010 20:09:36" EXTRACOMM="Tagging contradicts ETAP parsing:  - PURIFY" ID="25" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j06.tgt;25" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="V PP" HYPOT="modif.01" ID="1" KSNAME="PURIFY" LEMMA="PURIFY" LINK="modif" PAFT=" ">Purified</W> 
-<W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="INACTIVE" LEMMA="INACTIVE" LINK="modif" PAFT=" " UNL="inactive(icl&gt;adj)" DEF="">inactive</W> 
+<W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="INACTIVE" LEMMA="INACTIVE" LINK="modif" PAFT=" " UNL="inactive(icl&gt;adj)" DEF="NOT IN PHYSICAL MOTION" TRANS="недвижный,неподвижный">inactive</W> 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="CHLORINE" LEMMA="CHLORINE" LINK="predic" PAFT=" " UNL="chlorine(icl&gt;chemical_element&gt;thing)" DEF="A COMMON NONMETALLIC ELEMENT BELONGING TO THE HALOGENS" TRANS="хлор">chlorine</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">then</W> 
@@ -782,7 +782,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="CHLORINE" LEMMA="CHLORINE" LINK="compos" PAFT=" " UNL="chlorine(icl&gt;chemical_element&gt;thing)" DEF="A COMMON NONMETALLIC ELEMENT BELONGING TO THE HALOGENS" TRANS="хлор">chlorine</W> 
 <W DOM="4" FEAT="S SG" GRP="3,4" HYPOT="compos.01" ID="3" KSNAME="CARBON" LEMMA="CARBON" LINK="compos" PAFT=" ">carbon</W> 
 <W DOM="5" FEAT="S SG" GRP="3,4" HYPOT="compos.01" ID="4" KSNAME="TETRACHLORIDE" LEMMA="TETRACHLORIDE" LINK="compos" PAFT=" ">tetrachloride</W> 
-<W DOM="25" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="predic" PAFT=" " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W> 
+<W DOM="25" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="predic" PAFT=" " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W> 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="adverb.13" ID="6" KSNAME="BE" LEMMA="BE" LINK="adverb" PAFT=" ">was</W> 
 <W DOM="6" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="ILLUMINATE" LEMMA="ILLUMINATE" LINK="pass-anal" PAFT=" " UNL="illuminate(icl&gt;lighten&gt;do,agt&gt;thing,obj&gt;thing,ins&gt;thing)" DEF="TO MAKE A LIGHT SHINE ON SOMETHING, OR TO FILL A PLACE WITH LIGHT" TRANS="освещать">illuminated</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
@@ -833,7 +833,7 @@
 <W DOM="3" FEAT="V PP" HYPOT="modif.01" ID="2" KSNAME="DESIRE1" LEMMA="DESIRE" LINK="modif" PAFT=" ">desired</W> 
 <W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="AMOUNT1" LEMMA="AMOUNT" LINK="predic" PAFT=" " UNL="amount(icl&gt;abstraction&gt;thing,equ&gt;measure)" DEF="HOW MUCH THERE IS OF SOMETHING THAT YOU CAN QUANTIFY" TRANS="количество">amounts</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="INACTIVE" LEMMA="INACTIVE" LINK="modif" PAFT=" " UNL="inactive(icl&gt;adj)" DEF="">inactive</W> 
+<W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="INACTIVE" LEMMA="INACTIVE" LINK="modif" PAFT=" " UNL="inactive(icl&gt;adj)" DEF="NOT IN PHYSICAL MOTION" TRANS="недвижный,неподвижный">inactive</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="CHLORINE" LEMMA="CHLORINE" LINK="prepos" PAFT=" " UNL="chlorine(icl&gt;chemical_element&gt;thing)" DEF="A COMMON NONMETALLIC ELEMENT BELONGING TO THE HALOGENS" TRANS="хлор">chlorine</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="RADIOACTIVE" LEMMA="RADIOACTIVE" LINK="modif" PAFT=" " UNL="radioactive(icl&gt;adj,ant&gt;nonradioactive)" DEF="EXHIBITING OR CAUSED BY RADIOACTIVITY" TRANS="радиоактивный">radioactive</W> 
@@ -1220,7 +1220,7 @@
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="AQUEOUS" LEMMA="AQUEOUS" LINK="modif" PAFT=" ">aqueous</W> 
 <W DOM="18" FEAT="S SG" GRP="16,17" HYPOT="compos.01" ID="17" KSNAME="SODIUM" LEMMA="SODIUM" LINK="compos" PAFT=" ">sodium</W> 
 <W DOM="19" FEAT="S SG" GRP="16,17" HYPOT="compos.01" ID="18" KSNAME="IODIDE" LEMMA="IODIDE" LINK="compos" PAFT=" ">iodide</W> 
-<W DOM="11" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="1-compl" PAFT=". " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W>. 
+<W DOM="11" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="1-compl" PAFT=". " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W>. 
 </S>
 <S DATE="29 11 2010 20:09:42" EXTRACOMM="Tagging contradicts ETAP parsing: CARRIER - FRM1\nSome punctuation marks are not confirmed" ID="43" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j06.tgt;43" STATUS="doubt">
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FRM1" LEMMA="CARRIER**" LINK="predic" PAFT=" " UNL="carrier(icl&gt;chemical&gt;thing)" DEF="AN INACTIVE SUBSTANCE THAT IS A VEHICLE FOR A RADIOACTIVE TRACER OF THE SAME SUBSTANCE AND THAT ASSISTS IN ITS RECOVERY AFTER SOME CHEMICAL REACTION" TRANS="переносчик">Carrier**</W> 
@@ -1240,7 +1240,7 @@
 <W DOM="16" EXTRAFEAT="IN-BR" FEAT="A" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="modif.01" ID="15" KSNAME="GASEOUS" LEMMA="GASEOUS" LINK="modif" PAFT=" " UNL="gaseous(icl&gt;adj,ant&gt;solid)" DEF="EXISTING AS OR HAVING CHARACTERISTICS OF A GAS" TRANS="газовый">gaseous</W> 
 <W DOM="17" EXTRAFEAT="IN-BR" FEAT="S PL" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="predic.01" ID="16" KSNAME="REACTANT" LEMMA="REACTANT" LINK="predic" PAFT=" " UNL="reactant(icl&gt;chemical&gt;thing)" DEF="">reactants</W> 
 <W DOM="12" EXTRAFEAT="FIN IN-BR QFIN" FEAT="V PST PL" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="juxtapos.01" ID="17" KSNAME="BE" LEMMA="BE" LINK="juxtapos" PAFT=" ">were</W> 
-<W DOM="17" EXTRAFEAT="IN-BR" FEAT="V PP" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="pass-anal.10" ID="18" KSNAME="IMMERSE" LEMMA="IMMERSE" LINK="pass-anal" PAFT=" " UNL="immerse(icl&gt;penetrate&gt;do,cob&gt;matter,agt&gt;thing,obj&gt;concrete_thing)" DEF="">immersed</W> 
+<W DOM="17" EXTRAFEAT="IN-BR" FEAT="V PP" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="pass-anal.10" ID="18" KSNAME="IMMERSE" LEMMA="IMMERSE" LINK="pass-anal" PAFT=" " UNL="immerse(icl&gt;penetrate&gt;do,cob&gt;matter,agt&gt;thing,obj&gt;concrete_thing)" DEF="THRUST OR THROW INTO" TRANS="погружать">immersed</W> 
 <W DOM="18" EXTRAFEAT="IN-BR" FEAT="PR" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="2-compl.02" ID="19" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="21" EXTRAFEAT="IN-BR" FEAT="A" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="modif.01" ID="20" KSNAME="LIQUID1" LEMMA="LIQUID" LINK="modif" PAFT=" ">liquid</W> 
 <W DOM="19" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="13,14,15,16,17,18,19,20,21,22,23,24,25,26" HYPOT="prepos.01" ID="21" KSNAME="AIR1" LEMMA="AIR" LINK="prepos" PAFT=" ">air</W> 
@@ -1272,7 +1272,7 @@
 <W DOM="18" FEAT="V PP" HYPOT="pass-anal.10" ID="19" KSNAME="COUNT1" LEMMA="COUNT" LINK="pass-anal" PAFT=" " UNL="count(icl&gt;do,equ&gt;calculate,agt&gt;thing,obj&gt;thing)" DEF="DETERMINE THE NUMBER" TRANS="считать">counted</W> 
 <W DOM="19" FEAT="PR" HYPOT="adverb.02" ID="20" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.10" ID="21" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="23" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="compos" PAFT=" " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W> 
+<W DOM="23" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="compos" PAFT=" " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W> 
 <W DOM="25" FEAT="S SG" HYPOT="compos.01" ID="23" KSNAME="TYPE1" LEMMA="TYPE" LINK="compos" PAFT=" " UNL="type(icl&gt;abstract_thing)" DEF="A SUBDIVISION OF A PARTICULAR KIND OF THING" TRANS="тип">type</W> 
 <W DOM="25" EXTRAFEAT="CAP" FEAT="S SG" GRP="24,25" HYPOT="compos.01" ID="24" KSNAME="GEIGER" LEMMA="GEIGER" LINK="compos" PAFT=" ">Geiger</W> 
 <W DOM="20" FEAT="S SG" GRP="24,25" HYPOT="prepos.01" ID="25" KSNAME="TUBE1" LEMMA="TUBE" LINK="prepos" PAFT=". ">tube</W>. 
@@ -1659,7 +1659,7 @@
 <W DOM="5" FEAT="PR" HYPOT="attrib.02" ID="6" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="A COMP" HYPOT="modif.01" ID="8" KSNAME="GREAT" LEMMA="GREAT" LINK="modif" PAFT=" " UNL="great(icl&gt;adj,equ&gt;outstanding,com&gt;importance)" DEF="OF MAJOR SIGNIFICANCE OR IMPORTANCE" TRANS="великий">greater</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="CONSISTENCY" LEMMA="CONSISTENCY" LINK="prepos" PAFT=" " UNL="consistency(icl&gt;uniformity&gt;thing,ant&gt;inconsistency)" DEF="">consistency</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="CONSISTENCY" LEMMA="CONSISTENCY" LINK="prepos" PAFT=" " UNL="consistency(icl&gt;uniformity&gt;thing,ant&gt;inconsistency)" DEF="A HARMONIOUS UNIFORMITY OR AGREEMENT AMONG THINGS OR PARTS" TRANS="соответствие">consistency</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="AMONG" LEMMA="AMONG" LINK="attrib" PAFT=" ">among</W> 
 <W DOM="12" FEAT="S SG" HYPOT="compos.01" ID="11" KSNAME="REACTION" LEMMA="REACTION" LINK="compos" PAFT=" " UNL="reaction(icl&gt;chemical_process&gt;thing,equ&gt;chemical_reaction)" DEF="(CHEMISTRY) A PROCESS IN WHICH ONE OR MORE SUBSTANCES ARE CHANGED INTO OTHERS" TRANS="реакция">reaction</W> 
 <W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="CELL" LEMMA="CELL" LINK="prepos" PAFT=" " UNL="cell(icl&gt;compartment&gt;thing)" DEF="ANY SMALL COMPARTMENT" TRANS="ячейка">cells</W> 
@@ -1814,7 +1814,7 @@
 <W DOM="20" FEAT="NID" GRP="19,20" HYPOT="compos.01" ID="19" KSNAME="FICT-LEX" LEMMA="URANYL" LINK="compos" PAFT=" ">uranyl</W> 
 <W DOM="21" FEAT="S SG" GRP="19,20" HYPOT="compos.01" ID="20" KSNAME="OXALATE" LEMMA="OXALATE" LINK="compos" PAFT=" ">oxalate</W> 
 <W DOM="22" FEAT="S SG" HYPOT="compos.01" ID="21" KSNAME="ACTINOMETER" LEMMA="ACTINOMETER" LINK="compos" PAFT=" " UNL="actinometer(icl&gt;measuring_instrument&gt;thing)" DEF="AN INSTRUMENT FOR MEASURING THE INTENSITY OF ELECTROMAGNETIC RADIATION (USUALLY BY THE PHOTOCHEMICAL EFFECT)" TRANS="актинометр">actinometer</W> 
-<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=" " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solution</W> 
+<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=" " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solution</W> 
 <W DOM="22" FEAT="V PP" HYPOT="modif.01" ID="23" KSNAME="ILLUMINATE" LEMMA="ILLUMINATE" LINK="modif" PAFT=" " UNL="illuminate(icl&gt;lighten&gt;do,agt&gt;thing,obj&gt;thing,ins&gt;thing)" DEF="TO MAKE A LIGHT SHINE ON SOMETHING, OR TO FILL A PLACE WITH LIGHT" TRANS="освещать">illuminated</W> 
 <W DOM="23" FEAT="PR" HYPOT="adverb.02" ID="24" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.10" ID="25" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

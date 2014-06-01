@@ -364,7 +364,7 @@
 <W FEAT="NUM" ID="18" KSNAME="NUM-ONE" LEMMA="1">1</W>) 
 <W ID="19">at</W> 
 <W FEAT="ART" ID="20" KSNAME="AN1" LEMMA="AN">a</W> 
-<W FEAT="S SG" ID="21" KSNAME="HEARING2" LEMMA="HEARING" UNL="hearing(icl&gt;proceeding&gt;thing)" DEF="" WN21="1:04:01::">hearing</W> 
+<W FEAT="S SG" ID="21" KSNAME="HEARING2" LEMMA="HEARING" UNL="hearing(icl&gt;session&gt;event)" DEF="A SESSION OF A COURT, GRAND JURY OR COMMITTEE IN WHICH WITNESSES ARE CALLED AND TESTIMONY IS TAKEN" TRANS="слушание" WN21="1:04:01::">hearing</W> 
 <W ID="22">before</W> 
 <W FEAT="ART" ID="23" KSNAME="AN1" LEMMA="AN">a</W> 
 <W GRP="24,25" ID="24" WN21="1:18:00::">hearing</W> 
@@ -562,7 +562,7 @@
 <W ID="6">in</W> 
 <W FEAT="ART" ID="7" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="A" ID="8" KSNAME="ADMINISTRATIVE" LEMMA="ADMINISTRATIVE" UNL="administrative(icl&gt;adj,com&gt;administration)" DEF="OF OR RELATING TO OR RESPONSIBLE FOR ADMINISTRATION" TRANS="административный" WN21="3:01:00::">administrative</W> 
-<W FEAT="S SG" ID="9" KSNAME="HEARING2" LEMMA="HEARING" UNL="hearing(icl&gt;proceeding&gt;thing)" DEF="" WN21="1:04:01::">hearing</W> 
+<W FEAT="S SG" ID="9" KSNAME="HEARING2" LEMMA="HEARING" UNL="hearing(icl&gt;session&gt;event)" DEF="A SESSION OF A COURT, GRAND JURY OR COMMITTEE IN WHICH WITNESSES ARE CALLED AND TESTIMONY IS TAKEN" TRANS="слушание" WN21="1:04:01::">hearing</W> 
 <W ID="10">at</W> 
 <W FEAT="ART" ID="11" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S" GRP="12,13,14" ID="12" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" REM="GROUP">Department</W> 
@@ -1192,7 +1192,7 @@
 <W DOM="_root" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6,7" ID="5" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" PAFT=" ">Department</W> 
 <W DOM="5" FEAT="PR" GRP="5,6,7" HYPOT="1-compl.07" ID="6" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6,7" HYPOT="compos.01" ID="7" KSNAME="JUSTICE" LEMMA="JUSTICE" LINK="compos" PAFT=" ">Justice</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="HEARING2" LEMMA="HEARING" LINK="prepos" PAFT=", " UNL="hearing(icl&gt;proceeding&gt;thing)" DEF="">hearing</W>, 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="HEARING2" LEMMA="HEARING" LINK="prepos" PAFT=", " UNL="hearing(icl&gt;session&gt;event)" DEF="A SESSION OF A COURT, GRAND JURY OR COMMITTEE IN WHICH WITNESSES ARE CALLED AND TESTIMONY IS TAKEN" TRANS="слушание">hearing</W>, 
 <W DOM="12" FEAT="PR" HYPOT="1-compl.09" ID="9" KSNAME="AT" LEMMA="AT" LINK="1-compl" PAFT=" ">at</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="WHICH1" LEMMA="WHICH" LINK="prepos" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="11" KSNAME="PETITIONER" LEMMA="PETITIONER" LINK="predic" PAFT=" " UNL="petitioner(icl&gt;applicant&gt;thing)" DEF="ONE PRAYING HUMBLY FOR SOMETHING" TRANS="податель петиции,петиционер,проситель">petitioner</W> 
@@ -2171,7 +2171,7 @@
 <W DOM="9" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" HYPOT="prepos.01" ID="12" KSNAME="DEVELOP" LEMMA="DEVELOP" LINK="prepos" PAFT=" ">developed</W> 
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="adverb.02" ID="13" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">at</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="HEARING2" LEMMA="HEARING" LINK="prepos" PAFT="&quot; " UNL="hearing(icl&gt;proceeding&gt;thing)" DEF="">hearing</W>" 
+<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="HEARING2" LEMMA="HEARING" LINK="prepos" PAFT="&quot; " UNL="hearing(icl&gt;session&gt;event)" DEF="A SESSION OF A COURT, GRAND JURY OR COMMITTEE IN WHICH WITNESSES ARE CALLED AND TESTIMONY IS TAKEN" TRANS="слушание">hearing</W>" 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="16" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.10" ID="17" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="16" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="DENIAL" LEMMA="DENIAL" LINK="coord-conj" PAFT=" " UNL="denial(icl&gt;speech_act&gt;thing)" DEF="THE ACT OF REFUSING TO COMPLY (AS WITH A REQUEST)" TRANS="отказ">denial</W> 
@@ -2180,7 +2180,7 @@
 "<W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="prepos.01" ID="21" KSNAME="FULL1" LEMMA="FULL" LINK="prepos" PAFT=" ">full</W> 
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="22" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="coord-conj.10" ID="23" KSNAME="FAIR1" LEMMA="FAIR" LINK="coord-conj" PAFT=" " UNL="fair(icl&gt;adj,ant&gt;unfair)" DEF="FREE FROM FAVORITISM OR SELF-INTEREST OR BIAS OR DECEPTION" TRANS="честный">fair</W> 
-<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="appos.04" ID="24" KSNAME="HEARING2" LEMMA="HEARING" LINK="appos" PAFT="&quot;, " UNL="hearing(icl&gt;proceeding&gt;thing)" DEF="">hearing</W>", 
+<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="appos.04" ID="24" KSNAME="HEARING2" LEMMA="HEARING" LINK="appos" PAFT="&quot;, " UNL="hearing(icl&gt;session&gt;event)" DEF="A SESSION OF A COURT, GRAND JURY OR COMMITTEE IN WHICH WITNESSES ARE CALLED AND TESTIMONY IS TAKEN" TRANS="слушание">hearing</W>", 
 <W DOM="27" FEAT="A" HYPOT="determ.13" ID="25" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" ">no</W> 
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
 <W DOM="28" FEAT="S SG" HYPOT="predic.01" ID="27" KSNAME="CLAIM1" LEMMA="CLAIM" LINK="predic" PAFT=" " UNL="claim(icl&gt;statement&gt;abstract_thing,agt&gt;person,obj&gt;uw)" DEF="A STATEMENT THAT SOMETHING IS TRUE, EVEN THOUGH IT HAS NOT BEEN PROVED" TRANS="утверждение">claim</W> 

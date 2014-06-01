@@ -385,7 +385,7 @@
 <W DOM="16" FEAT="A" GRP="17,18" ID="17" KSNAME="READY" LEMMA="READY" LINK="fictit" PAFT=" ">ready</W> 
 <W DOM="16" FEAT="PART" GRP="17,18" ID="18" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="18" FEAT="V MF" HYPOT="prepos.16" ID="19" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
-<W DOM="19" FEAT="V PP" HYPOT="pass-anal.10" ID="20" KSNAME="SLIP3" LEMMA="SLIP" LINK="pass-anal" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;glide&gt;occur,equ&gt;skid,obj&gt;thing)" DEF="">slipped</W> 
+<W DOM="19" FEAT="V PP" HYPOT="pass-anal.10" ID="20" KSNAME="SLIP3" LEMMA="SLIP" LINK="pass-anal" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;slide&gt;thing,equ&gt;skid)" DEF="AN UNEXPECTED SLIDE" TRANS="скольжение">slipped</W> 
 <W DOM="20" FEAT="ADV" HYPOT="phras-junct.10" ID="21" KSNAME="OVER2" LEMMA="OVER" LINK="phras-junct" PAFT=" ">over</W> 
 <W DOM="23" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="HEAD1" LEMMA="HEAD" LINK="1-compl" PAFT=", ">head</W>, 

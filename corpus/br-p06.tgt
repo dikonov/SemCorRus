@@ -1279,7 +1279,7 @@
 <W DOM="19" FEAT="PR" GRP="19,20,21,22" HYPOT="1-compl.07" ID="20" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="22" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="19,20,21,22" HYPOT="modif.01" ID="21" KSNAME="INTERNAL" LEMMA="INTERNAL" LINK="modif" PAFT=" ">Internal</W> 
 <W DOM="20" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="19,20,21,22" HYPOT="prepos.01" ID="22" KSNAME="REVENUE" LEMMA="REVENUE" LINK="prepos" PAFT=" ">Revenue</W> 
-<W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="23" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="24" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="23" FEAT="PART" HYPOT="2-compl.12" ID="25" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="26" KSNAME="STOP2" LEMMA="STOP" LINK="prepos" PAFT=" " UNL="stop(icl&gt;visit&gt;do,equ&gt;stay,agt&gt;person,plc&gt;uw)" DEF="TO STAY SOMEWHERE FOR A SHORT TIME" TRANS="останавливаться">stop</W> 

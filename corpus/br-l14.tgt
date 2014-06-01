@@ -953,11 +953,11 @@
 <W DOM="7" FEAT="PR" GRP="6,7,8,9" HYPOT="attrib.01" ID="8" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="8" FEAT="S SG" GRP="6,7,8,9" HYPOT="prepos.01" ID="9" KSNAME="TIME1" LEMMA="TIME" LINK="prepos" PAFT="; ">time</W>; 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coordin.05" ID="10" KSNAME="PASS1" LEMMA="PASS" LINK="coordin" PAFT=" " UNL="pass(icl&gt;move&gt;do,via&gt;thing,plt&gt;place,plf&gt;place,agt&gt;thing,obj&gt;thing)" DEF="TRANSMIT INFORMATION" TRANS="передавать">pass</W> 
-<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="WORD1" LEMMA="WORD" LINK="1-compl" PAFT=" " UNL="word(icl&gt;information&gt;thing,equ&gt;news)" DEF="">word</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="WORD1" LEMMA="WORD" LINK="1-compl" PAFT=" " UNL="word(icl&gt;information,equ&gt;message,obj&gt;uw)" DEF="SOMETHING THAT IS SAID" TRANS="слово">word</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="adverb.10" ID="12" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="14" FEAT="PART" HYPOT="predic.10" ID="13" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="14" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="13" FEAT="S SG" HYPOT="explet.13" ID="15" KSNAME="WORD1" LEMMA="WORD" LINK="explet" PAFT=" " UNL="word(icl&gt;information&gt;thing,equ&gt;news)" DEF="">word</W> 
+<W DOM="13" FEAT="S SG" HYPOT="explet.13" ID="15" KSNAME="WORD1" LEMMA="WORD" LINK="explet" PAFT=" " UNL="word(icl&gt;information,equ&gt;message,obj&gt;uw)" DEF="SOMETHING THAT IS SAID" TRANS="слово">word</W> 
 <W DOM="14" FEAT="PART" HYPOT="adverb.11" ID="16" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="17" KSNAME="PASS1" LEMMA="PASS" LINK="prepos" PAFT=". " UNL="pass(icl&gt;move&gt;do,via&gt;thing,plt&gt;place,plf&gt;place,agt&gt;thing,obj&gt;thing)" DEF="TRANSMIT INFORMATION" TRANS="передавать">pass</W>. 
 </S>
@@ -2283,7 +2283,7 @@
 <S DATE="30 11 2010 10:36:50" ID="169" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l14.tgt;169" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP FIN QFIN" FEAT="V MF" ID="1" KSNAME="DO1" LEMMA="DO" PAFT=" ">Do</W> 
 <W DOM="1" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="2" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
-<W DOM="1" FEAT="V MF" HYPOT="analyt.10" ID="3" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=". " UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="">pretend</W>. 
+<W DOM="1" FEAT="V MF" HYPOT="analyt.10" ID="3" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=". " UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться">pretend</W>. 
 </S>
 <S DATE="30 11 2010 10:36:50" ID="170" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l14.tgt;170" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">You</W> 

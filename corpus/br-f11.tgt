@@ -1965,7 +1965,7 @@
 <W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="WHY" LEMMA="WHY" LINK="adverb" PAFT=" ">why</W> 
 <W DOM="6" EXTRAFEAT="CAP CAPIT TRUN" FEAT="S SG" GRP="3,4" HYPOT="predic.01" ID="4" KSNAME="DOCTOR1" LEMMA="DOCTOR" LINK="predic" PAFT=" ">Dr.</W> 
 <W DOM="4" FEAT="S SG" GRP="3,4" HYPOT="appos.03" ID="5" KSNAME="FRM-PROP" LEMMA="BRODIE" LINK="appos" PAFT=" ">Brodie</W> 
-<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="copulat.14" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="copulat" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asks</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="copulat.14" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="copulat" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asks</W> 
 <W DOM="6" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="PARENT1" LEMMA="PARENT" LINK="1-compl" PAFT=" ">parents</W> 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="6" FEAT="PART" HYPOT="2-compl.12" ID="9" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 

@@ -108,7 +108,7 @@
 <W DOM="14" FEAT="NUM" HYPOT="quantit.10" ID="13" KSNAME="ONE1" LEMMA="ONE" LINK="quantit" PAFT=" ">one</W> 
 <W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="14" KSNAME="SPONSOR1" LEMMA="SPONSOR" LINK="predic" PAFT=" ">sponsor</W> 
 <W DOM="16" FEAT="ADV" HYPOT="restr.11" ID="15" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
-<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="16" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="16" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="16" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="17" KSNAME="I" LEMMA="I" LINK="1-compl" PAFT=" ">me</W> 
 <W DOM="16" FEAT="PART" HYPOT="2-compl.12" ID="18" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="18" FEAT="V MF" HYPOT="prepos.16" ID="19" KSNAME="CONSIDER" LEMMA="CONSIDER" LINK="prepos" PAFT=" " UNL="consider(icl&gt;be,equ&gt;take,obj&gt;thing,aoj&gt;person)" DEF="TAKE AS AN EXAMPLE" TRANS="брать">consider</W> 
@@ -172,7 +172,7 @@
 <W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="copulat.10" ID="16" KSNAME="METRONOME" LEMMA="METRONOME" LINK="copulat" PAFT=", ">Metronome</W>, 
 <W DOM="16" FEAT="V ING" HYPOT="descr-modif.01" ID="17" KSNAME="SACK2" LEMMA="SACK" LINK="descr-modif" PAFT=" " UNL="sack(icl&gt;plunder&gt;do,agt&gt;person,obj&gt;place)" DEF="THE BARBARIANS (AGT) SACKED ROME (OBJ)" TRANS="разграбить">sacking</W> 
 <W DOM="17" FEAT="CONJ" HYPOT="coordin.10" ID="18" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="18" FEAT="V ING" HYPOT="coord-conj.10" ID="19" KSNAME="DESPOIL" LEMMA="DESPOIL" LINK="coord-conj" PAFT=" " UNL="despoil(icl&gt;take&gt;do,equ&gt;plunder,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="">despoiling</W> 
+<W DOM="18" FEAT="V ING" HYPOT="coord-conj.10" ID="19" KSNAME="DESPOIL" LEMMA="DESPOIL" LINK="coord-conj" PAFT=" " UNL="despoil(icl&gt;take&gt;do,equ&gt;plunder,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="STEAL GOODS" TRANS="грабить">despoiling</W> 
 <W DOM="19" FEAT="PR" HYPOT="adverb.02" ID="20" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="22" FEAT="A" HYPOT="determ.13" ID="21" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="FRM-PROP" LEMMA="BOLSHEVISTIC" LINK="prepos" PAFT=" ">Bolshevistic</W> 
@@ -529,7 +529,7 @@
 <W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="7,8,9,10,11,12,13,14" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S POSS SG" GRP="7,8,9,10,11,12,13,14" HYPOT="posses.01" ID="11" KSNAME="WOMAN" LEMMA="WOMAN" LINK="posses" PAFT=" ">woman's</W> 
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="7,8,9,10,11,12,13,14" HYPOT="prepos.01" ID="12" KSNAME="MIND1" LEMMA="MIND" LINK="prepos" PAFT=" ">mind</W> 
-<W DOM="6" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="7,8,9,10,11,12,13,14" HYPOT="1-compl.31" ID="13" KSNAME="AMAZE" LEMMA="AMAZE" LINK="1-compl" PAFT=" " UNL="amaze(icl&gt;confuse&gt;be,equ&gt;perplex,obj&gt;thing,aoj&gt;thing)" DEF="">amaze</W> 
+<W DOM="6" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="7,8,9,10,11,12,13,14" HYPOT="1-compl.31" ID="13" KSNAME="AMAZE" LEMMA="AMAZE" LINK="1-compl" PAFT=" " UNL="amaze(icl&gt;confuse&gt;be,equ&gt;perplex,obj&gt;thing,aoj&gt;thing)" DEF="BE A MYSTERY OR BEWILDERING TO" TRANS="озадачивать">amaze</W> 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S OBJ SG" GRP="7,8,9,10,11,12,13,14" HYPOT="1-compl.01" ID="14" KSNAME="I" LEMMA="I" LINK="1-compl" PAFT="&quot;. ">me</W>". 
 </S>
 <S DATE="30 11 2010 10:56:28" ID="20" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_51\\br-r03.tgt;20" STATUS="doubt">

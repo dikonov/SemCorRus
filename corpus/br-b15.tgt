@@ -1183,7 +1183,7 @@
 <W DOM="44" FEAT="CONJ" HYPOT="coordin.10" ID="45" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="45" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="coord-conj.10" ID="46" KSNAME="JEW" LEMMA="JEW" LINK="coord-conj" PAFT=", ">Jews</W>, 
 <W DOM="48" FEAT="S NOM SG" HYPOT="predic.01" ID="47" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
-<W DOM="46" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="48" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="46" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="48" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="48" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="49" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=" ">them</W> 
 <W DOM="48" FEAT="PART" HYPOT="2-compl.12" ID="50" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="50" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="51" KSNAME="SERVE1" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;be,obj&gt;uw,aoj&gt;thing,ben&gt;thing) serve(icl&gt;suffice&gt;occur,obj&gt;thing)" DEF="">serve</W> 
@@ -1790,7 +1790,7 @@
 <W DOM="17" FEAT="S NOM SG" HYPOT="predic.01" ID="16" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="17" KSNAME="WOULD" LEMMA="WOULD" LINK="coord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="19" FEAT="ADV" HYPOT="adverb.01" ID="18" KSNAME="DRASTICALLY" LEMMA="DRASTICALLY" LINK="adverb" PAFT=" ">drastically</W> 
-<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="19" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="analyt" PAFT=" " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="">curtail</W> 
+<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="19" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="analyt" PAFT=" " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="PLACE RESTRICTIONS ON" TRANS="ограничивать">curtail</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.13" ID="20" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="20" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="21" KSNAME="DO1" LEMMA="DO" LINK="coord-conj" PAFT=" ">do</W> 
 <W DOM="21" FEAT="ADV" HYPOT="phras-junct.10" ID="22" KSNAME="AWAY2" LEMMA="AWAY" LINK="phras-junct" PAFT=" ">away</W> 

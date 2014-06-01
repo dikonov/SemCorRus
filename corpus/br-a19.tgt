@@ -550,7 +550,7 @@
 <W DOM="6" FEAT="S SG" GRP="5,6" HYPOT="compos.01" ID="5" KSNAME="SCHOOL1" LEMMA="SCHOOL" LINK="compos" PAFT=" ">school</W> 
 <W DOM="7" FEAT="S SG" GRP="5,6" HYPOT="predic.01" ID="6" KSNAME="SUPERINTENDENT" LEMMA="SUPERINTENDENT" LINK="predic" PAFT=" ">superintendent</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
-<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="2-compl.16" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="2-compl" PAFT=" ">that</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="11,12,13" HYPOT="predic.01" ID="11" KSNAME="BOARD3" LEMMA="BOARD" LINK="predic" PAFT=" ">Board</W> 

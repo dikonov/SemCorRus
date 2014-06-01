@@ -1036,7 +1036,7 @@
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="parenth.17" ID="2" KSNAME="SAY" LEMMA="SAY" LINK="parenth" PAFT=", ">say</W>, 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" ">Russians</W> 
-<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="5" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="5" KSNAME="INTEND1" LEMMA="INTEND" LINK="subord-conj" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="5" FEAT="PART" HYPOT="1-compl.15" ID="6" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="STOP2" LEMMA="STOP" LINK="prepos" PAFT=" ">stop</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" GRP="8,9" HYPOT="1-compl.01" ID="8" KSNAME="TOM" LEMMA="TOM" LINK="1-compl" PAFT=" ">Tom</W> 

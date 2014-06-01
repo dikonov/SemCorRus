@@ -1335,7 +1335,7 @@
 <W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="SAY" LEMMA="SAY" PAFT=", &quot;" UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">said</W>, 
 "<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="6,7,8,9" HYPOT="coordin.13" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="6" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS TP" GRP="6,7,8,9" HYPOT="coord-conj.10" ID="7" KSNAME="PACIFY" LEMMA="PACIFY" LINK="coord-conj" PAFT=" " UNL="pacify(icl&gt;calm&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="">pacifies</W> 
+<W DOM="6" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS TP" GRP="6,7,8,9" HYPOT="coord-conj.10" ID="7" KSNAME="PACIFY" LEMMA="PACIFY" LINK="coord-conj" PAFT=" " UNL="pacify(icl&gt;calm&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="CAUSE TO BE MORE FAVORABLY INCLINED" TRANS="успокаивать">pacifies</W> 
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="6,7,8,9" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="6,7,8,9" HYPOT="1-compl.01" ID="9" KSNAME="SYSTEM" LEMMA="SYSTEM" LINK="1-compl" PAFT=". ">system</W>. 
 </S>
@@ -1413,7 +1413,7 @@
 <W FEAT="V" ID="17" KSNAME="STAND1" LEMMA="STAND" WN21="2:42:03::">stood</W> 
 <W ID="18">in front of</W> 
 <W FEAT="S" ID="19" KSNAME="HE1" LEMMA="HE">him</W>, 
-<W FEAT="V" ID="20" KSNAME="SILENCE2" LEMMA="SILENCE" UNL="silence(icl&gt;suppress&gt;do,equ&gt;hush,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="" WN21="2:30:00::">silenced</W> 
+<W FEAT="V" ID="20" KSNAME="SILENCE2" LEMMA="SILENCE" UNL="silence(icl&gt;suppress&gt;do,equ&gt;hush,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="CAUSE TO BE QUIET OR NOT TALK" TRANS="тишина" WN21="2:30:00::">silenced</W> 
 <W ID="21">by</W> 
 <W FEAT="A" ID="22" KSNAME="HIS1" LEMMA="HIS">his</W> 
 <W FEAT="A" ID="23" KSNAME="TERRIBLE" LEMMA="TERRIBLE">terrible</W> 

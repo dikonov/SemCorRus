@@ -157,7 +157,7 @@
 </S>
 <S DATE="30 11 2010 10:54:58" ID="17" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n03.tgt;17" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="MIKE2" LEMMA="MIKE" LINK="predic" PAFT=" ">Mike</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SILENCE2" LEMMA="SILENCE" PAFT=" " UNL="silence(icl&gt;suppress&gt;do,equ&gt;hush,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="">silenced</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SILENCE2" LEMMA="SILENCE" PAFT=" " UNL="silence(icl&gt;suppress&gt;do,equ&gt;hush,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="CAUSE TO BE QUIET OR NOT TALK" TRANS="тишина">silenced</W> 
 <W DOM="2" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="3" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=". ">them</W>. 
 </S>
 <S DATE="30 11 2010 10:54:58" ID="18" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n03.tgt;18" STATUS="doubt">
@@ -533,7 +533,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="SNORT2" LEMMA="SNORT" PAFT=". " UNL="snort(icl&gt;utter&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">snorted</W>. 
 </S>
 <S DATE="30 11 2010 10:54:59" ID="53" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n03.tgt;53" STATUS="doubt">
-"<W DOM="_root" EXTRAFEAT="CAP IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14" ID="1" KSNAME="RUN1" LEMMA="RUN" PAFT=" " PBEF="&quot;" UNL="run_around(icl&gt;play&gt;do,equ&gt;frolic,agt&gt;living_thing)" DEF="">Running</W> 
+"<W DOM="_root" EXTRAFEAT="CAP IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14" ID="1" KSNAME="RUN1" LEMMA="RUN" PAFT=" " PBEF="&quot;" UNL="run_around(icl&gt;play&gt;do,equ&gt;frolic,agt&gt;living_thing)" DEF="PLAY BOISTEROUSLY" TRANS="резвиться">Running</W> 
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14" HYPOT="phras-junct.13" ID="2" KSNAME="AROUND2" LEMMA="AROUND" LINK="phras-junct" PAFT=" ">around</W> 
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14" HYPOT="2-compl.02" ID="3" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -594,7 +594,7 @@
 <W DOM="10" FEAT="V ING" HYPOT="analyt.11" ID="11" KSNAME="MAKE1" LEMMA="MAKE" LINK="analyt" PAFT=" ">making</W> 
 <W DOM="11" FEAT="PR" HYPOT="1-compl.29" ID="12" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="HERSELF" LEMMA="HERSELF" LINK="prepos" PAFT=", ">herself</W>, 
-<W DOM="10" FEAT="V ING" HYPOT="adverb.03" ID="14" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="adverb" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="">pretending</W> 
+<W DOM="10" FEAT="V ING" HYPOT="adverb.03" ID="14" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="adverb" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться">pretending</W> 
 <W DOM="14" FEAT="PART" HYPOT="1-compl.15" ID="15" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="15" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
 <W DOM="16" FEAT="A" GRP="17,18" HYPOT="copulat.11" ID="17" KSNAME="BLIND1" LEMMA="BLIND" LINK="copulat" PAFT=" ">blind</W> 
@@ -657,7 +657,7 @@
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="modif.01" ID="10" KSNAME="BOLD1" LEMMA="BOLD" LINK="modif" PAFT=" ">bold</W> 
 <W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="compar.10" ID="11" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
 <W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="comp-conj.10" ID="12" KSNAME="BRASS" LEMMA="BRASS" LINK="comp-conj" PAFT=", ">brass</W>, 
-<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="descr-modif.01" ID="13" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="descr-modif" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="">pretending</W> 
+<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="descr-modif.01" ID="13" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="descr-modif" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться">pretending</W> 
 <W DOM="15" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM SG" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="predic.01" ID="14" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="13" EXTRAFEAT="ALT FIN IN-QUOT QFIN" FEAT="V PRS SG FP" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="1-compl.31" ID="15" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">'m</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="NUM" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19" HYPOT="copulat.13" ID="16" KSNAME="ONE1" LEMMA="ONE" LINK="copulat" PAFT=" ">one</W> 
@@ -853,7 +853,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TRY1" LEMMA="TRY" PAFT=" " UNL="try(icl&gt;attempt&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE AN EFFORT OR ATTEMPT" TRANS="пытаться">tried</W> 
 <W DOM="2" FEAT="PART" HYPOT="1-compl.15" ID="3" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="VEER2" LEMMA="VEER" LINK="prepos" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veer</W> 
+<W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="VEER2" LEMMA="VEER" LINK="prepos" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veer</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="RIFLE" LEMMA="RIFLE" LINK="1-compl" PAFT=" ">rifle</W> 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="AROUND2" LEMMA="AROUND" LINK="adverb" PAFT=" ">around</W> 
@@ -1863,7 +1863,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="BULLET" LEMMA="BULLET" LINK="predic" PAFT=" ">Bullets</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="BEGIN" LEMMA="BEGIN" PAFT=" " UNL="begin(icl&gt;do,cob&gt;uw,tmf&gt;uw,obj&gt;uw)" DEF="START DOING" TRANS="начинать">began</W> 
 <W DOM="2" FEAT="PART" HYPOT="1-compl.15" ID="3" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="SNAP3" LEMMA="SNAP" LINK="prepos" PAFT=" " UNL="snap(icl&gt;move&gt;occur,obj&gt;thing)" DEF="">snap</W> 
+<W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="SNAP3" LEMMA="SNAP" LINK="prepos" PAFT=" " UNL="snap(icl&gt;move&gt;occur,obj&gt;concrete_thing)" DEF="">snap</W> 
 <W DOM="4" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="PAST3" LEMMA="PAST" LINK="adverb" PAFT=" ">past</W> 
 <W DOM="5" FEAT="S OBJ SG" HYPOT="prepos.01" ID="6" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=". ">him</W>. 
 </S>
@@ -2154,7 +2154,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="BLAZE1" LEMMA="BLAZE" LINK="predic" PAFT=" ">blaze</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="analyt" PAFT=" " UNL="spread(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="">spreading</W> 
+<W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="analyt" PAFT=" " UNL="spread(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">spreading</W> 
 <W DOM="4" FEAT="PR" HYPOT="2-compl.02" ID="5" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="S SG" HYPOT="compos.01" ID="7" KSNAME="FRAME1" LEMMA="FRAME" LINK="compos" PAFT=" ">frame</W> 
@@ -2302,7 +2302,7 @@
 <W DOM="1" FEAT="PR" HYPOT="elect.10" ID="2" KSNAME="OF" LEMMA="OF" LINK="elect" PAFT=" ">of</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S PL" HYPOT="prepos.01" ID="4" KSNAME="WAGON1" LEMMA="WAGON" LINK="prepos" PAFT=" ">wagons</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="ERUPT" LEMMA="ERUPT" PAFT=" " UNL="erupt(icl&gt;explode&gt;occur,obj&gt;volcano)" DEF="">erupted</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="ERUPT" LEMMA="ERUPT" PAFT=" " UNL="erupt(icl&gt;explode&gt;occur,obj&gt;volcano)" DEF="BECOME ACTIVE AND SPEW FORTH LAVA AND ROCKS" TRANS="извергать">erupted</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="MASSIVE" LEMMA="MASSIVE" LINK="modif" PAFT=" ">massive</W> 
 <W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="PILLAR" LEMMA="PILLAR" LINK="1-compl" PAFT=" ">pillar</W> 

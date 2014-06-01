@@ -19,7 +19,7 @@
 <W DOM="11" FEAT="ART" ID="15" KSNAME="AN1" LEMMA="AN" LINK="fictit" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="11" FEAT="A" ID="16" KSNAME="COMPLEX2" LEMMA="COMPLEX" LINK="fictit" PAFT=" " UNL="complex(icl&gt;adj,ant&gt;simple)" DEF="COMPLICATED IN STRUCTURE" TRANS="сложный">complex</W> 
 <W DOM="18" FEAT="S NOM SG" HYPOT="predic.01" ID="17" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
-<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="18" KSNAME="FIT1" LEMMA="FIT" LINK="subord-conj" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="">fits</W> 
+<W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="18" KSNAME="FIT1" LEMMA="FIT" LINK="subord-conj" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="BE COMPATIBLE, SIMILAR OR CONSISTENT" TRANS="соответствовать">fits</W> 
 <W DOM="18" FEAT="PR" HYPOT="2-compl.02" ID="19" KSNAME="INTO" LEMMA="INTO" LINK="2-compl" PAFT=" ">into</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="WHOLE1" LEMMA="WHOLE" LINK="modif" PAFT=" " UNL="whole(icl&gt;adj,ant&gt;fractional)" DEF="INCLUDING ALL COMPONENTS WITHOUT EXCEPTION" TRANS="цельный,целый,весь">whole</W> 
@@ -610,7 +610,7 @@
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="AID1" LEMMA="AID" LINK="1-compl" PAFT=", ">aid</W>, 
 <W DOM="2" FEAT="S SG" HYPOT="sent-appos.01" ID="5" KSNAME="COMFORT1" LEMMA="COMFORT" LINK="sent-appos" PAFT=", " UNL="comfort(icl&gt;relief&gt;thing,equ&gt;consolation)" DEF="">comfort</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="6" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
-<W DOM="5" FEAT="S SG" HYPOT="descr-appos.01" ID="7" KSNAME="SOLACE1" LEMMA="SOLACE" LINK="descr-appos" PAFT=", " UNL="solace(icl&gt;comfort&gt;thing,equ&gt;consolation)" DEF="">solace</W>, 
+<W DOM="5" FEAT="S SG" HYPOT="descr-appos.01" ID="7" KSNAME="SOLACE1" LEMMA="SOLACE" LINK="descr-appos" PAFT=", " UNL="solace(icl&gt;comfort&gt;thing,equ&gt;consolation)" DEF="THE COMFORT YOU FEEL WHEN CONSOLED IN TIMES OF DISAPPOINTMENT" TRANS="утешение">solace</W>, 
 <W DOM="9" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="IN2" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="5" FEAT="V ING" HYPOT="descr-modif.01" ID="9" KSNAME="MEET" LEMMA="MEET" LINK="descr-modif" PAFT=" " UNL="meet(icl&gt;fight&gt;do,agt&gt;thing,cag&gt;thing)" DEF="CONTEND AGAINST AN OPPONENT IN A SPORT, GAME, OR BATTLE" TRANS="противостоять">meeting</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="MUNDANE" LEMMA="MUNDANE" LINK="modif" PAFT=" ">mundane</W> 
@@ -702,7 +702,7 @@
 <W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="FORTITUDE" LEMMA="FORTITUDE" LINK="1-compl" MSNAME="FORTITUDE" PAFT=", " UNL="fortitude(icl&gt;courage&gt;thing)" DEF="STRENGTH OF MIND THAT ENABLES ONE TO ENDURE ADVERSITY WITH COURAGE" TRANS="стойкость">fortitude</W>, 
 <W DOM="23" FEAT="S SG" HYPOT="coordin.01" ID="24" KSNAME="EQUANIMITY" LEMMA="EQUANIMITY" LINK="coordin" PAFT=", " UNL="equanimity(icl&gt;disposition&gt;thing,equ&gt;composure,ant&gt;discomposure)" DEF="STEADINESS OF MIND UNDER STRESS" TRANS="самообладание">equanimity</W>, 
 <W DOM="24" FEAT="CONJ" HYPOT="coordin.10" ID="25" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="4" FEAT="S SG" ID="26" KSNAME="CONSOLATION" LEMMA="CONSOLATION" LINK="fictit" PAFT=", " UNL="consolation(icl&gt;comfort&gt;thing)" DEF="">consolation</W>, 
+<W DOM="4" FEAT="S SG" ID="26" KSNAME="CONSOLATION" LEMMA="CONSOLATION" LINK="fictit" PAFT=", " UNL="consolation(icl&gt;comfort&gt;thing)" DEF="THE COMFORT YOU FEEL WHEN CONSOLED IN TIMES OF DISAPPOINTMENT" TRANS="утешение">consolation</W>, 
 <W DOM="26" FEAT="V ING" HYPOT="modif.01" ID="27" KSNAME="ENABLE" LEMMA="ENABLE" LINK="modif" PAFT=" " UNL="enable(icl&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;uw,met&gt;thing)" DEF="RENDER CAPABLE FOR SOME TASK" TRANS="позволять">enabling</W> 
 <W DOM="27" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="28" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="27" FEAT="PART" HYPOT="2-compl.12" ID="29" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -732,7 +732,7 @@
 <W DOM="15" FEAT="V PP" HYPOT="modif.01" ID="12" KSNAME="PROMISE2" LEMMA="PROMISE" LINK="modif" PAFT=" ">promised</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="PERFECT1" LEMMA="PERFECT" LINK="modif" PAFT=" " UNL="perfect(icl&gt;adj,ant&gt;imperfect)" DEF="BEING COMPLETE OF ITS KIND AND WITHOUT DEFECT OR BLEMISH" TRANS="совершенный">perfect</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="FUTURE2" LEMMA="FUTURE" LINK="modif" PAFT=" " UNL="future(icl&gt;adj,ant&gt;past)" DEF="YET TO BE OR COMING" TRANS="будущий">future</W> 
-<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=". " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W>. 
+<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=". " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W>. 
 </S>
 <S DATE="29 11 2010 20:16:05" ID="31" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_8\\br-j23.tgt;31" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -744,12 +744,12 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="FUNCTION2" LEMMA="FUNCTION" PAFT=" " UNL="function(icl&gt;serve&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="SERVE A PURPOSE, ROLE, OR FUNCTION" TRANS="функционировать">functions</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="1-compl.27" ID="8" KSNAME="AS1" LEMMA="AS" LINK="1-compl" PAFT=" ">as</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="8" FEAT="S SG" HYPOT="comp-conj.10" ID="10" KSNAME="REDRESS2" LEMMA="REDRESS" LINK="comp-conj" PAFT=" " UNL="redress(icl&gt;compensation&gt;thing,equ&gt;damages)" DEF="">redress</W> 
+<W DOM="8" FEAT="S SG" HYPOT="comp-conj.10" ID="10" KSNAME="REDRESS2" LEMMA="REDRESS" LINK="comp-conj" PAFT=" " UNL="redress(icl&gt;compensation&gt;thing,equ&gt;damages)" DEF="A SUM OF MONEY PAID IN COMPENSATION FOR LOSS OR INJURY" TRANS="возмещение">redress</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="13" KSNAME="ILL2" LEMMA="ILL" LINK="prepos" PAFT=" ">ills</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="14" FEAT="S PL" HYPOT="coord-conj.10" ID="15" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="coord-conj" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="">disappointments</W> 
+<W DOM="14" FEAT="S PL" HYPOT="coord-conj.10" ID="15" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="coord-conj" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="A FEELING OF DISSATISFACTION THAT RESULTS WHEN YOUR EXPECTATIONS ARE NOT REALIZED" TRANS="разочарование">disappointments</W> 
 <W DOM="7" FEAT="PR" ID="16" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="ADV" GRP="18,19,20" ID="18" KSNAME="HERE" LEMMA="HERE" LINK="fictit" PAFT=" ">here</W> 
@@ -979,7 +979,7 @@
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="15" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="VAST" LEMMA="VAST" LINK="modif" PAFT=" " UNL="vast(icl&gt;adj,equ&gt;huge)" DEF="UNUSUALLY GREAT IN SIZE OR AMOUNT OR DEGREE OR ESPECIALLY EXTENT OR SCOPE" TRANS="обширный">vast</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="DENOMINATIONAL" LEMMA="DENOMINATIONAL" LINK="modif" MSNAME="DENOMINATIONAL" PAFT=" ">denominational</W> 
-<W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="coord-conj" PAFT=", " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="">differentiation</W>, 
+<W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="coord-conj" PAFT=", " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="A DISCRIMINATION BETWEEN THINGS AS DIFFERENT AND DISTINCT" TRANS="различение">differentiation</W>, 
 <W DOM="20" FEAT="PART" HYPOT="predic.10" ID="19" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="20" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="21" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1132,7 +1132,7 @@
 <W DOM="30" FEAT="A" HYPOT="comp-conj.10" ID="31" KSNAME="SINFUL" LEMMA="SINFUL" LINK="comp-conj" PAFT=", ">sinful</W>, 
 <W DOM="29" FEAT="ADV" HYPOT="adverb.01" ID="32" KSNAME="OCCASIONALLY" LEMMA="OCCASIONALLY" LINK="adverb" PAFT=" " UNL="occasionally(icl&gt;how,com&gt;occasional)" DEF="NOW AND THEN OR HERE AND THERE" TRANS="изредка,временами">occasionally</W> 
 <W DOM="34" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="18" FEAT="S SG" HYPOT="coordin.01" ID="34" KSNAME="STATE1" LEMMA="STATE" LINK="coordin" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="18" FEAT="S SG" HYPOT="coordin.01" ID="34" KSNAME="STATE1" LEMMA="STATE" LINK="coordin" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="34" FEAT="CONJ" HYPOT="attrib.18" ID="35" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="38" FEAT="ART" HYPOT="determ.10" ID="36" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="38" FEAT="A" HYPOT="modif.01" ID="37" KSNAME="DIVINE1" LEMMA="DIVINE" LINK="modif" PAFT=" " UNL="divine(icl&gt;adj,equ&gt;providential)" DEF="RESULTING FROM DIVINE PROVIDENCE" TRANS="божественный">divine</W> 
@@ -1186,7 +1186,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="LEAD1" LEMMA="LEAD" PAFT=" ">leads</W> 
 <W DOM="3" FEAT="PR" HYPOT="3-compl.01" ID="4" KSNAME="TO1" LEMMA="TO" LINK="3-compl" PAFT=" ">to</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="CONCEPTION" LEMMA="CONCEPTION" LINK="prepos" PAFT=" " UNL="conception(icl&gt;creativity&gt;thing,equ&gt;invention)" DEF="">conception</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="CONCEPTION" LEMMA="CONCEPTION" LINK="prepos" PAFT=" " UNL="conception(icl&gt;creativity&gt;thing,equ&gt;invention)" DEF="THE CREATION OF SOMETHING IN THE MIND" TRANS="замысел">conception</W> 
 <W DOM="3" FEAT="PR" ID="7" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
 <W DOM="3" FEAT="ART" ID="8" KSNAME="AN1" LEMMA="AN" LINK="fictit" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="3" FEAT="PR" ID="9" KSNAME="OVER1" LEMMA="OVER" LINK="fictit" PAFT=" ">over</W> 
@@ -1270,7 +1270,7 @@
 <W DOM="5" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="ENDEAVOUR2" LEMMA="ENDEAVOUR" LINK="prepos" PAFT=", ">endeavor</W>, 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="S SG" HYPOT="coord-conj.10" ID="10" KSNAME="LOGIC1" LEMMA="LOGIC" LINK="coord-conj" PAFT=", " UNL="logic(icl&gt;philosophy&gt;thing)" DEF="">logic</W>, 
-<W DOM="10" FEAT="S SG" HYPOT="coordin.01" ID="11" KSNAME="CONSISTENCY" LEMMA="CONSISTENCY" LINK="coordin" PAFT=", " UNL="consistency(icl&gt;uniformity&gt;thing,ant&gt;inconsistency)" DEF="">consistency</W>, 
+<W DOM="10" FEAT="S SG" HYPOT="coordin.01" ID="11" KSNAME="CONSISTENCY" LEMMA="CONSISTENCY" LINK="coordin" PAFT=", " UNL="consistency(icl&gt;uniformity&gt;thing,ant&gt;inconsistency)" DEF="A HARMONIOUS UNIFORMITY OR AGREEMENT AMONG THINGS OR PARTS" TRANS="соответствие">consistency</W>, 
 <W DOM="11" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="S SG" HYPOT="coord-conj.10" ID="13" KSNAME="MEANING" LEMMA="MEANING" LINK="coord-conj" PAFT=" " UNL="meaning(icl&gt;message&gt;thing)" DEF="THE MESSAGE THAT IS INTENDED OR EXPRESSED OR SIGNIFIED" TRANS="смысл,значение">meaning</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.01" ID="14" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
@@ -1298,7 +1298,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="RELIGION" LEMMA="RELIGION" LINK="predic" PAFT=" " UNL="religion(icl&gt;belief&gt;thing)" DEF="A STRONG BELIEF IN A SUPERNATURAL POWER OR POWERS THAT CONTROL HUMAN DESTINY" TRANS="вера">Religion</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="INTEGRATE1" LEMMA="INTEGRATE" PAFT=" " UNL="integrate(icl&gt;incorporate&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="MAKE INTO A WHOLE OR MAKE PART OF A WHOLE" TRANS="включать">integrates</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="4" KSNAME="UNIFY" LEMMA="UNIFY" LINK="coord-conj" PAFT=". " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">unifies</W>. 
+<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="4" KSNAME="UNIFY" LEMMA="UNIFY" LINK="coord-conj" PAFT=". " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="BECOME ONE" TRANS="объединяться">unifies</W>. 
 </S>
 <S DATE="29 11 2010 20:16:11" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="54" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_8\\br-j23.tgt;54" STATUS="doubt">
 <W DOM="14" EXTRAFEAT="CAP" FEAT="A" HYPOT="predic.01" ID="1" KSNAME="SOME1" LEMMA="SOME" LINK="predic" PAFT=" ">Some</W> 
@@ -1397,7 +1397,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="6" KSNAME="PREVAIL" LEMMA="PREVAIL" PAFT=", " UNL="prevail(icl&gt;continue&gt;occur,obj&gt;thing)" DEF="">prevails</W>, 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="9" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="ALWAYS" LEMMA="ALWAYS" LINK="adverb" PAFT=" ">always</W> 
-<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="sent-coordin.01" ID="9" KSNAME="UNIFY" LEMMA="UNIFY" LINK="sent-coordin" PAFT=" " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">unifies</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="sent-coordin.01" ID="9" KSNAME="UNIFY" LEMMA="UNIFY" LINK="sent-coordin" PAFT=" " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="BECOME ONE" TRANS="объединяться">unifies</W> 
 <W DOM="9" FEAT="A" HYPOT="1-compl.01" ID="10" KSNAME="ALL1" LEMMA="ALL" LINK="1-compl" PAFT=" ">all</W> 
 <W DOM="12" FEAT="S NOM SG" HYPOT="predic.01" ID="11" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="12" KSNAME="POSSESS" LEMMA="POSSESS" LINK="relat" PAFT=" " UNL="possess(icl&gt;be,equ&gt;own,obj&gt;thing,aoj&gt;thing)" DEF="HAVE OWNERSHIP OR POSSESSION OF" TRANS="обладать,владеть">possess</W> 
@@ -1472,7 +1472,7 @@
 <S DATE="29 11 2010 20:16:13" EXTRACOMM="Tagging contradicts ETAP parsing: MAN1 - MAN1" ID="62" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_8\\br-j23.tgt;62" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="CREDO" LEMMA="CREDO" LINK="predic" PAFT=" " UNL="credo(icl&gt;doctrine&gt;thing,equ&gt;creed)" DEF="ANY SYSTEM OF PRINCIPLES OR BELIEFS" TRANS="кредо">credo</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="UNIFY" LEMMA="UNIFY" PAFT=" " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">unifies</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="UNIFY" LEMMA="UNIFY" PAFT=" " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="BECOME ONE" TRANS="объединяться">unifies</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.13" ID="4" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="5" KSNAME="SOCIALIZE" LEMMA="SOCIALIZE" LINK="coord-conj" PAFT=" ">socializes</W> 
 <W DOM="5" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="MAN1" LEMMA="MAN" LINK="1-compl" PAFT=" ">men</W> 
@@ -1719,7 +1719,7 @@
 </S>
 <S DATE="29 11 2010 20:16:16" EXTRACOMM="Tagging contradicts ETAP parsing: PEOPLE2 - PEOPLE1,PEOPLE3\nTagging contradicts ETAP parsing:  - FICT-LEX" ID="71" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_8\\br-j23.tgt;71" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="V ING" HYPOT="modif.01" ID="2" KSNAME="UNIFY" LEMMA="UNIFY" LINK="modif" PAFT=" " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">unifying</W> 
+<W DOM="3" FEAT="V ING" HYPOT="modif.01" ID="2" KSNAME="UNIFY" LEMMA="UNIFY" LINK="modif" PAFT=" " UNL="unify(icl&gt;integrate&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="BECOME ONE" TRANS="объединяться">unifying</W> 
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="EFFECT1" LEMMA="EFFECT" LINK="predic" PAFT=" " UNL="effect(icl&gt;phenomenon&gt;thing,equ&gt;consequence)" DEF="A PHENOMENON THAT FOLLOWS AND IS CAUSED BY SOME PREVIOUS PHENOMENON" TRANS="эффект">effect</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="RELIGION" LEMMA="RELIGION" LINK="prepos" PAFT=" " UNL="religion(icl&gt;belief&gt;thing)" DEF="A STRONG BELIEF IN A SUPERNATURAL POWER OR POWERS THAT CONTROL HUMAN DESTINY" TRANS="вера">religion</W> 
@@ -1997,7 +1997,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="INFLUENCE1" LEMMA="INFLUENCE" LINK="1-compl" PAFT=", ">influence</W>, 
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="11" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="13" FEAT="ADV" HYPOT="restr.11" ID="12" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 
-<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="sent-coordin.01" ID="13" KSNAME="ENERGIZE" LEMMA="ENERGIZE" LINK="sent-coordin" MSNAME="ENERGIZE" PAFT=" " UNL="energize(icl&gt;affect&gt;occur,equ&gt;stimulate,obj&gt;thing)" DEF="">energizes</W> 
+<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="sent-coordin.01" ID="13" KSNAME="ENERGIZE" LEMMA="ENERGIZE" LINK="sent-coordin" MSNAME="ENERGIZE" PAFT=" " UNL="energize(icl&gt;affect&gt;occur,equ&gt;stimulate,obj&gt;thing)" DEF="CAUSE TO BE ALERT AND ENERGETIC" TRANS="возбуждать">energizes</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.13" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="15" KSNAME="MOTIVATE" LEMMA="MOTIVATE" LINK="coord-conj" PAFT=" " UNL="motivate(icl&gt;cause&gt;be,obj&gt;person,aoj&gt;thing,gol&gt;uw)" DEF="TO BE THE REASON WHY SOMEONE DOES SOMETHING" TRANS="побуждать">motivates</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="BOTH1" LEMMA="BOTH" LINK="modif" PAFT=" ">both</W> 
@@ -2144,7 +2144,7 @@
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="PRIMITIVE1" LEMMA="PRIMITIVE" LINK="modif" PAFT=" ">primitive</W> 
 <W DOM="1" FEAT="S PL" HYPOT="prepos.01" ID="3" KSNAME="PEOPLE1" LEMMA="PEOPLE" LINK="prepos" PAFT=" " UNL="people(icl&gt;group&gt;thing)" DEF="(PLURAL) ANY GROUP OF HUMAN BEINGS (MEN OR WOMEN OR CHILDREN) COLLECTIVELY" TRANS="люди">peoples</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="SANCTION1" LEMMA="SANCTION" LINK="predic" PAFT=" " UNL="sanction(icl&gt;approval&gt;thing)" DEF="">sanctions</W> 
+<W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="SANCTION1" LEMMA="SANCTION" LINK="predic" PAFT=" " UNL="sanction(icl&gt;approval&gt;thing)" DEF="FORMAL AND EXPLICIT APPROVAL" TRANS="одобрение,санкция">sanctions</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="6" FEAT="S PL" HYPOT="coord-conj.10" ID="7" KSNAME="DICTATE2" LEMMA="DICTATE" LINK="coord-conj" PAFT=" " UNL="dictate(icl&gt;principle&gt;thing)" DEF="A GUIDING PRINCIPLE" TRANS="веление">dictates</W> 
 <W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 

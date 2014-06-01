@@ -405,7 +405,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SHOULD" LEMMA="SHOULD" MSNAME="SHOULD" PAFT=" ">should</W> 
 <W DOM="2" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="3" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
 <W DOM="2" FEAT="V MF" HYPOT="analyt.13" ID="4" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
-<W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="5" FEAT="PART" HYPOT="2-compl.12" ID="6" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="6" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="CARRY" LEMMA="CARRY" LINK="prepos" PAFT=" ">carry</W> 
 <W DOM="9" FEAT="A" GRP="8,9" HYPOT="restr.17" ID="8" KSNAME="ANY" LEMMA="ANY" LINK="restr" PAFT=" ">any</W> 
@@ -540,7 +540,7 @@
 <S DATE="29 11 2010 20:07:30" ID="30" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_34\\br-b10.tgt;30" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP FIN QFIN" FEAT="V MF" ID="1" KSNAME="DO1" LEMMA="DO" PAFT=" ">Do</W> 
 <W DOM="1" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="2" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
-<W DOM="1" FEAT="V MF" HYPOT="analyt.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="1" FEAT="V MF" HYPOT="analyt.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="3" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="3" FEAT="ADV COMP" HYPOT="adverb.01" ID="5" KSNAME="MORE" LEMMA="MORE" LINK="adverb" PAFT=". ">more</W>. 
 </S>

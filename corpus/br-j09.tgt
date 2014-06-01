@@ -419,7 +419,7 @@
 <W DOM="8" FEAT="NUM" HYPOT="quantit.10" ID="7" KSNAME="NUM-SMALL" LEMMA="2" LINK="quantit" PAFT=" ">2</W> 
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="DAY" LEMMA="DAY" LINK="prepos" PAFT=" " UNL="day(icl&gt;period&gt;time,icl&gt;unit)" DEF="MEASURE OF TIME" TRANS="день">days</W> 
 <W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="9" KSNAME="AFTER1" LEMMA="AFTER" LINK="attrib" PAFT=" ">after</W> 
-<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="DONATION" LEMMA="DONATION" LINK="prepos" PAFT=" " UNL="donation(icl&gt;gift&gt;thing,equ&gt;contribution)" DEF="">donation</W> 
+<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="DONATION" LEMMA="DONATION" LINK="prepos" PAFT=" " UNL="donation(icl&gt;gift&gt;thing,equ&gt;contribution)" DEF="A VOLUNTARY GIFT (AS OF MONEY OR SERVICE OR IDEAS) MADE TO SOME WORTHWHILE CAUSE" TRANS="пожертвование">donation</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="coordin.13" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="coord-conj.10" ID="12" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">were</W> 
 <W DOM="12" FEAT="V PP" HYPOT="pass-anal.10" ID="13" KSNAME="WASH1" LEMMA="WASH" LINK="pass-anal" PAFT=" " UNL="wash(icl&gt;serve&gt;do,agt&gt;living_thing,obj&gt;concrete_thing,ins&gt;functional_thing)" DEF="CLEAN WITH SOME CHEMICAL PROCESS" TRANS="мыть,промывать">washed</W> 
@@ -765,7 +765,7 @@
 <W DOM="20" FEAT="S PL" HYPOT="1-compl.01" ID="21" KSNAME="CONCENTRATION" LEMMA="CONCENTRATION" LINK="1-compl" PAFT=" " UNL="concentration(icl&gt;property&gt;thing)" DEF="(CHEMISTRY) THE STRENGTH OF A SOLUTION" TRANS="концентрация">concentrations</W> 
 <W DOM="21" FEAT="PR" HYPOT="quasiagent.10" ID="22" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="24" FEAT="NID" HYPOT="compos.01" ID="23" KSNAME="FICT-LEX" LEMMA="GLYCEROL" LINK="compos" PAFT=" ">glycerol</W> 
-<W DOM="22" FEAT="S PL" HYPOT="prepos.01" ID="24" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=" (" UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solutions</W>( 
+<W DOM="22" FEAT="S PL" HYPOT="prepos.01" ID="24" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="prepos" PAFT=" (" UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solutions</W>( 
 <W DOM="24" EXTRAFEAT="IN-BR" FEAT="NUM" HYPOT="juxtapos.01" ID="25" KSNAME="NUM-LARGE" LEMMA="20" LINK="juxtapos" PAFT=", ">20</W>, 
 <W DOM="25" EXTRAFEAT="IN-BR" FEAT="NUM" HYPOT="coordin.02" ID="26" KSNAME="NUM-LARGE" LEMMA="18" LINK="coordin" PAFT=", ">18</W>, 
 <W DOM="26" EXTRAFEAT="IN-BR" FEAT="NUM" HYPOT="coordin.02" ID="27" KSNAME="NUM-LARGE" LEMMA="10" LINK="coordin" PAFT=", ">10</W>, 
@@ -895,7 +895,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="FRM1" LEMMA="MEQ" LINK="1-compl" PAFT=" ">mEq</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="N1" LEMMA="N" LINK="prepos" MSNAME="N1" PAFT="/ ">N</W>/ 
-<W DOM="8" FEAT="S SG" HYPOT="sequent.01" ID="9" KSNAME="G" LEMMA="G" LINK="sequent" PAFT=", " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="">g</W>, 
+<W DOM="8" FEAT="S SG" HYPOT="sequent.01" ID="9" KSNAME="G" LEMMA="G" LINK="sequent" PAFT=", " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="A METRIC UNIT OF WEIGHT EQUAL TO ONE THOUSANDTH OF A KILOGRAM" TRANS="г,гр">g</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="10" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="11" KSNAME="PREPARE" LEMMA="PREPARE" LINK="pass-anal" PAFT=" ">prepared</W> 
 <W DOM="11" FEAT="PR" HYPOT="adverb.02" ID="12" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
@@ -1187,7 +1187,7 @@
 <W DOM="10" FEAT="PR" ID="15" KSNAME="FROM" LEMMA="FROM" LINK="fictit" PAFT=" ">from</W> 
 <W DOM="10" FEAT="ADV" ID="16" KSNAME="VERY1" LEMMA="VERY" LINK="fictit" PAFT=" " UNL="very(icl&gt;how,equ&gt;precisely)" DEF="IN THE FULLEST SENSE" TRANS="самый,полно">very</W> 
 <W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" ID="17" KSNAME="DILUTE" LEMMA="DILUTE" LINK="fictit" PAFT=" ">dilute</W> 
-<W DOM="17" FEAT="S PL" HYPOT="1-compl.01" ID="18" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="1-compl" PAFT=" " UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="">solutions</W> 
+<W DOM="17" FEAT="S PL" HYPOT="1-compl.01" ID="18" KSNAME="SOLUTION1" LEMMA="SOLUTION" LINK="1-compl" PAFT=" " UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор">solutions</W> 
 <W DOM="10" FEAT="CONJ" ID="19" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="20" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">was</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="21" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

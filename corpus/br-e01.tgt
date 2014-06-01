@@ -1600,7 +1600,7 @@
 <W DOM="15" FEAT="V PP" HYPOT="modif.01" ID="12" KSNAME="SEE1" LEMMA="SEE" LINK="modif" PAFT=" " UNL="see(icl&gt;perceive&gt;be,cob&gt;uw,obj&gt;thing,aoj&gt;thing)" DEF="PERCEIVE BY SIGHT" TRANS="видеть">seen</W> 
 <W DOM="12" FEAT="ADV" HYPOT="phras-junct.10" ID="13" KSNAME="IN2" LEMMA="IN" LINK="phras-junct" PAFT=" ">in</W> 
 <W DOM="15" FEAT="ADV" HYPOT="restr.15" ID="14" KSNAME="MOST" LEMMA="MOST" LINK="restr" PAFT=" ">most</W> 
-<W DOM="17" FEAT="S SG" HYPOT="compos.01" ID="15" KSNAME="CHAMPIONSHIP" LEMMA="CHAMPIONSHIP" LINK="compos" PAFT=" " UNL="championship(icl&gt;high_status&gt;thing)" DEF="">championship</W> 
+<W DOM="17" FEAT="S SG" HYPOT="compos.01" ID="15" KSNAME="CHAMPIONSHIP" LEMMA="CHAMPIONSHIP" LINK="compos" PAFT=" " UNL="championship(icl&gt;high_status&gt;thing)" DEF="THE STATUS OF BEING A CHAMPION" TRANS="чемпионство">championship</W> 
 <W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="appos.03" ID="16" KSNAME="OLYMPIC" LEMMA="OLYMPIC" LINK="appos" PAFT=" " UNL="olympic(icl&gt;adj,com&gt;olympic_games)" DEF="OF OR RELATING TO THE OLYMPIC GAMES" TRANS="олимпийский">Olympic</W> 
 <W DOM="9" FEAT="S PL" HYPOT="copulat.10" ID="17" KSNAME="LIFTER" LEMMA="LIFTER" LINK="copulat" MSNAME="LIFTER" PAFT=" " UNL="lifter(icl&gt;athlete&gt;thing,equ&gt;weightlifter)" DEF="AN ATHLETE WHO LIFTS BARBELLS" TRANS="тяжелоатлет">lifters</W> 
 <W DOM="19" FEAT="S SG" HYPOT="predic.01" ID="18" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 

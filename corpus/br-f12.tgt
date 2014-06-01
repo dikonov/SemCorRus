@@ -143,7 +143,7 @@
 <W DOM="4" FEAT="ADV" HYPOT="phras-junct.10" ID="5" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="THIS2" LEMMA="THIS" LINK="1-compl" PAFT=" ">this</W> 
 <W DOM="4" FEAT="ADV" ID="7" KSNAME="OUT1" LEMMA="OUT" LINK="fictit" PAFT=", ">out</W>, 
-<W DOM="4" FEAT="V ING" ID="8" KSNAME="PREFER1" LEMMA="PREFER" LINK="fictit" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">preferring</W> 
+<W DOM="4" FEAT="V ING" ID="8" KSNAME="PREFER1" LEMMA="PREFER" LINK="fictit" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">preferring</W> 
 <W DOM="8" FEAT="PART" HYPOT="adverb.11" ID="9" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="9" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="CONSIDER" LEMMA="CONSIDER" LINK="prepos" PAFT=" " UNL="consider(icl&gt;regard&gt;be,cob&gt;uw,obj&gt;uw,aoj&gt;person)" DEF="DEEM TO BE" TRANS="считать">consider</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
@@ -669,7 +669,7 @@
 <W DOM="16" EXTRAFEAT="IN-BR IN-QUOT" FEAT="S NOM SG" HYPOT="predic.01" ID="15" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="11" EXTRAFEAT="FIN IN-BR IN-QUOT QFIN" FEAT="V PRS SG TP" HYPOT="relat.01" ID="16" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">is</W> 
 <W DOM="16" EXTRAFEAT="IN-BR IN-QUOT" FEAT="A" HYPOT="copulat.11" ID="17" KSNAME="DECEASED1" LEMMA="DECEASED" LINK="copulat" PAFT="), ">deceased</W>), 
-<W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="V ING" HYPOT="descr-modif.01" ID="18" KSNAME="ASK1" LEMMA="ASK" LINK="descr-modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="V ING" HYPOT="descr-modif.01" ID="18" KSNAME="ASK1" LEMMA="ASK" LINK="descr-modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="19" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="PART" HYPOT="2-compl.12" ID="20" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT="&quot; ">to</W> 
 "<W DOM="20" FEAT="V MF" HYPOT="prepos.16" ID="21" KSNAME="COME" LEMMA="COME" LINK="prepos" PAFT=" " UNL="come_in(icl&gt;occur,equ&gt;enter,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="TO COME OR GO INTO" TRANS="входить">come</W> 
@@ -1720,7 +1720,7 @@
 <W DOM="23" FEAT="S SG" HYPOT="predic.01" ID="22" KSNAME="SITTER" LEMMA="SITTER" LINK="predic" PAFT=" ">sitter</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.10" ID="23" KSNAME="CAN1" LEMMA="CAN" LINK="coord-conj" PAFT=" ">can</W> 
 <W DOM="23" FEAT="V MF" HYPOT="1-compl.17" ID="24" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
-<W DOM="24" FEAT="V PP" HYPOT="pass-anal.10" ID="25" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="24" FEAT="V PP" HYPOT="pass-anal.10" ID="25" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="25" FEAT="PART" HYPOT="2-compl.12" ID="26" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="26" FEAT="V MF" HYPOT="prepos.16" ID="27" KSNAME="CONSIDER" LEMMA="CONSIDER" LINK="prepos" PAFT=" " UNL="consider(icl&gt;be,equ&gt;count,obj&gt;uw,aoj&gt;person)" DEF="TAKE INTO ACCOUNT" TRANS="учитывать">consider</W> 
 <W DOM="27" FEAT="CONJ" HYPOT="coordin.13" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 

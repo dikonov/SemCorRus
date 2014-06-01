@@ -547,7 +547,7 @@
 <W DOM="11" EXTRAFEAT="IN-BR" FEAT="PR" GRP="4,5,6,7,8,9,10,11,12,13,14" HYPOT="attrib.01" ID="12" KSNAME="ON1" LEMMA="ON" LINK="attrib" PAFT=" ">on</W> 
 <W DOM="14" EXTRAFEAT="IN-BR" FEAT="ART" GRP="4,5,6,7,8,9,10,11,12,13,14" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="4,5,6,7,8,9,10,11,12,13,14" HYPOT="prepos.01" ID="14" KSNAME="STREET" LEMMA="STREET" LINK="prepos" PAFT=") ">street</W>) 
-<W DOM="6" FEAT="V ING" ID="15" KSNAME="GRAZE1" LEMMA="GRAZE" LINK="fictit" PAFT=" " UNL="graze(icl&gt;feed&gt;occur,equ&gt;crop,obj&gt;thing)" DEF="">grazing</W> 
+<W DOM="6" FEAT="V ING" ID="15" KSNAME="GRAZE1" LEMMA="GRAZE" LINK="fictit" PAFT=" " UNL="graze(icl&gt;feed&gt;occur,equ&gt;crop,obj&gt;thing)" DEF="FEED AS IN A MEADOW OR PASTURE" TRANS="пастись">grazing</W> 
 <W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="16" KSNAME="LIKE2" LEMMA="LIKE" LINK="fictit" PAFT=" ">like</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.10" ID="17" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="21" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="MOBILE1" LEMMA="MOBILE" LINK="modif" PAFT=" ">mobile</W> 
@@ -765,7 +765,7 @@
 <W DOM="4" FEAT="CONJ" HYPOT="adverb.10" ID="7" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="9" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="CONGRESS" LEMMA="CONGRESS" LINK="predic" PAFT=" ">Congress</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="9" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="9" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="9" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="10" FEAT="PART" HYPOT="2-compl.12" ID="11" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="11" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="APPROVE" LEMMA="APPROVE" LINK="prepos" PAFT=". " UNL="approve(icl&gt;authorize&gt;do,agt&gt;volitional_thing,obj&gt;thing)" DEF="GIVE SANCTION TO" TRANS="санкционировать,одобрять">approve</W>. 
 </S>

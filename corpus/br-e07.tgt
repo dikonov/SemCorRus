@@ -2038,7 +2038,7 @@
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="BAR1" LEMMA="BAR" LINK="prepos" PAFT=". ">bar</W>. 
 </S>
 <S DATE="29 11 2010 20:46:24" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="111" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_40\\br-e07.tgt;111" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="CHUCK2" LEMMA="CHUCK" PAFT=" " UNL="chuck(icl&gt;throw&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">Chuck</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="CHUCK2" LEMMA="CHUCK" PAFT=" " UNL="chuck(icl&gt;throw&gt;do,agt&gt;thing,obj&gt;thing)" DEF="THROW CARELESSLY" TRANS="швырять">Chuck</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="LENGTH" LEMMA="LENGTH" LINK="1-compl" PAFT=" ">length</W> 
 <W DOM="1" FEAT="PR" ID="4" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
@@ -2060,7 +2060,7 @@
 <W DOM="24" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="adverb.10" ID="20" KSNAME="WHILE1" LEMMA="WHILE" LINK="adverb" PAFT=" ">while</W> 
 <W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="S NOM SG" HYPOT="predic.01" ID="21" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="20" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="22" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="V ING" HYPOT="analyt.11" ID="23" KSNAME="ROTATE" LEMMA="ROTATE" LINK="analyt" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotating</W> 
+<W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="V ING" HYPOT="analyt.11" ID="23" KSNAME="ROTATE" LEMMA="ROTATE" LINK="analyt" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotating</W> 
 <W DOM="1" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" ID="24" KSNAME="FILE2" LEMMA="FILE" LINK="fictit" PAFT=" " UNL="file(icl&gt;smooth&gt;do,agt&gt;person,obj&gt;concrete_thing)" DEF="SMOOTH WITH A FILE" TRANS="шлифовать">file</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="compos.01" ID="26" KSNAME="END1" LEMMA="END" LINK="compos" PAFT=" ">end</W> 
@@ -2343,7 +2343,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="BASIS" LEMMA="BASIS" LINK="1-compl" PAFT=". ">basis</W>. 
 </S>
 <S DATE="29 11 2010 20:46:26" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="127" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_40\\br-e07.tgt;127" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="CHUCK2" LEMMA="CHUCK" PAFT=" " UNL="chuck(icl&gt;throw&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">Chuck</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="CHUCK2" LEMMA="CHUCK" PAFT=" " UNL="chuck(icl&gt;throw&gt;do,agt&gt;thing,obj&gt;thing)" DEF="THROW CARELESSLY" TRANS="швырять">Chuck</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="NUM" ID="3" KSNAME="NUM-SMALL" LEMMA="2" LINK="fictit" PAFT=" &quot;">2</W>" 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="4" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 

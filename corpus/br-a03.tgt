@@ -72,7 +72,7 @@
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="DISCLOSURE" LEMMA="DISCLOSURE" LINK="1-compl" PAFT=" ">disclosure</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="adverb.10" ID="5" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="7" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="subord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="subord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="9" EXTRAFEAT="CAP" FEAT="S SG" GRP="8,9" HYPOT="compos.01" ID="8" KSNAME="JUDGE3" LEMMA="JUDGE" LINK="compos" PAFT=" ">Judge</W> 
 <W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="8,9" HYPOT="1-compl.01" ID="9" KSNAME="PARSON" LEMMA="PARSON" LINK="1-compl" PAFT=" ">Parsons</W> 
 <W DOM="7" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -322,7 +322,7 @@
 <W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="COMPLETION" LEMMA="COMPLETION" LINK="prepos" PAFT=". ">completion</W>. 
 </S>
 <S DATE="30 11 2010 10:41:39" ID="15" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-a03.tgt;15" STATUS="doubt">
-<W DOM="4" EXTRAFEAT="CAP" FEAT="V PP" HYPOT="modif.01" ID="1" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Asked</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="V PP" HYPOT="modif.01" ID="1" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Asked</W> 
 <W DOM="1" FEAT="PART" HYPOT="2-compl.12" ID="2" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="3" KSNAME="ELABORATE1" LEMMA="ELABORATE" LINK="prepos" PAFT=", " UNL="elaborate(icl&gt;clarify&gt;do,agt&gt;volitional_thing,obj&gt;thing)" DEF="ADD DETAILS, AS TO AN ACCOUNT OR IDEA" TRANS="развивать">elaborate</W>, 
 <W DOM="10" EXTRAFEAT="CAP" FEAT="S SG" GRP="4,5" HYPOT="predic.01" ID="4" KSNAME="PIERRE" LEMMA="PIERRE" LINK="predic" PAFT=" ">Pierre</W> 
@@ -1130,7 +1130,7 @@
 <W DOM="2" FEAT="CONJ" ID="18" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="MEDICAL" LEMMA="MEDICAL" LINK="modif" PAFT=" ">medical</W> 
 <W DOM="23" FEAT="S PL" HYPOT="predic.01" ID="20" KSNAME="BENEFIT2" LEMMA="BENEFIT" LINK="predic" PAFT=" ">benefits</W> 
-<W DOM="20" FEAT="V PP" HYPOT="modif.01" ID="21" KSNAME="PAY1" LEMMA="PAY" LINK="modif" PAFT=" " UNL="pay_out(icl&gt;settle&gt;do,cob&gt;uw,agt&gt;thing,obj&gt;money,rec&gt;thing)" DEF="">paid</W> 
+<W DOM="20" FEAT="V PP" HYPOT="modif.01" ID="21" KSNAME="PAY1" LEMMA="PAY" LINK="modif" PAFT=" " UNL="pay_out(icl&gt;settle&gt;do,cob&gt;uw,agt&gt;thing,obj&gt;money,rec&gt;thing)" DEF="PAY OUT" TRANS="выплачивать">paid</W> 
 <W DOM="21" FEAT="ADV" HYPOT="phras-junct.10" ID="22" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="23" KSNAME="WOULD" LEMMA="WOULD" LINK="subord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="23" FEAT="V MF" HYPOT="analyt.13" ID="24" KSNAME="RUN3" LEMMA="RUN" LINK="analyt" PAFT=" " UNL="run(icl&gt;undergo&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="BE SUBJECTED TO" TRANS="подвергаться">run</W> 
@@ -1738,7 +1738,7 @@
 </S>
 <S DATE="30 11 2010 10:41:53" ID="71" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-a03.tgt;71" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="12" FEAT="PR" HYPOT="adverb.02" ID="3" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="3" FEAT="A" HYPOT="prepos.01" ID="4" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="prepos" PAFT=" ">another</W> 
 <W DOM="6" FEAT="NUM" HYPOT="quant-aux.10" ID="5" KSNAME="NUM-LARGE" LEMMA="10" LINK="quant-aux" PAFT=" ">10</W> 
@@ -1796,7 +1796,7 @@
 <S DATE="30 11 2010 10:41:53" ID="74" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-a03.tgt;74" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
 <W DOM="3" FEAT="ADV" HYPOT="restr.11" ID="2" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" ">also</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="CONGRESS" LEMMA="CONGRESS" LINK="1-compl" PAFT=" ">Congress</W> 
 <W DOM="3" FEAT="PART" HYPOT="2-compl.12" ID="5" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="5" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="APPROVE" LEMMA="APPROVE" LINK="prepos" PAFT=" " UNL="approve(icl&gt;authorize&gt;do,agt&gt;volitional_thing,obj&gt;thing)" DEF="GIVE SANCTION TO" TRANS="санкционировать,одобрять">approve</W> 
@@ -1814,7 +1814,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="SAY" LEMMA="SAY" PAFT=" " UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">said</W> 
 <W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="1-compl.31" ID="5" KSNAME="WILL1" LEMMA="WILL" LINK="1-compl" MSNAME="WILL1" PAFT=" ">will</W> 
-<W DOM="5" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="5" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="6" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="CONGRESS" LEMMA="CONGRESS" LINK="1-compl" PAFT=" ">Congress</W> 
 <W DOM="6" FEAT="PART" HYPOT="2-compl.12" ID="8" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="INCREASE1" LEMMA="INCREASE" LINK="prepos" PAFT=" " UNL="increase(icl&gt;do,src&gt;uw,agt&gt;thing,obj&gt;thing,gol&gt;uw,val&gt;thing)" DEF="MAKE BIGGER OR MORE" TRANS="увеличить,повышать">increase</W> 
@@ -1838,7 +1838,7 @@
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="MEDICAL" LEMMA="MEDICAL" LINK="modif" PAFT=" ">medical</W> 
 <W DOM="20" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="RESEARCH1" LEMMA="RESEARCH" LINK="predic" PAFT=" ">research</W> 
 <W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="NUM" ID="7" KSNAME="NUM-LARGE" LEMMA="20" LINK="fictit" PAFT=" ">20</W> 
 <W DOM="7" FEAT="NUM" HYPOT="num-appos.10" ID="8" KSNAME="MILLION1" LEMMA="MILLION" LINK="num-appos" PAFT=" ">million</W> 
@@ -1954,7 +1954,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="PLAN1" LEMMA="PLAN" LINK="1-compl" PAFT=" ">plan</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="LAST1" LEMMA="LAST" LINK="modif" PAFT=" ">last</W> 
 <W DOM="9" FEAT="S SG" HYPOT="adverb.04" ID="8" KSNAME="YEAR" LEMMA="YEAR" LINK="adverb" PAFT=" ">year</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="HAIL2" LEMMA="HAIL" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="">hailed</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="HAIL2" LEMMA="HAIL" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="PRAISE VOCIFEROUSLY" TRANS="славить">hailed</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="MESSAGE1" LEMMA="MESSAGE" LINK="1-compl" PAFT=". ">message</W>. 
 </S>

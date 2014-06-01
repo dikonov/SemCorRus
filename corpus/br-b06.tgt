@@ -335,7 +335,7 @@
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="COST1" LEMMA="COST" LINK="1-compl" PAFT=" ">cost</W> 
 <W DOM="16" FEAT="PR" HYPOT="quasiagent.10" ID="17" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="17" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="prepos.01" ID="18" KSNAME="REMODEL" LEMMA="REMODEL" LINK="prepos" PAFT=" " UNL="remodel(icl&gt;change&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">remodeling</W> 
+<W DOM="17" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="prepos.01" ID="18" KSNAME="REMODEL" LEMMA="REMODEL" LINK="prepos" PAFT=" " UNL="remodel(icl&gt;change&gt;do,agt&gt;thing,obj&gt;thing)" DEF="DO OVER, AS OF (PART OF) A HOUSE" TRANS="реконструировать">remodeling</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.10" ID="19" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="21" FEAT="S SG" GRP="20,21" HYPOT="compos.02" ID="20" KSNAME="CITY" LEMMA="CITY" LINK="compos" PAFT=" ">city</W> 
 <W DOM="22" FEAT="V PP" GRP="20,21" HYPOT="modif.01" ID="21" KSNAME="OWN2" LEMMA="OWN" LINK="modif" PAFT=" ">owned</W> 
@@ -772,7 +772,7 @@
 <W DOM="21" FEAT="S SG" GRP="22,23" HYPOT="prepos.01" ID="23" KSNAME="FRM-PROP" LEMMA="TAMMANY" LINK="prepos" PAFT=" ">Tammany</W> 
 <W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="24" KSNAME="CONSPIRE" LEMMA="CONSPIRE" LINK="relat" MSNAME="CONSPIRE" PAFT=" " UNL="conspire(icl&gt;interact&gt;occur,obj&gt;thing)" DEF="">conspired</W> 
 <W DOM="24" FEAT="PART" HYPOT="adverb.11" ID="25" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="26" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="prepos" PAFT=" " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="">overthrow</W> 
+<W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="26" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="prepos" PAFT=" " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="CAUSE THE DOWNFALL OF" TRANS="свергать">overthrow</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="26" FEAT="S SG" HYPOT="1-compl.01" ID="28" KSNAME="GOVERNMENT" LEMMA="GOVERNMENT" LINK="1-compl" PAFT=" ">government</W> 
 <W DOM="28" FEAT="PR" HYPOT="attrib.01" ID="29" KSNAME="BY1" LEMMA="BY" LINK="attrib" PAFT=" ">by</W> 
@@ -1256,7 +1256,7 @@
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="10" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="MAN1" LEMMA="MAN" LINK="prepos" PAFT=" ">man</W> 
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
-<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="13" KSNAME="LEND" LEMMA="LEND" LINK="relat" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="">lent</W> 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="13" KSNAME="LEND" LEMMA="LEND" LINK="relat" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="BESTOW A QUALITY ON" TRANS="придавать">lent</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="NAME1" LEMMA="NAME" LINK="1-compl" PAFT=" ">name</W> 
 <W DOM="13" FEAT="PR" HYPOT="2-compl.02" ID="16" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 

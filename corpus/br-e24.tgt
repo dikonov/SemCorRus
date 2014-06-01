@@ -59,7 +59,7 @@
 </S>
 <S DATE="29 11 2010 20:01:02" EXTRACOMM="Tagging contradicts ETAP parsing: RUSSIAN1 - RUSSIAN2" ID="4" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e24.tgt;4" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;native&gt;thing)" DEF="">Russians</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF RUSSIA" TRANS="русский">Russians</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="3" FEAT="A" HYPOT="subj-copr.10" ID="4" KSNAME="ALL1" LEMMA="ALL" LINK="subj-copr" PAFT=" ">all</W> 
 <W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="TRAIN2" LEMMA="TRAIN" LINK="pass-anal" PAFT=" ">trained</W> 
@@ -256,7 +256,7 @@
 <S DATE="29 11 2010 20:01:05" EXTRACOMM="Tagging contradicts ETAP parsing: RUSSIAN1 - RUSSIAN2" ID="14" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e24.tgt;14" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="BUT1" LEMMA="BUT" PAFT=" ">But</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;native&gt;thing)" DEF="">Russians</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF RUSSIA" TRANS="русский">Russians</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.00" ID="4" KSNAME="USE2" LEMMA="USE" LINK="coord-conj" PAFT=" ">use</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="GYMNASTICS" LEMMA="GYMNASTICS" LINK="1-compl" PAFT=" " UNL="gymnastics(icl&gt;sport&gt;thing)" DEF="A SPORT THAT INVOLVES EXERCISES INTENDED TO DISPLAY STRENGTH AND BALANCE AND AGILITY" TRANS="гимнастика">gymnastics</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="adverb.10" ID="6" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
@@ -392,7 +392,7 @@
 </S>
 <S DATE="29 11 2010 20:01:05" ID="20" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e24.tgt;20" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="restr.15" ID="1" KSNAME="MOST" LEMMA="MOST" LINK="restr" PAFT=" ">Most</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="EUROPEAN2" LEMMA="EUROPEAN" LINK="predic" PAFT=" " UNL="european(icl&gt;inhabitant&gt;thing)" DEF="">Europeans</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="EUROPEAN2" LEMMA="EUROPEAN" LINK="predic" PAFT=" " UNL="european(icl&gt;inhabitant&gt;person)" DEF="A NATIVE OR INHABITANT OF EUROPE" TRANS="европеец">Europeans</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">have</W> 
 <W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="4" FEAT="V ING" HYPOT="analyt.11" ID="5" KSNAME="EXERCISE2" LEMMA="EXERCISE" LINK="analyt" PAFT=" " UNL="exercise(icl&gt;cause&gt;do,agt&gt;volitional_thing,obj&gt;living_thing,scn&gt;uw)" DEF="">exercising</W> 
@@ -680,7 +680,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="LEARN" LEMMA="LEARN" PAFT=" " UNL="learn(icl&gt;añquire&gt;do,src&gt;uw,agt&gt;volitional_thing,obj&gt;thing)" DEF="">learned</W> 
 <W DOM="7" FEAT="NUM" HYPOT="quantit.10" ID="5" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="VALUABLE1" LEMMA="VALUABLE" LINK="modif" PAFT=" " UNL="valuable(icl&gt;adj)" DEF="">valuable</W> 
-<W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="LESSON" LEMMA="LESSON" LINK="1-compl" PAFT=". " UNL="lesson(icl&gt;meaning&gt;thing,equ&gt;moral)" DEF="">lessons</W>. 
+<W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="LESSON" LEMMA="LESSON" LINK="1-compl" PAFT=". " UNL="lesson(icl&gt;meaning&gt;thing,equ&gt;moral)" DEF="THE SIGNIFICANCE OF A STORY OR EVENT" TRANS="урок">lessons</W>. 
 </S>
 <S DATE="29 11 2010 20:01:07" EXTRACOMM="Tagging contradicts ETAP parsing: MAN1 - MAN1" ID="35" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e24.tgt;35" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
@@ -728,7 +728,7 @@
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2" HYPOT="predic.01" ID="1" KSNAME="PRESIDENT" LEMMA="PRESIDENT" LINK="predic" PAFT=" ">President</W> 
 <W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2" HYPOT="appos.03" ID="2" KSNAME="KENNEDY" LEMMA="KENNEDY" LINK="appos" PAFT=" ">Kennedy</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
-<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="2-compl.16" ID="5" KSNAME="THAT1" LEMMA="THAT" LINK="2-compl" PAFT=" ">that</W> 
 <W DOM="7" FEAT="S NOM PL" HYPOT="predic.01" ID="6" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="7" KSNAME="BECOME" LEMMA="BECOME" LINK="subord-conj" PAFT=" ">become</W> 
@@ -952,7 +952,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="14" KSNAME="STRENGTH" LEMMA="STRENGTH" LINK="1-compl" PAFT=". " UNL="strength(icl&gt;property&gt;thing,ant&gt;weakness)" DEF="THE PROPERTY OF BEING PHYSICALLY OR MENTALLY STRONG" TRANS="сила">strength</W>. 
 </S>
 <S DATE="29 11 2010 20:01:10" ID="48" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e24.tgt;48" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Ask</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Ask</W> 
 <W DOM="3" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="ANY" LEMMA="ANY" LINK="determ" PAFT=" ">any</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="GROUP1" LEMMA="GROUP" LINK="predic" PAFT=" " UNL="group(icl&gt;abstraction&gt;thing)" DEF="ANY NUMBER OF ENTITIES (MEMBERS) CONSIDERED AS A UNIT" TRANS="группа">group</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 

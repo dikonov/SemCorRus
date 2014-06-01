@@ -260,7 +260,7 @@
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.10" ID="4" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="4" FEAT="A" HYPOT="coord-conj.10" ID="5" KSNAME="UNCHRISTIAN" LEMMA="UNCHRISTIAN" LINK="coord-conj" PAFT=" ">unchristian</W> 
 <W DOM="1" FEAT="PART" HYPOT="explet.10" ID="6" KSNAME="TO2" LEMMA="TO" LINK="explet" PAFT=" ">to</W> 
-<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="PERSON" LEMMA="PERSON" LINK="1-compl" PAFT=" ">person</W> 
 <W DOM="7" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -521,7 +521,7 @@
 <S DATE="29 11 2010 20:39:08" ID="30" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d09.tgt;30" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="NONE" LEMMA="NONE" LINK="predic" PAFT=" ">None</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SHOULD" LEMMA="SHOULD" MSNAME="SHOULD" PAFT=" ">should</W> 
-<W DOM="2" FEAT="V MF" HYPOT="analyt.13" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="2" FEAT="V MF" HYPOT="analyt.13" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="3" FEAT="ADV COMP" HYPOT="adverb.01" ID="4" KSNAME="LESS1" LEMMA="LESS" LINK="adverb" PAFT=". ">less</W>. 
 </S>
 <S DATE="29 11 2010 20:39:09" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="31" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d09.tgt;31" STATUS="doubt">
@@ -1033,7 +1033,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="SHEET1" LEMMA="SHEET" LINK="1-compl" PAFT=". ">sheet</W>. 
 </S>
 <S DATE="29 11 2010 20:39:14" EXTRACOMM="Tagging contradicts ETAP parsing: M1 - I\nSome nodes are not confirmed\nSome punctuation marks are not confirmed" ID="61" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d09.tgt;61" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Ask</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Ask</W> 
 <W DOM="3" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
 <W DOM="1" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="MEMBER" LEMMA="MEMBER" LINK="1-compl" PAFT=" ">member</W> 
 <W DOM="1" FEAT="PART" HYPOT="2-compl.12" ID="4" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -1094,7 +1094,7 @@
 <W DOM="12" FEAT="S SG" GRP="13,14" HYPOT="attrib.10" ID="14" KSNAME="WEEK" LEMMA="WEEK" LINK="attrib" PAFT=". ">week</W>. 
 </S>
 <S DATE="29 11 2010 20:39:14" ID="64" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d09.tgt;64" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Ask</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Ask</W> 
 <W DOM="4" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
 <W DOM="1" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="MEMBER" LEMMA="MEMBER" LINK="1-compl" PAFT=" ">member</W> 
@@ -1476,7 +1476,7 @@
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="SERMON" LEMMA="SERMON" LINK="1-compl" PAFT=". ">sermon</W>. 
 </S>
 <S DATE="29 11 2010 20:39:16" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d09.tgt;83" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">Ask</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">Ask</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
 <W DOM="1" FEAT="S PL" HYPOT="1-compl.01" ID="4" KSNAME="MEMBER" LEMMA="MEMBER" LINK="1-compl" PAFT=" ">members</W> 
@@ -1498,7 +1498,7 @@
 <S DATE="29 11 2010 20:39:16" ID="84" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_39\\br-d09.tgt;84" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">Some</W> 
 <W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="DENOMINATION" LEMMA="DENOMINATION" LINK="predic" PAFT=" ">denominations</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
 <W DOM="3" FEAT="S PL" HYPOT="1-compl.01" ID="5" KSNAME="MEMBER" LEMMA="MEMBER" LINK="1-compl" PAFT=" ">members</W> 
 <W DOM="3" FEAT="PART" HYPOT="2-compl.12" ID="6" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -1587,7 +1587,7 @@
 <W DOM="1" FEAT="PR" HYPOT="2-compl.02" ID="5" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="CONGREGATION" LEMMA="CONGREGATION" LINK="prepos" PAFT=", ">congregation</W>, 
-<W DOM="1" FEAT="V ING" HYPOT="adverb.03" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="1" FEAT="V ING" HYPOT="adverb.03" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="8" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="9" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="8" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="FACE2" LEMMA="FACE" LINK="prepos" PAFT=" ">face</W> 
@@ -1998,7 +1998,7 @@
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="3,4,5" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="4" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="3,4,5" HYPOT="prepos.01" ID="5" KSNAME="GOD" LEMMA="GOD" LINK="prepos" PAFT="&quot; ">God</W>" 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="6" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
-<W DOM="6" FEAT="V PP" HYPOT="analyt.12" ID="7" KSNAME="FAIL1" LEMMA="FAIL" LINK="analyt" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">failed</W> 
+<W DOM="6" FEAT="V PP" HYPOT="analyt.12" ID="7" KSNAME="FAIL1" LEMMA="FAIL" LINK="analyt" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="DISAPPOINT, PROVE UNDEPENDABLE TO" TRANS="подводить">failed</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
 <W DOM="7" FEAT="S PL" HYPOT="1-compl.01" ID="10" KSNAME="MEMBER" LEMMA="MEMBER" LINK="1-compl" PAFT=" ">members</W> 

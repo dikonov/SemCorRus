@@ -560,7 +560,7 @@
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="modif.01" ID="2" KSNAME="SAY" LEMMA="SAY" LINK="modif" PAFT=" " UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">said</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">old</W> 
-<W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="S SG" ID="5" KSNAME="LADY" LEMMA="LADY" LINK="fictit" PAFT=", " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W>, 
+<W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="S SG" ID="5" KSNAME="LADY" LEMMA="LADY" LINK="fictit" PAFT=", " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W>, 
 <W DOM="1" EXTRAFEAT="IN-QUOT" FEAT="CONJ" ID="6" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="1" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" ID="7" KSNAME="BRING" LEMMA="BRING" LINK="fictit" PAFT=" ">brought</W> 
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
@@ -994,7 +994,7 @@
 <W DOM="2" FEAT="A" ID="26" KSNAME="HER" LEMMA="HER" LINK="fictit" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="29" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="28" KSNAME="FREQUENT1" LEMMA="FREQUENT" LINK="modif" PAFT=" " UNL="frequent(icl&gt;adj,ant&gt;infrequent)" DEF="COMING AT SHORT INTERVALS OR HABITUALLY" TRANS="частый">frequent</W> 
-<W DOM="25" FEAT="S SG" HYPOT="1-compl.01" ID="29" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="1-compl" PAFT=" " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="">illusion</W> 
+<W DOM="25" FEAT="S SG" HYPOT="1-compl.01" ID="29" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="1-compl" PAFT=" " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="SOMETHING MANY PEOPLE BELIEVE THAT IS FALSE" TRANS="иллюзия">illusion</W> 
 <W DOM="2" FEAT="CONJ" ID="30" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="32" FEAT="S NOM SG" HYPOT="predic.01" ID="31" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">she</W> 
 <W DOM="30" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="32" KSNAME="DINE" LEMMA="DINE" LINK="subord-conj" PAFT=" " UNL="dine(icl&gt;eat&gt;do,agt&gt;person,obj&gt;matter)" DEF="HAVE SUPPER" TRANS="ужинать">dined</W> 
@@ -1045,7 +1045,7 @@
 <W DOM="2" FEAT="V ING" HYPOT="explet.10" ID="12" KSNAME="PLAY1" LEMMA="PLAY" LINK="explet" PAFT=" ">playing</W> 
 <W DOM="12" FEAT="PR" HYPOT="3-compl.01" ID="13" KSNAME="WITH" LEMMA="WITH" LINK="3-compl" PAFT=" ">with</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="NOTION" LEMMA="NOTION" LINK="prepos" PAFT=" " UNL="notion(icl&gt;idea&gt;thing)" DEF="">notion</W> 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="NOTION" LEMMA="NOTION" LINK="prepos" PAFT=" " UNL="notion(icl&gt;idea&gt;thing)" DEF="AN ODD OR FANCIFUL OR CAPRICIOUS IDEA" TRANS="фантазия">notion</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="rhem.10" ID="16" KSNAME="THAT1" LEMMA="THAT" LINK="rhem" PAFT=" ">that</W> 
 <W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="THIS2" LEMMA="THIS" LINK="predic" PAFT=" ">this</W> 
 <W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="18" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
@@ -1185,7 +1185,7 @@
 <W DOM="37" FEAT="S SG" HYPOT="prepos.01" ID="41" KSNAME="ALBUM" LEMMA="ALBUM" LINK="prepos" PAFT=" " UNL="album(icl&gt;book&gt;thing)" DEF="A BOOK OF BLANK PAGES WITH POCKETS OR ENVELOPES" TRANS="альбом">album</W> 
 <W DOM="41" FEAT="PR" HYPOT="attrib.01" ID="42" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="45" FEAT="ART" HYPOT="determ.11" ID="43" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="45" FEAT="S SG" HYPOT="compos.01" ID="44" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="45" FEAT="S SG" HYPOT="compos.01" ID="44" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWER SIDE OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="42" FEAT="S SG" HYPOT="prepos.01" ID="45" KSNAME="DRAWER1" LEMMA="DRAWER" LINK="prepos" PAFT=" " UNL="drawer(icl&gt;container&gt;thing)" DEF="A BOXLIKE CONTAINER IN A PIECE OF FURNITURE" TRANS="ящик">drawer</W> 
 <W DOM="45" FEAT="PR" HYPOT="quasiagent.10" ID="46" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="48" FEAT="ART" HYPOT="determ.11" ID="47" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1278,7 +1278,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="compos.01" ID="6" KSNAME="FARM1" LEMMA="FARM" LINK="compos" PAFT=" ">farm</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="COUNTRY" LEMMA="COUNTRY" LINK="1-compl" PAFT=" " UNL="country(icl&gt;place,equ&gt;rural_area)" DEF="LAND THAT IS OUTSIDE TOWNS AND CITIES" TRANS="сельская местность,деревня">country</W> 
 <W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=", ">which</W>, 
-<W DOM="17" FEAT="V ING" HYPOT="adverb.03" ID="9" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="adverb" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="">spreading</W> 
+<W DOM="17" FEAT="V ING" HYPOT="adverb.03" ID="9" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="adverb" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">spreading</W> 
 <W DOM="9" FEAT="ADV" HYPOT="phras-junct.10" ID="10" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="9" FEAT="PR" HYPOT="1-compl.07" ID="11" KSNAME="FROM" LEMMA="FROM" LINK="1-compl" PAFT=" ">from</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="BOTH1" LEMMA="BOTH" LINK="modif" PAFT=" ">both</W> 
@@ -2146,7 +2146,7 @@
 <W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="RUN3" LEMMA="RUN" LINK="prepos" PAFT=" " UNL="run_up(icl&gt;raise&gt;do,equ&gt;hoist,agt&gt;thing,obj&gt;thing)" DEF="">run</W> 
 <W DOM="22" FEAT="ADV" HYPOT="phras-junct.10" ID="23" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="25" FEAT="A" HYPOT="determ.13" ID="24" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
-<W DOM="22" FEAT="S PL" HYPOT="1-compl.01" ID="25" KSNAME="SAIL1" LEMMA="SAIL" LINK="1-compl" PAFT=". " UNL="sail(icl&gt;piece_of_cloth&gt;thing)" DEF="">sails</W>. 
+<W DOM="22" FEAT="S PL" HYPOT="1-compl.01" ID="25" KSNAME="SAIL1" LEMMA="SAIL" LINK="1-compl" PAFT=". " UNL="sail(icl&gt;piece_of_cloth&gt;thing)" DEF="A LARGE PIECE OF FABRIC (USUALLY CANVAS FABRIC) BY MEANS OF WHICH WIND IS USED TO PROPEL A SAILING VESSEL" TRANS="парус">sails</W>. 
 </S>
 <S DATE="29 11 2010 20:02:01" ID="105" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k23.tgt;105" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -2156,7 +2156,7 @@
 <W DOM="4" FEAT="A" HYPOT="copulat.11" ID="5" KSNAME="LONG1" LEMMA="LONG" LINK="copulat" PAFT=" ">long</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.02" ID="6" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWER SIDE OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="8" FEAT="PR" HYPOT="quasiagent.10" ID="9" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="BAY" LEMMA="BAY" LINK="prepos" PAFT=". " UNL="bay(icl&gt;body_of_water&gt;thing)" DEF="AN INDENTATION OF A SHORELINE LARGER THAN A COVE BUT SMALLER THAN A GULF" TRANS="бухта">bay</W>. 
@@ -2177,12 +2177,12 @@
 <W DOM="8" FEAT="CONJ" HYPOT="adverb.10" ID="5" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="7" FEAT="S NOM PL" HYPOT="predic.01" ID="6" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="DO1" LEMMA="DO" LINK="subord-conj" PAFT=", ">did</W>, 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="8" KSNAME="ROB1" LEMMA="ROB" PAFT=" " UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="">robbed</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="8" KSNAME="ROB1" LEMMA="ROB" PAFT=" " UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="RIP OFF" TRANS="обчищать">robbed</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="ANTICIPATION" LEMMA="ANTICIPATION" LINK="prepos" PAFT=", ">anticipation</W>, 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="COMMON1" LEMMA="COMMON" LINK="modif" PAFT=" " UNL="common(icl&gt;adj,ant&gt;individual)" DEF="BELONGING TO OR PARTICIPATED IN BY A COMMUNITY AS A WHOLE" TRANS="общий">common</W> 
-<W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="13" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="predic" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="">disappointment</W> 
+<W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="13" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="predic" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="A FEELING OF DISSATISFACTION THAT RESULTS WHEN YOUR EXPECTATIONS ARE NOT REALIZED" TRANS="разочарование">disappointment</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="14" KSNAME="SEIZE" LEMMA="SEIZE" LINK="sent-coordin" PAFT=" " UNL="seize(icl&gt;capture&gt;do,agt&gt;volitional_thing,obj&gt;concrete_thing,cag&gt;thing,met&gt;thing)" DEF="TAKE CONTROL OF A PLACE SUDDENLY AND QUICKLY, USING MILITARY FORCE" TRANS="захватывать">seized</W> 
 <W DOM="14" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="15" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=". ">them</W>. 
 </S>

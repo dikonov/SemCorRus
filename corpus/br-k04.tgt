@@ -1266,7 +1266,7 @@
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="A SUP" HYPOT="coord-conj.10" ID="11" KSNAME="BAD" LEMMA="BAD" LINK="coord-conj" PAFT=" ">worst</W> 
-<W DOM="5" FEAT="V PP" HYPOT="subj-copr.01" ID="12" KSNAME="NESTLE1" LEMMA="NESTLE" LINK="subj-copr" PAFT=" " UNL="nestle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="">nestled</W> 
+<W DOM="5" FEAT="V PP" HYPOT="subj-copr.01" ID="12" KSNAME="NESTLE1" LEMMA="NESTLE" LINK="subj-copr" PAFT=" " UNL="nestle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION" TRANS="угнездиться">nestled</W> 
 <W DOM="12" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="adverb.01" ID="13" KSNAME="COZILY" LEMMA="COZILY" LINK="adverb" PAFT=" ">cosily</W> 
 <W DOM="12" FEAT="PR" HYPOT="2-compl.02" ID="14" KSNAME="BESIDE" LEMMA="BESIDE" LINK="2-compl" PAFT=" ">beside</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -2023,7 +2023,7 @@
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="WHITE1" LEMMA="WHITE" LINK="modif" PAFT=" " UNL="white(icl&gt;adj,ant&gt;black)" DEF="OF OR BELONGING TO A RACIAL GROUP HAVING LIGHT SKIN COLORATION" TRANS="белый">white</W> 
 <W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="GIRL" LEMMA="GIRL" LINK="prepos" PAFT=" ">girls</W> 
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="attrib.18" ID="13" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
-<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="comp-conj.10" ID="14" KSNAME="INMATE" LEMMA="INMATE" LINK="comp-conj" PAFT=". " UNL="inmate(icl&gt;resident&gt;thing)" DEF="">inmates</W>. 
+<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="comp-conj.10" ID="14" KSNAME="INMATE" LEMMA="INMATE" LINK="comp-conj" PAFT=". " UNL="inmate(icl&gt;resident&gt;person)" DEF="ONE OF SEVERAL RESIDENT OF A DWELLING (ESPECIALLY SOMEONE CONFINED TO A PRISON OR HOSPITAL)" TRANS="обитатель,житель">inmates</W>. 
 </S>
 <S DATE="29 11 2010 20:34:46" ID="111" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_10\\br-k04.tgt;111" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
@@ -2193,7 +2193,7 @@
 </S>
 <S DATE="29 11 2010 20:34:49" ID="121" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_10\\br-k04.tgt;121" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="INMATE" LEMMA="INMATE" LINK="predic" PAFT=" " UNL="inmate(icl&gt;resident&gt;thing)" DEF="">inmates</W> 
+<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="INMATE" LEMMA="INMATE" LINK="predic" PAFT=" " UNL="inmate(icl&gt;resident&gt;person)" DEF="ONE OF SEVERAL RESIDENT OF A DWELLING (ESPECIALLY SOMEONE CONFINED TO A PRISON OR HOSPITAL)" TRANS="обитатель,житель">inmates</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="3" FEAT="A" HYPOT="copulat.11" ID="4" KSNAME="WHITE1" LEMMA="WHITE" LINK="copulat" PAFT=" " UNL="white(icl&gt;adj,ant&gt;black)" DEF="OF OR BELONGING TO A RACIAL GROUP HAVING LIGHT SKIN COLORATION" TRANS="белый">white</W> 
 <W DOM="3" FEAT="CONJ" ID="5" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 

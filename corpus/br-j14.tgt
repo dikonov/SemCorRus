@@ -774,7 +774,7 @@
 <W DOM="13" FEAT="COM" GRP="12,13" HYPOT="compos.01" ID="12" KSNAME="DE2" LEMMA="DE" LINK="compos" PAFT=" ">de</W> 
 <W DOM="9" FEAT="S SG" GRP="12,13" HYPOT="coord-conj.10" ID="13" KSNAME="IODINATION" LEMMA="IODINATION" LINK="coord-conj" PAFT=" ">iodination</W> 
 <W DOM="15" FEAT="ADV" HYPOT="adverb.01" ID="14" KSNAME="PRESUMABLY" LEMMA="PRESUMABLY" LINK="adverb" PAFT=" " UNL="presumably(icl&gt;how,com&gt;presumable)" DEF="BY REASONABLE ASSUMPTION" TRANS="предположительно">presumably</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="15" KSNAME="DIFFUSE1" LEMMA="DIFFUSE" PAFT=" " UNL="diffuse(icl&gt;spread&gt;occur,obj&gt;thing)" DEF="">diffuse</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="15" KSNAME="DIFFUSE1" LEMMA="DIFFUSE" PAFT=" " UNL="diffuse(icl&gt;spread&gt;occur,obj&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">diffuse</W> 
 <W DOM="15" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" FEAT="S SG" HYPOT="compos.01" ID="18" KSNAME="BLOOD" LEMMA="BLOOD" LINK="compos" PAFT=" ">blood</W> 
@@ -888,7 +888,7 @@
 <W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="GROUP1" LEMMA="GROUP" LINK="predic" PAFT=" " UNL="group(icl&gt;abstraction&gt;thing)" DEF="ANY NUMBER OF ENTITIES (MEMBERS) CONSIDERED AS A UNIT" TRANS="группа">group</W> 
 <W DOM="3" FEAT="PR" HYPOT="attrib.01" ID="4" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="6" FEAT="NID" HYPOT="compos.01" ID="5" KSNAME="FICT-LEX" LEMMA="ANTITHYROID" LINK="compos" PAFT=" ">antithyroid</W> 
-<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="AGENT2" LEMMA="AGENT" LINK="prepos" PAFT=" " UNL="agent(icl&gt;causal_agent&gt;thing)" DEF="">agents</W> 
+<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="AGENT2" LEMMA="AGENT" LINK="prepos" PAFT=" " UNL="agent(icl&gt;causal_agent&gt;abstract_thing)" DEF="AN ACTIVE CAUSE CAPABLE OF PRODUCING AN EFFECT" TRANS="причина">agents</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="7" FEAT="S PL" HYPOT="coord-conj.10" ID="8" KSNAME="DRUG1" LEMMA="DRUG" LINK="coord-conj" PAFT=" " UNL="drug(icl&gt;agent&gt;thing)" DEF="A SUBSTANCE THAT IS USED AS A MEDICINE OR NARCOTIC" TRANS="наркотик">drugs</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="9" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
@@ -1321,7 +1321,7 @@
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="sent-coordin.01" ID="4" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" ">is</W> 
 <W DOM="4" FEAT="A" HYPOT="copulat.11" ID="5" KSNAME="ABLE" LEMMA="ABLE" LINK="copulat" PAFT=" " UNL="able(icl&gt;adj,ant&gt;unable)" DEF="HAVING THE NECESSARY MEANS OR SKILL OR KNOW-HOW OR AUTHORITY TO DO SOMETHING" TRANS="способный,в состоянии">able</W> 
 <W DOM="5" FEAT="PART" HYPOT="1-compl.15" ID="6" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="REUSE1" LEMMA="REUSE" LINK="prepos" MSNAME="REUSE1" PAFT=" " UNL="reuse(icl&gt;use&gt;do,equ&gt;recycle,agt&gt;thing,obj&gt;thing)" DEF="">reuse</W> 
+<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="REUSE1" LEMMA="REUSE" LINK="prepos" MSNAME="REUSE1" PAFT=" " UNL="reuse(icl&gt;use&gt;do,equ&gt;recycle,agt&gt;thing,obj&gt;thing)" DEF="USE AGAIN AFTER PROCESSING" TRANS="повторно использовать">reuse</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="10" FEAT="A COMP" HYPOT="modif.01" ID="9" KSNAME="LARGE" LEMMA="LARGE" LINK="modif" PAFT=" ">larger</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="FRACTION1" LEMMA="FRACTION" LINK="1-compl" PAFT=" " UNL="fraction(icl&gt;part&gt;thing)" DEF="A SMALL PART OR ITEM FORMING A PIECE OF A WHOLE" TRANS="кусочек,небольшая часть,малая часть">fraction</W> 
@@ -1877,7 +1877,7 @@
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.10" ID="13" KSNAME="WILL1" LEMMA="WILL" LINK="coord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="13" FEAT="S SG" HYPOT="predic.07" ID="15" KSNAME="CONCENTRATION" LEMMA="CONCENTRATION" LINK="predic" PAFT=" " UNL="concentration(icl&gt;property&gt;thing)" DEF="(CHEMISTRY) THE STRENGTH OF A SOLUTION" TRANS="концентрация">concentration</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="16" KSNAME="DEPART" LEMMA="DEPART" PAFT=" " UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="">depart</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="16" KSNAME="DEPART" LEMMA="DEPART" PAFT=" " UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="BE AT VARIANCE WITH" TRANS="отклоняться">depart</W> 
 <W DOM="16" FEAT="PR" HYPOT="1-compl.07" ID="17" KSNAME="FROM" LEMMA="FROM" LINK="1-compl" PAFT=" ">from</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="NORMAL2" LEMMA="NORMAL" LINK="modif" PAFT=" ">normal</W> 

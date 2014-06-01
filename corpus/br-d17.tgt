@@ -149,7 +149,7 @@
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="PAPER1" LEMMA="PAPER" LINK="prepos" PAFT=" ">paper</W> 
 <W DOM="20" FEAT="CONJ" HYPOT="coordin.13" ID="25" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="25" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="26" KSNAME="BRIGHTEN" LEMMA="BRIGHTEN" LINK="coord-conj" PAFT=" " UNL="brighten(icl&gt;change&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="">brightens</W> 
+<W DOM="25" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="26" KSNAME="BRIGHTEN" LEMMA="BRIGHTEN" LINK="coord-conj" PAFT=" " UNL="brighten(icl&gt;change&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="MAKE LIGHTER OR BRIGHTER" TRANS="озарять">brightens</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="26" FEAT="S PL" HYPOT="1-compl.01" ID="28" KSNAME="LIFE" LEMMA="LIFE" LINK="1-compl" PAFT=" ">lives</W> 
 <W DOM="28" FEAT="PR" HYPOT="quasiagent.10" ID="29" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -742,7 +742,7 @@
 <W DOM="2" FEAT="S PL" ID="8" KSNAME="SUBSCRIBER" LEMMA="SUBSCRIBER" LINK="fictit" PAFT="? ">subscribers</W>? 
 </S>
 <S DATE="29 11 2010 20:44:18" ID="44" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_40\\br-d17.tgt;44" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="VISUALIZE" LEMMA="VISUALIZE" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">Visualize</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="VISUALIZE" LEMMA="VISUALIZE" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="IMAGINE" TRANS="представлять себе">Visualize</W> 
 <W DOM="1" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="2" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=", ">them</W>, 
 <W DOM="2" FEAT="ADV" HYPOT="parenth.16" ID="3" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=", ">then</W>, 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coordin.05" ID="4" KSNAME="BELIEVE" LEMMA="BELIEVE" LINK="coordin" PAFT=" ">believe</W> 
@@ -1256,7 +1256,7 @@
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="5" KSNAME="DURING" LEMMA="DURING" LINK="adverb" MSNAME="DURING" PAFT=" ">during</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="SURGERY" LEMMA="SURGERY" LINK="prepos" PAFT=", ">surgery</W>, 
 <W DOM="8" FEAT="S NOM PL" HYPOT="predic.01" ID="7" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
-<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="sent-coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="sent-coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="8" FEAT="S PL" HYPOT="1-compl.01" ID="9" KSNAME="OTHERS" LEMMA="OTHERS" LINK="1-compl" PAFT=" ">others</W> 
 <W DOM="8" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="PRAY" LEMMA="PRAY" LINK="prepos" PAFT="; " UNL="pray(icl&gt;commune&gt;do,agt&gt;person,pur&gt;uw,rec&gt;person)" DEF="TO SPEAK TO GOD IN ORDER TO ASK FOR HELP OR GIVE THANKS" TRANS="молиться">pray</W>; 
@@ -1766,7 +1766,7 @@
 <W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="SEE1" LEMMA="SEE" LINK="prepos" PAFT=" ">see</W> 
 <W DOM="22" FEAT="A" HYPOT="determ.13" ID="21" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="20" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="REGIME" LEMMA="REGIME" LINK="1-compl" PAFT=" ">regime</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="23" KSNAME="TOPPLE" LEMMA="TOPPLE" PAFT=". " UNL="topple(icl&gt;descend&gt;occur,equ&gt;tumble,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">topple</W>. 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="23" KSNAME="TOPPLE" LEMMA="TOPPLE" PAFT=". " UNL="topple(icl&gt;descend&gt;occur,equ&gt;tumble,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="опрокидываться">topple</W>. 
 </S>
 <S DATE="29 11 2010 20:44:31" EXTRACOMM="Tagging contradicts ETAP parsing: US - WE" ID="103" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_40\\br-d17.tgt;103" STATUS="doubt">
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="NONE" LEMMA="NONE" LINK="predic" PAFT=" ">None</W> 

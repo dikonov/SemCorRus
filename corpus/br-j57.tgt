@@ -166,7 +166,7 @@
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="COMMON1" LEMMA="COMMON" LINK="modif" PAFT=" " UNL="common(icl&gt;adj,ant&gt;individual)" DEF="BELONGING TO OR PARTICIPATED IN BY A COMMUNITY AS A WHOLE" TRANS="общий">common</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="PROFESSIONAL1" LEMMA="PROFESSIONAL" LINK="modif" PAFT=" ">professional</W> 
-<W DOM="11" FEAT="S SG" HYPOT="copulat.10" ID="15" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="copulat" PAFT=", " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="">illusion</W>, 
+<W DOM="11" FEAT="S SG" HYPOT="copulat.10" ID="15" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="copulat" PAFT=", " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="SOMETHING MANY PEOPLE BELIEVE THAT IS FALSE" TRANS="иллюзия">illusion</W>, 
 <W DOM="17" FEAT="ADV" HYPOT="adverb.01" ID="16" KSNAME="SEDULOUSLY" LEMMA="SEDULOUSLY" LINK="adverb" PAFT=" " UNL="sedulously(icl&gt;how,com&gt;sedulous)" DEF="">sedulously</W> 
 <W DOM="15" FEAT="V PP" HYPOT="modif.01" ID="17" KSNAME="FOSTER1" LEMMA="FOSTER" LINK="modif" MSNAME="FOSTER1" PAFT=" ">fostered</W> 
 <W DOM="17" FEAT="PR" HYPOT="agent.10" ID="18" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
@@ -431,7 +431,7 @@
 <W DOM="5" FEAT="ADV" HYPOT="restr.11" ID="4" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
 <W DOM="2" FEAT="PR" HYPOT="copulat.13" ID="5" KSNAME="IN1" LEMMA="IN" LINK="copulat" PAFT=" ">in</W> 
 <W DOM="1" FEAT="V ING" HYPOT="explet.10" ID="6" KSNAME="WRITE" LEMMA="WRITE" LINK="explet" PAFT=" ">writing</W> 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="7" KSNAME="LATIN2" LEMMA="LATIN" LINK="compos" PAFT=" " UNL="latin(icl&gt;italic&gt;thing)" DEF="">Latin</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="7" KSNAME="LATIN2" LEMMA="LATIN" LINK="compos" PAFT=" " UNL="latin(icl&gt;italic&gt;abstract_thing,iof&gt;language)" DEF="ANY DIALECT OF THE LANGUAGE OF ANCIENT ROME" TRANS="латынь">Latin</W> 
 <W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="EPIGRAM" LEMMA="EPIGRAM" LINK="prepos" PAFT=", " UNL="epigram(icl&gt;saying&gt;thing)" DEF="A WITTY SAYING" TRANS="эпиграмма">epigrams</W>, 
 <W DOM="10" FEAT="ADV" HYPOT="restr.11" ID="9" KSNAME="SOMETIMES" LEMMA="SOMETIMES" LINK="restr" PAFT=" " UNL="sometimes(icl&gt;how)" DEF="ON CERTAIN OCCASIONS OR IN CERTAIN CASES BUT NOT ALWAYS" TRANS="иногда">sometimes</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="BAWDY1" LEMMA="BAWDY" LINK="modif" PAFT=" " UNL="bawdy(icl&gt;adj)" DEF="HUMOROUSLY VULGAR" TRANS="похабный">bawdy</W> 
@@ -441,16 +441,16 @@
 <W DOM="13" FEAT="V ING" HYPOT="prepos.01" ID="14" KSNAME="TRANSLATE" LEMMA="TRANSLATE" LINK="prepos" PAFT=" " UNL="translate(icl&gt;do,com&gt;language,cob&gt;thing,src&gt;thing,agt&gt;person,obj&gt;information,gol&gt;thing)" DEF="" TRANS="переводить">translating</W> 
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="FRM-PROP" LEMMA="LUCIAN" LINK="1-compl" PAFT=" ">Lucian</W> 
 <W DOM="14" FEAT="PR" HYPOT="2-compl.02" ID="16" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
-<W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="GREEK2" LEMMA="GREEK" LINK="prepos" PAFT=" " UNL="greek(icl&gt;indo-european&gt;thing)" DEF="">Greek</W> 
+<W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="GREEK2" LEMMA="GREEK" LINK="prepos" PAFT=" " UNL="greek(icl&gt;indo-european&gt;abstract_thing,iof&gt;language)" DEF="">Greek</W> 
 <W DOM="14" FEAT="PR" HYPOT="3-compl.01" ID="18" KSNAME="INTO" LEMMA="INTO" LINK="3-compl" PAFT=" ">into</W> 
-<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="LATIN2" LEMMA="LATIN" LINK="prepos" PAFT=" " UNL="latin(icl&gt;italic&gt;thing)" DEF="">Latin</W> 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="LATIN2" LEMMA="LATIN" LINK="prepos" PAFT=" " UNL="latin(icl&gt;italic&gt;abstract_thing,iof&gt;language)" DEF="ANY DIALECT OF THE LANGUAGE OF ANCIENT ROME" TRANS="латынь">Latin</W> 
 <W DOM="18" FEAT="CONJ" HYPOT="coordin.11" ID="20" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="20" FEAT="PR" HYPOT="coord-conj.10" ID="21" KSNAME="IN1" LEMMA="IN" LINK="coord-conj" PAFT=" ">in</W> 
 <W DOM="21" FEAT="V ING" HYPOT="prepos.01" ID="22" KSNAME="DEFEND" LEMMA="DEFEND" LINK="prepos" PAFT=" ">defending</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="STUDY1" LEMMA="STUDY" LINK="1-compl" PAFT=" ">study</W> 
 <W DOM="24" FEAT="PR" HYPOT="1-compl.07" ID="25" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="25" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="26" KSNAME="GREEK2" LEMMA="GREEK" LINK="prepos" PAFT=" " UNL="greek(icl&gt;indo-european&gt;thing)" DEF="">Greek</W> 
+<W DOM="25" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="26" KSNAME="GREEK2" LEMMA="GREEK" LINK="prepos" PAFT=" " UNL="greek(icl&gt;indo-european&gt;abstract_thing,iof&gt;language)" DEF="">Greek</W> 
 <W DOM="22" FEAT="PR" HYPOT="2-compl.02" ID="27" KSNAME="AGAINST" LEMMA="AGAINST" LINK="2-compl" PAFT=" ">against</W> 
 <W DOM="29" FEAT="ART" HYPOT="determ.11" ID="28" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="29" KSNAME="ATTACK2" LEMMA="ATTACK" LINK="prepos" PAFT=" " UNL="attack(icl&gt;criticism&gt;thing,equ&gt;fire)" DEF="INTENSE ADVERSE CRITICISM" TRANS="нападка">attack</W> 
@@ -1366,7 +1366,7 @@
 <W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="MAKE1" LEMMA="MAKE" LINK="pass-anal" PAFT=" " UNL="make_up(icl&gt;constitute&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="TO FORM A WHOLE" TRANS="составлять">made</W> 
 <W DOM="9" FEAT="ADV" HYPOT="phras-junct.10" ID="10" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.02" ID="11" KSNAME="OF" LEMMA="OF" LINK="2-compl" PAFT=" ">of</W> 
-<W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="VOLUNTEER1" LEMMA="VOLUNTEER" LINK="prepos" PAFT=" " UNL="volunteer(icl&gt;worker&gt;thing)" DEF="">volunteers</W> 
+<W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="VOLUNTEER1" LEMMA="VOLUNTEER" LINK="prepos" PAFT=" " UNL="volunteer(icl&gt;worker&gt;person)" DEF="A PERSON WHO PERFORMS VOLUNTARY WORK" TRANS="доброволец,волонтер">volunteers</W> 
 <W DOM="12" FEAT="V PP" HYPOT="modif.01" ID="13" KSNAME="SELECT1" LEMMA="SELECT" LINK="modif" PAFT=" " UNL="select(icl&gt;choose&gt;do,src&gt;thing,agt&gt;thing,obj&gt;uw,gol&gt;uw)" DEF="" TRANS="выбирать">selected</W> 
 <W DOM="13" FEAT="ADV" HYPOT="restr.11" ID="14" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;merely)" DEF="AND NOTHING MORE" TRANS="всего">only</W> 
 <W DOM="13" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="AFTER1" LEMMA="AFTER" LINK="adverb" PAFT=" ">after</W> 
@@ -1565,7 +1565,7 @@
 <W DOM="14" FEAT="V MF" HYPOT="1-compl.17" ID="15" KSNAME="ASSERT" LEMMA="ASSERT" LINK="1-compl" PAFT=" " UNL="assert(icl&gt;declare&gt;do,agt&gt;person,obj&gt;uw)" DEF="STATE CLEARLY AND CATEGORICALLY" TRANS="утверждать">assert</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="18" FEAT="ADV" HYPOT="restr.12" ID="17" KSNAME="ABSOLUTELY" LEMMA="ABSOLUTELY" LINK="restr" PAFT=" ">absolutely</W> 
-<W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="UNALTERABLE" LEMMA="UNALTERABLE" LINK="modif" PAFT=" " UNL="unalterable(icl&gt;adj,ant&gt;alterable)" DEF="">unalterable</W> 
+<W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="UNALTERABLE" LEMMA="UNALTERABLE" LINK="modif" PAFT=" " UNL="unalterable(icl&gt;adj,ant&gt;alterable)" DEF="NOT CAPABLE OF BEING CHANGED OR ALTERED" TRANS="неизменимый">unalterable</W> 
 <W DOM="22" FEAT="S SG" HYPOT="predic.01" ID="19" KSNAME="RIGHT3" LEMMA="RIGHT" LINK="predic" PAFT=" " UNL="right(icl&gt;abstraction&gt;thing)" DEF="AN ABSTRACT IDEA OF THAT WHICH IS DUE TO A PERSON OR GOVERNMENTAL BODY BY LAW OR TRADITION OR NATURE" TRANS="право">right</W> 
 <W DOM="19" FEAT="PR" HYPOT="1-compl.07" ID="20" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="WHAT1" LEMMA="WHAT" LINK="prepos" PAFT=" ">what</W> 
@@ -1664,7 +1664,7 @@
 <W DOM="19" FEAT="PART" HYPOT="adverb.11" ID="23" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="24" KSNAME="SUPPLY2" LEMMA="SUPPLY" LINK="prepos" PAFT=" " UNL="supply(icl&gt;provide&gt;do,agt&gt;thing,obj&gt;thing,rec&gt;thing)" DEF="GIVE SOMETHING USEFUL OR NECESSARY TO" TRANS="обеспечивать">supply</W> 
 <W DOM="26" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="24" FEAT="S PL" HYPOT="1-compl.01" ID="26" KSNAME="DEFICIENCY" LEMMA="DEFICIENCY" LINK="1-compl" PAFT=" " UNL="deficiency(icl&gt;amount&gt;thing,equ&gt;insufficiency,ant&gt;sufficiency)" DEF="">deficiencies</W> 
+<W DOM="24" FEAT="S PL" HYPOT="1-compl.01" ID="26" KSNAME="DEFICIENCY" LEMMA="DEFICIENCY" LINK="1-compl" PAFT=" " UNL="deficiency(icl&gt;amount&gt;thing,equ&gt;insufficiency,ant&gt;sufficiency)" DEF="LACK OF AN ADEQUATE QUANTITY OR NUMBER" TRANS="недостаточность">deficiencies</W> 
 <W DOM="26" FEAT="PR" HYPOT="quasiagent.10" ID="27" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="28" KSNAME="MUNICIPAL" LEMMA="MUNICIPAL" LINK="modif" PAFT=" " UNL="municipal(icl&gt;adj,com&gt;municipality)" DEF="RELATING OR BELONGING TO OR CHARACTERISTIC OF A MUNICIPALITY" TRANS="муниципальный,городской">municipal</W> 
 <W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="29" KSNAME="LAW" LEMMA="LAW" LINK="prepos" PAFT=" " UNL="law(icl&gt;collection&gt;thing)" DEF="THE COLLECTION OF RULES IMPOSED BY AUTHORITY" TRANS="свод законов,право,закон,законы">law</W> 
@@ -1790,7 +1790,7 @@
 <W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="LORE" LEMMA="LORE" LINK="prepos" MSNAME="LORE" PAFT=" ">lore</W> 
 <W DOM="22" FEAT="PR" HYPOT="attrib.01" ID="23" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="23" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="25" KSNAME="GREEK2" LEMMA="GREEK" LINK="prepos" PAFT=". " UNL="greek(icl&gt;european&gt;thing)" DEF="">Greeks</W>. 
+<W DOM="23" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="25" KSNAME="GREEK2" LEMMA="GREEK" LINK="prepos" PAFT=". " UNL="greek(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF GREECE" TRANS="грек">Greeks</W>. 
 </S>
 <S DATE="29 11 2010 20:29:15" ID="65" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j57.tgt;65" STATUS="doubt">
 <W DOM="13" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">In</W> 
@@ -1798,7 +1798,7 @@
 <W DOM="13" FEAT="A" ID="3" KSNAME="LIKE3" LEMMA="LIKE" LINK="fictit" PAFT=" " UNL="like(icl&gt;adj,ant&gt;unlike)" DEF="EQUAL IN AMOUNT OR VALUE" TRANS="одинаковый">like</W> 
 <W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="SENSE1" LEMMA="SENSE" LINK="prepos" PAFT=" ">sense</W> 
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.03" ID="5" KSNAME="WHATEVER1" LEMMA="WHATEVER" LINK="1-compl" PAFT=" ">whatever</W> 
-<W DOM="13" FEAT="S PL" HYPOT="predic.01" ID="6" KSNAME="BIT1" LEMMA="BIT" LINK="predic" PAFT=" " UNL="bit(icl&gt;fragment&gt;thing)" DEF="">bits</W> 
+<W DOM="13" FEAT="S PL" HYPOT="predic.01" ID="6" KSNAME="BIT1" LEMMA="BIT" LINK="predic" PAFT=" " UNL="bit(icl&gt;fragment&gt;abstract_thing,equ&gt;snatch)" DEF="A SMALL FRAGMENT OF SOME PROCESS" TRANS="фрагмент">bits</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="7" FEAT="S PL" HYPOT="coord-conj.10" ID="8" KSNAME="SHRED1" LEMMA="SHRED" LINK="coord-conj" PAFT=" " UNL="shred(icl&gt;small_indefinite_quantity&gt;thing)" DEF="A TINY OR SCARCELY DETECTABLE AMOUNT" TRANS="толика">shreds</W> 
 <W DOM="8" FEAT="PR" HYPOT="quasiagent.10" ID="9" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 

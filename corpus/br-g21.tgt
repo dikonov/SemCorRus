@@ -49,7 +49,7 @@
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="DEMOCRATIC" LEMMA="DEMOCRATIC" LINK="modif" PAFT=" " UNL="democratic(icl&gt;adj,ant&gt;undemocratic)" DEF="CHARACTERIZED BY OR ADVOCATING OR BASED UPON THE PRINCIPLES OF DEMOCRACY OR SOCIAL EQUALITY" TRANS="демократический">democratic</W> 
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="FAITH" LEMMA="FAITH" LINK="prepos" PAFT=" " UNL="faith(icl&gt;belief&gt;thing,equ&gt;religion)" DEF="A STRONG BELIEF IN A SUPERNATURAL POWER OR POWERS THAT CONTROL HUMAN DESTINY" TRANS="вера">faith</W> 
 <W DOM="16" FEAT="PR" HYPOT="attrib.01" ID="17" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
-<W DOM="17" FEAT="PR" HYPOT="prepos.17" ID="18" KSNAME="AROUND1" LEMMA="AROUND" LINK="prepos" PAFT=" " UNL="around(icl&gt;how,equ&gt;approximately)" DEF="">around</W> 
+<W DOM="17" FEAT="PR" HYPOT="prepos.17" ID="18" KSNAME="AROUND1" LEMMA="AROUND" LINK="prepos" PAFT=" " UNL="around(icl&gt;how,equ&gt;approximately)" DEF="(OF QUANTITIES) IMPRECISE BUT FAIRLY CLOSE TO CORRECT" TRANS="приблизительно">around</W> 
 <W DOM="18" FEAT="NUM SG" HYPOT="prepos.01" ID="19" KSNAME="FRM-YEAR" LEMMA="1850." LINK="prepos" PAFT=". ">1850.</W> 
 </S>
 <S DATE="29 11 2010 20:29:12" ID="3" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g21.tgt;3" STATUS="doubt">
@@ -1056,7 +1056,7 @@
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="PEACE" LEMMA="PEACE" LINK="prepos" PAFT=" " UNL="peace(icl&gt;harmony&gt;thing)" DEF="HARMONIOUS RELATIONS" TRANS="мир">peace</W> 
 <W DOM="11" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="12" FEAT="S SG" HYPOT="coord-conj.10" ID="13" KSNAME="REHABILITATION" LEMMA="REHABILITATION" LINK="coord-conj" PAFT=". " UNL="rehabilitation(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="">rehabilitation</W>. 
+<W DOM="12" FEAT="S SG" HYPOT="coord-conj.10" ID="13" KSNAME="REHABILITATION" LEMMA="REHABILITATION" LINK="coord-conj" PAFT=". " UNL="rehabilitation(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="THE CONVERSION OF WASTELAND INTO LAND SUITABLE FOR USE OF HABITATION OR CULTIVATION" TRANS="рекультивация">rehabilitation</W>. 
 </S>
 <S DATE="29 11 2010 20:29:25" ID="39" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g21.tgt;39" STATUS="doubt">
 <W DOM="4" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">Then</W> 
@@ -1270,7 +1270,7 @@
 <W DOM="4" FEAT="ADV" HYPOT="parenth.16" ID="5" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">however</W>, 
 <W DOM="2" FEAT="PR" HYPOT="2-compl.02" ID="6" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="REVIEW1" LEMMA="REVIEW" LINK="prepos" PAFT=" " UNL="review(icl&gt;action,agt&gt;thing,obj&gt;thing)" DEF="">review</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="REVIEW1" LEMMA="REVIEW" LINK="prepos" PAFT=" " UNL="review(icl&gt;action,agt&gt;thing,obj&gt;thing)" DEF="" TRANS="пересмотр">review</W> 
 <W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="11" KSNAME="EISENHOWER" LEMMA="EISENHOWER" LINK="compos" PAFT=" ">Eisenhower</W> 
@@ -2099,7 +2099,7 @@
 <W DOM="4" FEAT="PART" HYPOT="1-compl.15" ID="12" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="SAY" LEMMA="SAY" LINK="prepos" PAFT=" " UNL="say(icl&gt;show&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="INDICATE" TRANS="показывать">say</W> 
 <W DOM="13" FEAT="A" HYPOT="subj-copr.01" ID="14" KSNAME="CONFUSED" LEMMA="CONFUSED" LINK="subj-copr" PAFT=", " UNL="confused(icl&gt;adj,ant&gt;clearheaded)" DEF="">confused</W>, 
-<W DOM="13" FEAT="S SG" HYPOT="sent-appos.01" ID="15" KSNAME="STATE1" LEMMA="STATE" LINK="sent-appos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="13" FEAT="S SG" HYPOT="sent-appos.01" ID="15" KSNAME="STATE1" LEMMA="STATE" LINK="sent-appos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="15" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="PUBLIC1" LEMMA="PUBLIC" LINK="modif" PAFT=" " UNL="public(icl&gt;adj)" DEF="AFFECTING THE PEOPLE OR COMMUNITY AS A WHOLE" TRANS="общественный">public</W> 

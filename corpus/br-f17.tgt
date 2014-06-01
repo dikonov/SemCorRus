@@ -11,7 +11,7 @@
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="NOBLE1" LEMMA="NOBLE" LINK="modif" PAFT=" " UNL="noble(icl&gt;adj,ant&gt;lowborn)" DEF="OF OR BELONGING TO OR CONSTITUTING THE HEREDITARY ARISTOCRACY ESPECIALLY AS DERIVED FROM FEUDAL TIMES" TRANS="знатный">noble</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="HUMANITARIAN1" LEMMA="HUMANITARIAN" LINK="modif" PAFT=" " UNL="humanitarian(icl&gt;adj,equ&gt;human-centered)" DEF="MARKED BY HUMANISTIC VALUES AND DEVOTION TO HUMAN WELFARE" TRANS="гуманистический,гуманитарный">humanitarian</W> 
-<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="descr-appos.01" ID="10" KSNAME="SCOT" LEMMA="SCOT" LINK="descr-appos" PAFT=" " UNL="scot(icl&gt;european&gt;thing)" DEF="">Scot</W> 
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="descr-appos.01" ID="10" KSNAME="SCOT" LEMMA="SCOT" LINK="descr-appos" PAFT=" " UNL="scot(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF SCOTLAND" TRANS="шотландец">Scot</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="CONCERNED" LEMMA="CONCERNED" LINK="modif" PAFT=" " UNL="concerned(icl&gt;adj,ant&gt;unconcerned)" DEF="FEELING OR SHOWING WORRY OR SOLICITUDE" TRANS="озабоченный,обеспокоенный">concerned</W> 
 <W DOM="11" FEAT="PR" HYPOT="1-compl.07" ID="12" KSNAME="WITH" LEMMA="WITH" LINK="1-compl" PAFT=" ">with</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -124,7 +124,7 @@
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="SMALL" LEMMA="SMALL" LINK="modif" PAFT=" " UNL="small(icl&gt;adj,ant&gt;large)" DEF="LIMITED OR BELOW AVERAGE IN NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="маленький">small</W> 
 <W DOM="30" FEAT="S SG" HYPOT="predic.01" ID="27" KSNAME="GROUP1" LEMMA="GROUP" LINK="predic" PAFT=" " UNL="group(icl&gt;abstraction&gt;thing)" DEF="ANY NUMBER OF ENTITIES (MEMBERS) CONSIDERED AS A UNIT" TRANS="группа">group</W> 
 <W DOM="27" FEAT="PR" HYPOT="quasiagent.10" ID="28" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="28" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="29" KSNAME="SCOT" LEMMA="SCOT" LINK="prepos" PAFT=" " UNL="scot(icl&gt;european&gt;thing)" DEF="">Scots</W> 
+<W DOM="28" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="29" KSNAME="SCOT" LEMMA="SCOT" LINK="prepos" PAFT=" " UNL="scot(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF SCOTLAND" TRANS="шотландец">Scots</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="sent-coordin.01" ID="30" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" ">was</W> 
 <W DOM="30" FEAT="V ING" HYPOT="analyt.11" ID="31" KSNAME="SETTLE1" LEMMA="SETTLE" LINK="analyt" PAFT=" ">settling</W> 
 <W DOM="31" FEAT="PR" HYPOT="adverb.02" ID="32" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
@@ -150,7 +150,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="10" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="10" FEAT="V ING" HYPOT="analyt.11" ID="11" KSNAME="PREPARE" LEMMA="PREPARE" LINK="analyt" PAFT=" ">preparing</W> 
 <W DOM="11" FEAT="PART" HYPOT="2-compl.12" ID="12" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
-<W DOM="12" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="PACIFY" LEMMA="PACIFY" LINK="prepos" PAFT=" " UNL="pacify(icl&gt;calm&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="">pacify</W> 
+<W DOM="12" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="PACIFY" LEMMA="PACIFY" LINK="prepos" PAFT=" " UNL="pacify(icl&gt;calm&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="CAUSE TO BE MORE FAVORABLY INCLINED" TRANS="успокаивать">pacify</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" FEAT="S PL" HYPOT="1-compl.01" ID="15" KSNAME="ABORIGINE" LEMMA="ABORIGINE" LINK="1-compl" PAFT=" " UNL="aborigine(icl&gt;primitive&gt;thing)" DEF="">aborigines</W> 
 <W DOM="15" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
@@ -235,13 +235,13 @@
 <W DOM="3" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="A$FEW" LEMMA="A FEW" LINK="determ" PAFT=" " UNL="a_few(icl&gt;adj,equ&gt;some,qua&lt;thing)" DEF="INDEFINITE AMOUNT: MORE THAN ONE, BUT NOT MANY" TRANS="несколько">a few</W> 
 <W DOM="1" FEAT="S PL" HYPOT="prepos.01" ID="3" KSNAME="YEAR" LEMMA="YEAR" LINK="prepos" PAFT=" ">years</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="20" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="SCOT" LEMMA="SCOT" LINK="predic" PAFT=", " UNL="scot(icl&gt;european&gt;thing)" DEF="">Scots</W>, 
+<W DOM="20" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="SCOT" LEMMA="SCOT" LINK="predic" PAFT=", " UNL="scot(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF SCOTLAND" TRANS="шотландец">Scots</W>, 
 <W DOM="5" FEAT="V PP" HYPOT="modif.01" ID="6" KSNAME="ENGAGE" LEMMA="ENGAGE" LINK="modif" PAFT=" " UNL="engage(icl&gt;act&gt;do,equ&gt;participate,agt&gt;thing,obj&gt;thing)" DEF="PARTICIPATE IN AN ACTIVITY" TRANS="включаться">engaged</W> 
 <W DOM="6" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="7" FEAT="V ING" HYPOT="prepos.01" ID="8" KSNAME="BREAK1" LEMMA="BREAK" LINK="prepos" PAFT=" ">breaking</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="THICK" LEMMA="THICK" LINK="modif" PAFT=" ">thick</W> 
-<W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="SOD1" LEMMA="SOD" LINK="1-compl" PAFT=" " UNL="sod(icl&gt;land&gt;thing,equ&gt;turf)" DEF="">sod</W> 
+<W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="SOD1" LEMMA="SOD" LINK="1-compl" PAFT=" " UNL="sod(icl&gt;land&gt;thing,equ&gt;turf)" DEF="SURFACE LAYER OF GROUND CONTAINING A MAT OF GRASS AND GRASS ROOTS" TRANS="дерн">sod</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="V ING" HYPOT="coord-conj.10" ID="13" KSNAME="STIR2" LEMMA="STIR" LINK="coord-conj" PAFT=" " UNL="stir(icl&gt;budge&gt;do,agt&gt;thing,obj&gt;concrete_thing)" DEF="" TRANS="шевелить">stirring</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -417,7 +417,7 @@
 <W DOM="15" FEAT="NUM" HYPOT="coord-conj.10" ID="16" KSNAME="FIFTY" LEMMA="FIFTY" LINK="coord-conj" PAFT=" ">fifty</W> 
 <W DOM="16" FEAT="PR" HYPOT="elect.10" ID="17" KSNAME="OF" LEMMA="OF" LINK="elect" PAFT=" ">of</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="17" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="SCOT" LEMMA="SCOT" LINK="prepos" PAFT=", " UNL="scot(icl&gt;european&gt;thing)" DEF="">Scots</W>, 
+<W DOM="17" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="SCOT" LEMMA="SCOT" LINK="prepos" PAFT=", " UNL="scot(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF SCOTLAND" TRANS="шотландец">Scots</W>, 
 <W DOM="23" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.02" ID="20" KSNAME="SWISS2" LEMMA="SWISS" LINK="compos" PAFT=" " UNL="swiss(icl&gt;nation&gt;thing)" DEF="THE NATIVES OR INHABITANTS OF SWITZERLAND" TRANS="швейцарец">Swiss</W> 
 <W DOM="20" FEAT="CONJ" HYPOT="coordin.10" ID="21" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="21" FEAT="S SG" HYPOT="coord-conj.10" ID="22" KSNAME="METIS" LEMMA="METIS" LINK="coord-conj" PAFT=" " UNL="metis(icl&gt;half-breed&gt;thing)" DEF="A HALF-BREED OF WHITE AND AMERICAN INDIAN PARENTAGE" TRANS="метис">metis</W> 
@@ -751,7 +751,7 @@
 <W DOM="19" FEAT="ART" HYPOT="determ.10" ID="18" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="BAND3" LEMMA="BAND" LINK="prepos" PAFT=" " UNL="band(icl&gt;social_group&gt;thing,equ&gt;set)" DEF="">band</W> 
 <W DOM="19" FEAT="PR" HYPOT="quasiagent.10" ID="20" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="20" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="SIOUX" LEMMA="SIOUX" LINK="prepos" PAFT=", " UNL="sioux(icl&gt;plains_indian&gt;thing)" DEF="">Sioux</W>, 
+<W DOM="20" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="SIOUX" LEMMA="SIOUX" LINK="prepos" PAFT=", " UNL="sioux(icl&gt;plains_indian&gt;person)" DEF="A MEMBER OF A GROUP OF NORTH AMERICAN INDIAN PEOPLES WHO SPOKE A SIOUAN LANGUAGE AND WHO RANGED FROM LAKE MICHIGAN TO THE ROCKY MOUNTAINS" TRANS="сиу">Sioux</W>, 
 <W DOM="23" FEAT="S NOM SG" HYPOT="predic.01" ID="22" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="23" KSNAME="ESCORT2" LEMMA="ESCORT" LINK="relat" PAFT=" " UNL="escort(icl&gt;accompany&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="ACCOMPANY AS AN ESCORT" TRANS="конвоировать">escorted</W> 
 <W DOM="23" FEAT="PR" HYPOT="3-compl.01" ID="24" KSNAME="TO1" LEMMA="TO" LINK="3-compl" PAFT=" ">to</W> 
@@ -1328,7 +1328,7 @@
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,ant&gt;last)" DEF="PRECEDING ALL OTHERS IN TIME OR SPACE OR DEGREE" TRANS="первый">first</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="CIVILIAN1" LEMMA="CIVILIAN" LINK="modif" PAFT=" " UNL="civilian(icl&gt;adj,ant&gt;military)" DEF="ASSOCIATED WITH OR PERFORMED BY CIVILIANS AS CONTRASTED WITH THE MILITARY" TRANS="гражданский,штатский">civilian</W> 
-<W DOM="11" FEAT="S PL" HYPOT="1-compl.01" ID="15" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="1-compl" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;thing,ant&gt;nonresident)" DEF="">residents</W> 
+<W DOM="11" FEAT="S PL" HYPOT="1-compl.01" ID="15" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="1-compl" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;person,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="резидент,житель">residents</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="MINNESOTA" LEMMA="MINNESOTA" LINK="prepos" PAFT=", " UNL="minnesota(iof&gt;american_state&gt;thing)" DEF="A MIDWESTERN STATE" TRANS="Миннесота">Minnesota</W>, 
 <W DOM="17" FEAT="S SG" HYPOT="coordin.01" ID="18" KSNAME="FRM-PROP" LEMMA="DOUSMAN" LINK="coordin" PAFT=" ">Dousman</W> 
@@ -1789,7 +1789,7 @@
 <W DOM="19" FEAT="PR" HYPOT="agent.10" ID="20" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="V ING" HYPOT="modif.01" ID="22" KSNAME="REMAIN" LEMMA="REMAIN" LINK="modif" PAFT=" ">remaining</W> 
-<W DOM="20" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="SCOT" LEMMA="SCOT" LINK="prepos" PAFT=" " UNL="scot(icl&gt;european&gt;thing)" DEF="">Scots</W> 
+<W DOM="20" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="SCOT" LEMMA="SCOT" LINK="prepos" PAFT=" " UNL="scot(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF SCOTLAND" TRANS="шотландец">Scots</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="24" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="25" KSNAME="SWISS2" LEMMA="SWISS" LINK="coord-conj" PAFT=" " UNL="swiss(icl&gt;nation&gt;thing)" DEF="THE NATIVES OR INHABITANTS OF SWITZERLAND" TRANS="швейцарец">Swiss</W> 
 <W DOM="25" FEAT="PR" HYPOT="attrib.01" ID="26" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
@@ -1961,7 +1961,7 @@
 <W DOM="12" FEAT="V ING" HYPOT="analyt.11" ID="13" KSNAME="TRADE2" LEMMA="TRADE" LINK="analyt" PAFT=" ">trading</W> 
 <W DOM="13" FEAT="PR" HYPOT="2-compl.02" ID="14" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="14" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="prepos" PAFT=" " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indians</W> 
+<W DOM="14" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="prepos" PAFT=" " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indians</W> 
 <W DOM="13" FEAT="PR" HYPOT="3-compl.01" ID="17" KSNAME="FOR1" LEMMA="FOR" LINK="3-compl" PAFT=" ">for</W> 
 <W DOM="17" FEAT="S PL" HYPOT="prepos.01" ID="18" KSNAME="FUR1" LEMMA="FUR" LINK="prepos" PAFT=". " UNL="fur(icl&gt;animal_skin&gt;thing)" DEF="THE DRESSED HAIRY COAT OF A MAMMAL" TRANS="мех">furs</W>. 
 </S>
@@ -2015,7 +2015,7 @@
 <W DOM="13" EXTRAFEAT="CAP CAPIT" FEAT="S POSS SG" HYPOT="posses.01" ID="11" KSNAME="COMPANY" LEMMA="COMPANY" LINK="posses" PAFT=" ">Company's</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="LOCAL1" LEMMA="LOCAL" LINK="modif" PAFT=" " UNL="local(icl&gt;adj,ant&gt;national)" DEF="RELATING TO OR APPLICABLE TO OR CONCERNED WITH THE ADMINISTRATION OF A CITY OR TOWN OR DISTRICT RATHER THAN A LARGER AREA" TRANS="местный">local</W> 
 <W DOM="14" FEAT="S PL" HYPOT="predic.01" ID="13" KSNAME="OFFICIAL2" LEMMA="OFFICIAL" LINK="predic" PAFT=" " UNL="official(icl&gt;skilled_worker&gt;thing)" DEF="A WORKER WHO HOLDS OR IS INVESTED WITH AN OFFICE" TRANS="чиновник">officials</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="14" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="14" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="14" FEAT="CONJ" HYPOT="2-compl.16" ID="15" KSNAME="THAT1" LEMMA="THAT" LINK="2-compl" PAFT=" ">that</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="16" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="17" KSNAME="LONDON" LEMMA="LONDON" LINK="compos" PAFT=" " UNL="london(iof&gt;national_capital&gt;thing)" DEF="THE CAPITAL AND LARGEST CITY OF ENGLAND" TRANS="Лондон">London</W> 

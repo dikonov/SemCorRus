@@ -543,7 +543,7 @@
 <W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="4" KSNAME="FACE1" LEMMA="FACE" LINK="1-compl" PAFT=" ">faces</W> 
 <W DOM="4" FEAT="PR" HYPOT="quasiagent.10" ID="5" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="5" FEAT="A" HYPOT="prepos.01" ID="6" KSNAME="ALL1" LEMMA="ALL" LINK="prepos" PAFT=", ">all</W>, 
-<W DOM="2" FEAT="A" HYPOT="obj-copr.11" ID="7" KSNAME="HAIRY" LEMMA="HAIRY" LINK="obj-copr" PAFT=" " UNL="hairy(icl&gt;adj,ant&gt;hairless)" DEF="">hairy</W> 
+<W DOM="2" FEAT="A" HYPOT="obj-copr.11" ID="7" KSNAME="HAIRY" LEMMA="HAIRY" LINK="obj-copr" PAFT=" " UNL="hairy(icl&gt;adj,ant&gt;hairless)" DEF="HAVING OR COVERED WITH HAIR" TRANS="волосатый">hairy</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="8" FEAT="V PP" HYPOT="coord-conj.10" ID="9" KSNAME="SHAVE2" LEMMA="SHAVE" LINK="coord-conj" PAFT=", ">shaven</W>, 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">old</W> 
@@ -638,7 +638,7 @@
 <W DOM="17" FEAT="PART" ID="27" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="27" FEAT="V MF" HYPOT="prepos.16" ID="28" KSNAME="EMIT" LEMMA="EMIT" LINK="prepos" PAFT=" " UNL="emit(icl&gt;discharge&gt;do,agt&gt;thing,obj&gt;thing)" DEF="EXPEL (GASES OR ODORS)" TRANS="испускать">emit</W> 
 <W DOM="32" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="32" FEAT="A" HYPOT="modif.01" ID="30" KSNAME="CRUEL" LEMMA="CRUEL" LINK="modif" PAFT=", " UNL="cruel(icl&gt;adj,equ&gt;barbarous)" DEF="">cruel</W>, 
+<W DOM="32" FEAT="A" HYPOT="modif.01" ID="30" KSNAME="CRUEL" LEMMA="CRUEL" LINK="modif" PAFT=", " UNL="cruel(icl&gt;adj,equ&gt;barbarous)" DEF="(OF PERSONS OR THEIR ACTIONS) ABLE OR DISPOSED TO INFLICT PAIN OR SUFFERING" TRANS="жестокий">cruel</W>, 
 <W DOM="30" FEAT="A" HYPOT="coordin.02" ID="31" KSNAME="OBSCENE" LEMMA="OBSCENE" LINK="coordin" PAFT=" ">obscene</W> 
 <W DOM="26" FEAT="S SG" HYPOT="1-compl.01" ID="32" KSNAME="BANTER2" LEMMA="BANTER" LINK="1-compl" PAFT=", " UNL="banter(icl&gt;repartee&gt;thing)" DEF="LIGHT TEASING REPARTEE" TRANS="подтрунивание">banter</W>, 
 <W DOM="17" FEAT="CONJ" HYPOT="coordin.13" ID="33" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -974,7 +974,7 @@
 <S DATE="29 11 2010 19:55:58" ID="49" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_11\\br-k11.tgt;49" STATUS="doubt">
 <W DOM="2" FEAT="S SG" GRP="1,2" HYPOT="appos.00" ID="1" KSNAME="FRM-PROP" LEMMA="PULLEN" LINK="appos" PAFT=" ">Pullen</W> 
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2" HYPOT="predic.01" ID="2" KSNAME="JAMES" LEMMA="JAMES" LINK="predic" PAFT=" ">James</W> 
-<W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="HUMBLY" LEMMA="HUMBLY" LINK="adverb" PAFT=" " UNL="humbly(icl&gt;how,com&gt;humble)" DEF="">humbly</W> 
+<W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="HUMBLY" LEMMA="HUMBLY" LINK="adverb" PAFT=" " UNL="humbly(icl&gt;how,com&gt;humble)" DEF="IN A HUMBLE MANNER" TRANS="смиренно">humbly</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="LOWER1" LEMMA="LOWER" PAFT=" " UNL="lower(icl&gt;take_down&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="MOVE SOMETHING OR SOMEBODY TO A LOWER POSITION" TRANS="опускать">lowered</W> 
 <W DOM="6" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="HEAD1" LEMMA="HEAD" LINK="1-compl" PAFT=", " UNL="head(icl&gt;external_body_part&gt;thing)" DEF="THE UPPER PART OF THE HUMAN BODY OR THE FRONT PART OF THE BODY IN ANIMALS" TRANS="голова">head</W>, 
@@ -1831,7 +1831,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="HEARTH" LEMMA="HEARTH" LINK="prepos" PAFT=", " UNL="hearth(icl&gt;recess&gt;thing,equ&gt;fireplace)" DEF="AN OPEN RECESS IN A WALL AT THE BASE OF A CHIMNEY WHERE A FIRE CAN BE BUILT" TRANS="очаг">hearth</W>, 
 <W DOM="13" FEAT="V ING" HYPOT="adverb.03" ID="17" KSNAME="SKIRMISH2" LEMMA="SKIRMISH" LINK="adverb" MSNAME="SKIRMISH2" PAFT=" " UNL="skirmish(icl&gt;contend&gt;do,agt&gt;volitional_thing,cag&gt;volitional_thing)" DEF="">skirmishing</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.10" ID="18" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
-<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="UNDERSHIRT" LEMMA="UNDERSHIRT" LINK="1-compl" MSNAME="UNDERSHIRT" PAFT=" " UNL="undershirt(icl&gt;undergarment&gt;thing,equ&gt;singlet)" DEF="">undershirt</W> 
+<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="UNDERSHIRT" LEMMA="UNDERSHIRT" LINK="1-compl" MSNAME="UNDERSHIRT" PAFT=" " UNL="undershirt(icl&gt;undergarment&gt;thing,equ&gt;singlet)" DEF="A COLLARLESS MEN'S UNDERGARMENT FOR THE UPPER PART OF THE BODY" TRANS="майка">undershirt</W> 
 <W DOM="19" FEAT="PR" HYPOT="attrib.01" ID="20" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="20" FEAT="S PL" HYPOT="prepos.01" ID="21" KSNAME="LOUSE" LEMMA="LOUSE" LINK="prepos" PAFT=", " UNL="louse(icl&gt;insect&gt;thing)" DEF="WINGLESS USUALLY FLATTENED BLOODSUCKING INSECT PARASITIC ON WARM-BLOODED ANIMALS" TRANS="вошь">lice</W>, 
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="22" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
@@ -2130,7 +2130,7 @@
 <W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="TIT1" LEMMA="TIT" LINK="prepos" PAFT=" " UNL="tit(icl&gt;mammary_gland&gt;thing,equ&gt;breast)" DEF="EITHER OF TWO SOFT FLESHY MILK-SECRETING GLANDULAR ORGANS ON THE CHEST OF A WOMAN" TRANS="сиська">tits</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="6" FEAT="S SG" HYPOT="coord-conj.10" ID="8" KSNAME="TAIL1" LEMMA="TAIL" LINK="coord-conj" PAFT=" " UNL="tail(icl&gt;body_part&gt;thing,equ&gt;buttocks)" DEF="">tail</W> 
+<W DOM="6" FEAT="S SG" HYPOT="coord-conj.10" ID="8" KSNAME="TAIL1" LEMMA="TAIL" LINK="coord-conj" PAFT=" " UNL="tail(icl&gt;body_part&gt;thing,equ&gt;buttocks)" DEF="THE FLESHY PART OF THE HUMAN BODY THAT YOU SIT ON" TRANS="зад">tail</W> 
 <W DOM="2" EXTRAFEAT="CAP-MIX" FEAT="A" ID="9" KSNAME="LAK1" LEMMA="LAK" LINK="fictit" PAFT=" ">lak</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="10" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="2" FEAT="S SG" ID="11" KSNAME="CORKSCREW" LEMMA="CORKSCREW" LINK="fictit" PAFT=". " UNL="corkscrew(icl&gt;bottle_opener&gt;thing)" DEF="A BOTTLE OPENER THAT PULLS CORKS" TRANS="штопор">corkscrew</W>. 

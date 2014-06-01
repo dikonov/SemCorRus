@@ -49,7 +49,7 @@
 <W DOM="19" FEAT="CONJ" HYPOT="adverb.10" ID="13" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="EVERY" LEMMA="EVERY" LINK="determ" PAFT=" ">every</W> 
 <W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="ARTIST" LEMMA="ARTIST" LINK="predic" PAFT=" " UNL="artist(icl&gt;creator&gt;thing)" DEF="A PERSON WHOSE CREATIVE WORK SHOWS SENSITIVITY AND IMAGINATION" TRANS="художник">artist</W> 
-<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="16" KSNAME="DELIGHT2" LEMMA="DELIGHT" LINK="subord-conj" PAFT=" " UNL="delight(icl&gt;do,agt&gt;thing)" DEF="">delights</W> 
+<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="16" KSNAME="DELIGHT2" LEMMA="DELIGHT" LINK="subord-conj" PAFT=" " UNL="delight(icl&gt;do,agt&gt;thing)" DEF="TAKE DELIGHT IN" TRANS="наслаждаться">delights</W> 
 <W DOM="16" FEAT="PART" HYPOT="2-compl.12" ID="17" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="DO1" LEMMA="DO" LINK="prepos" PAFT=", ">do</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="19" KSNAME="WEAVE1" LEMMA="WEAVE" PAFT=" " UNL="weave(icl&gt;create&gt;do,agt&gt;person,obj&gt;cloth)" DEF="CREATE A PIECE OF CLOTH BY INTERLACING STRANDS OF FABRIC, SUCH AS WOOL OR COTTON" TRANS="ткать">wove</W> 
@@ -129,7 +129,7 @@
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="13" KSNAME="NEED1" LEMMA="NEED" LINK="relat" PAFT=" " UNL="need(icl&gt;require&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="REQUIRE SMTH AS JUST OR PROPER" TRANS="требовать">need</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.13" ID="14" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
-<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.13" ID="16" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="17" KSNAME="RECEIVE" LEMMA="RECEIVE" LINK="coord-conj" PAFT=", " UNL="receive(icl&gt;acquire&gt;do,src&gt;thing,obj&gt;thing)" DEF="GET SOMETHING GIVEN TO YOU" TRANS="получать,принимать">receive</W>, 
 <W DOM="2" FEAT="CONJ" ID="18" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
@@ -363,7 +363,7 @@
 <W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CASE1" LEMMA="CASE" LINK="prepos" PAFT=", " UNL="case(icl&gt;happening&gt;thing)" DEF="AN OCCURRENCE OF SOMETHING" TRANS="случай">case</W>, 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="BITTER" LEMMA="BITTER" LINK="modif" PAFT=" ">bitter</W> 
-<W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="predic" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="">disappointment</W> 
+<W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="predic" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="A FEELING OF DISSATISFACTION THAT RESULTS WHEN YOUR EXPECTATIONS ARE NOT REALIZED" TRANS="разочарование">disappointment</W> 
 <W DOM="1" FEAT="CONJ" ID="9" KSNAME="BUT1" LEMMA="BUT" LINK="fictit" PAFT=" ">but</W> 
 <W DOM="11" FEAT="ADV" HYPOT="restr.12" ID="10" KSNAME="TOO1" LEMMA="TOO" LINK="restr" PAFT=" " UNL="too(icl&gt;how,equ&gt;excessively,com&gt;excessive,ben&gt;volitional_thing,pur&gt;uw)" DEF="TO AN EXCESSIVE DEGREE" TRANS="слишком">too</W> 
 <W DOM="12" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="OFTEN" LEMMA="OFTEN" LINK="adverb" PAFT=" " UNL="often(icl&gt;how,equ&gt;frequently,ant&gt;rarely,com&gt;frequent)" DEF="MANY TIMES AT SHORT INTERVALS" TRANS="зачастую,часто">often</W> 

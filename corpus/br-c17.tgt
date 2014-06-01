@@ -161,7 +161,7 @@
 <W DOM="19" FEAT="PR" HYPOT="quasiagent.10" ID="20" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="PEOPLE1" LEMMA="PEOPLE" LINK="prepos" PAFT=" ">people</W> 
-<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="comp-conj.10" ID="23" KSNAME="TURN2" LEMMA="TURN" LINK="comp-conj" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turn</W> 
+<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="comp-conj.10" ID="23" KSNAME="TURN2" LEMMA="TURN" LINK="comp-conj" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turn</W> 
 <W DOM="23" FEAT="ADV" HYPOT="phras-junct.10" ID="24" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="26" FEAT="ADV" GRP="25,26" HYPOT="restr.12" ID="25" KSNAME="SO1" LEMMA="SO" LINK="restr" PAFT=" ">so</W> 
 <W DOM="27" FEAT="ADV" GRP="25,26" HYPOT="restr.15" ID="26" KSNAME="MUCH" LEMMA="MUCH" LINK="restr" PAFT=" ">much</W> 

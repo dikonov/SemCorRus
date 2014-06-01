@@ -1338,7 +1338,7 @@
 <W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="13,14,15" HYPOT="compos.01" ID="13" KSNAME="POST1" LEMMA="POST" LINK="compos" PAFT=" ">Post</W> 
 <W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="13,14,15" HYPOT="prepos.01" ID="14" KSNAME="OFFICE1" LEMMA="OFFICE" LINK="prepos" PAFT=" ">Office</W> 
 <W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="13,14,15" HYPOT="appos.03" ID="15" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" LINK="appos" PAFT=", ">Department</W>, 
-<W DOM="8" FEAT="V ING" HYPOT="adverb.03" ID="16" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="8" FEAT="V ING" HYPOT="adverb.03" ID="16" KSNAME="ASK1" LEMMA="ASK" LINK="adverb" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="16" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="17" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="16" FEAT="PART" HYPOT="2-compl.12" ID="18" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" &quot;">to</W> 
 "<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="19,20,21,22,23,24,25,26,27,28,29,30,31" HYPOT="prepos.16" ID="19" KSNAME="PUT" LEMMA="PUT" LINK="prepos" PAFT=" ">put</W> 

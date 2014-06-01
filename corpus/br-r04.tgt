@@ -173,7 +173,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="ALWAYS" LEMMA="ALWAYS" LINK="adverb" PAFT=" ">always</W> 
 <W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="5" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="5" FEAT="V ING" HYPOT="analyt.11" ID="6" KSNAME="ROMP2" LEMMA="ROMP" LINK="analyt" PAFT=" " UNL="romp(icl&gt;play&gt;do,equ&gt;frolic,agt&gt;living_thing,ptn&gt;thing)" DEF="">romping</W> 
+<W DOM="5" FEAT="V ING" HYPOT="analyt.11" ID="6" KSNAME="ROMP2" LEMMA="ROMP" LINK="analyt" PAFT=" " UNL="romp(icl&gt;play&gt;do,equ&gt;frolic,agt&gt;living_thing,ptn&gt;thing)" DEF="PLAY BOISTEROUSLY" TRANS="резвиться">romping</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="AROUND1" LEMMA="AROUND" LINK="adverb" PAFT=" ">around</W> 
 <W DOM="7" FEAT="S OBJ SG" HYPOT="prepos.01" ID="8" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=" ">him</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
@@ -273,7 +273,7 @@
 <W DOM="10" FEAT="S PL" HYPOT="copulat.10" ID="12" KSNAME="DOG" LEMMA="DOG" LINK="copulat" PAFT=" " UNL="dog(icl&gt;canine&gt;thing)" DEF="A MEMBER OF THE GENUS CANIS (PROBABLY DESCENDED FROM THE COMMON WOLF) THAT HAS BEEN DOMESTICATED BY MAN SINCE PREHISTORIC TIMES" TRANS="собака">dogs</W> 
 <W DOM="12" FEAT="PR" HYPOT="attrib.01" ID="13" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="prepos" PAFT=". " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W>. 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="prepos" PAFT=". " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W>. 
 </S>
 <S DATE="30 11 2010 10:43:47" ID="14" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_27\\br-r04.tgt;14" STATUS="doubt">
 <W DOM="9" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.03" ID="1" KSNAME="WHAT1" LEMMA="WHAT" LINK="1-compl" PAFT=" ">What</W> 
@@ -761,7 +761,7 @@
 <W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="FARM1" LEMMA="FARM" LINK="prepos" PAFT=" " UNL="farm(icl&gt;workplace&gt;thing)" DEF="WORKPLACE CONSISTING OF FARM BUILDINGS AND CULTIVATED LAND AS A UNIT" TRANS="ферма">farm</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="ROOSTER" LEMMA="ROOSTER" LINK="predic" PAFT=" " UNL="rooster(icl&gt;chicken&gt;thing,equ&gt;cock)" DEF="ADULT MALE CHICKEN" TRANS="петух">rooster</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="CROW2" LEMMA="CROW" PAFT=" " UNL="crow(icl&gt;utter&gt;do,agt&gt;thing)" DEF="">crowed</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="CROW2" LEMMA="CROW" PAFT=" " UNL="crow(icl&gt;utter&gt;do,agt&gt;cock)" DEF="UTTER SHRILL SOUNDS" TRANS="кукарекать">crowed</W> 
 <W DOM="7" FEAT="CONJ" ID="8" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=", ">and</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="FAR2" LEMMA="FAR" LINK="adverb" PAFT=" " UNL="far(icl&gt;how)" DEF="AT OR TO OR FROM A GREAT DISTANCE IN SPACE" TRANS="далеко">far</W> 
 <W DOM="7" FEAT="ADV" HYPOT="adverb.01" ID="10" KSNAME="DOWN1" LEMMA="DOWN" LINK="adverb" PAFT=" ">down</W> 
@@ -1035,7 +1035,7 @@
 <W DOM="2" FEAT="V PP" HYPOT="analyt.12" ID="3" KSNAME="MAKE1" LEMMA="MAKE" LINK="analyt" PAFT=" ">made</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="FUSS1" LEMMA="FUSS" LINK="1-compl" PAFT=" " UNL="fuss(icl&gt;agitation&gt;thing,equ&gt;dither)" DEF="">fuss</W> 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="FUSS1" LEMMA="FUSS" LINK="1-compl" PAFT=" " UNL="fuss(icl&gt;agitation&gt;thing,equ&gt;dither)" DEF="AN EXCITED STATE OF AGITATION" TRANS="суета">fuss</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.07" ID="7" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="2-compl" PAFT=" ">about</W> 
 <W DOM="7" FEAT="V ING" HYPOT="prepos.01" ID="8" KSNAME="BUY1" LEMMA="BUY" LINK="prepos" PAFT=" " UNL="buy(icl&gt;get&gt;do,cob&gt;thing,src&gt;thing,agt&gt;person,obj&gt;thing)" DEF="OBTAIN BY PURCHASE; ACQUIRE BY MEANS OF A FINANCIAL TRANSACTION" TRANS="покупать">buying</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="1-compl.23" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
@@ -1118,7 +1118,7 @@
 <W DOM="22" FEAT="S NOM SG" HYPOT="predic.01" ID="21" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="22" KSNAME="CAN1" LEMMA="CAN" LINK="sent-coordin" PAFT=" ">could</W> 
 <W DOM="22" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="23" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
-<W DOM="22" FEAT="V MF" HYPOT="1-compl.17" ID="24" KSNAME="PACIFY" LEMMA="PACIFY" LINK="1-compl" PAFT=" " UNL="pacify(icl&gt;calm&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="">pacify</W> 
+<W DOM="22" FEAT="V MF" HYPOT="1-compl.17" ID="24" KSNAME="PACIFY" LEMMA="PACIFY" LINK="1-compl" PAFT=" " UNL="pacify(icl&gt;calm&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,met&gt;thing)" DEF="CAUSE TO BE MORE FAVORABLY INCLINED" TRANS="успокаивать">pacify</W> 
 <W DOM="24" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="25" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="24" FEAT="PR" HYPOT="2-compl.02" ID="26" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="29" FEAT="ART" HYPOT="determ.10" ID="27" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1294,7 +1294,7 @@
 <W DOM="3" FEAT="V ING" HYPOT="adverb.03" ID="6" KSNAME="FIGURE2" LEMMA="FIGURE" LINK="adverb" PAFT=" " UNL="figure(icl&gt;do,equ&gt;compute,agt&gt;thing,obj&gt;uw)" DEF="MAKE A MATHEMATICAL CALCULATION OR COMPUTATION" TRANS="подсчитывать">figuring</W> 
 <W DOM="6" FEAT="PR" HYPOT="1-compl.07" ID="7" KSNAME="ON1" LEMMA="ON" LINK="1-compl" PAFT=" ">on</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="SCRAP1" LEMMA="SCRAP" LINK="prepos" PAFT=" " UNL="scrap(icl&gt;fragment&gt;thing,equ&gt;bit)" DEF="">scrap</W> 
+<W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="SCRAP1" LEMMA="SCRAP" LINK="prepos" PAFT=" " UNL="scrap(icl&gt;piece&gt;concrete_thing,obj&gt;concrete_thing)" DEF="A SMALL DETACHED PIECE" TRANS="кусочек,обломок,огрызок,обрывок">scrap</W> 
 <W DOM="9" FEAT="PR" HYPOT="quasiagent.10" ID="10" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="PAPER1" LEMMA="PAPER" LINK="prepos" PAFT=" " UNL="paper(icl&gt;material&gt;thing)" DEF="A MATERIAL MADE OF CELLULOSE PULP DERIVED MAINLY FROM WOOD OR RAGS OR CERTAIN GRASSES" TRANS="бумага">paper</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 

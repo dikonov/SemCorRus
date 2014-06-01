@@ -553,7 +553,7 @@
 <W DOM="4" FEAT="A" HYPOT="determ.13" ID="3" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="1" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="HAT" LEMMA="HAT" LINK="1-compl" PAFT=" ">hat</W> 
 <W DOM="1" FEAT="CONJ" HYPOT="coordin.10" ID="5" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="5" FEAT="V ING" HYPOT="coord-conj.10" ID="6" KSNAME="SIGNAL2" LEMMA="SIGNAL" LINK="coord-conj" PAFT=" " UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="">signaling</W> 
+<W DOM="5" FEAT="V ING" HYPOT="coord-conj.10" ID="6" KSNAME="SIGNAL2" LEMMA="SIGNAL" LINK="coord-conj" PAFT=" " UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="" TRANS="сигналить,давать сигнал">signaling</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="DRIVER" LEMMA="DRIVER" LINK="1-compl" PAFT=" ">driver</W> 
 <W DOM="8" FEAT="PR" GRP="9,10" HYPOT="attrib.01" ID="9" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 

@@ -269,7 +269,7 @@
 <W DOM="18" FEAT="V MF" HYPOT="1-compl.17" ID="19" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
 <W DOM="19" FEAT="V ING" HYPOT="analyt.11" ID="20" KSNAME="PLAY1" LEMMA="PLAY" LINK="analyt" PAFT=" " UNL="play(icl&gt;compete&gt;do,agt&gt;thing,obj&gt;uw,ptn&gt;thing)" DEF="TO ENGAGE IN A GAME" TRANS="играть">playing</W> 
 <W DOM="20" FEAT="PR" HYPOT="adverb.02" ID="21" KSNAME="WITHOUT" LEMMA="WITHOUT" LINK="adverb" PAFT=" ">without</W> 
-<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="CAPTAIN" LEMMA="CAPTAIN" LINK="prepos" PAFT=" " UNL="captain(icl&gt;leader&gt;thing)" DEF="">captain</W> 
+<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="CAPTAIN" LEMMA="CAPTAIN" LINK="prepos" PAFT=" " UNL="captain(icl&gt;leader&gt;thing)" DEF="THE LEADER OF A GROUP OF PEOPLE" TRANS="вожак">captain</W> 
 <W DOM="24" EXTRAFEAT="CAP" FEAT="S SG" GRP="23,24" HYPOT="compos.01" ID="23" KSNAME="KENNY" LEMMA="KENNY" LINK="compos" PAFT=" ">Kenny</W> 
 <W DOM="22" FEAT="S SG" GRP="23,24" HYPOT="appos.03" ID="24" KSNAME="FRM-PROP" LEMMA="BOYER" LINK="appos" PAFT=" ">Boyer</W> 
 <W DOM="20" FEAT="PR" HYPOT="2-compl.02" ID="25" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
@@ -801,7 +801,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="adverb.04" ID="3" KSNAME="SEASON1" LEMMA="SEASON" LINK="adverb" PAFT=" ">season</W> 
 <W DOM="5" FEAT="ART" GRP="4,5" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" EXTRAFEAT="CAP CAPIT" FEAT="S PL" GRP="4,5" HYPOT="predic.01" ID="5" KSNAME="BIRD" LEMMA="BIRD" LINK="predic" PAFT=" ">Birds</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="TUMBLE2" LEMMA="TUMBLE" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="">tumbled</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="TUMBLE2" LEMMA="TUMBLE" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="валиться">tumbled</W> 
 <W DOM="8" FEAT="ADV" HYPOT="restr.12" ID="7" KSNAME="AS2" LEMMA="AS" LINK="restr" MSNAME="AS2" PAFT=" ">as</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="LOW1" LEMMA="LOW" LINK="modif" PAFT=" ">low</W> 
 <W DOM="6" FEAT="CONJ" ID="9" KSNAME="AS1" LEMMA="AS" LINK="fictit" PAFT=" ">as</W> 
@@ -912,7 +912,7 @@
 <W DOM="2" FEAT="S SG" HYPOT="adverb.04" ID="7" KSNAME="NIGHT" LEMMA="NIGHT" LINK="adverb" PAFT=". " UNL="night(icl&gt;time_period&gt;thing,ant&gt;day)" DEF="THE TIME AFTER SUNSET AND BEFORE SUNRISE WHILE IT IS DARK OUTSIDE" TRANS="ночь">night</W>. 
 </S>
 <S DATE="29 11 2010 19:49:35" ID="48" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a15.tgt;48" STATUS="doubt">
-<W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">Speakers</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="predic" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">Speakers</W> 
 <W DOM="1" FEAT="PR" HYPOT="attrib.01" ID="2" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="3" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="5" FEAT="S SG" GRP="4,5" HYPOT="compos.01" ID="4" KSNAME="FRM-PROP" LEMMA="TIPOFF" LINK="compos" PAFT=" ">Tipoff</W> 
@@ -1110,7 +1110,7 @@
 </S>
 <S DATE="29 11 2010 19:49:38" ID="56" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a15.tgt;56" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="9" FEAT="S SG" ID="2" KSNAME="TRIO" LEMMA="TRIO" LINK="fictit" PAFT=" " UNL="trio(icl&gt;digit&gt;thing,equ&gt;three)" DEF="">trio</W> 
+<W DOM="9" FEAT="S SG" ID="2" KSNAME="TRIO" LEMMA="TRIO" LINK="fictit" PAFT=" " UNL="trio(icl&gt;digit&gt;thing,equ&gt;three)" DEF="THE CARDINAL NUMBER THAT IS THE SUM OF ONE AND ONE AND ONE" TRANS="тройка">trio</W> 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.01" ID="3" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="4" KSNAME="SHARE1" LEMMA="SHARE" LINK="modif" PAFT=" " UNL="share(icl&gt;be,obj&gt;uw,aoj&gt;thing,ptn&gt;thing)" DEF="HAVE IN COMMON" TRANS="разделять">shared</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.16" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1133,7 +1133,7 @@
 <W DOM="8" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FRM-PROP" LEMMA="KIEFFER" LINK="predic" PAFT=", ">Kieffer</W>, 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="ONLY2" LEMMA="ONLY" LINK="modif" PAFT=" " UNL="only(icl&gt;adj,equ&gt;lone)" DEF="BEING THE ONLY ONE" TRANS="единственный">only</W> 
-<W DOM="1" FEAT="S SG" HYPOT="descr-appos.01" ID="4" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="descr-appos" PAFT=" " UNL="junior(icl&gt;lowerclassman&gt;thing)" DEF="">junior</W> 
+<W DOM="1" FEAT="S SG" HYPOT="descr-appos.01" ID="4" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="descr-appos" PAFT=" " UNL="junior(icl&gt;lowerclassman&gt;person)" DEF="">junior</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="GROUP1" LEMMA="GROUP" LINK="prepos" PAFT=", " UNL="group(icl&gt;abstraction&gt;thing)" DEF="ANY NUMBER OF ENTITIES (MEMBERS) CONSIDERED AS A UNIT" TRANS="группа">group</W>, 
@@ -1887,7 +1887,7 @@
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="KNOW" LEMMA="KNOW" PAFT=", ">know</W>, 
 <W DOM="5" FEAT="S NOM PL" HYPOT="predic.01" ID="4" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="3" EXTRAFEAT="ALT FIN QFIN" FEAT="V PRS PL" HYPOT="sent-coordin.01" ID="5" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" ">'re</W> 
-<W DOM="5" FEAT="S PL" HYPOT="copulat.10" ID="6" KSNAME="PROFESSIONAL2" LEMMA="PROFESSIONAL" LINK="copulat" PAFT=", " UNL="professional(icl&gt;athlete&gt;thing,ant&gt;amateur)" DEF="">professionals</W>, 
+<W DOM="5" FEAT="S PL" HYPOT="copulat.10" ID="6" KSNAME="PROFESSIONAL2" LEMMA="PROFESSIONAL" LINK="copulat" PAFT=", " UNL="professional(icl&gt;athlete&gt;thing,ant&gt;amateur)" DEF="AN ATHLETE WHO PLAYS FOR PAY" TRANS="профессионал">professionals</W>, 
 <W DOM="6" FEAT="S PL" HYPOT="coordin.01" ID="7" KSNAME="MAN1" LEMMA="MAN" LINK="coordin" PAFT=" ">men</W> 
 <W DOM="7" FEAT="V PP" HYPOT="modif.01" ID="8" KSNAME="PAY1" LEMMA="PAY" LINK="modif" PAFT=" ">paid</W> 
 <W DOM="8" FEAT="PART" HYPOT="adverb.11" ID="9" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 

@@ -2109,7 +2109,7 @@
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="YESTERDAY1" LEMMA="YESTERDAY" LINK="adverb" PAFT=" ">yesterday</W> 
 <W DOM="8" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="1-compl.31" ID="8" KSNAME="MAY1" LEMMA="MAY" LINK="1-compl" PAFT=" ">may</W> 
-<W DOM="8" FEAT="V MF" HYPOT="1-compl.17" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="1-compl" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="8" FEAT="V MF" HYPOT="1-compl.17" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="1-compl" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="COUNCIL" LEMMA="COUNCIL" LINK="1-compl" PAFT=" ">council</W> 
 <W DOM="9" FEAT="PART" HYPOT="2-compl.12" ID="12" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 

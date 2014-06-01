@@ -1019,7 +1019,7 @@
 <W DOM="12" FEAT="PART" HYPOT="2-compl.12" ID="15" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="15" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="INVADE" LEMMA="INVADE" LINK="prepos" PAFT=" " UNL="invade(icl&gt;attack&gt;do,agt&gt;person,obj&gt;thing)" DEF="MARCH AGGRESSIVELY INTO ANOTHER'S TERRITORY BY MILITARY FORCE FOR THE PURPOSES OF CONQUEST AND OCCUPATION" TRANS="вторгаться">invade</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.13" ID="17" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="18" KSNAME="SUBJUGATE" LEMMA="SUBJUGATE" LINK="coord-conj" PAFT=" " UNL="subjugate(icl&gt;oppress&gt;do,equ&gt;repress,agt&gt;thing,obj&gt;thing)" DEF="">subjugate</W> 
+<W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="18" KSNAME="SUBJUGATE" LEMMA="SUBJUGATE" LINK="coord-conj" PAFT=" " UNL="subjugate(icl&gt;oppress&gt;do,equ&gt;repress,agt&gt;thing,obj&gt;thing)" DEF="PUT DOWN BY FORCE OR INTIMIDATION" TRANS="подавлять">subjugate</W> 
 <W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="KATANGA" LEMMA="KATANGA" LINK="1-compl" PAFT=". ">Katanga</W>. 
 </S>
 <S DATE="29 11 2010 20:04:03" ID="49" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_33\\br-b03.tgt;49" STATUS="doubt">

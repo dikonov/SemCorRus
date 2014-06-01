@@ -48,7 +48,7 @@
 <W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="BIOLOGICAL" LEMMA="BIOLOGICAL" LINK="modif" PAFT=" " UNL="biological(icl&gt;adj,com&gt;biology)" DEF="PERTAINING TO BIOLOGY OR TO LIFE AND LIVING THINGS" TRANS="биологический">biological</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="EVOLUTION" LEMMA="EVOLUTION" LINK="prepos" PAFT=" " UNL="evolution(icl&gt;process&gt;thing,equ&gt;development,ant&gt;devolution)" DEF="A PROCESS IN WHICH SOMETHING PASSES BY DEGREES TO A DIFFERENT STAGE (ESPECIALLY A MORE ADVANCED OR MATURE STAGE)" TRANS="эволюция">evolution</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="18" KSNAME="FIT1" LEMMA="FIT" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="">fits</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="18" KSNAME="FIT1" LEMMA="FIT" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="BE COMPATIBLE, SIMILAR OR CONSISTENT" TRANS="соответствовать">fits</W> 
 <W DOM="20" FEAT="ADV" HYPOT="restr.12" ID="19" KSNAME="QUITE" LEMMA="QUITE" LINK="restr" PAFT=" ">quite</W> 
 <W DOM="18" FEAT="ADV" HYPOT="adverb.01" ID="20" KSNAME="BEAUTIFULLY" LEMMA="BEAUTIFULLY" LINK="adverb" PAFT=" " UNL="beautifully(icl&gt;how,com&gt;beautiful)" DEF="IN A BEAUTIFUL MANNER" TRANS="красиво">beautifully</W> 
 <W DOM="18" FEAT="ADV" HYPOT="adverb.01" ID="21" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" " UNL="then(icl&gt;how,equ&gt;in_that_case)" DEF="IN THAT CASE" TRANS="тогда">then</W> 
@@ -1060,7 +1060,7 @@
 <W DOM="38" FEAT="ADV" HYPOT="adverb.01" ID="39" KSNAME="QUANTITATIVELY" LEMMA="QUANTITATIVELY" LINK="adverb" PAFT=" " UNL="quantitatively(icl&gt;how,com&gt;quantitative)" DEF="IN A QUANTITATIVE MANNER" TRANS="количественно">quantitatively</W> 
 <W DOM="38" FEAT="PR" HYPOT="1-compl.07" ID="40" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="40" FEAT="A" HYPOT="prepos.01" ID="41" KSNAME="BOTH1" LEMMA="BOTH" LINK="prepos" PAFT=" ">both</W> 
-<W DOM="45" FEAT="A" HYPOT="modif.01" ID="42" KSNAME="TERRESTRIAL" LEMMA="TERRESTRIAL" LINK="modif" PAFT=" " UNL="terrestrial(icl&gt;adj,equ&gt;tellurian,com&gt;earth)" DEF="">terrestrial</W> 
+<W DOM="45" FEAT="A" HYPOT="modif.01" ID="42" KSNAME="TERRESTRIAL" LEMMA="TERRESTRIAL" LINK="modif" PAFT=" " UNL="terrestrial(icl&gt;adj,equ&gt;tellurian,com&gt;earth)" DEF="OF OR RELATING TO OR INHABITING THE LAND AS OPPOSED TO THE SEA OR AIR" TRANS="наземный">terrestrial</W> 
 <W DOM="42" FEAT="CONJ" HYPOT="coordin.10" ID="43" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="43" FEAT="A" HYPOT="coord-conj.10" ID="44" KSNAME="CELESTIAL1" LEMMA="CELESTIAL" LINK="coord-conj" PAFT=" " UNL="celestial(icl&gt;adj,com&gt;sky)" DEF="OF OR RELATING TO THE SKY" TRANS="небесный">celestial</W> 
 <W DOM="38" FEAT="S PL" HYPOT="2-compl.11" ID="45" KSNAME="MOTION1" LEMMA="MOTION" LINK="2-compl" PAFT=". " UNL="motion(icl&gt;happening&gt;thing,equ&gt;movement)" DEF="A NATURAL EVENT THAT INVOLVES A CHANGE IN THE POSITION OR LOCATION OF SOMETHING" TRANS="движение">motions</W>. 
@@ -1082,7 +1082,7 @@
 <W DOM="13" FEAT="V MF" HYPOT="1-compl.17" ID="14" KSNAME="ELIMINATE" LEMMA="ELIMINATE" LINK="1-compl" PAFT=" " UNL="eliminate(icl&gt;remove&gt;do,agt&gt;thing,obj&gt;thing,scn&gt;thing)" DEF="TERMINATE OR TAKE OUT" TRANS="устранять">eliminate</W> 
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="FEAR1" LEMMA="FEAR" LINK="1-compl" PAFT=" " UNL="fear(icl&gt;emotion&gt;thing,ant&gt;fearlessness)" DEF="AN EMOTION EXPERIENCED IN ANTICIPATION OF SOME SPECIFIC PAIN OR DANGER (USUALLY ACCOMPANIED BY A DESIRE TO FLEE OR FIGHT)" TRANS="страх">fear</W> 
 <W DOM="15" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="WITHOUT" LEMMA="WITHOUT" LINK="attrib" PAFT=" ">without</W> 
-<W DOM="16" FEAT="V ING" HYPOT="prepos.01" ID="17" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="prepos" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">instituting</W> 
+<W DOM="16" FEAT="V ING" HYPOT="prepos.01" ID="17" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="prepos" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ADVANCE OR SET FORTH IN COURT" TRANS="возбуждать">instituting</W> 
 <W DOM="19" FEAT="A" HYPOT="determ.13" ID="18" KSNAME="ANY" LEMMA="ANY" LINK="determ" PAFT=" ">any</W> 
 <W DOM="17" FEAT="S PL" HYPOT="1-compl.01" ID="19" KSNAME="CONTROL1" LEMMA="CONTROL" LINK="1-compl" PAFT=". " UNL="control(icl&gt;relation&gt;thing)" DEF="A RELATION OF CONSTRAINT OF ONE ENTITY (THING OR PERSON OR GROUP) BY ANOTHER" TRANS="контроль">controls</W>. 
 </S>
@@ -1287,7 +1287,7 @@
 <W DOM="12" FEAT="PR" HYPOT="quasiagent.10" ID="13" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="TRUST1" LEMMA="TRUST" LINK="prepos" PAFT=" " UNL="trust(icl&gt;trait&gt;thing,ant&gt;distrust)" DEF="THE TRAIT OF BELIEVING IN THE HONESTY AND RELIABILITY OF OTHERS" TRANS="вера,доверчивость">trust</W> 
 <W DOM="14" FEAT="CONJ" HYPOT="coordin.10" ID="15" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
-<W DOM="15" FEAT="S SG" HYPOT="coord-conj.10" ID="16" KSNAME="STUBBORNNESS" LEMMA="STUBBORNNESS" LINK="coord-conj" PAFT=" " UNL="stubbornness(icl&gt;resoluteness&gt;thing)" DEF="">stubbornness</W> 
+<W DOM="15" FEAT="S SG" HYPOT="coord-conj.10" ID="16" KSNAME="STUBBORNNESS" LEMMA="STUBBORNNESS" LINK="coord-conj" PAFT=" " UNL="stubbornness(icl&gt;resoluteness&gt;thing)" DEF="RESOLUTE ADHERENCE TO YOUR OWN IDEAS OR DESIRES" TRANS="упрямство">stubbornness</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="17" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="SECRECY" LEMMA="SECRECY" LINK="coord-conj" PAFT=" " UNL="secrecy(icl&gt;uncommunicativeness&gt;thing)" DEF="THE TRAIT OF KEEPING THINGS SECRET" TRANS="скрытность">secrecy</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="19" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
@@ -1608,7 +1608,7 @@
 <W DOM="7" FEAT="ADV" HYPOT="parenth.10" ID="8" KSNAME="SIMILARLY" LEMMA="SIMILARLY" LINK="parenth" PAFT=" " UNL="similarly(icl&gt;how,com&gt;similar)" DEF="IN LIKE OR SIMILAR MANNER" TRANS="подобно,аналогично,также как">similarly</W> 
 <W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="BASE2" LEMMA="BASE" LINK="pass-anal" PAFT=" " UNL="base(icl&gt;ground&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="USE AS A BASIS FOR" TRANS="базировать,основывать">based</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.02" ID="10" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 
-<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="VOODOO1" LEMMA="VOODOO" LINK="prepos" PAFT=", " UNL="voodoo(icl&gt;charm&gt;thing,equ&gt;juju)" DEF="">voodoo</W>, 
+<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="VOODOO1" LEMMA="VOODOO" LINK="prepos" PAFT=", " UNL="voodoo(icl&gt;charm&gt;thing,equ&gt;juju)" DEF="A CHARM SUPERSTITIOUSLY BELIEVED TO EMBODY MAGICAL POWERS" TRANS="амулет">voodoo</W>, 
 <W DOM="7" FEAT="CONJ" HYPOT="sent-coordin.10" ID="12" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="13" KSNAME="HERE" LEMMA="HERE" LINK="adverb" PAFT=" ">here</W> 
 <W DOM="16" FEAT="S NOM PL" HYPOT="predic.01" ID="14" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
@@ -1948,7 +1948,7 @@
 <W DOM="1" FEAT="S SG" GRP="2,3" HYPOT="prepos.01" ID="3" KSNAME="CARE1" LEMMA="CARE" LINK="prepos" PAFT=", ">care</W>, 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="OPPOSITE1" LEMMA="OPPOSITE" LINK="modif" PAFT=" " UNL="opposite(icl&gt;adj,equ&gt;diametric)" DEF="">opposite</W> 
-<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="EXTREME2" LEMMA="EXTREME" LINK="predic" PAFT=" " UNL="extreme(icl&gt;extremity&gt;thing,equ&gt;extreme_point)" DEF="">extreme</W> 
+<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="EXTREME2" LEMMA="EXTREME" LINK="predic" PAFT=" " UNL="extreme(icl&gt;extremity&gt;thing,equ&gt;extreme_point)" DEF="THE POINT LOCATED FARTHEST FROM THE MIDDLE OF SOMETHING" TRANS="экстремум">extreme</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="PREVAIL" LEMMA="PREVAIL" PAFT="; " UNL="prevail(icl&gt;exist&gt;be,aoj&gt;thing,plc&gt;uw)" DEF="BE VALID, APPLICABLE, OR TRUE" TRANS="иметь">prevails</W>; 
 <W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="8" KSNAME="PROCEDURE" LEMMA="PROCEDURE" LINK="predic" PAFT=" " UNL="procedure(icl&gt;work&gt;thing,equ&gt;operation)" DEF="A PROCESS OR SERIES OF ACTS ESPECIALLY OF A PRACTICAL OR MECHANICAL NATURE INVOLVED IN A PARTICULAR FORM OF WORK" TRANS="процедура">procedures</W> 
 <W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="9" KSNAME="CHANGE1" LEMMA="CHANGE" LINK="sent-coordin" PAFT=" ">change</W> 
@@ -1991,7 +1991,7 @@
 <W DOM="1" FEAT="PR" HYPOT="elect.10" ID="2" KSNAME="OF" LEMMA="OF" LINK="elect" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="FORMER2" LEMMA="FORMER" LINK="modif" PAFT=" " UNL="former(icl&gt;adj,equ&gt;former,ant&gt;latter)" DEF="REFERRING TO THE FIRST OF TWO THINGS OR PERSONS MENTIONED (OR THE EARLIER ONE OR ONES OF SEVERAL)" TRANS="предыдущий,предшествующий,предшествующи">former</W> 
-<W DOM="6" FEAT="S SG" HYPOT="compos.01" ID="5" KSNAME="EXTREME2" LEMMA="EXTREME" LINK="compos" PAFT=" " UNL="extreme(icl&gt;extremity&gt;thing,equ&gt;extreme_point)" DEF="">extreme</W> 
+<W DOM="6" FEAT="S SG" HYPOT="compos.01" ID="5" KSNAME="EXTREME2" LEMMA="EXTREME" LINK="compos" PAFT=" " UNL="extreme(icl&gt;extremity&gt;thing,equ&gt;extreme_point)" DEF="THE POINT LOCATED FARTHEST FROM THE MIDDLE OF SOMETHING" TRANS="экстремум">extreme</W> 
 <W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="UNEASINESS" LEMMA="UNEASINESS" LINK="prepos" PAFT=" " UNL="uneasiness(icl&gt;anxiety&gt;thing,equ&gt;edginess)" DEF="FEELINGS OF ANXIETY THAT MAKE YOU TENSE AND IRRITABLE" TRANS="тревога">uneasiness</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="ASSOCIATE1" LEMMA="ASSOCIATE" PAFT=" " UNL="associate(icl&gt;tie_in&gt;do,com&gt;consciousness,cob&gt;uw,agt&gt;person,obj&gt;uw)" DEF="MAKE A LOGICAL OR CAUSAL CONNECTION" TRANS="связывать">associated</W> 
 <W DOM="7" FEAT="PR" HYPOT="2-compl.02" ID="8" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 

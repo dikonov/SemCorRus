@@ -300,7 +300,7 @@
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" GRP="5,6,7,8" HYPOT="appos.10" ID="8" KSNAME="GREEN4" LEMMA="GREEN" LINK="appos" PAFT=", ">Greens</W>, 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="S SG" HYPOT="compos.01" ID="10" KSNAME="TOWN" LEMMA="TOWN" LINK="compos" PAFT=" ">town</W> 
-<W DOM="8" FEAT="S SG" HYPOT="descr-appos.01" ID="11" KSNAME="BAND3" LEMMA="BAND" LINK="descr-appos" PAFT=", " UNL="band(icl&gt;musical_organization&gt;thing)" DEF="">band</W>, 
+<W DOM="8" FEAT="S SG" HYPOT="descr-appos.01" ID="11" KSNAME="BAND3" LEMMA="BAND" LINK="descr-appos" PAFT=", " UNL="band(icl&gt;musical_organization&gt;group)" DEF="INSTRUMENTALISTS NOT INCLUDING STRING PLAYERS" TRANS="оркестр">band</W>, 
 <W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="12" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.10" ID="13" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="PICNIC" LEMMA="PICNIC" LINK="prepos" PAFT=" " UNL="picnic(icl&gt;vacation&gt;thing,equ&gt;field_day)" DEF="">picnic</W> 
@@ -504,7 +504,7 @@
 <W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" GRP="5,6,7" HYPOT="compos.01" ID="5" KSNAME="JOHN" LEMMA="JOHN" LINK="compos" PAFT=" ">John</W> 
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6,7" HYPOT="copulat.10" ID="6" KSNAME="H1" LEMMA="H" LINK="copulat" PAFT=" ">H</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6,7" HYPOT="predic.01" ID="7" KSNAME="MERCER" LEMMA="MERCER" LINK="predic" MSNAME="MERCER" PAFT=" ">Mercer</W> 
-<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="8" KSNAME="TURN2" LEMMA="TURN" LINK="relat" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turned</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="8" KSNAME="TURN2" LEMMA="TURN" LINK="relat" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turned</W> 
 <W DOM="8" FEAT="ADV" HYPOT="phras-junct.10" ID="9" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,ant&gt;last)" DEF="PRECEDING ALL OTHERS IN TIME OR SPACE OR DEGREE" TRANS="первый">first</W> 
@@ -544,7 +544,7 @@
 <W DOM="15" FEAT="CONJ" HYPOT="1-compl.21" ID="20" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="22" FEAT="S NOM SG" HYPOT="predic.01" ID="21" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="20" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="22" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="23" KSNAME="GIFT2" LEMMA="GIFT" LINK="pass-anal" PAFT=" " UNL="gift(icl&gt;enable&gt;do,equ&gt;endow,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="">gifted</W> 
+<W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="23" KSNAME="GIFT2" LEMMA="GIFT" LINK="pass-anal" PAFT=" " UNL="gift(icl&gt;enable&gt;do,equ&gt;endow,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="GIVE QUALITIES OR ABILITIES TO" TRANS="наделять">gifted</W> 
 <W DOM="23" FEAT="PR" HYPOT="2-compl.02" ID="24" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.10" ID="25" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="REMARKABLE" LEMMA="REMARKABLE" LINK="modif" PAFT=" ">remarkable</W> 
@@ -1404,7 +1404,7 @@
 <W DOM="1" FEAT="PR" HYPOT="absol-conj.10" ID="2" KSNAME="WITH" LEMMA="WITH" LINK="absol-conj" PAFT=" ">with</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="FRM-PROP" LEMMA="WHITEMAN" LINK="compos" PAFT=" ">Whiteman</W> 
-<W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="BAND3" LEMMA="BAND" LINK="prepos" PAFT=" " UNL="band(icl&gt;musical_organization&gt;thing)" DEF="">band</W> 
+<W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="BAND3" LEMMA="BAND" LINK="prepos" PAFT=" " UNL="band(icl&gt;musical_organization&gt;group)" DEF="INSTRUMENTALISTS NOT INCLUDING STRING PLAYERS" TRANS="оркестр">band</W> 
 <W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="MERCER" LEMMA="MERCER" LINK="predic" MSNAME="MERCER" PAFT=" ">Mercer</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="MEET" LEMMA="MEET" PAFT=" ">met</W> 
 <W DOM="7" FEAT="S" GRP="8,9" HYPOT="1-compl.01" ID="8" KSNAME="FICT-GIVENNAME" LEMMA="JERRY" LINK="1-compl" PAFT=" ">Jerry</W> 
@@ -1500,7 +1500,7 @@
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="S SG" GRP="7,8" HYPOT="appos.00" ID="7" KSNAME="FRM-PROP" LEMMA="BENNY" LINK="appos" PAFT=" ">Benny</W> 
 <W DOM="9" FEAT="S SG" GRP="7,8" HYPOT="compos.01" ID="8" KSNAME="FRM-PROP" LEMMA="GOODMAN" LINK="compos" PAFT=" ">Goodman</W> 
-<W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="BAND3" LEMMA="BAND" LINK="1-compl" PAFT=" " UNL="band(icl&gt;musical_organization&gt;thing)" DEF="">band</W> 
+<W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="BAND3" LEMMA="BAND" LINK="1-compl" PAFT=" " UNL="band(icl&gt;musical_organization&gt;group)" DEF="INSTRUMENTALISTS NOT INCLUDING STRING PLAYERS" TRANS="оркестр">band</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="attrib.18" ID="10" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="10" FEAT="S SG" HYPOT="comp-conj.10" ID="12" KSNAME="VOCALIST" LEMMA="VOCALIST" LINK="comp-conj" PAFT=". " UNL="vocalist(icl&gt;musician&gt;thing,equ&gt;singer)" DEF="">vocalist</W>. 
@@ -1515,7 +1515,7 @@
 <W DOM="8" FEAT="ADV" HYPOT="restr.11" ID="7" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 
 <W DOM="4" FEAT="PR" HYPOT="explic.02" ID="8" KSNAME="IN1" LEMMA="IN" LINK="explic" PAFT=" ">in</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="BAND3" LEMMA="BAND" LINK="prepos" PAFT=", " UNL="band(icl&gt;musical_organization&gt;thing)" DEF="">band</W>, 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="BAND3" LEMMA="BAND" LINK="prepos" PAFT=", " UNL="band(icl&gt;musical_organization&gt;group)" DEF="INSTRUMENTALISTS NOT INCLUDING STRING PLAYERS" TRANS="оркестр">band</W>, 
 <W DOM="12" FEAT="S NOM SG" HYPOT="predic.01" ID="11" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="12" KSNAME="TRANSFORM" LEMMA="TRANSFORM" PAFT=" ">transformed</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.10" ID="13" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1722,7 +1722,7 @@
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.10" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="3" FEAT="A" HYPOT="coord-conj.10" ID="4" KSNAME="CAPABLE" LEMMA="CAPABLE" LINK="coord-conj" PAFT=" ">capable</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="5" FEAT="V ING" HYPOT="prepos.01" ID="6" KSNAME="TURN2" LEMMA="TURN" LINK="prepos" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turning</W> 
+<W DOM="5" FEAT="V ING" HYPOT="prepos.01" ID="6" KSNAME="TURN2" LEMMA="TURN" LINK="prepos" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turning</W> 
 <W DOM="6" FEAT="ADV" HYPOT="phras-junct.10" ID="7" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="10" FEAT="S SG" HYPOT="compos.01" ID="9" KSNAME="BALLAD" LEMMA="BALLAD" LINK="compos" PAFT=" " UNL="ballad(icl&gt;song&gt;thing)" DEF="A NARRATIVE SONG WITH A RECURRENT REFRAIN" TRANS="баллада">ballad</W> 
@@ -2084,7 +2084,7 @@
 <W DOM="11" FEAT="NUM" HYPOT="quantit.14" ID="10" KSNAME="EIGHT1" LEMMA="EIGHT" LINK="quantit" PAFT=" ">eight</W> 
 <W DOM="3" FEAT="S SG" ID="11" KSNAME="BAR4" LEMMA="BAR" LINK="fictit" PAFT=" ">bar</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="MUSICAL1" LEMMA="MUSICAL" LINK="modif" PAFT=" " UNL="musical(icl&gt;adj,com&gt;music)" DEF="CHARACTERIZED BY OR CAPABLE OF PRODUCING MUSIC" TRANS="музыкальный">musical</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="STRAIN2" LEMMA="STRAIN" LINK="prepos" PAFT=" " UNL="strain(icl&gt;music&gt;thing,equ&gt;tune)" DEF="">strain</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="STRAIN2" LEMMA="STRAIN" LINK="prepos" PAFT=" " UNL="strain(icl&gt;music&gt;thing,equ&gt;tune)" DEF="A SUCCESSION OF NOTES FORMING A DISTINCTIVE SEQUENCE" TRANS="напев,мелодия">strain</W> 
 <W DOM="17" FEAT="PR" HYPOT="2-compl.03" ID="14" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="WHICH1" LEMMA="WHICH" LINK="prepos" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="13" FEAT="S SG" HYPOT="appos.03" ID="16" KSNAME="FRM-PROP" LEMMA="KOEHLER" LINK="appos" PAFT=" ">Koehler</W> 
@@ -2189,7 +2189,7 @@
 <W DOM="28" EXTRAFEAT="IN-QUOT" FEAT="CONJ" ID="43" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="28" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="44,45" ID="44" KSNAME="TED1" LEMMA="TED" LINK="fictit" PAFT=" ">Ted</W> 
 <W DOM="44" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="44,45" HYPOT="appos.10" ID="45" KSNAME="FRM-PROP" LEMMA="KOEHLER" LINK="appos" PAFT=" ">Koehler</W> 
-<W DOM="47" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="adverb.01" ID="46" KSNAME="EASILY" LEMMA="EASILY" LINK="adverb" PAFT=" " UNL="easily(icl&gt;how)" DEF="">easily</W> 
+<W DOM="47" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="adverb.01" ID="46" KSNAME="EASILY" LEMMA="EASILY" LINK="adverb" PAFT=" " UNL="easily(icl&gt;how)" DEF="WITHOUT QUESTION" TRANS="бесспорно">easily</W> 
 <W DOM="28" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" ID="47" KSNAME="STAND1" LEMMA="STAND" LINK="fictit" PAFT=" " UNL="stand_out(icl&gt;occur,equ&gt;excel,obj&gt;thing)" DEF="">stand</W> 
 <W DOM="47" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="phras-junct.10" ID="48" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="47" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="adverb.01" ID="49" KSNAME="FAR2" LEMMA="FAR" LINK="adverb" PAFT=" ">far</W> 

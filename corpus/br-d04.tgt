@@ -389,7 +389,7 @@
 <W DOM="2" FEAT="V MF" HYPOT="analyt.10" ID="4" KSNAME="REGARD2" LEMMA="REGARD" LINK="analyt" PAFT=" " UNL="regard(icl&gt;consider&gt;be,cob&gt;thing,obj&gt;thing)" DEF="THINK ABOUT SOMEONE OR SOMETHING IN A PARTICULAR WAY" TRANS="рассматривать">regard</W> 
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="ADAM" LEMMA="ADAM" LINK="1-compl" PAFT=" " UNL="adam(iof&gt;man&gt;thing)" DEF="(OLD TESTAMENT) IN JUDEO-CHRISTIAN MYTHOLOGY" TRANS="Адам">Adam</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="7" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W> 
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="7" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W> 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="MERELY" LEMMA="MERELY" LINK="restr" PAFT=" " UNL="merely(icl&gt;how,com&gt;mere)" DEF="AND NOTHING MORE" TRANS="просто">merely</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="attrib.18" ID="9" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="PRIVATE1" LEMMA="PRIVATE" LINK="modif" PAFT=" " UNL="private(icl&gt;adj,ant&gt;public)" DEF="CONFINED TO PARTICULAR PERSONS OR GROUPS OR PROVIDING PRIVACY" TRANS="частный">private</W> 
@@ -410,7 +410,7 @@
 <S DATE="29 11 2010 19:58:37" ID="21" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-d04.tgt;21" STATUS="doubt">
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="ADAM" LEMMA="ADAM" LINK="predic" PAFT=" " UNL="adam(iof&gt;man&gt;thing)" DEF="(OLD TESTAMENT) IN JUDEO-CHRISTIAN MYTHOLOGY" TRANS="Адам">Adam</W> 
 <W DOM="1" FEAT="CONJ" HYPOT="coordin.10" ID="2" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="3" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W> 
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="3" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="4" FEAT="A" HYPOT="copulat.11" ID="5" KSNAME="PERFECT1" LEMMA="PERFECT" LINK="copulat" PAFT=", " UNL="perfect(icl&gt;adj,ant&gt;imperfect)" DEF="BEING COMPLETE OF ITS KIND AND WITHOUT DEFECT OR BLEMISH" TRANS="совершенный">perfect</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="6" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
@@ -958,7 +958,7 @@
 <W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="14" KSNAME="THIS2" LEMMA="THIS" LINK="1-compl" PAFT=". ">this</W>. 
 </S>
 <S DATE="29 11 2010 19:58:53" EXTRACOMM="Tagging contradicts ETAP parsing: FOR1 - FOR2" ID="39" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-d04.tgt;39" STATUS="doubt">
-"<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15" HYPOT="predic.01" ID="1" KSNAME="EVE2" LEMMA="EVE" LINK="predic" PAFT=" " PBEF="&quot;" UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W> 
+"<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15" HYPOT="predic.01" ID="1" KSNAME="EVE2" LEMMA="EVE" LINK="predic" PAFT=" " PBEF="&quot;" UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W> 
 <W DOM="_root" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST SG TP" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15" HYPOT="copulat.11" ID="3" KSNAME="DISOBEDIENT" LEMMA="DISOBEDIENT" LINK="copulat" PAFT="; " UNL="disobedient(icl&gt;adj,ant&gt;obedient)" DEF="">disobedient</W>; 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15" HYPOT="adverb.10" ID="4" KSNAME="FOR2" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
@@ -1047,7 +1047,7 @@
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="3" KSNAME="INTERPRET" LEMMA="INTERPRET" LINK="subord-conj" PAFT=" " UNL="interpret(icl&gt;perform&gt;do,equ&gt;render,cob&gt;thing,agt&gt;person,obj&gt;thing)" DEF="GIVE AN INTERPRETATION OR EXPLANATION TO" TRANS="интерпретировать">interprets</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="PRIMITIVE1" LEMMA="PRIMITIVE" LINK="modif" PAFT=" " UNL="primitive(icl&gt;adj,equ&gt;crude)" DEF="BELONGING TO AN EARLY STAGE OF TECHNICAL DEVELOPMENT" TRANS="примитивный">primitive</W> 
-<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="STATE1" LEMMA="STATE" LINK="1-compl" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="STATE1" LEMMA="STATE" LINK="1-compl" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="MAN1" LEMMA="MAN" LINK="prepos" PAFT=" ">man</W> 
 <W DOM="28" FEAT="CONJ" ID="9" KSNAME="AS1" LEMMA="AS" LINK="fictit" PAFT=" ">as</W> 
@@ -1062,7 +1062,7 @@
 <W DOM="17" FEAT="CONJ" HYPOT="1-compl.21" ID="18" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="19" KSNAME="ADAM" LEMMA="ADAM" LINK="predic" PAFT=" " UNL="adam(iof&gt;man&gt;thing)" DEF="(OLD TESTAMENT) IN JUDEO-CHRISTIAN MYTHOLOGY" TRANS="Адам">Adam</W> 
 <W DOM="19" FEAT="CONJ" HYPOT="coordin.10" ID="20" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="20" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="21" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W> 
+<W DOM="20" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="21" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W> 
 <W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="22" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
 <W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="23" KSNAME="CREATE" LEMMA="CREATE" LINK="pass-anal" PAFT=" " UNL="create(icl&gt;make&gt;do,agt&gt;thing,obj&gt;uw)" DEF="BRING INTO EXISTENCE" TRANS="сотворять,творить,создавать">created</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="adverb.10" ID="24" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
@@ -1104,7 +1104,7 @@
 <W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="attrib" PAFT=" ">between</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="VIRGIN1" LEMMA="VIRGIN" LINK="prepos" PAFT=" " UNL="virgin(icl&gt;innocent&gt;thing)" DEF="A PERSON WHO HAS NEVER HAD SEX" TRANS="дева">Virgin</W> 
-<W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="appos.03" ID="18" KSNAME="EVE2" LEMMA="EVE" LINK="appos" PAFT=" " UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W> 
+<W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="appos.03" ID="18" KSNAME="EVE2" LEMMA="EVE" LINK="appos" PAFT=" " UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W> 
 <W DOM="18" FEAT="CONJ" HYPOT="coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="coord-conj.10" ID="21" KSNAME="VIRGIN1" LEMMA="VIRGIN" LINK="coord-conj" PAFT=" " UNL="virgin(icl&gt;innocent&gt;thing)" DEF="A PERSON WHO HAS NEVER HAD SEX" TRANS="дева">Virgin</W> 
@@ -1261,7 +1261,7 @@
 <W DOM="2" FEAT="CONJ" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="ADAM" LEMMA="ADAM" LINK="predic" PAFT=" " UNL="adam(iof&gt;man&gt;thing)" DEF="(OLD TESTAMENT) IN JUDEO-CHRISTIAN MYTHOLOGY" TRANS="Адам">Adam</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W> 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="EVE2" LEMMA="EVE" LINK="coord-conj" PAFT=" " UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="13" KSNAME="DIE1" LEMMA="DIE" LINK="subord-conj" PAFT=" " UNL="die(icl&gt;change&gt;occur,equ&gt;decease,rsn&gt;thing,obj&gt;living_thing)" DEF="CEASE TO LIVE" TRANS="умирать">died</W> 
 <W DOM="13" FEAT="PR" HYPOT="adverb.02" ID="14" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1459,7 +1459,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="BOUND1" LEMMA="BOUND" LINK="1-compl" PAFT=" " UNL="bound(icl&gt;line&gt;thing,equ&gt;boundary)" DEF="A LINE DETERMINING THE LIMITS OF AN AREA" TRANS="граница">bound</W> 
 <W DOM="1" FEAT="PR" ID="6" KSNAME="TO1" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" (">his</W>[ 
-<W DOM="1" EXTRAFEAT="IN-BR" FEAT="S SG" ID="8" KSNAME="STATE1" LEMMA="STATE" LINK="fictit" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="1" EXTRAFEAT="IN-BR" FEAT="S SG" ID="8" KSNAME="STATE1" LEMMA="STATE" LINK="fictit" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="1" EXTRAFEAT="IN-BR" FEAT="PR" ID="9" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=") ">of</W>] 
 <W DOM="1" FEAT="S SG" ID="10" KSNAME="SIN1" LEMMA="SIN" LINK="fictit" PAFT=", " UNL="sin(icl&gt;unrighteousness&gt;thing)" DEF="ESTRANGEMENT FROM GOD" TRANS="грех">sin</W>, 
 <W DOM="19" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
@@ -1481,7 +1481,7 @@
 <W DOM="25" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="DISSOLUTION" LEMMA="DISSOLUTION" LINK="prepos" PAFT=" " UNL="dissolution(icl&gt;natural_process&gt;thing)" DEF="">dissolution</W> 
 <W DOM="27" FEAT="PR" HYPOT="1-compl.07" ID="28" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="28" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="FLESH1" LEMMA="FLESH" LINK="prepos" PAFT=", " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="">flesh</W>, 
+<W DOM="28" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="FLESH1" LEMMA="FLESH" LINK="prepos" PAFT=", " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="ALTERNATIVE NAMES FOR THE BODY OF A HUMAN BEING" TRANS="телеса">flesh</W>, 
 <W DOM="44" FEAT="S SG" HYPOT="predic.01" ID="31" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="32" KSNAME="SHOULD" LEMMA="SHOULD" LINK="fictit" MSNAME="SHOULD" PAFT=" ">should</W> 
 <W DOM="32" FEAT="V MF" GRP="33,34" HYPOT="analyt.13" ID="33" KSNAME="TAKE" LEMMA="TAKE" LINK="analyt" PAFT=" ">take</W> 
@@ -1676,7 +1676,7 @@
 <W DOM="12" FEAT="S PL" HYPOT="1-compl.01" ID="16" KSNAME="THEOLOGIAN" LEMMA="THEOLOGIAN" LINK="1-compl" PAFT=", " UNL="theologian(icl&gt;scholar&gt;thing)" DEF="SOMEONE WHO IS LEARNED IN THEOLOGY OR WHO SPECULATES ABOUT THEOLOGY" TRANS="богослов,теолог">theologians</W>, 
 <W DOM="19" FEAT="ADV" HYPOT="restr.11" ID="17" KSNAME="ESPECIALLY" LEMMA="ESPECIALLY" LINK="restr" PAFT=" " UNL="especially(icl&gt;how,equ&gt;particularly,com&gt;especial)" DEF="TO A DISTINCTLY GREATER EXTENT OR DEGREE THAN IS COMMON" TRANS="особенно,особо">especially</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="explic.02" ID="19" KSNAME="GREEK2" LEMMA="GREEK" LINK="explic" PAFT=" " UNL="greek(icl&gt;indo-european&gt;thing)" DEF="">Greek</W> 
+<W DOM="16" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="explic.02" ID="19" KSNAME="GREEK2" LEMMA="GREEK" LINK="explic" PAFT=" " UNL="greek(icl&gt;indo-european&gt;abstract_thing,iof&gt;language)" DEF="">Greek</W> 
 <W DOM="19" FEAT="V ING" HYPOT="modif.01" ID="20" KSNAME="SPEAK" LEMMA="SPEAK" LINK="modif" PAFT=" " UNL="speak(icl&gt;understand&gt;be,obj&gt;language,aoj&gt;person)" DEF="TO USE A LANGUAGE" TRANS="знать,говорить">speaking</W> 
 <W DOM="20" FEAT="S PL" HYPOT="1-compl.01" ID="21" KSNAME="ONE2" LEMMA="ONE" LINK="1-compl" PAFT=". ">ones</W>. 
 </S>
@@ -1832,7 +1832,7 @@
 <W DOM="29" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="28" KSNAME="ADAM" LEMMA="ADAM" LINK="posses" PAFT=" " UNL="adam(iof&gt;man&gt;thing)" DEF="(OLD TESTAMENT) IN JUDEO-CHRISTIAN MYTHOLOGY" TRANS="Адам">Adam's</W> 
 <W DOM="30" FEAT="S SG" HYPOT="predic.01" ID="29" KSNAME="LIFE" LEMMA="LIFE" LINK="predic" PAFT=" " UNL="life(icl&gt;being&gt;thing)" DEF="THE COURSE OF EXISTENCE OF AN INDIVIDUAL" TRANS="жизнь">life</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="30" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">was</W> 
-<W DOM="26" FEAT="V PP" HYPOT="coordin.02" ID="31" KSNAME="INTEND1" LEMMA="INTEND" LINK="coordin" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="26" FEAT="V PP" HYPOT="coordin.02" ID="31" KSNAME="INTEND1" LEMMA="INTEND" LINK="coordin" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="31" FEAT="PART" HYPOT="adverb.11" ID="32" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="32" FEAT="V MF" HYPOT="prepos.16" ID="33" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
 <W DOM="33" FEAT="S SG" HYPOT="copulat.10" ID="34" KSNAME="PART1" LEMMA="PART" LINK="copulat" PAFT=" ">part</W> 
@@ -1888,7 +1888,7 @@
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="CREATION" LEMMA="CREATION" LINK="prepos" PAFT=" " UNL="creation(icl&gt;beginning&gt;thing)" DEF="THE EVENT THAT OCCURRED AT THE BEGINNING OF SOMETHING" TRANS="сотворение,создание">creation</W> 
 <W DOM="21" FEAT="PR" HYPOT="1-compl.07" ID="22" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="EVE2" LEMMA="EVE" LINK="prepos" PAFT="; " UNL="eve(iof&gt;woman&gt;thing)" DEF="">Eve</W>; 
+<W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="EVE2" LEMMA="EVE" LINK="prepos" PAFT="; " UNL="eve(iof&gt;woman&gt;person)" DEF="(OLD TESTAMENT) ADAM'S WIFE IN JUDEO-CHRISTIAN MYTHOLOGY: THE FIRST WOMAN AND MOTHER OF THE HUMAN RACE" TRANS="Ева">Eve</W>; 
 <W DOM="17" FEAT="CONJ" HYPOT="sent-coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="24" FEAT="ADV" HYPOT="parenth.00" ID="25" KSNAME="THUS" LEMMA="THUS" LINK="parenth" MSNAME="THUS" PAFT=" " UNL="thus(icl&gt;how,equ&gt;so)" DEF="IN THE WAY INDICATED" TRANS="так">thus</W> 
 <W DOM="27" FEAT="S NOM SG" HYPOT="predic.01" ID="26" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -1929,7 +1929,7 @@
 <W DOM="21" FEAT="S SG" HYPOT="copulat.10" ID="24" KSNAME="PUNISHMENT" LEMMA="PUNISHMENT" LINK="copulat" PAFT=", " UNL="punishment(icl&gt;social_control&gt;thing)" DEF="THE ACT OF PUNISHING" TRANS="наказание">punishment</W>, 
 <W DOM="11" FEAT="PR" ID="25" KSNAME="FOR1" LEMMA="FOR" LINK="fictit" PAFT=" ">for</W> 
 <W DOM="27" FEAT="A" HYPOT="determ.13" ID="26" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
-<W DOM="28" FEAT="S SG" HYPOT="predic.01" ID="27" KSNAME="TERMINATION" LEMMA="TERMINATION" LINK="predic" PAFT=" " UNL="termination(icl&gt;end&gt;thing)" DEF="">termination</W> 
+<W DOM="28" FEAT="S SG" HYPOT="predic.01" ID="27" KSNAME="TERMINATION" LEMMA="TERMINATION" LINK="predic" PAFT=" " UNL="termination(icl&gt;end&gt;thing)" DEF="A COMING TO AN END OF A CONTRACT PERIOD" TRANS="окончание">termination</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="sent-coordin.01" ID="28" KSNAME="SEEM" LEMMA="SEEM" LINK="sent-coordin" PAFT=" " UNL="seem(icl&gt;be,obj&gt;uw,aoj&gt;uw,ben&gt;person)" DEF="GIVE A CERTAIN IMPRESSION" TRANS="казаться">seems</W> 
 <W DOM="28" FEAT="A" HYPOT="1-compl.11" ID="29" KSNAME="NECESSARY1" LEMMA="NECESSARY" LINK="1-compl" PAFT=" " UNL="necessary(icl&gt;adj,equ&gt;essential,ant&gt;unnecessary,ben&gt;volitional_thing,pur&gt;uw)" DEF="ABSOLUTELY NEEDED FOR" TRANS="необходимый">necessary</W> 
 <W DOM="29" FEAT="PR" HYPOT="attrib.02" ID="30" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -1962,7 +1962,7 @@
 <W DOM="11" FEAT="CONJ" HYPOT="compar.10" ID="12" KSNAME="THAN" LEMMA="THAN" LINK="compar" PAFT=" ">than</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="NATURAL1" LEMMA="NATURAL" LINK="modif" PAFT=" " UNL="natural(icl&gt;adj,ant&gt;unnatural)" DEF="IN ACCORDANCE WITH NATURE" TRANS="природный">natural</W> 
-<W DOM="12" FEAT="S SG" HYPOT="comp-conj.10" ID="15" KSNAME="TERMINATION" LEMMA="TERMINATION" LINK="comp-conj" PAFT=" " UNL="termination(icl&gt;end&gt;thing)" DEF="">termination</W> 
+<W DOM="12" FEAT="S SG" HYPOT="comp-conj.10" ID="15" KSNAME="TERMINATION" LEMMA="TERMINATION" LINK="comp-conj" PAFT=" " UNL="termination(icl&gt;end&gt;thing)" DEF="A COMING TO AN END OF A CONTRACT PERIOD" TRANS="окончание">termination</W> 
 <W DOM="15" FEAT="PR" HYPOT="1-compl.07" ID="16" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="TEMPORAL1" LEMMA="TEMPORAL" LINK="modif" PAFT=" " UNL="temporal(icl&gt;adj)" DEF="">temporal</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="EXISTENCE" LEMMA="EXISTENCE" LINK="prepos" PAFT=". " UNL="existence(icl&gt;state&gt;thing,equ&gt;being,ant&gt;nonexistence)" DEF="THE STATE OR FACT OF EXISTING" TRANS="существование">existence</W>. 
@@ -1999,7 +1999,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="DEATH" LEMMA="DEATH" LINK="prepos" PAFT=" " UNL="death(icl&gt;organic_phenomenon&gt;thing)" DEF="THE PERMANENT END OF ALL LIFE FUNCTIONS IN AN ORGANISM OR PART OF AN ORGANISM" TRANS="смерть">death</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="attrib.18" ID="16" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="NATURAL1" LEMMA="NATURAL" LINK="modif" PAFT=" " UNL="natural(icl&gt;adj,ant&gt;unnatural)" DEF="IN ACCORDANCE WITH NATURE" TRANS="природный">natural</W> 
-<W DOM="16" FEAT="S SG" HYPOT="comp-conj.10" ID="18" KSNAME="TERMINATION" LEMMA="TERMINATION" LINK="comp-conj" PAFT=", " UNL="termination(icl&gt;end&gt;thing)" DEF="">termination</W>, 
+<W DOM="16" FEAT="S SG" HYPOT="comp-conj.10" ID="18" KSNAME="TERMINATION" LEMMA="TERMINATION" LINK="comp-conj" PAFT=", " UNL="termination(icl&gt;end&gt;thing)" DEF="A COMING TO AN END OF A CONTRACT PERIOD" TRANS="окончание">termination</W>, 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="20" KSNAME="CONCLUSION" LEMMA="CONCLUSION" LINK="predic" PAFT=" " UNL="conclusion(icl&gt;abstract_thing,equ&gt;decision,obj&gt;uw,aoj&gt;volitional_thing)" DEF="THE FINAL DECISION OR JUDGMENT" TRANS="решение">conclusion</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="21" KSNAME="SEEM" LEMMA="SEEM" PAFT=" " UNL="seem(icl&gt;be,obj&gt;uw,aoj&gt;uw,ben&gt;person)" DEF="GIVE A CERTAIN IMPRESSION" TRANS="казаться">seems</W> 
@@ -2015,7 +2015,7 @@
 <W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="PUNISHMENT" LEMMA="PUNISHMENT" LINK="prepos" PAFT=" " UNL="punishment(icl&gt;social_control&gt;thing)" DEF="THE ACT OF PUNISHING" TRANS="наказание">punishment</W> 
 <W DOM="31" FEAT="CONJ" HYPOT="coordin.10" ID="32" KSNAME="RATHER$THAN" LEMMA="RATHER THAN" LINK="coordin" MSNAME="RATHER$THAN" PAFT=" ">rather than</W> 
 <W DOM="34" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="32" FEAT="S SG" HYPOT="coord-conj.10" ID="34" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="32" FEAT="S SG" HYPOT="coord-conj.10" ID="34" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="39" FEAT="PR" HYPOT="2-compl.03" ID="35" KSNAME="INTO" LEMMA="INTO" LINK="2-compl" PAFT=" ">into</W> 
 <W DOM="35" FEAT="S SG" HYPOT="prepos.01" ID="36" KSNAME="WHICH1" LEMMA="WHICH" LINK="prepos" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="38" FEAT="S SG" HYPOT="predic.01" ID="37" KSNAME="MAN1" LEMMA="MAN" LINK="predic" PAFT=" ">man</W> 

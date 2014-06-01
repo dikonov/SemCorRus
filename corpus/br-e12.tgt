@@ -1647,7 +1647,7 @@
 <W DOM="26" FEAT="CONJ" HYPOT="coordin.10" ID="27" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="27" FEAT="NID" HYPOT="coord-conj.10" ID="28" KSNAME="FICT-LEX" LEMMA="WRITINGS" LINK="coord-conj" PAFT=" ">writings</W> 
 <W DOM="21" FEAT="CONJ" HYPOT="coordin.13" ID="29" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="29" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="30" KSNAME="VISUALIZE" LEMMA="VISUALIZE" LINK="coord-conj" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">visualize</W> 
+<W DOM="29" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="30" KSNAME="VISUALIZE" LEMMA="VISUALIZE" LINK="coord-conj" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="IMAGINE" TRANS="представлять себе">visualize</W> 
 <W DOM="34" FEAT="ADV" HYPOT="adverb.01" ID="31" KSNAME="WHERE" LEMMA="WHERE" LINK="adverb" PAFT=" ">where</W> 
 <W DOM="33" FEAT="S SG" GRP="32,33" HYPOT="compos.01" ID="32" KSNAME="FRM-PROP" LEMMA="HUCK" LINK="compos" PAFT=" ">Huck</W> 
 <W DOM="34" EXTRAFEAT="CAP" FEAT="S SG" GRP="32,33" HYPOT="predic.01" ID="33" KSNAME="FINN" LEMMA="FINN" LINK="predic" PAFT=" ">Finn</W> 

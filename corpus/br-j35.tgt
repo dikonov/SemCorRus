@@ -69,7 +69,7 @@
 </S>
 <S DATE="30 11 2010 11:08:18" EXTRACOMM="Tagging contradicts ETAP parsing: FRM1 - NUM-DECIM\nTagging contradicts ETAP parsing: NUM-LARGE - NUM-TWOTWO\nTagging contradicts ETAP parsing: NUM-LARGE - NUM-TWONE\nSome punctuation marks are not confirmed" ID="3" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_23\\br-j35.tgt;3" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="predic" PAFT=" " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="">differentiation</W> 
+<W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="predic" PAFT=" " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="A DISCRIMINATION BETWEEN THINGS AS DIFFERENT AND DISTINCT" TRANS="различение">differentiation</W> 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="HOWEVER2" LEMMA="HOWEVER" LINK="adverb" MSNAME="HOWEVER2" PAFT=" ">however</W> 
 <W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="adverb.06" ID="4" KSNAME="BE" LEMMA="BE" LINK="adverb" PAFT=" ">is</W> 
 <W DOM="4" FEAT="ADV" HYPOT="restr.10" ID="5" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
@@ -125,7 +125,7 @@
 <W DOM="12" FEAT="PR" HYPOT="adverb.02" ID="14" KSNAME="AGAINST" LEMMA="AGAINST" LINK="adverb" PAFT=" ">against</W> 
 <W DOM="14" FEAT="NUM" HYPOT="prepos.01" ID="15" KSNAME="NUM-DECIM" LEMMA="2.75" LINK="prepos" PAFT=" ">2.75</W> 
 <W DOM="12" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
-<W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="EQUIVALENT2" LEMMA="EQUIVALENT" LINK="modif" PAFT=" " UNL="equivalent(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="">equivalent</W> 
+<W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="EQUIVALENT2" LEMMA="EQUIVALENT" LINK="modif" PAFT=" " UNL="equivalent(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="EQUAL IN AMOUNT OR VALUE" TRANS="эквивалентный">equivalent</W> 
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="NUMBER1" LEMMA="NUMBER" LINK="prepos" PAFT=" " UNL="number(icl&gt;abstract_thing,icl&gt;quantity,obj&gt;thing)" DEF="THE PROPERTY POSSESSED BY A SUM OR TOTAL OR INDEFINITE QUANTITY OF UNITS OR INDIVIDUALS" TRANS="число,количество">number</W> 
 <W DOM="18" FEAT="PR" HYPOT="quasiagent.10" ID="19" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="19" FEAT="S PL" HYPOT="prepos.01" ID="20" KSNAME="LANGUAGE" LEMMA="LANGUAGE" LINK="prepos" PAFT=".) " UNL="language(icl&gt;communication&gt;thing)" DEF="A SYSTEMATIC MEANS OF COMMUNICATING BY THE USE OF SOUNDS OR CONVENTIONAL SYMBOLS" TRANS="речь,язык">languages</W>.) 
@@ -203,7 +203,7 @@
 <W ID="24" UNL="english(iof&gt;language) english(icl&gt;west_germanic&gt;thing)" DEF="" WN21="1:10:00::">English</W> 
 <W FEAT="S SG" ID="25" KSNAME="MEANING" LEMMA="MEANING" UNL="meaning(icl&gt;idea&gt;thing)" DEF="THE IDEA THAT IS INTENDED" TRANS="значение" WN21="1:09:00::">meaning</W> 
 <W ID="26">between</W> 
-<W FEAT="A" ID="27" KSNAME="ILLITERATE" LEMMA="ILLITERATE" UNL="illiterate(icl&gt;adj,equ&gt;ignorant)" DEF="" WN21="5:00:00:uneducated:">illiterate</W> 
+<W FEAT="A" ID="27" KSNAME="ILLITERATE" LEMMA="ILLITERATE" UNL="illiterate(icl&gt;adj,equ&gt;ignorant)" DEF="UNEDUCATED IN THE FUNDAMENTALS OF A GIVEN ART OR BRANCH OF LEARNING" TRANS="неграмотный" WN21="5:00:00:uneducated:">illiterate</W> 
 <W FEAT="S" ID="28" KSNAME="INFORMANT" LEMMA="INFORMANT" UNL="informant(icl&gt;communicator&gt;thing)" DEF="A PERSON WHO SUPPLIES INFORMATION" TRANS="информант" WN21="1:18:00::">informants</W> 
 <W FEAT="CONJ" ID="29" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="S" ID="30" KSNAME="MYSELF" LEMMA="MYSELF">myself</W>, 
@@ -302,7 +302,7 @@
 <W FEAT="CONJ" ID="13" KSNAME="OR" LEMMA="OR">or</W> 
 <W FEAT="ADV" ID="14" KSNAME="EVEN1" LEMMA="EVEN" WN21="4:02:00::">even</W> 
 <W FEAT="S SG" ID="15" KSNAME="GENUS" LEMMA="GENUS" UNL="genus(icl&gt;taxonomic_group&gt;thing)" DEF="(BIOLOGY) TAXONOMIC GROUP CONTAINING ONE OR MORE SPECIES" TRANS="род" WN21="1:14:00::">genera</W>( 
-<W FEAT="S SG" GRP="16,17,18,19,20,21" GRPHEAD="" ID="16" KSNAME="FOX1" LEMMA="FOX" UNL="fox(icl&gt;canine&gt;thing)" DEF="" WN21="1:05:00::">fox</W>, 
+<W FEAT="S SG" GRP="16,17,18,19,20,21" GRPHEAD="" ID="16" KSNAME="FOX1" LEMMA="FOX" UNL="fox(icl&gt;canine&gt;animal)" DEF="ALERT CARNIVOROUS MAMMAL WITH POINTED MUZZLE AND EARS AND A BUSHY TAIL" TRANS="лиса,лисица" WN21="1:05:00::">fox</W>, 
 <W DOM="16" FEAT="S SG" GRP="16,17,18,19,20,21" ID="17" KSNAME="VULTURE" LEMMA="VULTURE" LINK="coordin" UNL="vulture(icl&gt;bird_of_prey&gt;thing)" DEF="ANY OF VARIOUS LARGE DIURNAL BIRDS OF PREY HAVING NAKED HEADS AND WEAK CLAWS AND FEEDING CHIEFLY ON CARRION" TRANS="стервятник" WN21="1:05:00::">vulture</W>, 
 <W DOM="17" FEAT="S SG" GRP="16,17,18,19,20,21" ID="18" KSNAME="SALMON" LEMMA="SALMON" LINK="coordin" UNL="salmon(icl&gt;salmonid&gt;thing)" DEF="ANY OF VARIOUS LARGE FOOD AND GAME FISHES OF NORTHERN WATERS" TRANS="лосось,семга" WN21="1:05:00::">salmon</W>, 
 <W DOM="20" FEAT="A" GRP="16,17,18,19,20,21" ID="19" KSNAME="YELLOW1" LEMMA="YELLOW" LINK="modif">yellow</W> 
@@ -370,7 +370,7 @@
 <W FEAT="V" ID="3" KSNAME="HAVE" LEMMA="HAVE" WN21="2:40:00::">have</W> 
 <W FEAT="A" ID="4" KSNAME="LEFT1" LEMMA="LEFT" WN21="5:00:00:unexhausted:">left</W> 
 <W FEAT="CONJ" ID="5" KSNAME="AS1" LEMMA="AS">as</W> 
-<W FEAT="ADV" ID="6" KSNAME="REASONABLY" LEMMA="REASONABLY" UNL="reasonably(icl&gt;how,equ&gt;sanely,ant&gt;unreasonably,com&gt;reasonable)" DEF="" WN21="4:02:01::">reasonably</W> 
+<W FEAT="ADV" ID="6" KSNAME="REASONABLY" LEMMA="REASONABLY" UNL="reasonably(icl&gt;how,equ&gt;sanely,ant&gt;unreasonably,com&gt;reasonable)" DEF="WITH GOOD SENSE OR IN A REASONABLE OR INTELLIGENT MANNER" TRANS="разумно" WN21="4:02:01::">reasonably</W> 
 <W FEAT="A" ID="7" KSNAME="COMPARABLE" LEMMA="COMPARABLE" UNL="comparable(icl&gt;adj,ant&gt;incomparable)" DEF="ABLE TO BE COMPARED OR WORTHY OF COMPARISON" TRANS="сравнимый" WN21="3:00:00::">comparable</W> 
 <W FEAT="V" ID="8" KSNAME="BE" LEMMA="BE" UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть" WN21="2:42:06::">are</W> 
 <W FEAT="NUM" ID="9" KSNAME="FOUR1" LEMMA="FOUR" WN21="5:00:00:cardinal:">four</W> 
@@ -840,7 +840,7 @@
 <W DOM="15" FEAT="NUM" HYPOT="quantit.10" ID="14" KSNAME="FIVE1" LEMMA="FIVE" LINK="quantit" PAFT=" ">five</W> 
 <W DOM="16" FEAT="S PL" HYPOT="predic.01" ID="15" KSNAME="CLASS1" LEMMA="CLASS" LINK="predic" PAFT=" " UNL="class(icl&gt;collection&gt;thing)" DEF="A COLLECTION OF THINGS SHARING A COMMON ATTRIBUTE" TRANS="класс">classes</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="1-compl.31" ID="16" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">were</W> 
-<W DOM="16" FEAT="A" HYPOT="copulat.11" ID="17" KSNAME="EQUAL1" LEMMA="EQUAL" LINK="copulat" PAFT=" " UNL="equal(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="">equal</W> 
+<W DOM="16" FEAT="A" HYPOT="copulat.11" ID="17" KSNAME="EQUAL1" LEMMA="EQUAL" LINK="copulat" PAFT=" " UNL="equal(icl&gt;adj,equ&gt;like,ant&gt;unlike)" DEF="EQUAL IN AMOUNT OR VALUE" TRANS="равный">equal</W> 
 <W DOM="17" FEAT="PR" HYPOT="2-compl.02" ID="18" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="N1" LEMMA="N" LINK="prepos" MSNAME="N1" PAFT=", ">n</W>, 
 <W DOM="23" FEAT="S SG" HYPOT="copulat.15" ID="20" KSNAME="WHICH1" LEMMA="WHICH" LINK="copulat" MSNAME="WHICH1" PAFT=" ">which</W> 
@@ -1084,7 +1084,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="NUMBER1" LEMMA="NUMBER" LINK="1-compl" PAFT=" " UNL="number(icl&gt;abstract_thing,icl&gt;quantity,obj&gt;thing)" DEF="THE PROPERTY POSSESSED BY A SUM OR TOTAL OR INDEFINITE QUANTITY OF UNITS OR INDIVIDUALS" TRANS="число,количество">number</W> 
 <W DOM="18" FEAT="PR" HYPOT="quasiagent.10" ID="19" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="19" FEAT="S PL" HYPOT="prepos.01" ID="20" KSNAME="STEM1" LEMMA="STEM" LINK="prepos" PAFT=" (' " UNL="stem(icl&gt;form&gt;thing,equ&gt;root)" DEF="(LINGUISTICS) THE FORM OF A WORD AFTER ALL AFFIXES ARE REMOVED" TRANS="основа">stems</W>(' 
-<W DOM="20" EXTRAFEAT="IN-BR" FEAT="S POSS PL" HYPOT="juxtapos.01" ID="21" KSNAME="ROOT1" LEMMA="ROOT" LINK="juxtapos" PAFT="') " UNL="root(icl&gt;form&gt;thing)" DEF="">roots'</W>) 
+<W DOM="20" EXTRAFEAT="IN-BR" FEAT="S POSS PL" HYPOT="juxtapos.01" ID="21" KSNAME="ROOT1" LEMMA="ROOT" LINK="juxtapos" PAFT="') " UNL="root(icl&gt;form&gt;abstract_thing,equ&gt;stem,fld&gt;linguistics)" DEF="(LINGUISTICS) THE FORM OF A WORD AFTER ALL AFFIXES ARE REMOVED" TRANS="корень">roots'</W>) 
 <W DOM="20" FEAT="PR" HYPOT="attrib.01" ID="22" KSNAME="PER" LEMMA="PER" LINK="attrib" PAFT=" ">per</W> 
 <W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="MEANING" LEMMA="MEANING" LINK="prepos" PAFT=", " UNL="meaning(icl&gt;idea&gt;thing)" DEF="THE IDEA THAT IS INTENDED" TRANS="значение">meaning</W>, 
 <W DOM="23" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
@@ -1205,7 +1205,7 @@
 <W DOM="1" FEAT="S PL" GRP="2,3" HYPOT="prepos.01" ID="3" KSNAME="FREQUENCY" LEMMA="FREQUENCY" LINK="prepos" PAFT=" ">frequencies</W> 
 <W DOM="17" FEAT="PR" ID="4" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
 <W DOM="6" FEAT="V ING" HYPOT="predic.05" ID="5" KSNAME="COMPETE" LEMMA="COMPETE" LINK="predic" PAFT=" ">competing</W> 
-<W DOM="28" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="1-compl.14" ID="6" KSNAME="ROOT2" LEMMA="ROOT" LINK="1-compl" PAFT=" (" UNL="root(icl&gt;form&gt;thing)" DEF="">roots</W>( 
+<W DOM="28" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="1-compl.14" ID="6" KSNAME="ROOT2" LEMMA="ROOT" LINK="1-compl" PAFT=" (" UNL="root(icl&gt;form&gt;abstract_thing,equ&gt;stem,fld&gt;linguistics)" DEF="(LINGUISTICS) THE FORM OF A WORD AFTER ALL AFFIXES ARE REMOVED" TRANS="корень">roots</W>( 
 <W DOM="17" EXTRAFEAT="IN-BR" FEAT="NUM" ID="7" KSNAME="NUM-LARGE" LEMMA="7" LINK="fictit" PAFT="-">7</W>- 
 <W DOM="7" EXTRAFEAT="IN-BR" FEAT="NUM" HYPOT="sequent.02" ID="8" KSNAME="NUM-ONE" LEMMA="1" LINK="sequent" PAFT=" ">1</W> 
 <W DOM="17" EXTRAFEAT="IN-BR" FEAT="NID" ID="9" KSNAME="FICT-LEX" LEMMA="VS" LINK="fictit" PAFT=" ">vs</W> 
@@ -1583,7 +1583,7 @@
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="S NOM PL" HYPOT="predic.01" ID="11" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.10" ID="12" KSNAME="WILL1" LEMMA="WILL" LINK="coord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
-<W DOM="12" FEAT="V MF" HYPOT="analyt.13" ID="13" KSNAME="FIT1" LEMMA="FIT" LINK="analyt" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="">fit</W> 
+<W DOM="12" FEAT="V MF" HYPOT="analyt.13" ID="13" KSNAME="FIT1" LEMMA="FIT" LINK="analyt" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="BE COMPATIBLE, SIMILAR OR CONSISTENT" TRANS="соответствовать">fit</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="ACTUAL" LEMMA="ACTUAL" LINK="modif" PAFT=" ">actual</W> 
 <W DOM="16" FEAT="S PL" HYPOT="restr.01" ID="15" KSNAME="LANGUAGE" LEMMA="LANGUAGE" LINK="restr" PAFT=" " UNL="language(icl&gt;communication&gt;thing)" DEF="A SYSTEMATIC MEANS OF COMMUNICATING BY THE USE OF SOUNDS OR CONVENTIONAL SYMBOLS" TRANS="речь,язык">languages</W> 
 <W DOM="13" FEAT="ADV COMP" GRP="16,17,18" HYPOT="adverb.01" ID="16" KSNAME="MORE" LEMMA="MORE" LINK="adverb" PAFT=" ">more</W> 
@@ -1668,7 +1668,7 @@
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="ELEPHANT" LEMMA="ELEPHANT" LINK="predic" PAFT=" " UNL="elephant(icl&gt;proboscidean&gt;thing)" DEF="FIVE-TOED PACHYDERM" TRANS="слон">elephant</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.10" ID="3" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" HYPOT="coord-conj.10" ID="5" KSNAME="FOX1" LEMMA="FOX" LINK="coord-conj" PAFT=" " UNL="fox(icl&gt;canine&gt;thing)" DEF="">fox</W> 
+<W DOM="3" FEAT="S SG" HYPOT="coord-conj.10" ID="5" KSNAME="FOX1" LEMMA="FOX" LINK="coord-conj" PAFT=" " UNL="fox(icl&gt;canine&gt;animal)" DEF="ALERT CARNIVOROUS MAMMAL WITH POINTED MUZZLE AND EARS AND A BUSHY TAIL" TRANS="лиса,лисица">fox</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="S SG" HYPOT="coord-conj.10" ID="8" KSNAME="SWAN" LEMMA="SWAN" LINK="coord-conj" PAFT=" " UNL="swan(icl&gt;aquatic_bird&gt;thing)" DEF="STATELY HEAVY-BODIED AQUATIC BIRD WITH VERY LONG NECK AND USUALLY WHITE PLUMAGE AS ADULT" TRANS="лебедь">swan</W> 
@@ -2068,7 +2068,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="PROCEDURE" LEMMA="PROCEDURE" LINK="coord-conj" PAFT=" " UNL="procedure(icl&gt;work&gt;thing,equ&gt;operation)" DEF="A PROCESS OR SERIES OF ACTS ESPECIALLY OF A PRACTICAL OR MECHANICAL NATURE INVOLVED IN A PARTICULAR FORM OF WORK" TRANS="процедура">procedure</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="adverb.10" ID="16" KSNAME="SINCE2" LEMMA="SINCE" LINK="adverb" PAFT=" ">since</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="21" FEAT="S PL" HYPOT="predic.01" ID="18" KSNAME="PREDILECTION" LEMMA="PREDILECTION" LINK="predic" PAFT=" " UNL="predilection(icl&gt;predisposition&gt;thing)" DEF="">predilections</W> 
+<W DOM="21" FEAT="S PL" HYPOT="predic.01" ID="18" KSNAME="PREDILECTION" LEMMA="PREDILECTION" LINK="predic" PAFT=" " UNL="predilection(icl&gt;predisposition&gt;thing)" DEF="A PREDISPOSITION IN FAVOR OF SOMETHING" TRANS="предпочтение">predilections</W> 
 <W DOM="18" FEAT="CONJ" HYPOT="coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="19" FEAT="S PL" HYPOT="coord-conj.10" ID="20" KSNAME="AIM1" LEMMA="AIM" LINK="coord-conj" PAFT=" " UNL="aim(icl&gt;goal&gt;thing,equ&gt;purpose)" DEF="AN ANTICIPATED OUTCOME THAT IS INTENDED OR THAT GUIDES YOUR PLANNED ACTIONS" TRANS="цель">aims</W> 
 <W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="21" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">have</W> 

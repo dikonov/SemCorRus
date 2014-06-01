@@ -618,7 +618,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="HIT2" LEMMA="HIT" LINK="prepos" PAFT=" " UNL="hit(icl&gt;deed&gt;thing)" DEF="(BASEBALL) A SUCCESSFUL STROKE IN AN ATHLETIC CONTEST (ESPECIALLY IN BASEBALL)" TRANS="удар">hit</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="BEFORE1" LEMMA="BEFORE" LINK="attrib" PAFT=" ">before</W> 
 <W DOM="12" FEAT="NUM" HYPOT="quantit.10" ID="11" KSNAME="NUM-LARGE" LEMMA="5777" LINK="quantit" PAFT=" ">5777</W> 
-<W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="FAN3" LEMMA="FAN" LINK="prepos" PAFT=". " UNL="fan(icl&gt;enthusiast&gt;thing,equ&gt;sports_fan)" DEF="">fans</W>. 
+<W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="FAN3" LEMMA="FAN" LINK="prepos" PAFT=". " UNL="fan(icl&gt;enthusiast&gt;person,equ&gt;sports_fan)" DEF="">fans</W>. 
 </S>
 <S DATE="29 11 2010 19:48:41" ID="30" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a13.tgt;30" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
@@ -1252,7 +1252,7 @@
 <W DOM="26" EXTRAFEAT="CAP CAPIT" FEAT="S POSS PL" HYPOT="posses.01" ID="25" KSNAME="GIANT2" LEMMA="GIANT" LINK="posses" PAFT="' ">Giants'</W> 
 <W DOM="27" FEAT="S SG" GRP="26,27" HYPOT="appos.00" ID="26" KSNAME="FRM-PROP" LEMMA="WILLIE" LINK="appos" PAFT=" ">Willie</W> 
 <W DOM="23" FEAT="S" GRP="26,27" HYPOT="coord-conj.10" ID="27" KSNAME="FICT-SURNAME" LEMMA="MAYS" LINK="coord-conj" PAFT=" ">Mays</W> 
-<W DOM="27" FEAT="V ING" HYPOT="modif.01" ID="28" KSNAME="RETALIATE" LEMMA="RETALIATE" LINK="modif" MSNAME="RETALIATE" PAFT=" " UNL="retaliate(icl&gt;punish&gt;do,equ&gt;revenge,rsn&gt;thing,agt&gt;volitional_thing,met&gt;thing)" DEF="">retaliating</W> 
+<W DOM="27" FEAT="V ING" HYPOT="modif.01" ID="28" KSNAME="RETALIATE" LEMMA="RETALIATE" LINK="modif" MSNAME="RETALIATE" PAFT=" " UNL="retaliate(icl&gt;punish&gt;do,equ&gt;revenge,rsn&gt;thing,agt&gt;volitional_thing,met&gt;thing)" DEF="TAKE REVENGE FOR A PERCEIVED WRONG" TRANS="мстить">retaliating</W> 
 <W DOM="28" FEAT="PR" HYPOT="adverb.02" ID="29" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="31" FEAT="ART" HYPOT="determ.10" ID="30" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="RECORD1" LEMMA="RECORD" LINK="prepos" PAFT=" " UNL="record(icl&gt;attainment&gt;thing)" DEF="AN EXTREME ATTAINMENT" TRANS="рекорд">record</W> 
@@ -1623,7 +1623,7 @@
 <W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="copulat.10" ID="19" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="copulat" PAFT=" ">American</W> 
 <W DOM="19" FEAT="CONJ" HYPOT="coordin.10" ID="20" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="22" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="21" KSNAME="NATIONAL2" LEMMA="NATIONAL" LINK="compos" PAFT=" ">National</W> 
-<W DOM="20" FEAT="S SG" HYPOT="coord-conj.10" ID="22" KSNAME="FAN3" LEMMA="FAN" LINK="coord-conj" PAFT=" " UNL="fan(icl&gt;enthusiast&gt;thing,equ&gt;sports_fan)" DEF="">fan</W> 
+<W DOM="20" FEAT="S SG" HYPOT="coord-conj.10" ID="22" KSNAME="FAN3" LEMMA="FAN" LINK="coord-conj" PAFT=" " UNL="fan(icl&gt;enthusiast&gt;person,equ&gt;sports_fan)" DEF="">fan</W> 
 <W DOM="22" FEAT="CONJ" HYPOT="coordin.10" ID="23" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="27" FEAT="COM" HYPOT="compos.12" ID="24" KSNAME="ANTI" LEMMA="ANTI" LINK="compos" PAFT=" ">anti</W> 
 <W DOM="2" FEAT="CONJ" ID="25" KSNAME="OR" LEMMA="OR" LINK="fictit" PAFT=" ">or</W> 
@@ -1878,7 +1878,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="3" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
-<W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="IRRITABLE" LEMMA="IRRITABLE" LINK="modif" PAFT=" " UNL="irritable(icl&gt;adj,equ&gt;cranky)" DEF="">irritable</W> 
+<W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="IRRITABLE" LEMMA="IRRITABLE" LINK="modif" PAFT=" " UNL="irritable(icl&gt;adj,equ&gt;cranky)" DEF="EASILY IRRITATED OR ANNOYED" TRANS="раздражительный">irritable</W> 
 <W DOM="2" FEAT="S SG" HYPOT="copulat.10" ID="5" KSNAME="RULE1" LEMMA="RULE" LINK="copulat" PAFT=" ">rule</W> 
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="7" KSNAME="DO1" LEMMA="DO" LINK="relat" PAFT=" ">does</W> 
@@ -1900,7 +1900,7 @@
 <W DOM="2" FEAT="V MF" HYPOT="analyt.13" ID="3" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
 <W DOM="6" FEAT="V PP" HYPOT="modif.01" ID="4" KSNAME="SURPRISE2" LEMMA="SURPRISE" LINK="modif" PAFT=" ">surprised</W> 
 <W DOM="6" FEAT="ADV" HYPOT="restr.15" ID="5" KSNAME="HOW$MANY" LEMMA="HOW MANY" LINK="restr" PAFT=" ">how many</W> 
-<W DOM="3" FEAT="S PL" HYPOT="copulat.10" ID="6" KSNAME="FAN3" LEMMA="FAN" LINK="copulat" PAFT=" " UNL="fan(icl&gt;enthusiast&gt;thing,equ&gt;sports_fan)" DEF="">fans</W> 
+<W DOM="3" FEAT="S PL" HYPOT="copulat.10" ID="6" KSNAME="FAN3" LEMMA="FAN" LINK="copulat" PAFT=" " UNL="fan(icl&gt;enthusiast&gt;person,equ&gt;sports_fan)" DEF="">fans</W> 
 <W DOM="8" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="PURPOSELY" LEMMA="PURPOSELY" LINK="adverb" PAFT=" " UNL="purposely(icl&gt;how,equ&gt;intentionally,ant&gt;unintentionally,com&gt;intentional)" DEF="WITH INTENTION" TRANS="нарочно">purposely</W> 
 <W DOM="14" FEAT="V PP" HYPOT="modif.01" ID="8" KSNAME="STAY3" LEMMA="STAY" LINK="modif" PAFT=" " UNL="stay(icl&gt;stay_in_place&gt;occur,obj&gt;thing)" DEF="">stayed</W> 
 <W DOM="8" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="AWAY2" LEMMA="AWAY" LINK="adverb" PAFT=" ">away</W> 

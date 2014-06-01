@@ -101,7 +101,7 @@
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="1-compl.05" ID="11" KSNAME="MAKE1" LEMMA="MAKE" LINK="1-compl" PAFT=" ">makes</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="EARTH1" LEMMA="EARTH" LINK="1-compl" PAFT=" ">earth</W> 
-<W DOM="11" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="2-compl.14" ID="14" KSNAME="ROTATE" LEMMA="ROTATE" LINK="2-compl" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotate</W> 
+<W DOM="11" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="2-compl.14" ID="14" KSNAME="ROTATE" LEMMA="ROTATE" LINK="2-compl" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotate</W> 
 <W DOM="14" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
 <W DOM="17" FEAT="A" HYPOT="determ.13" ID="16" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="AXIS" LEMMA="AXIS" LINK="prepos" PAFT=" ">axis</W> 

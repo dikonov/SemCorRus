@@ -202,7 +202,7 @@
 <W DOM="18" FEAT="A" HYPOT="copulat.11" ID="19" KSNAME="CAREFUL" LEMMA="CAREFUL" LINK="copulat" PAFT=" ">careful</W> 
 <W DOM="21" FEAT="ADV" HYPOT="restr.11" ID="20" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="19" FEAT="PART" HYPOT="1-compl.15" ID="21" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="prepos" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="">pretend</W> 
+<W DOM="21" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="prepos" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться">pretend</W> 
 <W DOM="24" FEAT="ADV" GRP="23,24" HYPOT="restr.12" ID="23" KSNAME="TOO1" LEMMA="TOO" LINK="restr" PAFT=" ">too</W> 
 <W DOM="25" FEAT="ADV" GRP="23,24" HYPOT="restr.15" ID="24" KSNAME="MUCH" LEMMA="MUCH" LINK="restr" PAFT=" ">much</W> 
 <W DOM="22" FEAT="S SG" HYPOT="1-compl.01" ID="25" KSNAME="ASSURANCE" LEMMA="ASSURANCE" LINK="1-compl" PAFT=". ">assurance</W>. 
@@ -420,7 +420,7 @@
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=", ">and</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="parenth.00" ID="8" KSNAME="PERHAPS" LEMMA="PERHAPS" LINK="parenth" PAFT=", ">perhaps</W>, 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="adverb.13" ID="9" KSNAME="HAVE" LEMMA="HAVE" LINK="adverb" PAFT=" ">had</W> 
-<W DOM="9" FEAT="V PP" HYPOT="analyt.12" ID="10" KSNAME="DESECRATE" LEMMA="DESECRATE" LINK="analyt" PAFT=" " UNL="desecrate(icl&gt;assail&gt;do,agt&gt;thing,obj&gt;thing,met&gt;thing)" DEF="">desecrated</W> 
+<W DOM="9" FEAT="V PP" HYPOT="analyt.12" ID="10" KSNAME="DESECRATE" LEMMA="DESECRATE" LINK="analyt" PAFT=" " UNL="desecrate(icl&gt;assail&gt;do,agt&gt;thing,obj&gt;thing,met&gt;thing)" DEF="VIOLATE THE SACRED CHARACTER OF A PLACE OR LANGUAGE" TRANS="осквернять">desecrated</W> 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.07" ID="11" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT="-">it</W>- 
 <W DOM="11" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="S SG" HYPOT="coord-conj.10" ID="13" KSNAME="THIS2" LEMMA="THIS" LINK="coord-conj" PAFT=" ">this</W> 
@@ -1290,7 +1290,7 @@
 <W DOM="3" FEAT="A COMP" HYPOT="1-compl.11" ID="4" KSNAME="STEEP1" LEMMA="STEEP" LINK="1-compl" PAFT=" ">steeper</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="5" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="7" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">she</W> 
-<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="7" KSNAME="SLIP3" LEMMA="SLIP" LINK="coord-conj" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;glide&gt;occur,equ&gt;skid,obj&gt;thing)" DEF="">slipped</W> 
+<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="7" KSNAME="SLIP3" LEMMA="SLIP" LINK="coord-conj" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;slide&gt;thing,equ&gt;skid)" DEF="AN UNEXPECTED SLIDE" TRANS="скольжение">slipped</W> 
 <W DOM="7" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="ONCE1" LEMMA="ONCE" LINK="adverb" PAFT=" ">once</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.11" ID="9" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="9" FEAT="ADV" HYPOT="coord-conj.10" ID="10" KSNAME="TWICE" LEMMA="TWICE" LINK="coord-conj" PAFT=" ">twice</W> 
@@ -1862,7 +1862,7 @@
 </S>
 <S DATE="30 11 2010 10:56:22" ID="89" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n08.tgt;89" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CREEP2" LEMMA="CREEP" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">crept</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CREEP2" LEMMA="CREEP" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">crept</W> 
 <W DOM="2" FEAT="PR" HYPOT="2-compl.02" ID="3" KSNAME="INTO" LEMMA="INTO" LINK="2-compl" PAFT=" ">into</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="OPEN1" LEMMA="OPEN" LINK="modif" PAFT=" ">open</W> 
@@ -1928,7 +1928,7 @@
 <W FEAT="A" ID="13" KSNAME="ITS1" LEMMA="ITS">its</W> 
 <W FEAT="S PL" ID="14" KSNAME="PARTICLE" LEMMA="PARTICLE">particles</W>, 
 <W FEAT="V" ID="15" KSNAME="SPREAD1" LEMMA="SPREAD" WN21="2:35:00::">spreading</W>, 
-<W FEAT="V" ID="16" KSNAME="CREEP2" LEMMA="CREEP" UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="" WN21="2:38:00::">creeping</W>, 
+<W FEAT="V" ID="16" KSNAME="CREEP2" LEMMA="CREEP" UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать" WN21="2:38:00::">creeping</W>, 
 <W FEAT="V" ID="17" KSNAME="CRAWL" LEMMA="CRAWL" UNL="crawl(icl&gt;travel&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="MOVE SLOWLY" TRANS="ползти" WN21="2:38:00::">crawling</W>, 
 <W FEAT="V" ID="18" KSNAME="JOIN1" LEMMA="JOIN" UNL="join(icl&gt;be,equ&gt;contact,aoj&gt;thing)" DEF="" WN21="2:35:00::">joined</W> 
 <W FEAT="S" ID="19" KSNAME="THEMSELVES" LEMMA="THEMSELVES">themselves</W> 
@@ -1936,7 +1936,7 @@
 <W GRP="21,22" ID="21">steel</W> 
 <W GRP="21,22" ID="22">bands</W> 
 <W FEAT="CONJ" ID="23" KSNAME="THAT1" LEMMA="THAT">that</W> 
-<W FEAT="V" ID="24" KSNAME="CONSTRICT" LEMMA="CONSTRICT" UNL="constrict(icl&gt;tighten&gt;do,equ&gt;compress,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:35:00::">constricted</W> 
+<W FEAT="V" ID="24" KSNAME="CONSTRICT" LEMMA="CONSTRICT" UNL="constrict(icl&gt;tighten&gt;do,equ&gt;compress,agt&gt;thing,obj&gt;thing)" DEF="SQUEEZE OR PRESS TOGETHER" TRANS="сжимать" WN21="2:35:00::">constricted</W> 
 <W FEAT="A" ID="25" KSNAME="HER" LEMMA="HER">her</W> 
 <W FEAT="S PL" ID="26" KSNAME="KNEE1" LEMMA="KNEE">knees</W> 
 <W ID="27">so</W> 

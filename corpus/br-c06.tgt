@@ -1259,7 +1259,7 @@
 <W DOM="3" FEAT="NUM" HYPOT="predic.01" ID="2" KSNAME="ONE1" LEMMA="ONE" LINK="predic" PAFT=" ">one</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.00" ID="3" KSNAME="SHOULD" LEMMA="SHOULD" LINK="coord-conj" MSNAME="SHOULD" PAFT=" ">should</W> 
 <W DOM="3" FEAT="ADV" HYPOT="restr.10" ID="4" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
-<W DOM="3" FEAT="V MF" HYPOT="analyt.13" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="3" FEAT="V MF" HYPOT="analyt.13" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="1" FEAT="PR" ID="6" KSNAME="FOR1" LEMMA="FOR" LINK="fictit" PAFT=" ">for</W> 
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="EVERYTHING" LEMMA="EVERYTHING" LINK="prepos" PAFT=". ">everything</W>. 
 </S>
@@ -1711,7 +1711,7 @@
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="3" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
 <W DOM="3" FEAT="ADV" HYPOT="restr.10" ID="4" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
-<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="GRACE2" LEMMA="GRACE" LINK="pass-anal" PAFT=" " UNL="grace(icl&gt;change&gt;do,equ&gt;decorate,cob&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="">graced</W> 
+<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="GRACE2" LEMMA="GRACE" LINK="pass-anal" PAFT=" " UNL="grace(icl&gt;change&gt;do,equ&gt;decorate,cob&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="MAKE MORE ATTRACTIVE BY ADDING ORNAMENT, COLOUR, ETC." TRANS="украшать">graced</W> 
 <W DOM="5" FEAT="PR" HYPOT="3-compl.01" ID="6" KSNAME="WITH" LEMMA="WITH" LINK="3-compl" PAFT=" ">with</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="SUBTLETY" LEMMA="SUBTLETY" LINK="prepos" PAFT=" ">subtleties</W> 
@@ -1959,7 +1959,7 @@
 <S DATE="29 11 2010 20:19:40" ID="61" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_36\\br-c06.tgt;61" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
 <W DOM="3" FEAT="ADV" HYPOT="restr.11" ID="2" KSNAME="SOMETIMES" LEMMA="SOMETIMES" LINK="restr" PAFT=" ">sometimes</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="THREATEN2" LEMMA="THREATEN" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatens</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="3" KSNAME="THREATEN2" LEMMA="THREATEN" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatens</W> 
 <W DOM="3" FEAT="PART" HYPOT="adverb.11" ID="4" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="4" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="LINGER" LEMMA="LINGER" LINK="prepos" PAFT=" " UNL="linger(icl&gt;leave&gt;do,equ&gt;tarry,agt&gt;thing)" DEF="">linger</W> 
 <W DOM="5" FEAT="PR" HYPOT="1-compl.07" ID="6" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 

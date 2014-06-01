@@ -123,7 +123,7 @@
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="GANG1" LEMMA="GANG" LINK="prepos" PAFT=" " UNL="gang(icl&gt;unit&gt;thing)" DEF="AN ORGANIZED GROUP OF WORKMEN" TRANS="бригада">gang</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
-<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="compos.01" ID="12" KSNAME="ETHIOPIAN2" LEMMA="ETHIOPIAN" LINK="compos" PAFT=" " UNL="ethiopian(icl&gt;african&gt;thing)" DEF="">Ethiopians</W> 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="compos.01" ID="12" KSNAME="ETHIOPIAN2" LEMMA="ETHIOPIAN" LINK="compos" PAFT=" " UNL="ethiopian(icl&gt;african&gt;person)" DEF="A NATIVE OR INHABITANT OF ETHIOPIA" TRANS="эфиоп">Ethiopians</W> 
 <W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="POLING" LEMMA="POLING" LINK="prepos" MSNAME="POLING" PAFT=" ">poling</W> 
 <W DOM="3" FEAT="S NOM SG" ID="14" KSNAME="IT" LEMMA="IT" LINK="fictit" PAFT=" &quot;. ">it</W>". 
 </S>
@@ -156,7 +156,7 @@
 <W FEAT="ART" ID="2" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="3" KSNAME="BED1" LEMMA="BED" UNL="bed(icl&gt;furniture&gt;thing)" DEF="A PIECE OF FURNITURE THAT PROVIDES A PLACE TO SLEEP" TRANS="кровать,койка" WN21="1:06:00::">bed</W> 
 <W FEAT="S" ID="4" KSNAME="THAT3" LEMMA="THAT">that</W> 
-<W FEAT="V" ID="5" KSNAME="SAG2" LEMMA="SAG" UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="" WN21="2:38:00::">sagged</W> 
+<W FEAT="V" ID="5" KSNAME="SAG2" LEMMA="SAG" UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="DROOP, SINK, OR SETTLE FROM OR AS IF FROM PRESSURE OR LOSS OF TAUTNESS" TRANS="провисать,свисать,отвисать,обвисать" WN21="2:38:00::">sagged</W> 
 <W ID="6">in</W> 
 <W FEAT="ART" ID="7" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="A" ID="8" KSNAME="CERTAIN" LEMMA="CERTAIN" WN21="5:00:00:definite:">certain</W> 
@@ -349,7 +349,7 @@
 <W FEAT="S" ID="22" KSNAME="YOU" LEMMA="YOU">you</W> 
 <W FEAT="V" ID="23" KSNAME="MEAN1" LEMMA="MEAN" UNL="mean(icl&gt;intend&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="HAVE IN MIND AS A PURPOSE" TRANS="хотеть" WN21="2:31:00::">meant</W> 
 <W FEAT="A" ID="24" KSNAME="ANY" LEMMA="ANY">any</W> 
-<W FEAT="S SG" ID="25" KSNAME="HARM1" LEMMA="HARM" UNL="harm(icl&gt;ill_health&gt;thing,equ&gt;injury)" DEF="" WN21="1:26:00::">harm</W> 
+<W FEAT="S SG" ID="25" KSNAME="HARM1" LEMMA="HARM" UNL="harm(icl&gt;ill_health&gt;thing,equ&gt;injury)" DEF="ANY PHYSICAL DAMAGE TO THE BODY CAUSED BY VIOLENCE OR ACCIDENT OR FRACTURE ETC." TRANS="телесное повреждение" WN21="1:26:00::">harm</W> 
 <W ID="26">to</W> 
 <W FEAT="S" GRP="27,28" ID="27" KSNAME="FRM-PROP" LEMMA="FRM-PROP" REM="PERSON">Starkey</W> 
 <W DOM="27" FEAT="S" GRP="27,28" ID="28" KSNAME="POE" LEMMA="POE" LINK="appos" REM="PERSON">Poe</W> 
@@ -649,7 +649,7 @@
 <W DOM="2" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="HAVE" LEMMA="HAVE" LINK="analyt" PAFT=" ">having</W> 
 <W DOM="6" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="BABY" LEMMA="BABY" LINK="1-compl" PAFT=" " UNL="baby(icl&gt;child&gt;person)" DEF="A VERY YOUNG HUMAN CHILD WHO HAS NOT YET BEGUN TO WALK OR TALK" TRANS="младенец">baby</W> 
-<W DOM="4" FEAT="V PP" HYPOT="obj-copr.12" ID="7" KSNAME="NESTLE1" LEMMA="NESTLE" LINK="obj-copr" PAFT=" " UNL="nestle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="">nestled</W> 
+<W DOM="4" FEAT="V PP" HYPOT="obj-copr.12" ID="7" KSNAME="NESTLE1" LEMMA="NESTLE" LINK="obj-copr" PAFT=" " UNL="nestle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION" TRANS="угнездиться">nestled</W> 
 <W DOM="7" FEAT="A" HYPOT="subj-copr.01" ID="8" KSNAME="WARM1" LEMMA="WARM" LINK="subj-copr" PAFT=" ">warm</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="A" HYPOT="coord-conj.10" ID="10" KSNAME="FAT2" LEMMA="FAT" LINK="coord-conj" PAFT=" " UNL="fat(icl&gt;adj,ant&gt;thin)" DEF="HAVING MUCH FLESH (ESPECIALLY FAT)" TRANS="толстый">fat</W> 
@@ -702,7 +702,7 @@
 <W FEAT="CONJ" ID="25" KSNAME="OR" LEMMA="OR">or</W> 
 <W FEAT="V" ID="26" KSNAME="CHECK1" LEMMA="CHECK" UNL="check(icl&gt;analyze&gt;do,agt&gt;volitional_thing,obj&gt;thing,cao&gt;uw,met&gt;thing)" DEF="EXAMINE SO AS TO DETERMINE ACCURACY, QUALITY, OR CONDITION" TRANS="проверять" WN21="2:31:00::">checks</W> 
 <W FEAT="ART" ID="27" KSNAME="THE" LEMMA="THE">the</W> 
-<W FEAT="S SG" ID="28" KSNAME="BERRY1" LEMMA="BERRY" UNL="berry(icl&gt;edible_fruit&gt;thing)" DEF="" WN21="1:13:00::">berry</W> 
+<W FEAT="S SG" ID="28" KSNAME="BERRY1" LEMMA="BERRY" UNL="berry(icl&gt;fruit&gt;thing)" DEF="A PULPY AND USUALLY EDIBLE FRUIT" TRANS="ягода" WN21="1:13:00::">berry</W> 
 <W FEAT="S" ID="29" KSNAME="CRATE1" LEMMA="CRATE" UNL="crate(icl&gt;box&gt;thing)" DEF="A RUGGED BOX (USUALLY MADE OF WOOD)" TRANS="ящик" WN21="1:06:00::">crates</W> 
 <W ID="30">down</W> 
 <W ID="31">at</W> 
@@ -1427,7 +1427,7 @@
 </S>
 <S DATE="30 11 2010 10:41:20" ID="47" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-p09.tgt;47" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="BAND3" LEMMA="BAND" LINK="predic" PAFT=" " UNL="band(icl&gt;musical_organization&gt;thing)" DEF="">bands</W> 
+<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="BAND3" LEMMA="BAND" LINK="predic" PAFT=" " UNL="band(icl&gt;musical_organization&gt;group)" DEF="INSTRUMENTALISTS NOT INCLUDING STRING PLAYERS" TRANS="оркестр">bands</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="3" FEAT="A" HYPOT="copulat.11" ID="4" KSNAME="IMPATIENT" LEMMA="IMPATIENT" LINK="copulat" PAFT=", " UNL="impatient(icl&gt;adj,equ&gt;impatient)" DEF="(USUALLY FOLLOWED BY `TO') FULL OF EAGERNESS" TRANS="нетерпеливый">impatient</W>, 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="5" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
@@ -1620,7 +1620,7 @@
 <W DOM="13" FEAT="PR" HYPOT="1-compl.07" ID="14" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=" ">little</W> 
-<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="BIT1" LEMMA="BIT" LINK="prepos" PAFT=", " UNL="bit(icl&gt;time&gt;thing,equ&gt;moment)" DEF="">bit</W>, 
+<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="BIT1" LEMMA="BIT" LINK="prepos" PAFT=", " UNL="bit(icl&gt;time&gt;abstract_thing,equ&gt;moment)" DEF="AN INDEFINITELY SHORT TIME" TRANS="момент">bit</W>, 
 <W DOM="12" FEAT="CONJ" HYPOT="sent-coordin.10" ID="18" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="18" FEAT="ADV" HYPOT="parenth.00" ID="19" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.10" ID="20" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -2037,7 +2037,7 @@
 <W FEAT="PART" ID="36" KSNAME="THERE2" LEMMA="THERE">there</W> 
 <W FEAT="V" ID="37" KSNAME="BE" LEMMA="BE">was</W> 
 <W FEAT="A" ID="38" KSNAME="NO2" LEMMA="NO">no</W> 
-<W FEAT="S SG" ID="39" KSNAME="PORTER" LEMMA="PORTER" UNL="porter(icl&gt;laborer&gt;thing)" DEF="" WN21="1:18:00::">porter</W> 
+<W FEAT="S SG" ID="39" KSNAME="PORTER" LEMMA="PORTER" UNL="porter(icl&gt;laborer&gt;person)" DEF="A PERSON EMPLOYED TO CARRY LUGGAGE AND SUPPLIES" TRANS="носильщик" WN21="1:18:00::">porter</W> 
 <W FEAT="CONJ" ID="40" KSNAME="OR" LEMMA="OR">or</W> 
 <W FEAT="S SG" ID="41" KSNAME="JANITOR" LEMMA="JANITOR" UNL="janitor(icl&gt;custodian&gt;thing)" DEF="" WN21="1:18:00::">janitor</W>. 
 </S>

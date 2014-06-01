@@ -1140,7 +1140,7 @@
 <W DOM="2" FEAT="CONJ" HYPOT="1-compl.21" ID="3" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="5" KSNAME="WOULD" LEMMA="WOULD" LINK="subord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="5" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="5" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="6" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="EXCLUSIVE1" LEMMA="EXCLUSIVE" LINK="modif" PAFT=" ">exclusive</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="USE1" LEMMA="USE" LINK="prepos" PAFT=" ">use</W> 
@@ -1816,7 +1816,7 @@
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="5,6,7,8,9,10,11,12,13,14,15,16" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="5,6,7,8,9,10,11,12,13,14,15,16" HYPOT="prepos.01" ID="16" KSNAME="PEOPLE1" LEMMA="PEOPLE" LINK="prepos" PAFT="&quot;, ">people</W>", 
 <W DOM="13" FEAT="S SG" HYPOT="appos.04" ID="17" KSNAME="FRM-PROP" LEMMA="HUGHES" LINK="appos" PAFT=" ">Hughes</W> 
-<W DOM="17" FEAT="V PP" HYPOT="modif.01" ID="18" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=", &quot;" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W>, 
+<W DOM="17" FEAT="V PP" HYPOT="modif.01" ID="18" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=", &quot;" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W>, 
 "<W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="19,20,21,22,23,24,25,26,27,28,29,30,31,32" HYPOT="determ.10" ID="19" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="19,20,21,22,23,24,25,26,27,28,29,30,31,32" HYPOT="descr-appos.01" ID="20" KSNAME="REPRESENTATIVE1" LEMMA="REPRESENTATIVE" LINK="descr-appos" PAFT=" ">representative</W> 
 <W DOM="20" EXTRAFEAT="CAP CAPIT IN-QUOT" FEAT="A" GRP="19,20,21,22,23,24,25,26,27,28,29,30,31,32" HYPOT="appos.03" ID="21" KSNAME="DEMOCRATIC" LEMMA="DEMOCRATIC" LINK="appos" PAFT=" ">Democratic</W> 

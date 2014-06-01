@@ -480,7 +480,7 @@
 </S>
 <S DATE="29 11 2010 20:30:13" EXTRACOMM="Tagging contradicts ETAP parsing: US - WE" ID="23" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g23.tgt;23" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.10" ID="1" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">An</W> 
-<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="INMATE" LEMMA="INMATE" LINK="predic" PAFT=", " UNL="inmate(icl&gt;patient&gt;thing,equ&gt;inpatient,ant&gt;outpatient)" DEF="">inmate</W>, 
+<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="INMATE" LEMMA="INMATE" LINK="predic" PAFT=", " UNL="inmate(icl&gt;patient&gt;person,equ&gt;inpatient,ant&gt;outpatient)" DEF="">inmate</W>, 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="3" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="FORMER2" LEMMA="FORMER" LINK="modif" PAFT=" " UNL="former(icl&gt;adj,equ&gt;erstwhile)" DEF="BELONGING TO SOME PRIOR TIME" TRANS="былой">former</W> 
 <W DOM="6" FEAT="S SG" HYPOT="compos.01" ID="5" KSNAME="UNIVERSITY" LEMMA="UNIVERSITY" LINK="compos" PAFT=" " UNL="university(icl&gt;body&gt;thing)" DEF="THE BODY OF FACULTY AND STUDENTS AT A UNIVERSITY" TRANS="университет">university</W> 
@@ -842,7 +842,7 @@
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="POUND1" LEMMA="POUND" LINK="prepos" PAFT=" " UNL="pound(icl&gt;avoirdupois_unit&gt;thing)" DEF="16 OUNCES" TRANS="фунт">pound</W> 
 <W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="FLESH1" LEMMA="FLESH" LINK="prepos" PAFT=" " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="">flesh</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="FLESH1" LEMMA="FLESH" LINK="prepos" PAFT=" " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="ALTERNATIVE NAMES FOR THE BODY OF A HUMAN BEING" TRANS="телеса">flesh</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="HAVE" LEMMA="HAVE" LINK="coord-conj" PAFT=" ">had</W> 
 <W DOM="11" FEAT="PART" HYPOT="1-compl.15" ID="12" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
@@ -885,12 +885,12 @@
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="POUND1" LEMMA="POUND" LINK="1-compl" PAFT=" " UNL="pound(icl&gt;avoirdupois_unit&gt;thing)" DEF="16 OUNCES" TRANS="фунт">pound</W> 
 <W DOM="11" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="14" FEAT="S SG" HYPOT="compos.01" ID="13" KSNAME="FLESH1" LEMMA="FLESH" LINK="compos" PAFT=" " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="">flesh</W> 
+<W DOM="14" FEAT="S SG" HYPOT="compos.01" ID="13" KSNAME="FLESH1" LEMMA="FLESH" LINK="compos" PAFT=" " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="ALTERNATIVE NAMES FOR THE BODY OF A HUMAN BEING" TRANS="телеса">flesh</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="CHARACTERIZATION" LEMMA="CHARACTERIZATION" LINK="prepos" PAFT=" " UNL="characterization(icl&gt;description&gt;thing,equ&gt;word_picture)" DEF="A GRAPHIC OR VIVID VERBAL DESCRIPTION" TRANS="описание,оценка">characterization</W> 
 <W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="THRIFTY" LEMMA="THRIFTY" LINK="modif" PAFT=" " UNL="thrifty(icl&gt;adj,ant&gt;wasteful)" DEF="CAREFUL AND DILIGENT IN THE USE OF RESOURCES" TRANS="экономный">thrifty</W> 
-<W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="SCOTCHMAN" LEMMA="SCOTCHMAN" LINK="prepos" PAFT=". " UNL="scotchman(icl&gt;european&gt;thing,equ&gt;scot)" DEF="">Scotchman</W>. 
+<W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="SCOTCHMAN" LEMMA="SCOTCHMAN" LINK="prepos" PAFT=". " UNL="scotchman(icl&gt;european&gt;person,equ&gt;scot)" DEF="A NATIVE OR INHABITANT OF SCOTLAND" TRANS="шотландец">Scotchman</W>. 
 </S>
 <S DATE="29 11 2010 20:30:16" ID="47" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_20\\br-g23.tgt;47" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="restr.11" ID="1" KSNAME="JUST1" LEMMA="JUST" LINK="restr" PAFT=" " UNL="just(icl&gt;how,equ&gt;precisely,com&gt;precise)" DEF="INDICATING EXACTNESS OR PRECISENESS" TRANS="точь-в-точь,именно,точно,в точности">Just</W> 
@@ -1322,14 +1322,14 @@
 <W DOM="15" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="DISLIKE1" LEMMA="DISLIKE" LINK="1-compl" PAFT=" " UNL="dislike(icl&gt;feeling&gt;thing,ant&gt;liking)" DEF="A FEELING OF AVERSION OR ANTIPATHY" TRANS="неприязнь">dislike</W> 
 <W DOM="18" FEAT="PR" HYPOT="1-compl.07" ID="19" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="19" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="JAPANESE2" LEMMA="JAPANESE" LINK="prepos" PAFT=", " UNL="japanese(icl&gt;asian&gt;thing)" DEF="">Japanese</W>, 
+<W DOM="19" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="JAPANESE2" LEMMA="JAPANESE" LINK="prepos" PAFT=", " UNL="japanese(icl&gt;asian&gt;person)" DEF="A NATIVE OR INHABITANT OF JAPAN" TRANS="японец">Japanese</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="22" KSNAME="DO1" LEMMA="DO" PAFT=" ">did</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="25" FEAT="V PP" HYPOT="modif.01" ID="24" KSNAME="HEAT2" LEMMA="HEAT" LINK="modif" PAFT=" ">heated</W> 
 <W DOM="22" FEAT="S PL" HYPOT="predic.07" ID="25" KSNAME="DEBATE1" LEMMA="DEBATE" LINK="predic" PAFT=" " UNL="debate(icl&gt;discussion&gt;thing,equ&gt;argument)" DEF="A DISCUSSION IN WHICH REASONS ARE ADVANCED FOR AND AGAINST SOME PROPOSITION OR PROPOSAL" TRANS="дебаты">debates</W> 
 <W DOM="25" FEAT="PR" HYPOT="quasiagent.10" ID="26" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="26" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="28" KSNAME="CALIFORNIAN2" LEMMA="CALIFORNIAN" LINK="prepos" PAFT=" " UNL="californian(icl&gt;american&gt;thing)" DEF="">Californians</W> 
+<W DOM="26" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="28" KSNAME="CALIFORNIAN2" LEMMA="CALIFORNIAN" LINK="prepos" PAFT=" " UNL="californian(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF CALIFORNIA" TRANS="калифорниец">Californians</W> 
 <W DOM="22" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.10" ID="29" KSNAME="SETTLE1" LEMMA="SETTLE" LINK="analyt" PAFT=" " UNL="settle(icl&gt;conclude&gt;do,agt&gt;thing,obj&gt;thing)" DEF="SETTLE CONCLUSIVELY" TRANS="исчерпывать">settle</W> 
 <W DOM="31" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="S SG" ID="31" KSNAME="TRUTH" LEMMA="TRUTH" LINK="fictit" PAFT=" " UNL="truth(icl&gt;actuality&gt;thing,ant&gt;falsity)" DEF="CONFORMITY TO REALITY OR ACTUALITY" TRANS="истинность">truth</W> 

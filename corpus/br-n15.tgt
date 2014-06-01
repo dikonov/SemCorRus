@@ -22,7 +22,7 @@
 <W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="2,3" HYPOT="predic.01" ID="3" KSNAME="SQUADRON" LEMMA="SQUADRON" LINK="predic" PAFT=" ">Squadron</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.00" ID="4" KSNAME="PUT" LEMMA="PUT" LINK="coord-conj" PAFT=" " UNL="put(icl&gt;displace&gt;do,plt&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="MOVE INTO A CERTAIN PLACE" TRANS="помещать">put</W> 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
-<W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,equ&gt;inaugural)" DEF="">first</W> 
+<W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,equ&gt;inaugural)" DEF="SERVING TO SET IN MOTION" TRANS="начальный">first</W> 
 <W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="MARK1" LEMMA="MARK" LINK="1-compl" PAFT=" " UNL="mark(icl&gt;symbol&gt;thing,equ&gt;marker)" DEF="A DISTINGUISHING SYMBOL" TRANS="метка">marks</W> 
 <W DOM="4" FEAT="PR" HYPOT="2-compl.02" ID="8" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -974,7 +974,7 @@
 </S>
 <S DATE="30 11 2010 10:39:31" ID="57" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n15.tgt;57" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SPREAD1" LEMMA="SPREAD" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="">spread</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SPREAD1" LEMMA="SPREAD" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">spread</W> 
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="3" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="FLIGHT" LEMMA="FLIGHT" LINK="1-compl" PAFT=" " UNL="flight(icl&gt;formation&gt;thing)" DEF="">flight</W> 
@@ -2003,7 +2003,7 @@
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="8" KSNAME="FEEL1" LEMMA="FEEL" LINK="coord-conj" PAFT=" " UNL="feel(icl&gt;perceive&gt;be,equ&gt;sense,com&gt;physically,obj&gt;thing,aoj&gt;person)" DEF="PERCEIVE BY A PHYSICAL SENSATION" TRANS="чувствовать">felt</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="10" KSNAME="CHEEK" LEMMA="CHEEK" LINK="predic" PAFT=" " UNL="cheek(icl&gt;feature&gt;thing)" DEF="EITHER SIDE OF THE FACE BELOW THE EYES" TRANS="щека">cheeks</W> 
-<W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.31" ID="11" KSNAME="SAG2" LEMMA="SAG" LINK="1-compl" PAFT=". " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="">sag</W>. 
+<W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.31" ID="11" KSNAME="SAG2" LEMMA="SAG" LINK="1-compl" PAFT=". " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="DROOP, SINK, OR SETTLE FROM OR AS IF FROM PRESSURE OR LOSS OF TAUTNESS" TRANS="провисать,свисать,отвисать,обвисать">sag</W>. 
 </S>
 <S DATE="30 11 2010 10:39:37" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="143" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n15.tgt;143" STATUS="doubt">
 <W DOM="8" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="adverb" PAFT=" ">Out of</W> 
@@ -2143,7 +2143,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="ENEMY" LEMMA="ENEMY" LINK="predic" PAFT=" " UNL="enemy(icl&gt;military_unit&gt;thing)" DEF="AN OPPOSING MILITARY FORCE" TRANS="враг,противник">enemy</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="DO1" LEMMA="DO" PAFT=" ">did</W> 
 <W DOM="3" FEAT="ADV" HYPOT="restr.10" ID="4" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
-<W DOM="3" FEAT="V MF" HYPOT="analyt.10" ID="5" KSNAME="VEER2" LEMMA="VEER" LINK="analyt" PAFT=". " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veer</W>. 
+<W DOM="3" FEAT="V MF" HYPOT="analyt.10" ID="5" KSNAME="VEER2" LEMMA="VEER" LINK="analyt" PAFT=". " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veer</W>. 
 </S>
 <S DATE="30 11 2010 10:39:37" ID="154" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n15.tgt;154" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 

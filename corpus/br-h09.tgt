@@ -528,7 +528,7 @@
 <W DOM="28" FEAT="S SG" HYPOT="coordin.01" ID="29" KSNAME="LICENSE1" LEMMA="LICENSE" LINK="coordin" PAFT=", " UNL="license(icl&gt;legal_document&gt;thing)" DEF="A LEGAL DOCUMENT GIVING OFFICIAL PERMISSION TO DO SOMETHING" TRANS="лицензия">license</W>, 
 <W DOM="29" FEAT="S SG" HYPOT="coordin.01" ID="30" KSNAME="LEASE1" LEMMA="LEASE" LINK="coordin" PAFT=", " UNL="lease(icl&gt;contract&gt;thing)" DEF="">lease</W>, 
 <W DOM="30" FEAT="CONJ" HYPOT="coordin.10" ID="31" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
-<W DOM="31" FEAT="S SG" HYPOT="coord-conj.10" ID="32" KSNAME="DONATION" LEMMA="DONATION" LINK="coord-conj" PAFT="; " UNL="donation(icl&gt;giving&gt;thing,equ&gt;contribution)" DEF="">donation</W>; 
+<W DOM="31" FEAT="S SG" HYPOT="coord-conj.10" ID="32" KSNAME="DONATION" LEMMA="DONATION" LINK="coord-conj" PAFT="; " UNL="donation(icl&gt;giving&gt;thing,equ&gt;contribution)" DEF="ACT OF GIVING IN COMMON WITH OTHERS FOR A COMMON PURPOSE ESPECIALLY TO A CHARITY" TRANS="пожертвование">donation</W>; 
 </S>
 <S DATE="29 11 2010 19:54:56" ID="16" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_21\\br-h09.tgt;16" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="1" KSNAME="ASSEMBLE" LEMMA="ASSEMBLE" PAFT=" " UNL="assemble(icl&gt;join&gt;do,equ&gt;build,src&gt;thing,agt&gt;person,obj&gt;functional_thing,gol&gt;thing)" DEF="FIT TOGETHER THE PARTS OF" TRANS="собирать">assemble</W> 
@@ -962,7 +962,7 @@
 <W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="ACTION" LEMMA="ACTION" LINK="prepos" PAFT=" " UNL="action(icl&gt;abstract_thing,agt&gt;thing)" DEF="SOMETHING DONE BY SOMEBODY" TRANS="действие">action</W> 
 <W DOM="21" FEAT="V PP" HYPOT="modif.01" ID="22" KSNAME="TAKE" LEMMA="TAKE" LINK="modif" PAFT=" ">taken</W> 
 <W DOM="22" FEAT="CONJ" HYPOT="coordin.10" ID="23" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
-<W DOM="23" FEAT="V PP" HYPOT="coord-conj.10" ID="24" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="coord-conj" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">instituted</W> 
+<W DOM="23" FEAT="V PP" HYPOT="coord-conj.10" ID="24" KSNAME="INSTITUTE2" LEMMA="INSTITUTE" LINK="coord-conj" PAFT=" " UNL="institute(icl&gt;make&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ADVANCE OR SET FORTH IN COURT" TRANS="возбуждать">instituted</W> 
 <W DOM="24" FEAT="PR" HYPOT="agent.10" ID="25" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="25" FEAT="S OBJ SG" HYPOT="prepos.01" ID="26" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=" ">him</W> 
 <W DOM="22" FEAT="PR" HYPOT="3-compl.01" ID="27" KSNAME="UNDER1" LEMMA="UNDER" LINK="3-compl" PAFT=" ">under</W> 
@@ -1289,7 +1289,7 @@
 <W DOM="20" FEAT="V MF" HYPOT="analyt.13" ID="21" KSNAME="TERMINATE" LEMMA="TERMINATE" LINK="analyt" PAFT=" " UNL="terminate(icl&gt;end&gt;occur,obj&gt;thing,gol&gt;thing)" DEF="HAVE AN END, IN A TEMPORAL, SPATIAL, OR QUANTITATIVE SENSE" TRANS="заканчиваться">terminate</W> 
 <W DOM="21" FEAT="PR" HYPOT="1-compl.07" ID="22" KSNAME="UPON" LEMMA="UPON" LINK="1-compl" PAFT=" ">upon</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="EXPIRATION" LEMMA="EXPIRATION" LINK="prepos" PAFT=" " UNL="expiration(icl&gt;end&gt;thing,equ&gt;termination)" DEF="">expiration</W> 
+<W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="EXPIRATION" LEMMA="EXPIRATION" LINK="prepos" PAFT=" " UNL="expiration(icl&gt;end&gt;thing,equ&gt;termination)" DEF="A COMING TO AN END OF A CONTRACT PERIOD" TRANS="окончание">expiration</W> 
 <W DOM="24" FEAT="PR" HYPOT="quasiagent.10" ID="25" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="27" FEAT="NUM" HYPOT="quantit.10" ID="26" KSNAME="TWELVE" LEMMA="TWELVE" LINK="quantit" PAFT=" ">twelve</W> 
 <W DOM="25" FEAT="S PL" HYPOT="prepos.01" ID="27" KSNAME="YEAR" LEMMA="YEAR" LINK="prepos" PAFT=" ">years</W> 
@@ -1307,7 +1307,7 @@
 <S DATE="29 11 2010 19:55:24" ID="32" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_21\\br-h09.tgt;32" STATUS="doubt">
 <W DOM="25" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="UPON" LEMMA="UPON" LINK="adverb" PAFT=" ">Upon</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="EXPIRATION" LEMMA="EXPIRATION" LINK="prepos" PAFT=" " UNL="expiration(icl&gt;end&gt;thing,equ&gt;termination)" DEF="">expiration</W> 
+<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="EXPIRATION" LEMMA="EXPIRATION" LINK="prepos" PAFT=" " UNL="expiration(icl&gt;end&gt;thing,equ&gt;termination)" DEF="A COMING TO AN END OF A CONTRACT PERIOD" TRANS="окончание">expiration</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="PERIOD" LEMMA="PERIOD" LINK="prepos" PAFT=" " UNL="period(icl&gt;fundamental_quantity&gt;thing,equ&gt;time_period)" DEF="AN AMOUNT OF TIME" TRANS="период">period</W> 
@@ -1735,7 +1735,7 @@
 <W DOM="45" FEAT="ART" HYPOT="determ.11" ID="44" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="43" FEAT="S SG" HYPOT="prepos.01" ID="45" KSNAME="DATE1" LEMMA="DATE" LINK="prepos" PAFT=" ">date</W> 
 <W DOM="45" FEAT="PR" HYPOT="quasiagent.10" ID="46" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="46" FEAT="S SG" HYPOT="prepos.01" ID="47" KSNAME="ENACTMENT" LEMMA="ENACTMENT" LINK="prepos" MSNAME="ENACTMENT" PAFT=" " UNL="enactment(icl&gt;legislation&gt;thing)" DEF="">enactment</W> 
+<W DOM="46" FEAT="S SG" HYPOT="prepos.01" ID="47" KSNAME="ENACTMENT" LEMMA="ENACTMENT" LINK="prepos" MSNAME="ENACTMENT" PAFT=" " UNL="enactment(icl&gt;legislation&gt;thing)" DEF="THE PASSING OF A LAW BY A LEGISLATIVE BODY" TRANS="утверждение">enactment</W> 
 <W DOM="47" FEAT="PR" GRP="48,49" HYPOT="1-compl.07" ID="48" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="50" FEAT="A" GRP="48,49" HYPOT="determ.13" ID="49" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="48" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="50" KSNAME="ACT1" LEMMA="ACT" LINK="prepos" PAFT=". " UNL="act(icl&gt;legal_document&gt;thing)" DEF="A LEGAL DOCUMENT CODIFYING THE RESULT OF DELIBERATIONS OF A COMMITTEE OR SOCIETY OR LEGISLATIVE BODY" TRANS="акт">Act</W>. 
@@ -1811,7 +1811,7 @@
 <W DOM="59" FEAT="S PL" HYPOT="prepos.01" ID="62" KSNAME="PRODUCER" LEMMA="PRODUCER" LINK="prepos" PAFT=" " UNL="producer(icl&gt;maker&gt;thing,equ&gt;manufacturer)" DEF="SOMEONE WHO MANUFACTURES SOMETHING" TRANS="производитель">producers</W> 
 <W DOM="62" FEAT="PR" HYPOT="attrib.01" ID="63" KSNAME="ON1" LEMMA="ON" LINK="attrib" PAFT=" ">on</W> 
 <W DOM="1" FEAT="A" ID="64" KSNAME="PUBLIC1" LEMMA="PUBLIC" LINK="fictit" PAFT=", " UNL="public(icl&gt;adj,ant&gt;private)" DEF="NOT PRIVATE" TRANS="общественный,публичный">public</W>, 
-<W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" ID="65" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="fictit" PAFT=", " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian</W>, 
+<W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" ID="65" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="fictit" PAFT=", " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian</W>, 
 <W DOM="1" FEAT="CONJ" ID="66" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="68" FEAT="A" HYPOT="modif.01" ID="67" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
 <W DOM="63" FEAT="S PL" HYPOT="prepos.01" ID="68" KSNAME="LAND1" LEMMA="LAND" LINK="prepos" PAFT=" ">lands</W> 

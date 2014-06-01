@@ -947,7 +947,7 @@
 <W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="BEAUTIFUL" LEMMA="BEAUTIFUL" LINK="modif" PAFT=" ">beautiful</W> 
 <W DOM="16" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="FURNISHING" LEMMA="FURNISHING" LINK="prepos" PAFT=", ">furnishings</W>, 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.13" ID="20" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="20" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="21" KSNAME="FAIL1" LEMMA="FAIL" LINK="coord-conj" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">fail</W> 
+<W DOM="20" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="21" KSNAME="FAIL1" LEMMA="FAIL" LINK="coord-conj" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="DISAPPOINT, PROVE UNDEPENDABLE TO" TRANS="подводить">fail</W> 
 <W DOM="21" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="22" KSNAME="SHE" LEMMA="SHE" LINK="1-compl" PAFT=" ">her</W> 
 <W DOM="21" FEAT="PR" HYPOT="2-compl.02" ID="23" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT="-">in</W>- 
 <W DOM="4" FEAT="A" ID="24" KSNAME="SPIRITUAL1" LEMMA="SPIRITUAL" LINK="fictit" PAFT=" ">spiritual</W> 
@@ -1183,7 +1183,7 @@
 <W FEAT="S SG" ID="13" KSNAME="POVERTY" LEMMA="POVERTY">poverty</W> 
 <W ID="14">afterwards</W> 
 <W FEAT="V" ID="15" KSNAME="HAVE" LEMMA="HAVE">had</W> 
-<W FEAT="V" ID="16" KSNAME="ROB1" LEMMA="ROB" UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:40:01::">robbed</W> 
+<W FEAT="V" ID="16" KSNAME="ROB1" LEMMA="ROB" UNL="rob(icl&gt;cheat&gt;do,equ&gt;overcharge,agt&gt;thing,obj&gt;thing)" DEF="RIP OFF" TRANS="обчищать" WN21="2:40:01::">robbed</W> 
 <W FEAT="ART" ID="17" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="18" KSNAME="MARE" LEMMA="MARE">mare</W> 
 <W ID="19">of</W> 

@@ -448,7 +448,7 @@
 <W DOM="31" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="32" FEAT="S SG" HYPOT="predic.01" ID="31" KSNAME="WORK1" LEMMA="WORK" LINK="predic" PAFT=" ">work</W> 
 <W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="32" KSNAME="INVOLVE" LEMMA="INVOLVE" LINK="subord-conj" PAFT=" ">involved</W> 
-<W DOM="32" FEAT="V ING" HYPOT="adverb.03" ID="33" KSNAME="SET1" LEMMA="SET" LINK="adverb" PAFT=" " UNL="set_off(icl&gt;change_integrity&gt;do,equ&gt;explode,agt&gt;thing,obj&gt;thing)" DEF="">setting</W> 
+<W DOM="32" FEAT="V ING" HYPOT="adverb.03" ID="33" KSNAME="SET1" LEMMA="SET" LINK="adverb" PAFT=" " UNL="set_off(icl&gt;change_integrity&gt;do,equ&gt;explode,agt&gt;thing,obj&gt;thing)" DEF="CAUSE TO BURST WITH A VIOLENT RELEASE OF ENERGY" TRANS="взрывать">setting</W> 
 <W DOM="33" FEAT="ADV" HYPOT="phras-junct.10" ID="34" KSNAME="OFF1" LEMMA="OFF" LINK="phras-junct" PAFT=" ">off</W> 
 <W DOM="36" FEAT="S SG" GRP="35,36" HYPOT="compos.02" ID="35" KSNAME="NERVE1" LEMMA="NERVE" LINK="compos" PAFT=" ">nerve</W> 
 <W DOM="37" FEAT="V ING" GRP="35,36" HYPOT="modif.01" ID="36" KSNAME="SHATTER1" LEMMA="SHATTER" LINK="modif" PAFT=" ">shattering</W> 
@@ -1160,7 +1160,7 @@
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">she</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="13" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">had</W> 
 <W DOM="13" FEAT="ADV" HYPOT="restr.10" ID="14" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
-<W DOM="13" FEAT="V PP" HYPOT="analyt.12" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="13" FEAT="V PP" HYPOT="analyt.12" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="15" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=", ">for</W>, 
 <W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="17" KSNAME="TOMMY" LEMMA="TOMMY" LINK="1-compl" PAFT=" ">Tommy</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="18" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
@@ -1714,7 +1714,7 @@
 <W DOM="16" FEAT="CONJ" HYPOT="adverb.10" ID="13" KSNAME="BECAUSE" LEMMA="BECAUSE" LINK="adverb" PAFT=" ">because</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="3" FEAT="S SG" ID="15" KSNAME="DISCIPLINE1" LEMMA="DISCIPLINE" LINK="fictit" PAFT=" ">discipline</W> 
-<W DOM="15" FEAT="V PP" HYPOT="modif.01" ID="16" KSNAME="DISPENSE" LEMMA="DISPENSE" LINK="modif" PAFT=" " UNL="dispense(icl&gt;give&gt;do,equ&gt;distribute,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="">dispensed</W> 
+<W DOM="15" FEAT="V PP" HYPOT="modif.01" ID="16" KSNAME="DISPENSE" LEMMA="DISPENSE" LINK="modif" PAFT=" " UNL="dispense(icl&gt;give&gt;do,equ&gt;distribute,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="ADMINISTER OR BESTOW, AS IN SMALL PORTIONS" TRANS="распределять">dispensed</W> 
 <W DOM="18" FEAT="PART" HYPOT="predic.10" ID="17" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="18" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
 <W DOM="18" FEAT="ADV" HYPOT="adverb.01" ID="19" KSNAME="ORDINARILY" LEMMA="ORDINARILY" LINK="adverb" PAFT=" ">ordinarily</W> 
@@ -2182,7 +2182,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="COMMISSARY" LEMMA="COMMISSARY" LINK="prepos" PAFT=". ">commissary</W>. 
 </S>
 <S DATE="30 11 2010 10:57:58" ID="113" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_50\\br-p05.tgt;113" STATUS="doubt">
-<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="GRAB1" LEMMA="GRAB" PAFT=" " UNL="grab(icl&gt;take&gt;do,equ&gt;snap_up,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="">Grab</W> 
+<W DOM="_root" EXTRAFEAT="CAP QFIN" FEAT="V MF" ID="1" KSNAME="GRAB1" LEMMA="GRAB" PAFT=" " UNL="grab(icl&gt;take&gt;do,equ&gt;snap_up,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="GET HOLD OF OR SEIZE QUICKLY AND EASILY" TRANS="схватить">Grab</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="TAXI1" LEMMA="TAXI" LINK="1-compl" PAFT=" &quot;. ">taxi</W>". 
 </S>

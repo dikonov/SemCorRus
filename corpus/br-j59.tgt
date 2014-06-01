@@ -1240,7 +1240,7 @@
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="FOR2" LEMMA="FOR" PAFT=" ">For</W> 
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="3" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
-<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="TURN2" LEMMA="TURN" LINK="analyt" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="">turned</W> 
+<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="TURN2" LEMMA="TURN" LINK="analyt" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться">turned</W> 
 <W DOM="4" FEAT="ADV" HYPOT="phras-junct.10" ID="5" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=", ">out</W>, 
 <W DOM="4" FEAT="PR" HYPOT="agent.10" ID="6" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1363,7 +1363,7 @@
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="SUBJECT1" LEMMA="SUBJECT" LINK="prepos" PAFT=" ">subject</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="17" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="TRANSPOSE" LEMMA="TRANSPOSE" LINK="pass-anal" PAFT=" " UNL="transpose(icl&gt;change_by_reversal&gt;do,equ&gt;permute,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="">transposed</W> 
+<W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="TRANSPOSE" LEMMA="TRANSPOSE" LINK="pass-anal" PAFT=" " UNL="transpose(icl&gt;change_by_reversal&gt;do,equ&gt;permute,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="CHANGE THE ORDER OR ARRANGEMENT OF" TRANS="переставлять">transposed</W> 
 <W DOM="18" FEAT="PR" HYPOT="adverb.02" ID="19" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="21" FEAT="A" HYPOT="determ.13" ID="20" KSNAME="THOSE" LEMMA="THOSE" LINK="determ" PAFT=" ">those</W> 
 <W DOM="19" FEAT="S PL" HYPOT="prepos.01" ID="21" KSNAME="CLUSTER1" LEMMA="CLUSTER" LINK="prepos" PAFT=" " UNL="cluster(icl&gt;agglomeration&gt;thing,equ&gt;bunch)" DEF="A GROUPING OF A NUMBER OF SIMILAR THINGS" TRANS="кластер">clusters</W> 
@@ -1373,7 +1373,7 @@
 <W DOM="26" FEAT="ADV COMP" GRP="23,24,25" HYPOT="restr.12" ID="25" KSNAME="LESS1" LEMMA="LESS" LINK="restr" PAFT=" ">less</W> 
 <W DOM="30" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="INTERCHANGEABLE" LEMMA="INTERCHANGEABLE" LINK="modif" PAFT=" ">interchangeable</W> 
 <W DOM="26" FEAT="CONJ" HYPOT="coordin.10" ID="27" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="27" FEAT="S SG" HYPOT="coord-conj.10" ID="28" KSNAME="CONTOUR1" LEMMA="CONTOUR" LINK="coord-conj" PAFT=" " UNL="contour(icl&gt;spatial_property&gt;thing,equ&gt;shape)" DEF="">contour</W> 
+<W DOM="27" FEAT="S SG" HYPOT="coord-conj.10" ID="28" KSNAME="CONTOUR1" LEMMA="CONTOUR" LINK="coord-conj" PAFT=" " UNL="contour(icl&gt;spatial_property&gt;thing,equ&gt;shape)" DEF="ANY SPATIAL ATTRIBUTES (ESPECIALLY AS DEFINED BY OUTLINE)" TRANS="форма">contour</W> 
 <W DOM="30" FEAT="V ING" HYPOT="modif.01" ID="29" KSNAME="OBLITERATE" LEMMA="OBLITERATE" LINK="modif" PAFT=" ">obliterating</W> 
 <W DOM="31" FEAT="S SG" GRP="30,31" HYPOT="compos.01" ID="30" KSNAME="FACET1" LEMMA="FACET" LINK="compos" PAFT=" ">facet</W> 
 <W DOM="24" FEAT="S PL" GRP="30,31" HYPOT="coord-conj.10" ID="31" KSNAME="PLANE1" LEMMA="PLANE" LINK="coord-conj" PAFT=" ">planes</W> 

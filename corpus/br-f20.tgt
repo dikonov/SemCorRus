@@ -291,7 +291,7 @@
 <W DOM="12" FEAT="ADV" HYPOT="parenth.10" ID="13" KSNAME="IN$FACT" LEMMA="IN FACT" LINK="parenth" MSNAME="IN$FACT" PAFT=", " UNL="in_fact(icl&gt;how)" DEF="IN REALITY OR ACTUALITY" TRANS="фактически">in fact</W>, 
 <W DOM="12" FEAT="PR" HYPOT="copulat.13" ID="14" KSNAME="WITH" LEMMA="WITH" LINK="copulat" PAFT=" ">with</W> 
 <W DOM="16" FEAT="A" HYPOT="determ.13" ID="15" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="AGGRESSION" LEMMA="AGGRESSION" LINK="prepos" PAFT=" " UNL="aggression(icl&gt;hostility&gt;thing)" DEF="">aggression</W> 
+<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="AGGRESSION" LEMMA="AGGRESSION" LINK="prepos" PAFT=" " UNL="aggression(icl&gt;hostility&gt;thing)" DEF="A FEELING OF HOSTILITY THAT AROUSES THOUGHTS OF ATTACK" TRANS="агрессивность">aggression</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="17" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="HOSTILITY" LEMMA="HOSTILITY" LINK="coord-conj" PAFT=", " UNL="hostility(icl&gt;unfriendliness&gt;thing)" DEF="A HOSTILE (VERY UNFRIENDLY) DISPOSITION" TRANS="враждебность">hostility</W>, 
 <W DOM="2" FEAT="CONJ" ID="19" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
@@ -568,7 +568,7 @@
 <W DOM="13" FEAT="NID" GRP="13,14" HYPOT="appos.03" ID="14" KSNAME="FICT-LEX" LEMMA="SLUGGER" LINK="appos" PAFT=", ">slugger</W>, 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="ROUGH1" LEMMA="ROUGH" LINK="modif" PAFT=" ">rough</W> 
-<W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="FIGHTER" LEMMA="FIGHTER" LINK="predic" PAFT=" " UNL="fighter(icl&gt;person&gt;thing,equ&gt;combatant)" DEF="">fighter</W> 
+<W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="FIGHTER" LEMMA="FIGHTER" LINK="predic" PAFT=" " UNL="fighter(icl&gt;person&gt;thing,equ&gt;combatant)" DEF="SOMEONE WHO FIGHTS (OR IS FIGHTING)" TRANS="боец">fighter</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="18" KSNAME="EMPLOY" LEMMA="EMPLOY" LINK="sent-coordin" PAFT=" " UNL="employ(icl&gt;do,equ&gt;use,agt&gt;volitional_thing,obj&gt;thing,pur&gt;uw)" DEF="PUT INTO SERVICE" TRANS="использовать">employed</W> 
 <W DOM="18" FEAT="PART" HYPOT="2-compl.12" ID="19" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="SEE1" LEMMA="SEE" LINK="prepos" PAFT=" " UNL="see(icl&gt;verify&gt;do,agt&gt;thing,obj&gt;uw)" DEF="MAKE SURE" TRANS="прослеживать">see</W> 
@@ -838,7 +838,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="coord-conj.10" ID="10" KSNAME="VIOLENCE" LEMMA="VIOLENCE" LINK="coord-conj" PAFT=" " UNL="violence(icl&gt;aggression&gt;thing)" DEF="AN ACT OF AGGRESSION (AS ONE AGAINST A PERSON WHO RESISTS)" TRANS="насилие">violence</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="compar.10" ID="11" KSNAME="THAN" LEMMA="THAN" LINK="compar" PAFT=" ">than</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="11" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="comp-conj.10" ID="13" KSNAME="SICILIAN2" LEMMA="SICILIAN" LINK="comp-conj" PAFT=", " UNL="sicilian(icl&gt;italian&gt;thing)" DEF="">Sicilians</W>, 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="comp-conj.10" ID="13" KSNAME="SICILIAN2" LEMMA="SICILIAN" LINK="comp-conj" PAFT=", " UNL="sicilian(icl&gt;italian&gt;person)" DEF="A RESIDENT OF SICILY" TRANS="сицилиец">Sicilians</W>, 
 <W DOM="2" FEAT="CONJ" HYPOT="sent-coordin.10" ID="14" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="16" FEAT="S NOM SG" HYPOT="predic.01" ID="15" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="16" KSNAME="HAVE" LEMMA="HAVE" LINK="coord-conj" PAFT=" ">had</W> 
@@ -861,7 +861,7 @@
 <S DATE="29 11 2010 20:22:33" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="30" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_17\\br-f20.tgt;30" STATUS="doubt">
 <W DOM="6" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="UNLIKE2" LEMMA="UNLIKE" LINK="adverb" PAFT=" ">Unlike</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="1" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="3" KSNAME="SICILIAN2" LEMMA="SICILIAN" LINK="prepos" PAFT=", " UNL="sicilian(icl&gt;italian&gt;thing)" DEF="">Sicilians</W>, 
+<W DOM="1" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="3" KSNAME="SICILIAN2" LEMMA="SICILIAN" LINK="prepos" PAFT=", " UNL="sicilian(icl&gt;italian&gt;person)" DEF="A RESIDENT OF SICILY" TRANS="сицилиец">Sicilians</W>, 
 <W DOM="6" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="ADDITIONALLY" LEMMA="ADDITIONALLY" LINK="adverb" PAFT=" " UNL="additionally(icl&gt;how)" DEF="BY WAY OF ADDITION" TRANS="дополнительно">additionally</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="CONDUCT1" LEMMA="CONDUCT" PAFT=" ">conducted</W> 
@@ -1087,7 +1087,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="copulat.10" ID="9" KSNAME="PARABLE" LEMMA="PARABLE" LINK="copulat" PAFT=" " UNL="parable(icl&gt;story&gt;thing,equ&gt;fable)" DEF="A SHORT MORAL STORY (OFTEN WITH ANIMAL CHARACTERS)" TRANS="басня">parable</W> 
 <W DOM="9" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="12" FEAT="PR" HYPOT="quasiagent.10" ID="13" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="16" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="AMERICAN1" LEMMA="AMERICAN" LINK="modif" PAFT=" ">American</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="CIVIC" LEMMA="CIVIC" LINK="modif" PAFT=" " UNL="civic(icl&gt;adj,com&gt;city)" DEF="OF OR RELATING OR BELONGING TO A CITY" TRANS="городской">civic</W> 
@@ -1130,7 +1130,7 @@
 <W DOM="17" FEAT="S NOM SG" HYPOT="predic.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="prepos.02" ID="17" KSNAME="HAVE" LEMMA="HAVE" LINK="prepos" PAFT=" ">had</W> 
 <W DOM="17" FEAT="V PP" HYPOT="analyt.12" ID="18" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="18" FEAT="V ING" HYPOT="analyt.11" ID="19" KSNAME="DISHONOUR2" LEMMA="DISHONOUR" LINK="analyt" PAFT=" " UNL="dishonour(icl&gt;do,equ&gt;dishonor,agt&gt;thing,obj&gt;thing)" DEF="">dishonouring</W> 
+<W DOM="18" FEAT="V ING" HYPOT="analyt.11" ID="19" KSNAME="DISHONOUR2" LEMMA="DISHONOUR" LINK="analyt" PAFT=" " UNL="dishonour(icl&gt;do,equ&gt;dishonor,agt&gt;thing,obj&gt;thing)" DEF="BRING SHAME OR DISHONOR UPON" TRANS="позорить">dishonouring</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="S SG" GRP="21,22" HYPOT="compos.01" ID="21" KSNAME="POLICE1" LEMMA="POLICE" LINK="compos" PAFT=" ">police</W> 
 <W DOM="19" FEAT="S SG" GRP="21,22" HYPOT="1-compl.01" ID="22" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" LINK="1-compl" PAFT=" ">department</W> 
@@ -1371,7 +1371,7 @@
 <W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="FEAST1" LEMMA="FEAST" LINK="predic" PAFT=" " UNL="feast(icl&gt;dinner&gt;thing,equ&gt;banquet)" DEF="A CEREMONIAL DINNER PARTY FOR MANY PEOPLE" TRANS="пир">feast</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="DO1" LEMMA="DO" PAFT=" ">did</W> 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
-<W DOM="5" FEAT="S PL" HYPOT="nonact-compl.10" ID="7" KSNAME="SPONSOR1" LEMMA="SPONSOR" LINK="nonact-compl" PAFT=" " UNL="sponsor(icl&gt;benefactor&gt;thing,equ&gt;patron)" DEF="">sponsors</W> 
+<W DOM="5" FEAT="S PL" HYPOT="nonact-compl.10" ID="7" KSNAME="SPONSOR1" LEMMA="SPONSOR" LINK="nonact-compl" PAFT=" " UNL="sponsor(icl&gt;benefactor&gt;thing,equ&gt;patron)" DEF="SOMEONE WHO SUPPORTS OR CHAMPIONS SOMETHING" TRANS="покровитель">sponsors</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" ">no</W> 
 <W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="GOOD2" LEMMA="GOOD" LINK="1-compl" PAFT=" ">good</W> 
 <W DOM="5" FEAT="S SG" ID="10" KSNAME="WHATEVER1" LEMMA="WHATEVER" LINK="fictit" PAFT=". ">whatever</W>. 
@@ -1529,7 +1529,7 @@
 <W DOM="26" FEAT="ART" HYPOT="determ.10" ID="23" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="25" FEAT="S SG" GRP="24,25" HYPOT="compos.01" ID="24" KSNAME="PRIZE" LEMMA="PRIZE" LINK="compos" PAFT=" ">prize</W> 
 <W DOM="26" FEAT="S SG" GRP="24,25" HYPOT="compos.01" ID="25" KSNAME="FIGHT1" LEMMA="FIGHT" LINK="compos" PAFT=" ">fight</W> 
-<W DOM="22" FEAT="S SG" HYPOT="coordin.01" ID="26" KSNAME="REFEREE1" LEMMA="REFEREE" LINK="coordin" PAFT=", " UNL="referee(icl&gt;official&gt;thing)" DEF="">referee</W>, 
+<W DOM="22" FEAT="S SG" HYPOT="coordin.01" ID="26" KSNAME="REFEREE1" LEMMA="REFEREE" LINK="coordin" PAFT=", " UNL="referee(icl&gt;official&gt;thing)" DEF="(SPORTS) THE CHIEF OFFICIAL (AS IN BOXING OR AMERICAN FOOTBALL) WHO IS EXPECTED TO ENSURE FAIR PLAY" TRANS="рефери">referee</W>, 
 <W DOM="26" FEAT="S SG" HYPOT="coordin.01" ID="27" KSNAME="CHIEFTAIN" LEMMA="CHIEFTAIN" LINK="coordin" PAFT=" " UNL="chieftain(icl&gt;leader&gt;thing,equ&gt;captain)" DEF="THE LEADER OF A GROUP OF PEOPLE" TRANS="вождь">chieftain</W> 
 <W DOM="27" FEAT="PR" HYPOT="1-compl.07" ID="28" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="31" FEAT="ART" HYPOT="determ.10" ID="29" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1771,7 +1771,7 @@
 <S DATE="29 11 2010 20:22:44" ID="68" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_17\\br-f20.tgt;68" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="PR" ID="1" KSNAME="TO1" LEMMA="TO" LINK="fictit" PAFT=" ">To</W> 
 <W DOM="1" FEAT="S OBJ PL" HYPOT="prepos.01" ID="2" KSNAME="THEY" LEMMA="THEY" LINK="prepos" PAFT=" ">them</W> 
-<W DOM="_root" FEAT="S PL" ID="3" KSNAME="BUM1" LEMMA="BUM" PAFT="? " UNL="bum(icl&gt;unpleasant_person&gt;thing,equ&gt;rotter)" DEF="">bums</W>? 
+<W DOM="_root" FEAT="S PL" ID="3" KSNAME="BUM1" LEMMA="BUM" PAFT="? " UNL="bum(icl&gt;unpleasant_person&gt;thing,equ&gt;rotter)" DEF="A PERSON WHO IS DEEMED TO BE DESPICABLE OR CONTEMPTIBLE" TRANS="дрянь">bums</W>? 
 </S>
 <S DATE="29 11 2010 20:22:44" ID="69" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_17\\br-f20.tgt;69" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="WHY" LEMMA="WHY" LINK="adverb" PAFT=", ">Why</W>, 
@@ -1878,7 +1878,7 @@
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.13" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="11" KSNAME="DISTRUST2" LEMMA="DISTRUST" LINK="coord-conj" MSNAME="DISTRUST2" PAFT=" " UNL="distrust(icl&gt;disbelieve&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">distrust</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="IRISHMAN" LEMMA="IRISHMAN" LINK="1-compl" PAFT=". " UNL="irishman(icl&gt;irish_person&gt;thing)" DEF="">Irishman</W>. 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="IRISHMAN" LEMMA="IRISHMAN" LINK="1-compl" PAFT=". " UNL="irishman(icl&gt;irish_person&gt;person)" DEF="A MAN WHO IS A NATIVE OR INHABITANT OF IRELAND" TRANS="ирландец">Irishman</W>. 
 </S>
 <S DATE="29 11 2010 20:22:45" EXTRACOMM="Some punctuation marks are not confirmed" ID="74" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_17\\br-f20.tgt;74" STATUS="doubt">
 <W DOM="10" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">For</W> 

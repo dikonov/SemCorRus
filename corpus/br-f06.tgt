@@ -979,7 +979,7 @@
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="17" FEAT="V PP" HYPOT="coord-conj.10" ID="18" KSNAME="RELAX" LEMMA="RELAX" LINK="coord-conj" PAFT=" ">relaxed</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.13" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="20" KSNAME="TURN2" LEMMA="TURN" LINK="coord-conj" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turn</W> 
+<W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="20" KSNAME="TURN2" LEMMA="TURN" LINK="coord-conj" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turn</W> 
 <W DOM="20" FEAT="ADV" HYPOT="phras-junct.10" ID="21" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="22" KSNAME="BEAUTIFUL" LEMMA="BEAUTIFUL" LINK="modif" PAFT=" ">beautiful</W> 
 <W DOM="20" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="WORK1" LEMMA="WORK" LINK="1-compl" PAFT=". ">work</W>. 
@@ -1216,7 +1216,7 @@
 <W DOM="18" FEAT="ADV" GRP="15,16" HYPOT="adverb.01" ID="16" KSNAME="AGAIN" LEMMA="AGAIN" LINK="adverb" PAFT=", ">again</W>, 
 <W DOM="18" FEAT="S NOM PL" HYPOT="predic.01" ID="17" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="18" KSNAME="MAY1" LEMMA="MAY" LINK="coord-conj" PAFT=" ">might</W> 
-<W DOM="18" FEAT="V MF" HYPOT="1-compl.17" ID="19" KSNAME="TURN2" LEMMA="TURN" LINK="1-compl" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turn</W> 
+<W DOM="18" FEAT="V MF" HYPOT="1-compl.17" ID="19" KSNAME="TURN2" LEMMA="TURN" LINK="1-compl" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turn</W> 
 <W DOM="19" FEAT="ADV" HYPOT="phras-junct.10" ID="20" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="24" FEAT="A" HYPOT="determ.13" ID="21" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
 <W DOM="24" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="DANDY" LEMMA="DANDY" LINK="compos" PAFT=" ">dandy</W> 
@@ -2326,7 +2326,7 @@
 <W DOM="9" FEAT="A COMP" HYPOT="modif.01" ID="8" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">older</W> 
 <W DOM="1" FEAT="S PL" ID="9" KSNAME="CITIZEN" LEMMA="CITIZEN" LINK="fictit" PAFT=" ">citizens</W> 
 <W DOM="9" FEAT="PART" HYPOT="attrib.15" ID="10" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="LEND" LEMMA="LEND" LINK="prepos" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="">lend</W> 
+<W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="LEND" LEMMA="LEND" LINK="prepos" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="BESTOW A QUALITY ON" TRANS="придавать">lend</W> 
 <W DOM="13" FEAT="A" HYPOT="determ.13" ID="12" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
 <W DOM="11" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="WEIGHT1" LEMMA="WEIGHT" LINK="1-compl" PAFT=" ">weight</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.01" ID="14" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
@@ -2338,7 +2338,7 @@
 <W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="SIDE1" LEMMA="SIDE" LINK="prepos" PAFT=" ">side</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.11" ID="21" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="21" FEAT="PART" HYPOT="coord-conj.10" ID="22" KSNAME="TO2" LEMMA="TO" LINK="coord-conj" PAFT=" ">to</W> 
-<W DOM="22" FEAT="V MF" HYPOT="prepos.16" ID="23" KSNAME="HASTEN" LEMMA="HASTEN" LINK="prepos" PAFT=" " UNL="hasten(icl&gt;help&gt;do,equ&gt;expedite,agt&gt;thing,obj&gt;thing)" DEF="">hasten</W> 
+<W DOM="22" FEAT="V MF" HYPOT="prepos.16" ID="23" KSNAME="HASTEN" LEMMA="HASTEN" LINK="prepos" PAFT=" " UNL="hasten(icl&gt;help&gt;do,equ&gt;expedite,agt&gt;thing,obj&gt;thing)" DEF="SPEED UP THE PROGRESS OF" TRANS="ускорять">hasten</W> 
 <W DOM="25" FEAT="A" HYPOT="determ.00" ID="24" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="OWN1" LEMMA="OWN" LINK="modif" PAFT=" ">own</W> 
 <W DOM="27" FEAT="V ING" HYPOT="modif.01" ID="26" KSNAME="MATURE2" LEMMA="MATURE" LINK="modif" PAFT=" ">maturing</W> 

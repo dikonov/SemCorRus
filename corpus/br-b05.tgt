@@ -187,7 +187,7 @@
 <W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" GRP="3,4" HYPOT="compos.01" ID="4" KSNAME="FICT-S" LEMMA="S" LINK="compos" MSNAME="S" PAFT=" ">S</W> 
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="ACTION" LEMMA="ACTION" LINK="predic" PAFT=" ">action</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="6" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="6" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="HAIL2" LEMMA="HAIL" LINK="pass-anal" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="">hailed</W> 
+<W DOM="6" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="HAIL2" LEMMA="HAIL" LINK="pass-anal" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="PRAISE VOCIFEROUSLY" TRANS="славить">hailed</W> 
 <W DOM="7" FEAT="PR" HYPOT="agent.10" ID="8" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="PRINCIPAL1" LEMMA="PRINCIPAL" LINK="modif" PAFT=" ">principal</W> 
@@ -1887,7 +1887,7 @@
 <W DOM="22" FEAT="A" HYPOT="coord-conj.10" ID="23" KSNAME="THOSE" LEMMA="THOSE" LINK="coord-conj" PAFT=" ">those</W> 
 <W DOM="25" FEAT="S NOM SG" HYPOT="predic.01" ID="24" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="23" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="25" KSNAME="WOULD" LEMMA="WOULD" LINK="relat" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="25" FEAT="V MF" HYPOT="analyt.13" ID="26" KSNAME="SAVE2" LEMMA="SAVE" LINK="analyt" PAFT=" " UNL="save(icl&gt;refrain&gt;do,equ&gt;spare,agt&gt;thing,obj&gt;thing)" DEF="">save</W> 
+<W DOM="25" FEAT="V MF" HYPOT="analyt.13" ID="26" KSNAME="SAVE2" LEMMA="SAVE" LINK="analyt" PAFT=" " UNL="save(icl&gt;refrain&gt;do,equ&gt;spare,agt&gt;living_thing,obj&gt;concrete_thing)" DEF="REFRAIN FROM HARMING" TRANS="сохранять,беречь">save</W> 
 <W DOM="26" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="27" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=" ">them</W> 
 <W DOM="26" FEAT="PR" HYPOT="adverb.02" ID="28" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

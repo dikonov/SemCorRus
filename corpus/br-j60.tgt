@@ -552,7 +552,7 @@
 <W DOM="3" FEAT="A" GRP="2,3" HYPOT="modif.01" ID="2" KSNAME="INTERNAL" LEMMA="INTERNAL" LINK="modif" PAFT=" ">internal</W> 
 <W DOM="4" FEAT="S SG" GRP="2,3" HYPOT="predic.01" ID="3" KSNAME="COMBUSTION" LEMMA="COMBUSTION" LINK="predic" PAFT=" ">combustion</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="4" KSNAME="BECOME" LEMMA="BECOME" LINK="subord-conj" PAFT=" " UNL="become(icl&gt;occur,obj&gt;thing,gol&gt;uw)" DEF="ENTER OR ASSUME A CERTAIN STATE OR CONDITION" TRANS="становиться">became</W> 
-<W DOM="4" FEAT="A" HYPOT="1-compl.11" ID="5" KSNAME="CHEAP" LEMMA="CHEAP" LINK="1-compl" PAFT=", " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="">cheap</W>, 
+<W DOM="4" FEAT="A" HYPOT="1-compl.11" ID="5" KSNAME="CHEAP" LEMMA="CHEAP" LINK="1-compl" PAFT=", " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="RELATIVELY LOW IN PRICE OR CHARGING LOW PRICES" TRANS="дешевый">cheap</W>, 
 <W DOM="7" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="7,8" ID="7" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
 <W DOM="7" FEAT="PART" GRP="7,8" HYPOT="1-compl.15" ID="8" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
@@ -596,7 +596,7 @@
 <W DOM="17" FEAT="PR" HYPOT="agent.10" ID="18" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="RAIL1" LEMMA="RAIL" LINK="prepos" PAFT=" " UNL="rail(icl&gt;railway&gt;thing)" DEF="SHORT FOR RAILWAY" TRANS="железка,жд">rail</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="20" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="20" FEAT="A COMP" HYPOT="copulat.11" ID="21" KSNAME="CHEAP" LEMMA="CHEAP" LINK="copulat" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="">cheaper</W> 
+<W DOM="20" FEAT="A COMP" HYPOT="copulat.11" ID="21" KSNAME="CHEAP" LEMMA="CHEAP" LINK="copulat" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="RELATIVELY LOW IN PRICE OR CHARGING LOW PRICES" TRANS="дешевый">cheaper</W> 
 <W DOM="21" FEAT="CONJ" HYPOT="compar.10" ID="22" KSNAME="THAN" LEMMA="THAN" LINK="compar" PAFT=" ">than</W> 
 <W DOM="22" FEAT="V ING" HYPOT="comp-conj.10" ID="23" KSNAME="TRUCK2" LEMMA="TRUCK" LINK="comp-conj" MSNAME="TRUCK2" PAFT=". ">trucking</W>. 
 </S>
@@ -607,7 +607,7 @@
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="4" KSNAME="PROMISE2" LEMMA="PROMISE" LINK="relat" PAFT=" " UNL="promise(icl&gt;declare&gt;do,agt&gt;person,obj&gt;uw,ben&gt;thing)" DEF="" TRANS="обещать">promises</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="SUBSTANTIAL" LEMMA="SUBSTANTIAL" LINK="modif" PAFT=" ">substantial</W> 
-<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="1-compl" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="1-compl" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W> 
 <W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="BUSINESS" LEMMA="BUSINESS" LINK="prepos" PAFT=" " UNL="business(icl&gt;commerce&gt;thing,equ&gt;commercial_enterprise)" DEF="THE ACTIVITY OF PROVIDING GOODS AND SERVICES" TRANS="бизнес">business</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="10" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">can</W> 
@@ -766,7 +766,7 @@
 </S>
 <S DATE="29 11 2010 20:32:06" EXTRACOMM="Tagging contradicts ETAP parsing: MASSACHUSETTS - FRM-PROP\nTagging contradicts ETAP parsing:  - DOWNTOWN1,DOWNTOWN2\nSome nodes are not confirmed" ID="28" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j60.tgt;28" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="19" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DRIVE2" LEMMA="DRIVE" LINK="predic" PAFT=" " UNL="drive(icl&gt;journey&gt;thing)" DEF="">drive</W> 
+<W DOM="19" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DRIVE2" LEMMA="DRIVE" LINK="predic" PAFT=" " UNL="drive(icl&gt;journey&gt;thing)" DEF="A JOURNEY IN A VEHICLE (USUALLY AN AUTOMOBILE)" TRANS="поездка">drive</W> 
 <W DOM="2" FEAT="PR" HYPOT="attrib.01" ID="3" KSNAME="ALONG1" LEMMA="ALONG" LINK="attrib" PAFT=" ">along</W> 
 <W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="FRM-PROP" LEMMA="MASSACHUSETTS" LINK="prepos" PAFT="' " UNL="massachusetts(iof&gt;american_state&gt;thing)" DEF="A STATE IN NEW ENGLAND" TRANS="Массачусетс">Massachusetts</W>' 
 <W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6" HYPOT="appos.10" ID="5" KSNAME="ROUTE1" LEMMA="ROUTE" LINK="appos" PAFT=" ">Route</W> 
@@ -1074,7 +1074,7 @@
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="22" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="S SG" ID="23" KSNAME="BICYCLE1" LEMMA="BICYCLE" LINK="fictit" PAFT=" " UNL="bicycle(icl&gt;wheeled_vehicle&gt;thing)" DEF="A WHEELED VEHICLE THAT HAS TWO WHEELS AND IS MOVED BY FOOT PEDALS" TRANS="велосипед">bicycle</W> 
 <W DOM="1" FEAT="PR" ID="24" KSNAME="FOR1" LEMMA="FOR" LINK="fictit" PAFT=" ">for</W> 
-<W DOM="1" EXTRAFEAT="CAP CAPIT" FEAT="S SG" ID="25" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="fictit" PAFT="-" UNL="junior(icl&gt;upstart&gt;thing)" DEF="">Junior</W>- 
+<W DOM="1" EXTRAFEAT="CAP CAPIT" FEAT="S SG" ID="25" KSNAME="JUNIOR2" LEMMA="JUNIOR" LINK="fictit" PAFT="-" UNL="junior(icl&gt;upstart&gt;person)" DEF="">Junior</W>- 
 <W DOM="27" FEAT="ART" HYPOT="determ.11" ID="26" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="1" FEAT="S SG" ID="27" KSNAME="FAMILY" LEMMA="FAMILY" LINK="fictit" PAFT=" " UNL="family(icl&gt;unit&gt;thing)" DEF="A SOCIAL UNIT LIVING TOGETHER" TRANS="семья">family</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="28" KSNAME="SET1" LEMMA="SET" LINK="fictit" PAFT=" " UNL="set_off(icl&gt;leave&gt;do,equ&gt;depart,plt&gt;thing,plf&gt;thing,agt&gt;thing)" DEF="">set</W> 
@@ -1116,7 +1116,7 @@
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="THERE1" LEMMA="THERE" LINK="adverb" PAFT=", ">there</W>, 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="6" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="predic" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W> 
+<W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="predic" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W> 
 <W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" FEAT="S SG" HYPOT="compos.06" ID="11" KSNAME="DOWNTOWN1" LEMMA="DOWNTOWN" LINK="compos" PAFT=" &quot;">downtown</W>" 
@@ -1202,7 +1202,7 @@
 <W DOM="14" FEAT="PR" HYPOT="attrib.01" ID="15" KSNAME="LIKE1" LEMMA="LIKE" LINK="attrib" PAFT=" ">like</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="S SG" HYPOT="compos.01" ID="17" KSNAME="UNIT" LEMMA="UNIT" LINK="compos" PAFT=" " UNL="unit(icl&gt;part&gt;abstract_thing)" DEF="AN INDIVIDUAL REGARDED AS A STRUCTURAL OR FUNCTIONAL CONSTITUENT OF A WHOLE" TRANS="единица">unit</W> 
-<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W> 
+<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W> 
 <W DOM="18" FEAT="PR" HYPOT="quasiagent.10" ID="19" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="BUSINESS" LEMMA="BUSINESS" LINK="prepos" PAFT=" " UNL="business(icl&gt;commerce&gt;thing,equ&gt;commercial_enterprise)" DEF="THE ACTIVITY OF PROVIDING GOODS AND SERVICES" TRANS="бизнес">business</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.13" ID="21" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
@@ -1226,11 +1226,11 @@
 <W DOM="3" FEAT="S PL" GRP="1,2" HYPOT="predic.01" ID="2" KSNAME="ORDER2" LEMMA="ORDER" LINK="predic" PAFT=" ">orders</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="DISTORT" LEMMA="DISTORT" PAFT=" " UNL="distort(icl&gt;falsify&gt;do,agt&gt;person,obj&gt;thing)" DEF="MAKE FALSE BY MUTILATION OR ADDITION" TRANS="искажать">distort</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="1-compl" PAFT=": " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W>: 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="1-compl" PAFT=": " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W>: 
 </S>
 <S DATE="29 11 2010 20:32:14" ID="47" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j60.tgt;47" STATUS="doubt">
 <W DOM="2" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="SUBURBANITE" LEMMA="SUBURBANITE" LINK="predic" MSNAME="SUBURBANITE" PAFT=" " UNL="suburbanite(icl&gt;resident&gt;thing)" DEF="">suburbanite</W> 
+<W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="SUBURBANITE" LEMMA="SUBURBANITE" LINK="predic" MSNAME="SUBURBANITE" PAFT=" " UNL="suburbanite(icl&gt;resident&gt;person)" DEF="A RESIDENT OF A SUBURB" TRANS="житель пригорода">suburbanite</W> 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="NATURALLY" LEMMA="NATURALLY" LINK="adverb" PAFT=" ">naturally</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="CALL2" LEMMA="CALL" PAFT=" ">calls</W> 
 <W DOM="4" FEAT="ART" ID="5" KSNAME="AN1" LEMMA="AN" LINK="fictit" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1548,7 +1548,7 @@
 <W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" GRP="1,2" HYPOT="appos.10" ID="2" KSNAME="VERNON" LEMMA="VERNON" LINK="appos" PAFT=" ">Vernon</W> 
 <W DOM="_root" FEAT="S PL" ID="3" KSNAME="REPORT2" LEMMA="REPORT" PAFT=" " UNL="report(icl&gt;informing&gt;thing)" DEF="THE ACT OF INFORMING BY VERBAL REPORT" TRANS="доклад">reports</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="1-compl.21" ID="4" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
-<W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="predic" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;thing,ant&gt;nonresident)" DEF="">residents</W> 
+<W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="predic" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;person,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="резидент,житель">residents</W> 
 <W DOM="5" FEAT="PR" HYPOT="1-compl.07" ID="6" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="9" EXTRAFEAT="ALT CAP" FEAT="A" GRP="7,8,9" HYPOT="modif.01" ID="7" KSNAME="EAST2" LEMMA="EAST" LINK="modif" PAFT=" ">East</W> 
 <W DOM="9" EXTRAFEAT="ALT2 CAP CAPIT" FEAT="A" GRP="7,8,9" HYPOT="modif.01" ID="8" KSNAME="FIN-ORDIN" LEMMA="FIN-ORDIN" LINK="modif" PAFT=" ">St</W> 
@@ -1846,7 +1846,7 @@
 <W DOM="7" FEAT="A" GRP="6,7" HYPOT="modif.01" ID="6" KSNAME="DRY1" LEMMA="DRY" LINK="modif" PAFT=" ">dry</W> 
 <W DOM="3" FEAT="S PL" GRP="6,7" HYPOT="predic.07" ID="7" KSNAME="GOODS" LEMMA="GOODS" LINK="predic" PAFT=", ">goods</W>, 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="ESPECIALLY" LEMMA="ESPECIALLY" LINK="restr" PAFT=" " UNL="especially(icl&gt;how,equ&gt;particularly,com&gt;especial)" DEF="TO A DISTINCTLY GREATER EXTENT OR DEGREE THAN IS COMMON" TRANS="особенно,особо">especially</W> 
-<W DOM="10" FEAT="S POSS PL" HYPOT="posses.01" ID="9" KSNAME="LADY" LEMMA="LADY" LINK="posses" PAFT="' " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies'</W> 
+<W DOM="10" FEAT="S POSS PL" HYPOT="posses.01" ID="9" KSNAME="LADY" LEMMA="LADY" LINK="posses" PAFT="' " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies'</W> 
 <W DOM="7" FEAT="S PL" HYPOT="descr-appos.01" ID="10" KSNAME="FASHION1" LEMMA="FASHION" LINK="descr-appos" PAFT=", ">fashions</W>, 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="11" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="22" FEAT="PR" HYPOT="adverb.02" ID="12" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
@@ -1952,7 +1952,7 @@
 <W DOM="6" FEAT="V PP" HYPOT="modif.01" ID="7" KSNAME="SEGREGATE1" LEMMA="SEGREGATE" LINK="modif" PAFT=" " UNL="segregate(icl&gt;discriminate&gt;do,cob&gt;thing,agt&gt;person,obj&gt;thing)" DEF="">segregated</W> 
 <W DOM="7" FEAT="PR" HYPOT="agent.10" ID="8" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif" PAFT=" ">national</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="prepos" PAFT=" " UNL="origin(icl&gt;ancestry&gt;thing)" DEF="">origin</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="prepos" PAFT=" " UNL="origin(icl&gt;ancestry&gt;thing)" DEF="PROPERTIES ATTRIBUTABLE TO YOUR ANCESTRY" TRANS="происхождение">origin</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="13" FEAT="A" GRP="12,13" HYPOT="modif.01" ID="12" KSNAME="RELIGIOUS" LEMMA="RELIGIOUS" LINK="modif" PAFT=" ">religious</W> 
 <W DOM="11" FEAT="S SG" GRP="12,13" HYPOT="coord-conj.10" ID="13" KSNAME="BELIEF" LEMMA="BELIEF" LINK="coord-conj" PAFT=", ">belief</W>, 
@@ -2053,7 +2053,7 @@
 <W DOM="32" FEAT="S NOM PL" HYPOT="predic.01" ID="31" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="17" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="32" KSNAME="CONSIDER" LEMMA="CONSIDER" LINK="relat" PAFT=" " UNL="consider(icl&gt;be,equ&gt;count,obj&gt;uw,aoj&gt;person)" DEF="TAKE INTO ACCOUNT" TRANS="учитывать">consider</W> 
 <W DOM="35" FEAT="ADV" HYPOT="adverb.01" ID="33" KSNAME="HOW" LEMMA="HOW" LINK="adverb" PAFT=" ">how</W> 
-<W DOM="35" FEAT="S PL" HYPOT="predic.01" ID="34" KSNAME="SUBURBANITE" LEMMA="SUBURBANITE" LINK="predic" MSNAME="SUBURBANITE" PAFT=" " UNL="suburbanite(icl&gt;resident&gt;thing)" DEF="">suburbanites</W> 
+<W DOM="35" FEAT="S PL" HYPOT="predic.01" ID="34" KSNAME="SUBURBANITE" LEMMA="SUBURBANITE" LINK="predic" MSNAME="SUBURBANITE" PAFT=" " UNL="suburbanite(icl&gt;resident&gt;person)" DEF="A RESIDENT OF A SUBURB" TRANS="житель пригорода">suburbanites</W> 
 <W DOM="32" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.05" ID="35" KSNAME="TEND" LEMMA="TEND" LINK="1-compl" MSNAME="TEND" PAFT=" " UNL="tend(icl&gt;be_given&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="HAVE A TENDENCY OR DISPOSITION TO DO OR BE SOMETHING" TRANS="иметь тенденцию,бывать">tend</W> 
 <W DOM="35" FEAT="PART" HYPOT="1-compl.15" ID="36" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="36" FEAT="V MF" HYPOT="prepos.16" ID="37" KSNAME="VOTE2" LEMMA="VOTE" LINK="prepos" PAFT=". " UNL="vote(icl&gt;do,com&gt;voting,agt&gt;person,ben&gt;thing)" DEF="EXPRESS ONE'S PREFERENCE FOR A CANDIDATE OR FOR A MEASURE OR RESOLUTION" TRANS="голосовать">vote</W>. 

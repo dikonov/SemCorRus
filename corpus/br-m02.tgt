@@ -97,7 +97,7 @@
 <W DOM="27" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="29" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="29" FEAT="ADV" HYPOT="restr.10" ID="30" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="29" FEAT="V PP" HYPOT="analyt.12" ID="31" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="31" FEAT="V PP" HYPOT="pass-anal.10" ID="32" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="31" FEAT="V PP" HYPOT="pass-anal.10" ID="32" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="21" FEAT="PART" ID="33" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="33" FEAT="V MF" HYPOT="prepos.16" ID="34" KSNAME="SPEAK" LEMMA="SPEAK" LINK="prepos" PAFT=". ">speak</W>. 
 </S>
@@ -313,7 +313,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="SWIFTLY" LEMMA="SWIFTLY" LINK="adverb" PAFT=", " UNL="swiftly(icl&gt;how,com&gt;swift)" DEF="IN A SWIFT MANNER" TRANS="стремительно">Swiftly</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="COME" LEMMA="COME" PAFT=" ">came</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="2" FEAT="S SG" HYPOT="predic.08" ID="4" KSNAME="REVULSION" LEMMA="REVULSION" LINK="predic" PAFT=", " UNL="revulsion(icl&gt;disgust&gt;thing,equ&gt;repugnance)" DEF="">revulsion</W>, 
+<W DOM="2" FEAT="S SG" HYPOT="predic.08" ID="4" KSNAME="REVULSION" LEMMA="REVULSION" LINK="predic" PAFT=", " UNL="revulsion(icl&gt;disgust&gt;thing,equ&gt;repugnance)" DEF="INTENSE AVERSION" TRANS="гадливость">revulsion</W>, 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S SG" HYPOT="descr-appos.01" ID="6" KSNAME="PROTEST1" LEMMA="PROTEST" LINK="descr-appos" PAFT=". ">protest</W>. 
 </S>
@@ -496,7 +496,7 @@
 <S DATE="29 11 2010 20:10:20" ID="37" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-m02.tgt;37" STATUS="doubt">
 <W DOM="5" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="IF" LEMMA="IF" LINK="adverb" PAFT=" ">If</W> 
 <W DOM="3" FEAT="S NOM PL" HYPOT="predic.01" ID="2" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
-<W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="3" KSNAME="VOLUNTEER2" LEMMA="VOLUNTEER" LINK="subord-conj" PAFT=", " UNL="volunteer(icl&gt;work&gt;do,agt&gt;thing)" DEF="">volunteer</W>, 
+<W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="3" KSNAME="VOLUNTEER2" LEMMA="VOLUNTEER" LINK="subord-conj" PAFT=", " UNL="volunteer(icl&gt;work&gt;do,agt&gt;thing)" DEF="DO VOLUNTEER WORK" TRANS="волонтерствовать">volunteer</W>, 
 <W DOM="5" FEAT="S NOM PL" HYPOT="predic.01" ID="4" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="5" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="5" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
@@ -855,7 +855,7 @@
 <W DOM="15" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="15,16" HYPOT="appos.10" ID="16" KSNAME="UNION" LEMMA="UNION" LINK="appos" PAFT=" ">Union</W> 
 <W DOM="18" FEAT="S SG" HYPOT="predic.d0" ID="17" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="18" KSNAME="SPEAK" LEMMA="SPEAK" LINK="relat" PAFT=" " UNL="speak(icl&gt;understand&gt;be,obj&gt;language,aoj&gt;person)" DEF="TO USE A LANGUAGE" TRANS="знать,говорить">spoke</W> 
-<W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="prepos" PAFT=". " UNL="american(icl&gt;english&gt;thing,equ&gt;american_english)" DEF="">American</W>. 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="prepos" PAFT=". " UNL="american(icl&gt;english&gt;abstract_thing,iof&gt;language,equ&gt;american_english)" DEF="">American</W>. 
 </S>
 <S DATE="29 11 2010 20:10:23" ID="64" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-m02.tgt;64" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="ALT CAP" FEAT="A" GRP="1,2" HYPOT="modif.01" ID="1" KSNAME="SOUTHERN" LEMMA="SOUTHERN" LINK="modif" PAFT=" ">Southern</W> 
@@ -893,7 +893,7 @@
 <W DOM="7" FEAT="S OBJ SG" HYPOT="prepos.01" ID="8" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=", ">him</W>, 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="11" FEAT="S NOM SG" HYPOT="predic.01" ID="10" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="VISUALIZE" LEMMA="VISUALIZE" LINK="coord-conj" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">visualized</W> 
+<W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="VISUALIZE" LEMMA="VISUALIZE" LINK="coord-conj" PAFT=" " UNL="visualize(icl&gt;imagine&gt;do,agt&gt;thing,obj&gt;thing)" DEF="IMAGINE" TRANS="представлять себе">visualized</W> 
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="AFRICA" LEMMA="AFRICA" LINK="1-compl" PAFT=", " UNL="africa(iof&gt;continent&gt;thing)" DEF="THE SECOND LARGEST CONTINENT" TRANS="Африка">Africa</W>, 
 <W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="13" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="14" KSNAME="USE2" LEMMA="USE" LINK="relat" PAFT=" " UNL="use(icl&gt;consume&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing,pur&gt;thing)" DEF="TAKE OR CONSUME" TRANS="потреблять">used</W> 
@@ -916,7 +916,7 @@
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="9" KSNAME="INDIA" LEMMA="INDIA" LINK="coordin" PAFT=", " UNL="india(iof&gt;asian_country&gt;thing)" DEF="A REPUBLIC IN THE ASIAN SUBCONTINENT IN SOUTHERN ASIA" TRANS="Индия">India</W>, 
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="10" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coord-conj.10" ID="11" KSNAME="TIBET" LEMMA="TIBET" LINK="coord-conj" PAFT=", " UNL="tibet(iof&gt;asian_country&gt;thing)" DEF="AN ASIAN COUNTRY UNDER THE CONTROL OF CHINA" TRANS="Тибет">Tibet</W>, 
-<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="12" KSNAME="HEBREW2" LEMMA="HEBREW" LINK="coordin" PAFT=" " UNL="hebrew(icl&gt;canaanitic&gt;thing)" DEF="">Hebrew</W> 
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="12" KSNAME="HEBREW2" LEMMA="HEBREW" LINK="coordin" PAFT=" " UNL="hebrew(icl&gt;canaanitic&gt;abstract_thing,iof&gt;language)" DEF="THE ANCIENT CANAANITIC LANGUAGE OF THE HEBREWS THAT HAS BEEN REVIVED AS THE OFFICIAL LANGUAGE OF ISRAEL" TRANS="иврит">Hebrew</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="13" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="NATIVE1" LEMMA="NATIVE" LINK="modif" PAFT=" " UNL="native(icl&gt;adj,ant&gt;nonnative)" DEF="">native</W> 
@@ -928,7 +928,7 @@
 <W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="EUROPE" LEMMA="EUROPE" LINK="prepos" PAFT=", " UNL="europe(iof&gt;continent&gt;thing)" DEF="THE 2ND SMALLEST CONTINENT (ACTUALLY A VAST PENINSULA OF EURASIA)" TRANS="Европа">Europe</W>, 
 <W DOM="1" FEAT="PR" HYPOT="coordin.04" ID="4" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="coordin" PAFT=" ">between</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="6" KSNAME="ISRAELI2" LEMMA="ISRAELI" LINK="compos" PAFT=" " UNL="israeli(icl&gt;asian&gt;thing)" DEF="">Israeli</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="6" KSNAME="ISRAELI2" LEMMA="ISRAELI" LINK="compos" PAFT=" " UNL="israeli(icl&gt;asian&gt;person)" DEF="A NATIVE OR INHABITANT OF ISRAEL" TRANS="израильтянин">Israeli</W> 
 <W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="prepos.01" ID="7" KSNAME="REPUBLIC" LEMMA="REPUBLIC" LINK="prepos" PAFT=" " UNL="republic(icl&gt;political_system&gt;thing,equ&gt;democracy)" DEF="A POLITICAL SYSTEM IN WHICH THE SUPREME POWER LIES IN A BODY OF CITIZENS WHO CAN ELECT PEOPLE TO REPRESENT THEM" TRANS="республика">Republics</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1044,7 +1044,7 @@
 <W DOM="13" FEAT="V PP" HYPOT="modif.01" ID="14" KSNAME="CALL2" LEMMA="CALL" LINK="modif" PAFT=" ">called</W> 
 <W DOM="20" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="LINGO" LEMMA="LINGO" LINK="predic" MSNAME="LINGO" PAFT=", ">Lingo</W>, 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="33" EXTRAFEAT="CAP-MIX" FEAT="S SG" ID="17" KSNAME="PIDGIN" LEMMA="PIDGIN" LINK="fictit" PAFT=" " UNL="pidgin(icl&gt;artificial_language&gt;thing)" DEF="">pidgin</W> 
+<W DOM="33" EXTRAFEAT="CAP-MIX" FEAT="S SG" ID="17" KSNAME="PIDGIN" LEMMA="PIDGIN" LINK="fictit" PAFT=" " UNL="pidgin(icl&gt;artificial_language&gt;abstract_thing)" DEF="AN ARTIFICIAL LANGUAGE USED FOR TRADE BETWEEN SPEAKERS OF DIFFERENT LANGUAGES" TRANS="пиджин">pidgin</W> 
 <W DOM="19" FEAT="A" HYPOT="determ.13" ID="18" KSNAME="WHOSE" LEMMA="WHOSE" LINK="determ" PAFT=" ">whose</W> 
 <W DOM="33" FEAT="S SG" ID="19" KSNAME="VOCABULARY" LEMMA="VOCABULARY" LINK="fictit" PAFT=" " UNL="vocabulary(icl&gt;wordbook&gt;thing)" DEF="A LISTING OF THE WORDS USED IN SOME ENTERPRISE" TRANS="словарь">vocabulary</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="sent-coordin.01" ID="20" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" ">was</W> 
@@ -1111,7 +1111,7 @@
 <W DOM="13" FEAT="S SG" GRP="13,14,15,16" HYPOT="1-compl.01" ID="15" KSNAME="JUMP2" LEMMA="JUMP" LINK="1-compl" PAFT=" ">jump</W> 
 <W DOM="15" FEAT="PR" GRP="13,14,15,16" HYPOT="2-compl.02" ID="16" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="19" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="18" KSNAME="HAWAIIAN2" LEMMA="HAWAIIAN" LINK="compos" PAFT=" " UNL="hawaiian(icl&gt;oceanic&gt;thing)" DEF="">Hawaiian</W> 
+<W DOM="19" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="18" KSNAME="HAWAIIAN2" LEMMA="HAWAIIAN" LINK="compos" PAFT=" " UNL="hawaiian(icl&gt;oceanic&gt;abstract_thing,iof&gt;language)" DEF="">Hawaiian</W> 
 <W DOM="16" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="prepos" PAFT=" ">Americans</W> 
 <W DOM="21" FEAT="S NOM SG" HYPOT="predic.01" ID="20" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="relat.01" ID="21" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">were</W> 
@@ -1138,7 +1138,7 @@
 <W DOM="5" EXTRAFEAT="ALT CAP" FEAT="A" GRP="4,5" HYPOT="modif.01" ID="4" KSNAME="NORTH2" LEMMA="NORTH" LINK="modif" PAFT=" ">North</W> 
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" GRP="4,5" HYPOT="explet.13" ID="5" KSNAME="AMERICA" LEMMA="AMERICA" LINK="explet" PAFT=", ">America</W>, 
 <W DOM="8" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="WHERE" LEMMA="WHERE" LINK="adverb" PAFT=" ">where</W> 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="predic" PAFT=" " UNL="american(icl&gt;english&gt;thing,equ&gt;american_english)" DEF="">American</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="AMERICAN2" LEMMA="AMERICAN" LINK="predic" PAFT=" " UNL="american(icl&gt;english&gt;abstract_thing,iof&gt;language,equ&gt;american_english)" DEF="">American</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="relat.01" ID="8" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="NATIVE1" LEMMA="NATIVE" LINK="modif" PAFT=" " UNL="native(icl&gt;adj,ant&gt;foreign)" DEF="CHARACTERISTIC OF OR EXISTING BY VIRTUE OF GEOGRAPHIC ORIGIN" TRANS="аборигенный">native</W> 
@@ -1168,7 +1168,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="absol-conj.10" ID="6" KSNAME="SIDE1" LEMMA="SIDE" LINK="absol-conj" PAFT=" " UNL="side(icl&gt;region&gt;thing)" DEF="A PLACE WITHIN A REGION IDENTIFIED RELATIVE TO A CENTER OR REFERENCE LOCATION" TRANS="бок,сторона">side</W> 
 <W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="7" EXTRAFEAT="ALT CAP" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="EARTH1" LEMMA="EARTH" LINK="prepos" PAFT=" " UNL="earth(iof&gt;terrestrial_planet&gt;thing)" DEF="THE 3RD PLANET FROM THE SUN" TRANS="Земля">Earth</W> 
-<W DOM="2" FEAT="V PP" ID="9" KSNAME="ROTATE" LEMMA="ROTATE" LINK="fictit" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotated</W> 
+<W DOM="2" FEAT="V PP" ID="9" KSNAME="ROTATE" LEMMA="ROTATE" LINK="fictit" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotated</W> 
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" FEAT="S SG" HYPOT="compos.01" ID="12" KSNAME="NIGHT" LEMMA="NIGHT" LINK="compos" PAFT=" " UNL="night(icl&gt;time_period&gt;thing,ant&gt;day)" DEF="THE TIME AFTER SUNSET AND BEFORE SUNRISE WHILE IT IS DARK OUTSIDE" TRANS="ночь">night</W> 
@@ -2081,7 +2081,7 @@
 <W DOM="15" FEAT="V ING" HYPOT="analyt.11" ID="16" KSNAME="INSTRUCT" LEMMA="INSTRUCT" LINK="analyt" PAFT=" " UNL="instruct(icl&gt;teach&gt;do,cob&gt;uw,agt&gt;person,obj&gt;person)" DEF="IMPART SKILLS OR KNOWLEDGE TO" TRANS="обучать">instructing</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="16" FEAT="S PL" HYPOT="1-compl.01" ID="18" KSNAME="STUDENT" LEMMA="STUDENT" LINK="1-compl" PAFT=" ">students</W> 
-<W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="19" KSNAME="WRONGLY" LEMMA="WRONGLY" LINK="adverb" PAFT=". " UNL="wrongly(icl&gt;how,equ&gt;incorrectly,ant&gt;right,com&gt;wrong)" DEF="">wrongly</W>. 
+<W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="19" KSNAME="WRONGLY" LEMMA="WRONGLY" LINK="adverb" PAFT=". " UNL="wrongly(icl&gt;how,equ&gt;incorrectly,ant&gt;right,com&gt;wrong)" DEF="IN AN INCORRECT MANNER" TRANS="ошибочно">wrongly</W>. 
 </S>
 <S DATE="29 11 2010 20:10:32" ID="131" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_14\\br-m02.tgt;131" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="MOREOVER" LEMMA="MOREOVER" LINK="parenth" MSNAME="MOREOVER" PAFT=", " UNL="moreover(icl&gt;how,equ&gt;furthermore)" DEF="IN ADDITION" TRANS="более того">Moreover</W>, 

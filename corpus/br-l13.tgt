@@ -270,7 +270,7 @@
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="8" KSNAME="BEGIN" LEMMA="BEGIN" LINK="relat" PAFT=", " UNL="begin(icl&gt;do,cob&gt;uw,tmf&gt;uw,obj&gt;uw)" DEF="START DOING" TRANS="начинать">began</W>, 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.13" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="ADV" HYPOT="parenth.00" ID="10" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
-<W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="CHECK1" LEMMA="CHECK" LINK="coord-conj" PAFT=" " UNL="check(icl&gt;restrain&gt;do,equ&gt;control,agt&gt;thing,obj&gt;thing)" DEF="">checked</W> 
+<W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="CHECK1" LEMMA="CHECK" LINK="coord-conj" PAFT=" " UNL="check(icl&gt;restrain&gt;do,equ&gt;control,agt&gt;thing,obj&gt;thing)" DEF="LESSEN THE INTENSITY OF" TRANS="сдерживать">checked</W> 
 <W DOM="11" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="HIMSELF" LEMMA="HIMSELF" LINK="1-compl" PAFT=". ">himself</W>. 
 </S>
 <S DATE="30 11 2010 10:36:12" ID="23" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l13.tgt;23" STATUS="doubt">
@@ -495,7 +495,7 @@
 <W DOM="12" FEAT="S POSS SG" HYPOT="posses.01" ID="11" KSNAME="FRM-PROP" LEMMA="HOLDEN'S" LINK="posses" PAFT=" ">Holden's</W> 
 <W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="OFFICE1" LEMMA="OFFICE" LINK="1-compl" PAFT=" " UNL="office(icl&gt;organization,icl&gt;place,obj&gt;organization)" DEF="PLACE OF BUSINESS WHERE PROFESSIONAL OR CLERICAL DUTIES ARE PERFORMED" TRANS="контора,офис">office</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.13" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="14" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="14" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="15" FEAT="S OBJ SG" HYPOT="prepos.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=". ">him</W>. 
 </S>
@@ -524,7 +524,7 @@
 <W DOM="_root" EXTRAFEAT="ALT FIN QFIN" FEAT="V PRS SG TP" GRP="6,7" ID="6" KSNAME="BE" LEMMA="BE" PAFT=" ">'s</W> 
 <W DOM="6" FEAT="S SG" GRP="6,7" HYPOT="copulat.10" ID="7" KSNAME="NECK" LEMMA="NECK" LINK="copulat" PAFT=", ">neck</W>, 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
-<W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="9" KSNAME="ORDER2" LEMMA="ORDER" LINK="predic" PAFT=" " UNL="order(icl&gt;commercial_document&gt;information,fld&gt;commerce)" DEF="">order</W> 
+<W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="9" KSNAME="ORDER2" LEMMA="ORDER" LINK="predic" PAFT=" " UNL="order(icl&gt;commercial_document&gt;information,equ&gt;money_order,fld&gt;commerce)" DEF="A WRITTEN DIRECTION TO PAY MONEY TO SOMEONE" TRANS="чек">order</W> 
 <W DOM="11" FEAT="S NOM SG" HYPOT="predic.01" ID="10" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="11" KSNAME="EXPECT" LEMMA="EXPECT" LINK="relat" PAFT=" " UNL="expect(icl&gt;look_forward&gt;be,cob&gt;uw,obj&gt;uw,aoj&gt;thing)" DEF="LOOK FORWARD TO THE PROBABLE OCCURRENCE OF" TRANS="рассчитывать">expected</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="12" KSNAME="DO1" LEMMA="DO" LINK="sent-coordin" PAFT=" ">did</W> 
@@ -720,7 +720,7 @@
 </S>
 <S DATE="30 11 2010 10:36:15" ID="57" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l13.tgt;57" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="STALL4" LEMMA="STALL" PAFT=" " UNL="stall(icl&gt;delay&gt;occur,obj&gt;thing)" DEF="">stalled</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="STALL4" LEMMA="STALL" PAFT=" " UNL="stall(icl&gt;delay&gt;do,agt&gt;volitional_thing,obj&gt;thing)" DEF="DELIBERATELY DELAY AN" TRANS="задерживать">stalled</W> 
 <W DOM="2" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="3" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="OFF1" LEMMA="OFF" LINK="phras-junct" PAFT=". ">off</W>. 
 </S>
@@ -1141,7 +1141,7 @@
 <W DOM="23" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
 <W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="KIND1" LEMMA="KIND" LINK="1-compl" PAFT=" " UNL="kind(icl&gt;category&gt;thing)" DEF="A CATEGORY OF THINGS DISTINGUISHED BY SOME COMMON CHARACTERISTIC OR QUALITY" TRANS="сорт,тип">kind</W> 
 <W DOM="23" FEAT="PR" HYPOT="quasiagent.10" ID="24" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="24" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="WORD1" LEMMA="WORD" LINK="prepos" PAFT=" " UNL="word(icl&gt;information&gt;thing,equ&gt;news)" DEF="">word</W> 
+<W DOM="24" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="WORD1" LEMMA="WORD" LINK="prepos" PAFT=" " UNL="word(icl&gt;information,equ&gt;message,obj&gt;uw)" DEF="SOMETHING THAT IS SAID" TRANS="слово">word</W> 
 <W DOM="21" FEAT="ADV" HYPOT="2-compl.04" ID="26" KSNAME="THERE1" LEMMA="THERE" LINK="2-compl" PAFT=" ">there</W> 
 <W DOM="26" FEAT="PR" HYPOT="attrib.02" ID="27" KSNAME="AMONG" LEMMA="AMONG" LINK="attrib" PAFT=" ">among</W> 
 <W DOM="29" FEAT="ART" HYPOT="determ.11" ID="28" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1405,7 +1405,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="TERRITORY" LEMMA="TERRITORY" LINK="prepos" PAFT=" " UNL="territory(icl&gt;area&gt;thing)" DEF="AN AREA OF KNOWLEDGE OR INTEREST" TRANS="область,сфера">territory</W> 
 <W DOM="9" FEAT="PR" HYPOT="quasiagent.10" ID="10" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="UTTER1" LEMMA="UTTER" LINK="modif" PAFT=" ">utter</W> 
-<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="NIGHTMARE" LEMMA="NIGHTMARE" LINK="prepos" PAFT=". " UNL="nightmare(icl&gt;situation&gt;thing)" DEF="">nightmare</W>. 
+<W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="NIGHTMARE" LEMMA="NIGHTMARE" LINK="prepos" PAFT=". " UNL="nightmare(icl&gt;situation&gt;thing)" DEF="A SITUATION RESEMBLING A TERRIFYING DREAM" TRANS="кошмар">nightmare</W>. 
 </S>
 <S DATE="30 11 2010 10:36:19" EXTRACOMM="Tagging contradicts ETAP parsing: MA - FRM-PROP" ID="99" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l13.tgt;99" STATUS="doubt">
 <W DOM="2" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FRM-PROP" LEMMA="MAE" LINK="predic" PAFT=" ">Mae</W> 
@@ -1488,7 +1488,7 @@
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="6" KSNAME="WOBBLE2" LEMMA="WOBBLE" LINK="coord-conj" PAFT=", " UNL="wobble(icl&gt;move&gt;occur,obj&gt;concrete_thing)" DEF="MOVE UNSTEADILY" TRANS="шататься">wobbled</W>, 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="FAMILIAR1" LEMMA="FAMILIAR" LINK="modif" PAFT=" " UNL="familiar(icl&gt;adj,ant&gt;unfamiliar)" DEF="WELL KNOWN OR EASILY RECOGNIZED" TRANS="знакомый">familiar</W> 
 <W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="8" KSNAME="SCENE" LEMMA="SCENE" LINK="predic" PAFT=" " UNL="scene(icl&gt;visual_percept&gt;thing,equ&gt;view)" DEF="THE VISUAL PERCEPT OF A REGION" TRANS="вид">scenes</W> 
-<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="9" KSNAME="CREEP2" LEMMA="CREEP" LINK="sent-coordin" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">crept</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="9" KSNAME="CREEP2" LEMMA="CREEP" LINK="sent-coordin" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">crept</W> 
 <W DOM="9" FEAT="ADV" HYPOT="2-compl.04" ID="10" KSNAME="PAST4" LEMMA="PAST" LINK="2-compl" PAFT=" " UNL="past(icl&gt;how,equ&gt;by)" DEF="SO AS TO PASS A GIVEN POINT" TRANS="мимо">past</W> 
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="EITHER1" LEMMA="EITHER" LINK="modif" PAFT=" ">either</W> 
@@ -1798,7 +1798,7 @@
 <W DOM="2" FEAT="V MF" HYPOT="analyt.13" ID="3" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="RELIEF1" LEMMA="RELIEF" LINK="copulat" PAFT=". " UNL="relief(icl&gt;change&gt;thing,equ&gt;easing)" DEF="">relief</W>. 
+<W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="RELIEF1" LEMMA="RELIEF" LINK="copulat" PAFT=". " UNL="relief(icl&gt;change&gt;thing,equ&gt;easing)" DEF="A CHANGE FOR THE BETTER" TRANS="облегчение">relief</W>. 
 </S>
 <S DATE="30 11 2010 10:36:21" ID="123" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l13.tgt;123" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" ID="1" KSNAME="WHAT1" LEMMA="WHAT" LINK="fictit" PAFT=" ">What</W> 
@@ -1904,7 +1904,7 @@
 <W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="8" KSNAME="LIKE2" LEMMA="LIKE" LINK="fictit" PAFT=" ">like</W> 
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="TERROR" LEMMA="TERROR" LINK="1-compl" PAFT=" " UNL="terror(icl&gt;fear&gt;thing,equ&gt;panic)" DEF="AN OVERWHELMING FEELING OF FEAR AND ANXIETY" TRANS="ужас">terror</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="10" FEAT="S SG" HYPOT="coord-conj.10" ID="11" KSNAME="APPREHENSION" LEMMA="APPREHENSION" LINK="coord-conj" PAFT=". " UNL="apprehension(icl&gt;fear&gt;thing)" DEF="">apprehension</W>. 
+<W DOM="10" FEAT="S SG" HYPOT="coord-conj.10" ID="11" KSNAME="APPREHENSION" LEMMA="APPREHENSION" LINK="coord-conj" PAFT=". " UNL="apprehension(icl&gt;fear&gt;thing)" DEF="FEARFUL EXPECTATION OR ANTICIPATION" TRANS="страх">apprehension</W>. 
 </S>
 <S DATE="30 11 2010 10:36:25" ID="128" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-l13.tgt;128" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" GRP="1,2" HYPOT="modif.01" ID="1" KSNAME="GOOD1" LEMMA="GOOD" LINK="modif" PAFT=" ">Good</W> 

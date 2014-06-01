@@ -411,7 +411,7 @@
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="BLUE1" LEMMA="BLUE" LINK="modif" PAFT=" ">blue</W> 
 <W DOM="10" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="EYE1" LEMMA="EYE" LINK="predic" PAFT=", ">eyes</W>, 
 <W DOM="4" FEAT="V PP" HYPOT="modif.01" ID="5" KSNAME="SET1" LEMMA="SET" LINK="modif" PAFT=" ">set</W> 
-<W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="DEEP2" LEMMA="DEEP" LINK="adverb" PAFT=" " UNL="deep(icl&gt;how,equ&gt;deeply,com&gt;deep)" DEF="">deep</W> 
+<W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="6" KSNAME="DEEP2" LEMMA="DEEP" LINK="adverb" PAFT=" " UNL="deep(icl&gt;how,equ&gt;deeply,com&gt;deep)" DEF="TO A GREAT DEPTH" TRANS="глубоко">deep</W> 
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="WITHIN1" LEMMA="WITHIN" LINK="2-compl" PAFT=" ">within</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="FACE1" LEMMA="FACE" LINK="prepos" PAFT=", ">face</W>, 
@@ -474,7 +474,7 @@
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="12" KSNAME="CORRESPOND1" LEMMA="CORRESPOND" LINK="relat" PAFT=" " UNL="correspond(icl&gt;agree&gt;be,cao&gt;thing,aoj&gt;thing,asp&gt;uw)" DEF="BE COMPATIBLE, SIMILAR OR CONSISTENT" TRANS="соответствовать">corresponds</W> 
 <W DOM="12" FEAT="PR" HYPOT="1-compl.07" ID="13" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="VISAGE" LEMMA="VISAGE" LINK="prepos" PAFT=". " UNL="visage(icl&gt;appearance&gt;thing,equ&gt;countenance)" DEF="">visage</W>. 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="VISAGE" LEMMA="VISAGE" LINK="prepos" PAFT=". " UNL="visage(icl&gt;appearance&gt;thing,equ&gt;countenance)" DEF="THE APPEARANCE CONVEYED BY A PERSON'S FACE" TRANS="лицо,выражение лица,выражение">visage</W>. 
 </S>
 <S DATE="29 11 2010 20:25:32" EXTRACOMM="Tagging contradicts ETAP parsing: THE - THE\nTagging contradicts ETAP parsing: FRENCH2 - FRENCH1,FRENCH2" ID="27" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g12.tgt;27" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -491,7 +491,7 @@
 <W DOM="10" EXTRAFEAT="ALT" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="INFLEXION1" LEMMA="INFLEXION" LINK="prepos" PAFT=" ">inflections</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="13" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="FRENCH2" LEMMA="FRENCH" LINK="prepos" PAFT=". " UNL="french(icl&gt;romance&gt;thing)" DEF="">French</W>. 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="FRENCH2" LEMMA="FRENCH" LINK="prepos" PAFT=". " UNL="french(icl&gt;romance&gt;abstract_thing,iof&gt;language)" DEF="">French</W>. 
 </S>
 <S DATE="29 11 2010 20:25:33" ID="28" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g12.tgt;28" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">His</W> 
@@ -1601,7 +1601,7 @@
 <W DOM="11" FEAT="S NOM SG" HYPOT="copulat.15" ID="10" KSNAME="WHO" LEMMA="WHO" LINK="copulat" PAFT=" ">who</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="coord-conj.10" ID="11" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">are</W> 
 <W DOM="14" FEAT="PART" HYPOT="correl.10" ID="12" KSNAME="NEITHER3" LEMMA="NEITHER" LINK="correl" PAFT=" ">neither</W> 
-<W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="parenth.20" ID="13" KSNAME="GREEK2" LEMMA="GREEK" LINK="parenth" PAFT=" " UNL="greek(icl&gt;european&gt;thing)" DEF="">Greek</W> 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="parenth.20" ID="13" KSNAME="GREEK2" LEMMA="GREEK" LINK="parenth" PAFT=" " UNL="greek(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF GREECE" TRANS="грек">Greek</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.10" ID="14" KSNAME="NOR" LEMMA="NOR" LINK="coordin" PAFT=" ">nor</W> 
 <W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="FRM-PROP" LEMMA="JANSENIST" LINK="coord-conj" PAFT=" ">Jansenist</W> 
 <W DOM="17" FEAT="PART" HYPOT="predic.10" ID="16" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
@@ -1979,7 +1979,7 @@
 </S>
 <S DATE="29 11 2010 20:25:41" EXTRACOMM="Tagging contradicts ETAP parsing:  - BLIND1" ID="127" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g12.tgt;127" STATUS="doubt">
 <W DOM="2" FEAT="NUM" HYPOT="predic.01" ID="1" KSNAME="ONE1" LEMMA="ONE" LINK="predic" PAFT=" ">one</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="2" FEAT="PR" HYPOT="2-compl.02" ID="3" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="HELP2" LEMMA="HELP" LINK="prepos" PAFT=" " UNL="help(icl&gt;activity&gt;thing,equ&gt;aid)" DEF="THE ACTIVITY OF CONTRIBUTING TO THE FULFILLMENT OF A NEED OR FURTHERANCE OF AN EFFORT OR PURPOSE" TRANS="помощь">help</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 

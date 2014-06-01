@@ -462,7 +462,7 @@
 <W DOM="13" FEAT="PR" HYPOT="2-compl.07" ID="15" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="HORROR" LEMMA="HORROR" LINK="prepos" PAFT=" " UNL="horror(icl&gt;fear&gt;thing)" DEF="">horror</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
-<W DOM="17" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="APPREHENSION" LEMMA="APPREHENSION" LINK="coord-conj" PAFT=" " UNL="apprehension(icl&gt;fear&gt;thing)" DEF="">apprehension</W> 
+<W DOM="17" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="APPREHENSION" LEMMA="APPREHENSION" LINK="coord-conj" PAFT=" " UNL="apprehension(icl&gt;fear&gt;thing)" DEF="FEARFUL EXPECTATION OR ANTICIPATION" TRANS="страх">apprehension</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.11" ID="19" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
 <W DOM="19" FEAT="PR" HYPOT="coord-conj.10" ID="20" KSNAME="WITH" LEMMA="WITH" LINK="coord-conj" PAFT=" ">with</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.10" ID="21" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1454,7 +1454,7 @@
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="UNEQUIVOCALLY" LEMMA="UNEQUIVOCALLY" LINK="adverb" PAFT=" " UNL="unequivocally(icl&gt;how,equ&gt;unambiguously,ant&gt;ambiguously,com&gt;unequivocal)" DEF="IN AN UNAMBIGUOUS MANNER" TRANS="недвусмысленно">unequivocally</W> 
 <W DOM="23" EXTRAFEAT="CAP" FEAT="A" HYPOT="predic.01" ID="5" KSNAME="JEWISH" LEMMA="JEWISH" LINK="predic" PAFT=" " UNL="jewish(icl&gt;adj,com&gt;jew)" DEF="OF OR RELATING TO JEWS OR THEIR CULTURE OR RELIGION" TRANS="еврейский,иудейский">Jewish</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="TONE1" LEMMA="TONE" LINK="prepos" PAFT=", " UNL="tone(icl&gt;impression&gt;abstract_thing)" DEF="">tone</W>, 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="TONE1" LEMMA="TONE" LINK="prepos" PAFT=", " UNL="tone(icl&gt;impression&gt;abstract_thing)" DEF="THE GENERAL ATMOSPHERE OF A PLACE OR SITUATION AND THE EFFECT THAT IT HAS ON PEOPLE" TRANS="атмосфера">tone</W>, 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="S PL" HYPOT="coord-conj.10" ID="9" KSNAME="EFFORT" LEMMA="EFFORT" LINK="coord-conj" PAFT=" " UNL="effort(icl&gt;action,equ&gt;attempt,agt&gt;thing,pur&gt;uw)" DEF="EARNEST AND CONSCIENTIOUS ACTIVITY INTENDED TO DO OR ACCOMPLISH SOMETHING" TRANS="попытка,усилие">efforts</W> 
 <W DOM="9" FEAT="PART" HYPOT="1-compl.15" ID="10" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
@@ -1464,7 +1464,7 @@
 <W DOM="11" FEAT="PR" HYPOT="adverb.02" ID="14" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
 <W DOM="14" FEAT="V ING" HYPOT="prepos.01" ID="15" KSNAME="BRING" LEMMA="BRING" LINK="prepos" PAFT=" ">bringing</W> 
 <W DOM="15" FEAT="ADV" HYPOT="phras-junct.10" ID="16" KSNAME="IN2" LEMMA="IN" LINK="phras-junct" PAFT=" ">in</W> 
-<W DOM="15" FEAT="ADV" HYPOT="adverb.01" ID="17" KSNAME="UNIMPEACHABLY" LEMMA="UNIMPEACHABLY" LINK="adverb" PAFT=" " UNL="unimpeachably(icl&gt;how,equ&gt;unquestionably,com&gt;unimpeachable)" DEF="">unimpeachably</W> 
+<W DOM="15" FEAT="ADV" HYPOT="adverb.01" ID="17" KSNAME="UNIMPEACHABLY" LEMMA="UNIMPEACHABLY" LINK="adverb" PAFT=" " UNL="unimpeachably(icl&gt;how,equ&gt;unquestionably,com&gt;unimpeachable)" DEF="WITHOUT QUESTION" TRANS="бесспорно">unimpeachably</W> 
 <W DOM="19" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="MIDWESTERN" LEMMA="MIDWESTERN" LINK="modif" PAFT=" " UNL="midwestern(icl&gt;adj)" DEF="OF A REGION OF THE UNITED STATES GENERALLY INCLUDING OHIO" TRANS="среднезападный">midwestern</W> 
 <W DOM="15" FEAT="S PL" HYPOT="1-compl.01" ID="19" KSNAME="TYPE1" LEMMA="TYPE" LINK="1-compl" PAFT=" " UNL="type(icl&gt;person)" DEF="A PERSON OF A SPECIFIED KIND" TRANS="тип">types</W> 
 <W DOM="15" FEAT="PR" HYPOT="2-compl.20" ID="20" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 

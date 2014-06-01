@@ -1304,7 +1304,7 @@
 <W DOM="_root" EXTRAFEAT="ALT FIN QFIN" FEAT="V PRS SG TP" ID="16" KSNAME="BE" LEMMA="BE" PAFT=" ">'s</W> 
 <W DOM="16" FEAT="ADV" HYPOT="parenth.10" ID="17" KSNAME="WELL1" LEMMA="WELL" LINK="parenth" PAFT=" ">well</W> 
 <W DOM="16" FEAT="A" HYPOT="copulat.11" ID="18" KSNAME="WORTH1" LEMMA="WORTH" LINK="copulat" PAFT=" ">worth</W> 
-<W DOM="18" FEAT="V ING" HYPOT="1-compl.04" ID="19" KSNAME="RENT2" LEMMA="RENT" LINK="1-compl" PAFT=". " UNL="rent(icl&gt;give&gt;do,equ&gt;lease,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing,dur&gt;thing,val&gt;thing)" DEF="">renting</W>. 
+<W DOM="18" FEAT="V ING" HYPOT="1-compl.04" ID="19" KSNAME="RENT2" LEMMA="RENT" LINK="1-compl" PAFT=". " UNL="rent(icl&gt;give&gt;do,equ&gt;lease,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing,dur&gt;thing,val&gt;thing)" DEF="GRANT USE OR OCCUPATION OF UNDER A TERM OF CONTRACT" TRANS="сдавать,сдавать внаем">renting</W>. 
 </S>
 <S DATE="30 11 2010 10:39:19" ID="68" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_42\\br-e16.tgt;68" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 

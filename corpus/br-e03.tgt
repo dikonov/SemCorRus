@@ -90,7 +90,7 @@
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="MANY" LEMMA="MANY" LINK="modif" PAFT=" ">many</W> 
 <W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="WRITER" LEMMA="WRITER" LINK="predic" PAFT=" ">writers</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
-<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="BEWITCH" LEMMA="BEWITCH" LINK="pass-anal" PAFT=" " UNL="bewitch(icl&gt;attract&gt;do,equ&gt;capture,agt&gt;thing,obj&gt;thing)" DEF="">bewitched</W> 
+<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="BEWITCH" LEMMA="BEWITCH" LINK="pass-anal" PAFT=" " UNL="bewitch(icl&gt;attract&gt;do,equ&gt;capture,agt&gt;thing,obj&gt;thing)" DEF="ATTRACT" TRANS="очаровывать">bewitched</W> 
 <W DOM="6" FEAT="PR" HYPOT="agent.10" ID="7" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="ADV" HYPOT="restr.12" ID="9" KSNAME="APPARENTLY" LEMMA="APPARENTLY" LINK="restr" PAFT=" ">apparently</W> 

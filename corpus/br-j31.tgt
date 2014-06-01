@@ -624,7 +624,7 @@
 <W FEAT="V" ID="26" KSNAME="WOULD" LEMMA="WOULD">would</W> 
 <W FEAT="V" ID="27" KSNAME="FIND1" LEMMA="FIND" UNL="find(icl&gt;learn&gt;do,equ&gt;discover,agt&gt;person,obj&gt;uw,plc&gt;uw)" DEF="DISCOVER THE EXISTENCE, PRESENCE, OR FACT OF" TRANS="обнаруживать" WN21="2:39:02::">find</W> 
 <W ID="28">on</W> 
-<W FEAT="V" ID="29" KSNAME="PASS1" LEMMA="PASS" REM="phrasverb" UNL="pass_by(icl&gt;travel&gt;occur,equ&gt;travel_by,cob&gt;thing,obj&gt;thing)" DEF="" WN21="2:38:00::">passing</W> 
+<W FEAT="V" ID="29" KSNAME="PASS1" LEMMA="PASS" REM="phrasverb" UNL="pass_by(icl&gt;travel&gt;occur,equ&gt;travel_by,cob&gt;thing,obj&gt;thing)" DEF="PASS BY" TRANS="проходить мимо,миновать" WN21="2:38:00::">passing</W> 
 <W FEAT="ADV" ID="30" KSNAME="BY2" LEMMA="BY">by</W>, 
 <W ID="31">between</W> 
 <W FEAT="A" ID="32" KSNAME="OUR" LEMMA="OUR">our</W> 
@@ -685,7 +685,7 @@
 <W FEAT="A" ID="38" KSNAME="AWARE" LEMMA="AWARE" UNL="aware(icl&gt;adj,equ&gt;aware,ant&gt;unaware)" DEF="(SOMETIMES FOLLOWED BY `OF') HAVING OR SHOWING KNOWLEDGE OR UNDERSTANDING OR REALIZATION OR PERCEPTION" TRANS="осведомленный,знающий,сознающий" WN21="3:00:00::">aware</W>, 
 <W FEAT="CONJ" ID="39" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="ART" ID="40" KSNAME="THE" LEMMA="THE">the</W> 
-<W FEAT="S SG" ID="41" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="" WN21="1:26:00::">recognition</W> 
+<W FEAT="S SG" ID="41" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание" WN21="1:26:00::">recognition</W> 
 <W FEAT="PR" ID="42" KSNAME="OF" LEMMA="OF">of</W> 
 <W ID="43">which</W>, 
 <W FEAT="CONJ" ID="44" KSNAME="AS1" LEMMA="AS">as</W> 
@@ -696,7 +696,7 @@
 <W FEAT="S" ID="49" KSNAME="HE1" LEMMA="HE">he</W> 
 <W FEAT="V" ID="50" KSNAME="FIND1" LEMMA="FIND" WN21="2:32:01::">finds</W> 
 <W FEAT="ADV" ID="51" KSNAME="DISTINCTLY" LEMMA="DISTINCTLY" WN21="4:02:00::">distinctly</W> 
-<W FEAT="A" ID="52" KSNAME="UNWELCOME" LEMMA="UNWELCOME" UNL="unwelcome(icl&gt;adj,ant&gt;welcome)" DEF="" WN21="3:00:00::">unwelcome</W>. 
+<W FEAT="A" ID="52" KSNAME="UNWELCOME" LEMMA="UNWELCOME" UNL="unwelcome(icl&gt;adj,ant&gt;welcome)" DEF="NOT WELCOME" TRANS="нежелательный" WN21="3:00:00::">unwelcome</W>. 
 </S>
 <S DATE="30 11 2010 11:07:27" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="20" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_23\\br-j31.tgt;20">
 <W FEAT="S" ID="1" KSNAME="I" LEMMA="I">I</W> 
@@ -835,7 +835,7 @@
 <W FEAT="PART" ID="73" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="74" KSNAME="UTTER2" LEMMA="UTTER" UNL="utter(icl&gt;make_a_sound&gt;do,agt&gt;person,obj&gt;sound,rec&gt;thing)" DEF="EXPRESS AUDIBLY" TRANS="издавать" WN21="2:32:01::">utter</W> 
 <W FEAT="ART" ID="75" KSNAME="AN1" LEMMA="AN">a</W> 
-<W FEAT="ADV" ID="76" KSNAME="HUMBLY" LEMMA="HUMBLY" UNL="humbly(icl&gt;how,com&gt;humble)" DEF="" WN21="4:02:00::">humbly</W> 
+<W FEAT="ADV" ID="76" KSNAME="HUMBLY" LEMMA="HUMBLY" UNL="humbly(icl&gt;how,com&gt;humble)" DEF="IN A HUMBLE MANNER" TRANS="смиренно" WN21="4:02:00::">humbly</W> 
 <W FEAT="A" ID="77" KSNAME="GRATEFUL" LEMMA="GRATEFUL" UNL="grateful(icl&gt;adj,ant&gt;ungrateful)" DEF="FEELING OR SHOWING GRATITUDE" TRANS="благодарный,признательный" WN21="3:00:00::">grateful</W>, 
 "<W GRP="78,79" ID="78" WN21="1:10:00::">thank</W> 
 <W GRP="78,79" ID="79" WN21="1:10:00::">you</W>" 
@@ -929,7 +929,7 @@
 <W FEAT="V" ID="78" KSNAME="BE" LEMMA="BE">be</W> 
 <W GRP="79,80" ID="79" WN21="2:32:00::">stooping</W> 
 <W GRP="79,80" ID="80" WN21="2:32:00::">to</W> 
-<W FEAT="V" ID="81" KSNAME="DISPENSE" LEMMA="DISPENSE" UNL="dispense(icl&gt;give&gt;do,equ&gt;distribute,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="" WN21="2:40:00::">dispense</W> 
+<W FEAT="V" ID="81" KSNAME="DISPENSE" LEMMA="DISPENSE" UNL="dispense(icl&gt;give&gt;do,equ&gt;distribute,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="ADMINISTER OR BESTOW, AS IN SMALL PORTIONS" TRANS="распределять" WN21="2:40:00::">dispense</W> 
 <W FEAT="A" ID="82" KSNAME="THIS1" LEMMA="THIS">this</W> 
 <W FEAT="S" ID="83" WN21="1:04:00::">succor</W> 
 <W ID="84">to</W> 
@@ -1072,14 +1072,14 @@
 <W FEAT="S SG" ID="83" KSNAME="ROOM" LEMMA="ROOM" UNL="room(icl&gt;area&gt;thing)" DEF="AN AREA WITHIN A BUILDING ENCLOSED BY WALLS AND FLOOR AND CEILING" TRANS="комната" WN21="1:06:00::">room</W> 
 <W FEAT="S" ID="84" KSNAME="WHICH1" LEMMA="WHICH">which</W> 
 <W FEAT="S" ID="85" KSNAME="SHE" LEMMA="SHE">she</W> 
-<W FEAT="V" ID="86" KSNAME="PREFER1" LEMMA="PREFER" UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:31:00::">preferred</W> 
+<W FEAT="V" ID="86" KSNAME="PREFER1" LEMMA="PREFER" UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать" WN21="2:31:00::">preferred</W> 
 <W FEAT="PART" ID="87" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="88" KSNAME="KEEP" LEMMA="KEEP" WN21="2:42:00::">keep</W> 
 <W ID="89">in</W> 
 <W FEAT="ART" ID="90" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="ADV" ID="91" KSNAME="VERY1" LEMMA="VERY" WN21="4:02:00::">very</W> 
 <W FEAT="A" ID="92" KSNAME="COLD1" LEMMA="COLD" WN21="3:00:01::">cold</W> 
-<W FEAT="S SG" ID="93" KSNAME="STATE1" LEMMA="STATE" UNL="state(icl&gt;attribute&gt;thing)" DEF="" WN21="1:03:00::">state</W>, 
+<W FEAT="S SG" ID="93" KSNAME="STATE1" LEMMA="STATE" UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние" WN21="1:03:00::">state</W>, 
 <W FEAT="CONJ" ID="94" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="V" ID="95" KSNAME="PLUNK2" LEMMA="PLUNK" UNL="plunk(icl&gt;set_down&gt;do,equ&gt;plank,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing,plc&gt;thing)" DEF="" WN21="2:35:02::">plunking</W> 
 <W FEAT="S" ID="96" KSNAME="MYSELF" LEMMA="MYSELF">myself</W> 

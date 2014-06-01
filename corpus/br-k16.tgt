@@ -71,7 +71,7 @@
 </S>
 <S DATE="29 11 2010 19:58:03" EXTRACOMM="Tagging contradicts ETAP parsing: CANDLE2 - CANDLE1\nTagging contradicts ETAP parsing:  - FICT-LEX" ID="4" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;4" STATUS="doubt">
 <W DOM="2" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FRM-PROP" LEMMA="ANITA" LINK="predic" PAFT=" ">Anita</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="PUT" LEMMA="PUT" PAFT=" " UNL="put_out(icl&gt;affect&gt;do,equ&gt;trouble,agt&gt;thing,obj&gt;person)" DEF="">put</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="PUT" LEMMA="PUT" PAFT=" " UNL="put_out(icl&gt;affect&gt;do,equ&gt;trouble,agt&gt;thing,obj&gt;person)" DEF="TO CAUSE INCONVENIENCE OR DISCOMFORT TO" TRANS="беспокоить">put</W> 
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="3" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="V ING" HYPOT="modif.01" ID="5" KSNAME="REMAIN" LEMMA="REMAIN" LINK="modif" PAFT=" ">remaining</W> 
@@ -429,7 +429,7 @@
 <W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="LIMIT1" LEMMA="LIMIT" LINK="prepos" PAFT=" " UNL="limit(icl&gt;end&gt;thing,equ&gt;terminus_ad_quem)" DEF="FINAL OR LATEST LIMITING POINT" TRANS="край,предел">limits</W> 
 <W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="11" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="FLESH1" LEMMA="FLESH" LINK="prepos" PAFT=". " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="">flesh</W>. 
+<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="FLESH1" LEMMA="FLESH" LINK="prepos" PAFT=". " UNL="flesh(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="ALTERNATIVE NAMES FOR THE BODY OF A HUMAN BEING" TRANS="телеса">flesh</W>. 
 </S>
 <S DATE="29 11 2010 19:58:06" ID="24" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;24" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
@@ -595,7 +595,7 @@
 <W DOM="2" FEAT="V PP" ID="6" KSNAME="TRUST2" LEMMA="TRUST" LINK="fictit" PAFT=" ">trusted</W> 
 <W DOM="6" FEAT="S SG" HYPOT="2-compl.10" ID="7" KSNAME="MESSENGER" LEMMA="MESSENGER" LINK="2-compl" PAFT=" " UNL="messenger(icl&gt;traveler&gt;thing)" DEF="A PERSON WHO CARRIES A MESSAGE" TRANS="посланник">messenger</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="DISPATCH1" LEMMA="DISPATCH" LINK="prepos" PAFT=" " UNL="dispatch(icl&gt;report&gt;thing)" DEF="">dispatches</W> 
+<W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="DISPATCH1" LEMMA="DISPATCH" LINK="prepos" PAFT=" " UNL="dispatch(icl&gt;report&gt;thing)" DEF="AN OFFICIAL REPORT (USUALLY SENT IN HASTE)" TRANS="официальное сообщение">dispatches</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
 <W DOM="13" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="13" FEAT="V ING" HYPOT="modif.01" ID="12" KSNAME="ELECTRIFY" LEMMA="ELECTRIFY" LINK="modif" PAFT=" ">electrifying</W> 
@@ -745,7 +745,7 @@
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="PATCH1" LEMMA="PATCH" LINK="prepos" PAFT=" " UNL="patch(icl&gt;tract&gt;thing,equ&gt;plot)" DEF="A SMALL AREA OF GROUND COVERED BY SPECIFIC VEGETATION" TRANS="участок">patch</W> 
 <W DOM="10" FEAT="PR" HYPOT="quasiagent.10" ID="11" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="13" FEAT="S SG" HYPOT="compos.01" ID="12" KSNAME="BERRY1" LEMMA="BERRY" LINK="compos" PAFT=" " UNL="berry(icl&gt;edible_fruit&gt;thing)" DEF="">berry</W> 
+<W DOM="13" FEAT="S SG" HYPOT="compos.01" ID="12" KSNAME="BERRY1" LEMMA="BERRY" LINK="compos" PAFT=" " UNL="berry(icl&gt;fruit&gt;thing)" DEF="A PULPY AND USUALLY EDIBLE FRUIT" TRANS="ягода">berry</W> 
 <W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="13" KSNAME="BUSH1" LEMMA="BUSH" LINK="prepos" PAFT=". " UNL="bush(icl&gt;vegetation&gt;thing,equ&gt;scrub)" DEF="DENSE VEGETATION CONSISTING OF STUNTED TREES OR BUSHES" TRANS="заросли">bushes</W>. 
 </S>
 <S DATE="29 11 2010 19:58:07" EXTRACOMM="Tagging contradicts ETAP parsing: FOOT2 - FOOT1,FOOT2" ID="39" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;39" STATUS="doubt">
@@ -900,7 +900,7 @@
 <S DATE="29 11 2010 19:58:08" EXTRACOMM="Tagging contradicts ETAP parsing:  - MORNING" ID="52" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;52" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="NEW$YORK" LEMMA="NEW YORK" LINK="predic" PAFT=" " UNL="new_york(iof&gt;city&gt;thing)" DEF="THE LARGEST CITY IN NEW YORK STATE AND IN THE UNITED STATES" TRANS="Нью Йорк">New York</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.14" ID="2" KSNAME="LIE1" LEMMA="LIE" LINK="1-compl" PAFT=" " UNL="lie(icl&gt;consist&gt;be,obj&gt;abstract_thing,aoj&gt;abstract_thing)" DEF="ORIGINATE (IN)" TRANS="состоять">lay</W> 
-<W DOM="18" FEAT="V ING" HYPOT="adverb.03" ID="3" KSNAME="BLEACH1" LEMMA="BLEACH" LINK="adverb" PAFT=" " UNL="bleach(icl&gt;discolor&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="">bleaching</W> 
+<W DOM="18" FEAT="V ING" HYPOT="adverb.03" ID="3" KSNAME="BLEACH1" LEMMA="BLEACH" LINK="adverb" PAFT=" " UNL="bleach(icl&gt;discolor&gt;do,agt&gt;thing,obj&gt;concrete_thing,ins&gt;thing)" DEF="REMOVE COLOR FROM" TRANS="обесцвечивать">bleaching</W> 
 <W DOM="3" FEAT="PR" HYPOT="adverb.02" ID="4" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="S SG" HYPOT="compos.01" ID="6" KSNAME="SUMMER" LEMMA="SUMMER" LINK="compos" PAFT=" " UNL="summer(icl&gt;season&gt;thing)" DEF="THE WARMEST SEASON OF THE YEAR" TRANS="лето">summer</W> 
@@ -920,7 +920,7 @@
 <W DOM="18" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="20" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="24" FEAT="A" HYPOT="modif.01" ID="22" KSNAME="LONG1" LEMMA="LONG" LINK="modif" PAFT=" " UNL="long(icl&gt;adj,ant&gt;short)" DEF="PRIMARILY SPATIAL SENSE" TRANS="длинный">long</W> 
-<W DOM="24" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="TRIANGULAR" LEMMA="TRIANGULAR" LINK="modif" PAFT=" " UNL="triangular(icl&gt;adj,equ&gt;trilateral)" DEF="">triangular</W> 
+<W DOM="24" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="TRIANGULAR" LEMMA="TRIANGULAR" LINK="modif" PAFT=" " UNL="triangular(icl&gt;adj,equ&gt;trilateral)" DEF="HAVING THREE SIDES" TRANS="треугольный">triangular</W> 
 <W DOM="18" FEAT="S SG" HYPOT="predic.08" ID="24" KSNAME="WEDGE1" LEMMA="WEDGE" LINK="predic" PAFT=" " UNL="wedge(icl&gt;triangle&gt;thing)" DEF="">wedge</W> 
 <W DOM="24" FEAT="PR" HYPOT="attrib.01" ID="25" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="25" EXTRAFEAT="CAP" FEAT="S SG" GRP="26,27" HYPOT="prepos.01" ID="26" KSNAME="MANHATTAN" LEMMA="MANHATTAN" LINK="prepos" PAFT=" ">Manhattan</W> 
@@ -1077,7 +1077,7 @@
 <W DOM="7" FEAT="CONJ" HYPOT="sent-coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="10" FEAT="PART" HYPOT="predic.10" ID="9" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="coord-conj.10" ID="10" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">were</W> 
-<W DOM="10" FEAT="V ING" HYPOT="analyt.11" ID="11" KSNAME="GRAZE1" LEMMA="GRAZE" LINK="analyt" PAFT=" " UNL="graze(icl&gt;feed&gt;occur,equ&gt;crop,obj&gt;thing)" DEF="">grazing</W> 
+<W DOM="10" FEAT="V ING" HYPOT="analyt.11" ID="11" KSNAME="GRAZE1" LEMMA="GRAZE" LINK="analyt" PAFT=" " UNL="graze(icl&gt;feed&gt;occur,equ&gt;crop,obj&gt;thing)" DEF="FEED AS IN A MEADOW OR PASTURE" TRANS="пастись">grazing</W> 
 <W DOM="9" FEAT="S SG" HYPOT="explet.13" ID="12" KSNAME="CATTLE" LEMMA="CATTLE" LINK="explet" PAFT=". " UNL="cattle(icl&gt;bovine&gt;thing)" DEF="DOMESTICATED BOVINE ANIMALS AS A GROUP REGARDLESS OF SEX OR AGE" TRANS="скот">cattle</W>. 
 </S>
 <S DATE="29 11 2010 19:58:09" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX\nSome nodes are not confirmed" ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;60" STATUS="doubt">
@@ -1287,7 +1287,7 @@
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="3,4,5,6,7" HYPOT="prepos.01" ID="7" KSNAME="DESPOTISM" LEMMA="DESPOTISM" LINK="prepos" PAFT="&quot; - " UNL="despotism(icl&gt;dominance&gt;thing,equ&gt;absolutism)" DEF="DOMINANCE THROUGH THREAT OF PUNISHMENT AND VIOLENCE" TRANS="деспотизм">despotism</W>"- 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="S SG" HYPOT="compos.01" ID="9" KSNAME="TOWN" LEMMA="TOWN" LINK="compos" PAFT=" ">town</W> 
-<W DOM="7" FEAT="S PL" HYPOT="descr-appos.01" ID="10" KSNAME="DWELLER" LEMMA="DWELLER" LINK="descr-appos" PAFT="-" UNL="dweller(icl&gt;person&gt;thing,equ&gt;inhabitant)" DEF="">dwellers</W>- 
+<W DOM="7" FEAT="S PL" HYPOT="descr-appos.01" ID="10" KSNAME="DWELLER" LEMMA="DWELLER" LINK="descr-appos" PAFT="-" UNL="dweller(icl&gt;person,equ&gt;inhabitant)" DEF="A PERSON WHO INHABITS A PARTICULAR PLACE" TRANS="обитатель">dwellers</W>- 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="11" KSNAME="WATCH1" LEMMA="WATCH" PAFT=" ">watched</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="S PL" HYPOT="1-compl.01" ID="13" KSNAME="SHIP1" LEMMA="SHIP" LINK="1-compl" PAFT=" " UNL="ship(icl&gt;vessel&gt;thing)" DEF="A VESSEL THAT CARRIES PASSENGERS OR FREIGHT" TRANS="судно,корабль">ships</W> 
@@ -1375,7 +1375,7 @@
 <W DOM="23" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="CATTLE" LEMMA="CATTLE" LINK="compos" PAFT=" " UNL="cattle(icl&gt;bovine&gt;thing)" DEF="DOMESTICATED BOVINE ANIMALS AS A GROUP REGARDLESS OF SEX OR AGE" TRANS="скот">cattle</W> 
 <W DOM="21" FEAT="S PL" HYPOT="coordin.01" ID="23" KSNAME="BARN" LEMMA="BARN" LINK="coordin" PAFT=", " UNL="barn(icl&gt;farm_building&gt;thing)" DEF="AN OUTLYING FARM BUILDING FOR STORING GRAIN OR ANIMAL FEED AND HOUSING FARM ANIMALS" TRANS="амбар">barns</W>, 
 <W DOM="23" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="26" FEAT="S SG" HYPOT="compos.01" ID="25" KSNAME="BERRY1" LEMMA="BERRY" LINK="compos" PAFT=" " UNL="berry(icl&gt;edible_fruit&gt;thing)" DEF="">berry</W> 
+<W DOM="26" FEAT="S SG" HYPOT="compos.01" ID="25" KSNAME="BERRY1" LEMMA="BERRY" LINK="compos" PAFT=" " UNL="berry(icl&gt;fruit&gt;thing)" DEF="A PULPY AND USUALLY EDIBLE FRUIT" TRANS="ягода">berry</W> 
 <W DOM="24" FEAT="S PL" HYPOT="coord-conj.10" ID="26" KSNAME="THICKET" LEMMA="THICKET" LINK="coord-conj" PAFT=". " UNL="thicket(icl&gt;vegetation&gt;thing,equ&gt;brush)" DEF="A DENSE GROWTH OF BUSHES" TRANS="чаща">thickets</W>. 
 </S>
 <S DATE="29 11 2010 19:58:11" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX\nTagging contradicts ETAP parsing:  - WATCH1" ID="73" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;73" STATUS="doubt">
@@ -1624,7 +1624,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
 <W DOM="2" FEAT="V PP" HYPOT="analyt.12" ID="3" KSNAME="SEND" LEMMA="SEND" LINK="analyt" PAFT=" ">sent</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" FEAT="S PL" HYPOT="compos.01" ID="5" KSNAME="DISPATCH1" LEMMA="DISPATCH" LINK="compos" PAFT=" " UNL="dispatch(icl&gt;report&gt;thing)" DEF="">dispatches</W> 
+<W DOM="6" FEAT="S PL" HYPOT="compos.01" ID="5" KSNAME="DISPATCH1" LEMMA="DISPATCH" LINK="compos" PAFT=" " UNL="dispatch(icl&gt;report&gt;thing)" DEF="AN OFFICIAL REPORT (USUALLY SENT IN HASTE)" TRANS="официальное сообщение">dispatches</W> 
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="DOWNTOWN1" LEMMA="DOWNTOWN" LINK="1-compl" PAFT=" " UNL="downtown(icl&gt;city_district&gt;thing,equ&gt;business_district)" DEF="THE COMMERCIAL CENTER OF A TOWN OR CITY" TRANS="центр">downtown</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -2145,7 +2145,7 @@
 <W DOM="4" FEAT="ADV" HYPOT="restr.12" ID="3" KSNAME="SO1" LEMMA="SO" LINK="restr" PAFT=" ">so</W> 
 <W DOM="2" FEAT="A" HYPOT="copulat.11" ID="4" KSNAME="EASY" LEMMA="EASY" LINK="copulat" PAFT=" " UNL="easy(icl&gt;adj,ant&gt;difficult)" DEF="POSING NO DIFFICULTY" TRANS="легкий">easy</W> 
 <W DOM="1" FEAT="PART" HYPOT="explet.10" ID="5" KSNAME="TO2" LEMMA="TO" LINK="explet" PAFT=" ">to</W> 
-<W DOM="5" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="FALSIFY" LEMMA="FALSIFY" LINK="prepos" PAFT=" " UNL="falsify(icl&gt;misrepresent&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">falsify</W> 
+<W DOM="5" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="FALSIFY" LEMMA="FALSIFY" LINK="prepos" PAFT=" " UNL="falsify(icl&gt;misrepresent&gt;do,agt&gt;thing,obj&gt;thing)" DEF="MAKE FALSE BY MUTILATION OR ADDITION" TRANS="искажать">falsify</W> 
 <W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="SENTIMENT" LEMMA="SENTIMENT" LINK="1-compl" PAFT=". " UNL="sentiment(icl&gt;feeling&gt;thing)" DEF="TENDER, ROMANTIC, OR NOSTALGIC FEELING OR EMOTION" TRANS="чувство">sentiment</W>. 
 </S>
 <S DATE="29 11 2010 19:58:21" ID="116" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k16.tgt;116" STATUS="doubt">

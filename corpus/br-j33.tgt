@@ -1458,7 +1458,7 @@
 <W FEAT="ART" ID="15" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="A" ID="16" KSNAME="SECOND1" LEMMA="SECOND" UNL="second(icl&gt;adj)" DEF="COMING NEXT AFTER FIRST" TRANS="второй" WN21="5:00:00:ordinal:">second</W> 
 <W FEAT="A" ID="17" KSNAME="MAIN1" LEMMA="MAIN" WN21="5:00:00:important:">main</W> 
-<W FEAT="A" ID="18" KSNAME="DECLARATIVE" LEMMA="DECLARATIVE" UNL="declarative(icl&gt;adj,ant&gt;interrogative)" DEF="" WN21="3:00:00::">declarative</W> 
+<W FEAT="A" ID="18" KSNAME="DECLARATIVE" LEMMA="DECLARATIVE" UNL="declarative(icl&gt;adj,ant&gt;interrogative)" DEF="RELATING TO THE USE OF OR HAVING THE NATURE OF A DECLARATION" TRANS="декларативный" WN21="3:00:00::">declarative</W> 
 <W FEAT="V" ID="19" KSNAME="REPRESENT" LEMMA="REPRESENT" WN21="2:42:02::">represents</W> 
 <W FEAT="V" ID="20" KSNAME="BE" LEMMA="BE" UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть" WN21="2:42:06::">is</W> 
 <W FEAT="ART" ID="21" KSNAME="THE" LEMMA="THE">the</W> 
@@ -2001,7 +2001,7 @@
 <W FEAT="CONJ" ID="33" KSNAME="AND" LEMMA="AND">and</W> 
 <W ID="34">in</W> 
 <W FEAT="S" ID="35" KSNAME="I" LEMMA="I">I</W> 
-<W FEAT="V" ID="36" KSNAME="LOOK1" LEMMA="LOOK" REM="phrasverb" UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="" WN21="2:32:00::">looked</W> 
+<W FEAT="V" ID="36" KSNAME="LOOK1" LEMMA="LOOK" REM="phrasverb" UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться" WN21="2:32:00::">looked</W> 
 <W FEAT="ADV" ID="37" KSNAME="UP1" LEMMA="UP">up</W> 
 <W FEAT="ART" ID="38" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="39" KSNAME="NUMBER1" LEMMA="NUMBER" WN21="1:10:03::">number</W> 

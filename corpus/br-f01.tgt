@@ -402,7 +402,7 @@
 <W FEAT="ART" ID="33" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="S SG" ID="34" KSNAME="PROJECT1" LEMMA="PROJECT">project</W> 
 <W ID="35">considerably</W> 
-<W FEAT="V" ID="36" KSNAME="ENLIVEN" LEMMA="ENLIVEN" UNL="enliven(icl&gt;stimulate&gt;do,agt&gt;thing,obj&gt;thing,met&gt;thing)" DEF="" WN21="2:30:00::">enlivened</W> 
+<W FEAT="V" ID="36" KSNAME="ENLIVEN" LEMMA="ENLIVEN" UNL="enliven(icl&gt;stimulate&gt;do,agt&gt;thing,obj&gt;thing,met&gt;thing)" DEF="MAKE LIVELY" TRANS="оживлять" WN21="2:30:00::">enlivened</W> 
 <W ID="37">by</W> 
 <W FEAT="A" ID="38" KSNAME="HIS1" LEMMA="HIS">his</W> 
 <W FEAT="S SG" ID="39" KSNAME="DEVOTION" LEMMA="DEVOTION">devotion</W> 
@@ -940,7 +940,7 @@
 <W FEAT="CONJ" ID="33" KSNAME="THAT1" LEMMA="THAT">that</W> 
 <W FEAT="S" ID="34" KSNAME="HE1" LEMMA="HE">he</W> 
 <W FEAT="V" ID="35" KSNAME="HAVE" LEMMA="HAVE">had</W> 
-<W FEAT="V" ID="36" KSNAME="DEPART" LEMMA="DEPART" UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="" WN21="2:42:00::">departed</W> 
+<W FEAT="V" ID="36" KSNAME="DEPART" LEMMA="DEPART" UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="BE AT VARIANCE WITH" TRANS="отклоняться" WN21="2:42:00::">departed</W> 
 <W ID="37">from</W> 
 <W FEAT="ART" ID="38" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S PL" ID="39" KSNAME="CUSTOMS" LEMMA="CUSTOMS">customs</W> 
@@ -1249,7 +1249,7 @@
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" FEAT="S POSS SG" HYPOT="posses.01" ID="11" KSNAME="PATIENT1" LEMMA="PATIENT" LINK="posses" PAFT=" ">patient's</W> 
 <W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="12" KSNAME="VOICE1" LEMMA="VOICE" LINK="predic" PAFT=" ">voice</W> 
-<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="adverb.07" ID="13" KSNAME="DEPART" LEMMA="DEPART" LINK="adverb" PAFT=" " UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="">departs</W> 
+<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="adverb.07" ID="13" KSNAME="DEPART" LEMMA="DEPART" LINK="adverb" PAFT=" " UNL="depart(icl&gt;differ&gt;occur,equ&gt;deviate,obj&gt;thing)" DEF="BE AT VARIANCE WITH" TRANS="отклоняться">departs</W> 
 <W DOM="13" FEAT="PR" HYPOT="1-compl.07" ID="14" KSNAME="FROM" LEMMA="FROM" LINK="1-compl" PAFT=" ">from</W> 
 <W DOM="16" FEAT="V PP" HYPOT="modif.01" ID="15" KSNAME="EXPECT" LEMMA="EXPECT" LINK="modif" PAFT=" ">expected</W> 
 <W DOM="14" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="NORM1" LEMMA="NORM" LINK="prepos" PAFT=". ">norms</W>. 
@@ -1575,7 +1575,7 @@
 <W DOM="8" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="HER" LEMMA="HER" LINK="determ" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="7" KSNAME="REHEARSE" LEMMA="REHEARSE" LINK="modif" PAFT=" ">rehearsed</W> 
 <W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="STORY" LEMMA="STORY" LINK="1-compl" PAFT=", ">story</W>, 
-<W DOM="5" FEAT="V ING" HYPOT="adverb.03" ID="9" KSNAME="VEER2" LEMMA="VEER" LINK="adverb" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veering</W> 
+<W DOM="5" FEAT="V ING" HYPOT="adverb.03" ID="9" KSNAME="VEER2" LEMMA="VEER" LINK="adverb" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veering</W> 
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="10" FEAT="NID" HYPOT="prepos.01" ID="12" KSNAME="FICT-LEX" LEMMA="OVERSOFT" LINK="prepos" PAFT=", ">oversoft</W>, 

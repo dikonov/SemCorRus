@@ -681,7 +681,7 @@
 <W DOM="2" FEAT="V ING" HYPOT="analyt.11" ID="3" KSNAME="STUMBLE2" LEMMA="STUMBLE" LINK="analyt" PAFT=" " UNL="stumble(icl&gt;trip&gt;do,agt&gt;living_thing,obj&gt;thing)" DEF="MISS A STEP AND FALL OR NEARLY FALL" TRANS="спотыкаться">stumbling</W> 
 <W DOM="3" FEAT="PR" HYPOT="adverb.02" ID="4" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="6" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" ">my</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="UNDERSHIRT" LEMMA="UNDERSHIRT" LINK="prepos" MSNAME="UNDERSHIRT" PAFT=" " UNL="undershirt(icl&gt;undergarment&gt;thing,equ&gt;singlet)" DEF="">undershirt</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="UNDERSHIRT" LEMMA="UNDERSHIRT" LINK="prepos" MSNAME="UNDERSHIRT" PAFT=" " UNL="undershirt(icl&gt;undergarment&gt;thing,equ&gt;singlet)" DEF="A COLLARLESS MEN'S UNDERGARMENT FOR THE UPPER PART OF THE BODY" TRANS="майка">undershirt</W> 
 <W DOM="6" FEAT="V ING" HYPOT="modif.01" ID="7" KSNAME="TRY1" LEMMA="TRY" LINK="modif" PAFT=" " UNL="try(icl&gt;attempt&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE AN EFFORT OR ATTEMPT" TRANS="пытаться">trying</W> 
 <W DOM="7" FEAT="PART" HYPOT="1-compl.15" ID="8" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="FIND1" LEMMA="FIND" LINK="prepos" PAFT=" ">find</W> 
@@ -810,7 +810,7 @@
 <W DOM="10" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="9" KSNAME="EILEEN" LEMMA="EILEEN" LINK="posses" PAFT=" ">Eileen's</W> 
 <W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="VOICE1" LEMMA="VOICE" LINK="predic" PAFT=" ">voice</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="11" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="11" FEAT="V ING" HYPOT="analyt.11" ID="12" KSNAME="SCREECH2" LEMMA="SCREECH" LINK="analyt" PAFT=" " UNL="screech(icl&gt;make_noise&gt;do,equ&gt;squeak,agt&gt;thing)" DEF="">screeching</W> 
+<W DOM="11" FEAT="V ING" HYPOT="analyt.11" ID="12" KSNAME="SCREECH2" LEMMA="SCREECH" LINK="analyt" PAFT=" " UNL="screech(icl&gt;make_noise&gt;do,equ&gt;squeak,agt&gt;thing)" DEF="MAKE A HIGH-PITCHED, SCREECHING NOISE" TRANS="скрипеть">screeching</W> 
 <W DOM="12" FEAT="PR" HYPOT="2-compl.02" ID="13" KSNAME="AT" LEMMA="AT" LINK="2-compl" PAFT=" ">at</W> 
 <W DOM="13" FEAT="S OBJ PL" HYPOT="prepos.01" ID="14" KSNAME="WE" LEMMA="WE" LINK="prepos" PAFT=" ">us</W> 
 <W DOM="12" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="FROM" LEMMA="FROM" LINK="adverb" PAFT=" ">from</W> 
@@ -1006,7 +1006,7 @@
 <W DOM="18" FEAT="ADV" HYPOT="restr.12" ID="17" KSNAME="TOO1" LEMMA="TOO" LINK="restr" PAFT=" " UNL="too(icl&gt;how,equ&gt;excessively,com&gt;excessive,ben&gt;volitional_thing,pur&gt;uw)" DEF="TO AN EXCESSIVE DEGREE" TRANS="слишком">too</W> 
 <W DOM="2" FEAT="A" ID="18" KSNAME="STRONG" LEMMA="STRONG" LINK="fictit" PAFT=" " UNL="strong(icl&gt;adj,ant&gt;weak)" DEF="HAVING STRENGTH OR POWER GREATER THAN AVERAGE OR EXPECTED" TRANS="сильный">strong</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.13" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="20" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="20" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="20" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="21" KSNAME="SHE" LEMMA="SHE" LINK="1-compl" PAFT=" ">her</W> 
 <W DOM="20" FEAT="PART" HYPOT="2-compl.12" ID="22" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="22" FEAT="V MF" HYPOT="prepos.16" ID="23" KSNAME="SEND" LEMMA="SEND" LINK="prepos" PAFT=" ">send</W> 
@@ -1586,7 +1586,7 @@
 <W DOM="9" FEAT="CONJ" HYPOT="sent-coordin.10" ID="17" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="HARD1" LEMMA="HARD" LINK="modif" PAFT=" " UNL="hard(icl&gt;adj,ant&gt;soft)" DEF="RESISTING WEIGHT OR PRESSURE" TRANS="твёрдый,жёсткий">hard</W> 
-<W DOM="22" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="CRUEL" LEMMA="CRUEL" LINK="modif" PAFT=" " UNL="cruel(icl&gt;adj,equ&gt;barbarous)" DEF="">cruel</W> 
+<W DOM="22" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="CRUEL" LEMMA="CRUEL" LINK="modif" PAFT=" " UNL="cruel(icl&gt;adj,equ&gt;barbarous)" DEF="(OF PERSONS OR THEIR ACTIONS) ABLE OR DISPOSED TO INFLICT PAIN OR SUFFERING" TRANS="жестокий">cruel</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="BONY" LEMMA="BONY" LINK="modif" PAFT=" " UNL="bony(icl&gt;adj)" DEF="VERY THIN ESPECIALLY FROM DISEASE OR HUNGER OR COLD" TRANS="костлявый">bony</W> 
 <W DOM="23" FEAT="S SG" HYPOT="predic.01" ID="22" KSNAME="SKULL" LEMMA="SKULL" LINK="predic" PAFT=" " UNL="skull(icl&gt;bone&gt;thing)" DEF="THE BONY SKELETON OF THE HEAD OF VERTEBRATES" TRANS="череп">skull</W> 
 <W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="23" KSNAME="WOULD" LEMMA="WOULD" LINK="coord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
@@ -1896,7 +1896,7 @@
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=" ">little</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="GIRL" LEMMA="GIRL" LINK="1-compl" PAFT=" " UNL="girl(icl&gt;child&gt;person,ant&gt;boy)" DEF="A YOUNG FEMALE PERSON" TRANS="девочка">girl</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.07" ID="13" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="2-compl" PAFT=" ">out of</W> 
-<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="MISCHIEF" LEMMA="MISCHIEF" LINK="prepos" PAFT=". " UNL="mischief(icl&gt;misbehavior&gt;thing)" DEF="">mischief</W>. 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="MISCHIEF" LEMMA="MISCHIEF" LINK="prepos" PAFT=". " UNL="mischief(icl&gt;misbehavior&gt;thing)" DEF="RECKLESS OR MALICIOUS BEHAVIOR THAT CAUSES DISCOMFORT OR ANNOYANCE IN OTHERS" TRANS="проказничание,проказы">mischief</W>. 
 </S>
 <S DATE="29 11 2010 19:59:28" EXTRACOMM="Tagging contradicts ETAP parsing: LOOSE2 - LOSE\nSome nodes are not confirmed" ID="126" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k18.tgt;126" STATUS="doubt">
 <W DOM="2" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="FICT-PERS" LEMMA="PAT" LINK="predic" PAFT=" ">Pat</W> 

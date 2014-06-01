@@ -421,7 +421,7 @@
 <W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="REDUCTION" LEMMA="REDUCTION" LINK="predic" PAFT=" " UNL="reduction(icl&gt;change_of_magnitude&gt;thing,equ&gt;decrease,ant&gt;increase)" DEF="THE ACT OF DECREASING OR REDUCING SOMETHING" TRANS="сокращение,снижение">reduction</W> 
 <W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
 <W DOM="10" FEAT="NID" HYPOT="compos.01" ID="9" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMIC" LINK="compos" PAFT=" ">hypothalamic</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="prepos" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="">excitability</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="prepos" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="EXCESSIVE SENSITIVITY OF AN ORGAN OR BODY PART" TRANS="возбудимость">excitability</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="THROUGH1" LEMMA="THROUGH" LINK="attrib" PAFT=" ">through</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="INJECTION" LEMMA="INJECTION" LINK="prepos" PAFT=" " UNL="injection(icl&gt;insertion&gt;thing)" DEF="THE FORCEFUL INSERTION OF A SUBSTANCE UNDER PRESSURE" TRANS="инъекция">injection</W> 
@@ -446,7 +446,7 @@
 <W DOM="23" FEAT="CONJ" HYPOT="adverb.10" ID="32" KSNAME="UNTIL2" LEMMA="UNTIL" LINK="adverb" PAFT=" ">until</W> 
 <W DOM="35" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="35" FEAT="NID" HYPOT="compos.01" ID="34" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMIC" LINK="compos" PAFT=" ">hypothalamic</W> 
-<W DOM="36" FEAT="S SG" HYPOT="predic.01" ID="35" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="predic" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="">excitability</W> 
+<W DOM="36" FEAT="S SG" HYPOT="predic.01" ID="35" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="predic" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="EXCESSIVE SENSITIVITY OF AN ORGAN OR BODY PART" TRANS="возбудимость">excitability</W> 
 <W DOM="32" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="36" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
 <W DOM="36" FEAT="V PP" HYPOT="pass-anal.10" ID="37" KSNAME="RESTORE" LEMMA="RESTORE" LINK="pass-anal" PAFT=". " UNL="restore(icl&gt;reinstate&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;uw)" DEF="TO MAKE SOMETHING RETURN TO ITS FORMER STATE OR CONDITION" TRANS="восстанавливать">restored</W>. 
 </S>
@@ -473,7 +473,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="REASON1" LEMMA="REASON" LINK="prepos" PAFT=" " UNL="reason(icl&gt;explanation&gt;thing)" DEF="AN EXPLANATION OF THE CAUSE OF SOME PHENOMENON" TRANS="причина">reason</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="NID" HYPOT="compos.01" ID="7" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMIC" LINK="compos" PAFT=" ">hypothalamic</W> 
-<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="predic" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="">excitability</W> 
+<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="predic" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="EXCESSIVE SENSITIVITY OF AN ORGAN OR BODY PART" TRANS="возбудимость">excitability</W> 
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="9" KSNAME="FALL2" LEMMA="FALL" LINK="subord-conj" PAFT=" " UNL="fall(icl&gt;occur,equ&gt;decrease,src&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="TO DECREASE IN SIZE, EXTENT, OR RANGE" TRANS="уменьшаться">falls</W> 
 <W DOM="9" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="BELOW1" LEMMA="BELOW" LINK="1-compl" PAFT=" ">below</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -488,7 +488,7 @@
 <W DOM="19" FEAT="PR" HYPOT="3-compl.01" ID="20" KSNAME="TO1" LEMMA="TO" LINK="3-compl" PAFT=" ">to</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="21" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="23" FEAT="V PP" HYPOT="modif.01" ID="22" KSNAME="DIMINISH" LEMMA="DIMINISH" LINK="modif" PAFT=" ">diminished</W> 
-<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="23" FEAT="PR" HYPOT="quasiagent.10" ID="24" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="24" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="ACTIVITY" LEMMA="ACTIVITY" LINK="prepos" PAFT=" " UNL="activity(icl&gt;state&gt;thing,equ&gt;action,ant&gt;inactivity)" DEF="THE STATE OF BEING ACTIVE" TRANS="активность">activity</W> 
 <W DOM="19" FEAT="PR" HYPOT="adverb.02" ID="26" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
@@ -519,7 +519,7 @@
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="BY1" LEMMA="BY" LINK="attrib" PAFT=" ">by</W> 
 <W DOM="7" FEAT="V ING" HYPOT="prepos.01" ID="8" KSNAME="RESTORE" LEMMA="RESTORE" LINK="prepos" PAFT=" " UNL="restore(icl&gt;reinstate&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;uw)" DEF="TO MAKE SOMETHING RETURN TO ITS FORMER STATE OR CONDITION" TRANS="восстанавливать">restoring</W> 
 <W DOM="10" FEAT="NID" HYPOT="compos.01" ID="9" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMIC" LINK="compos" PAFT=" ">hypothalamic</W> 
-<W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="1-compl" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="">excitability</W> 
+<W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="EXCITABILITY" LEMMA="EXCITABILITY" LINK="1-compl" PAFT=" " UNL="excitability(icl&gt;responsiveness&gt;thing)" DEF="EXCESSIVE SENSITIVITY OF AN ORGAN OR BODY PART" TRANS="возбудимость">excitability</W> 
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="11" KSNAME="DIRECTLY" LEMMA="DIRECTLY" LINK="adverb" PAFT=" ">directly</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="12" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="12" EXTRAFEAT="CAP-MIX" FEAT="PR" HYPOT="coord-conj.10" ID="13" KSNAME="VIA1" LEMMA="VIA" LINK="coord-conj" PAFT=" ">via</W> 
@@ -560,7 +560,7 @@
 <W DOM="23" FEAT="S PL" HYPOT="predic.01" ID="13" KSNAME="CHANGE2" LEMMA="CHANGE" LINK="predic" PAFT=" " UNL="change(icl&gt;difference&gt;abstract_thing)" DEF="A RELATIONAL DIFFERENCE BETWEEN STATES" TRANS="перемена">changes</W> 
 <W DOM="13" FEAT="PR" HYPOT="1-compl.07" ID="14" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="16" FEAT="PR" HYPOT="1-compl.07" ID="17" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="NID" HYPOT="prepos.01" ID="19" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMUS" LINK="prepos" PAFT=" ">hypothalamus</W> 
@@ -663,7 +663,7 @@
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="SYMPATHETIC" LEMMA="SYMPATHETIC" LINK="modif" PAFT=" " UNL="sympathetic(icl&gt;adj,com&gt;sympathetic_nervous_system)" DEF="OF OR RELATING TO THE SYMPATHETIC NERVOUS SYSTEM" TRANS="симпатический">sympathetic</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=" " UNL="division(icl&gt;concept&gt;thing,equ&gt;part)" DEF="">division</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=" " UNL="division(icl&gt;abstract_thing,equ&gt;part)" DEF="ONE OF THE PORTIONS INTO WHICH SOMETHING IS REGARDED AS DIVIDED AND WHICH TOGETHER CONSTITUTE A WHOLE" TRANS="часть">division</W> 
 <W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="NID" HYPOT="prepos.01" ID="10" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMUS" LINK="prepos" PAFT=", ">hypothalamus</W>, 
@@ -1088,7 +1088,7 @@
 <W DOM="22" FEAT="NID" HYPOT="prepos.01" ID="24" KSNAME="FICT-LEX" LEMMA="AUTONOMIC" LINK="prepos" PAFT=" ">autonomic</W> 
 <W DOM="24" FEAT="CONJ" HYPOT="coordin.10" ID="25" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="CLINICAL" LEMMA="CLINICAL" LINK="modif" PAFT=" " UNL="clinical(icl&gt;adj,com&gt;clinic)" DEF="RELATING TO A CLINIC OR CONDUCTED IN OR AS IF IN A CLINIC AND DEPENDING ON DIRECT OBSERVATION OF PATIENTS" TRANS="клинический">clinical</W> 
-<W DOM="25" FEAT="S PL" HYPOT="coord-conj.10" ID="27" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=", " UNL="state(icl&gt;attribute&gt;thing)" DEF="">states</W>, 
+<W DOM="25" FEAT="S PL" HYPOT="coord-conj.10" ID="27" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=", " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">states</W>, 
 <W DOM="22" FEAT="CONJ" HYPOT="coordin.11" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="28" FEAT="PR" HYPOT="coord-conj.10" ID="29" KSNAME="OF" LEMMA="OF" LINK="coord-conj" PAFT=" ">of</W> 
 <W DOM="29" FEAT="V ING" HYPOT="prepos.01" ID="30" KSNAME="STUDY2" LEMMA="STUDY" LINK="prepos" PAFT=" " UNL="study(icl&gt;examine&gt;do,agt&gt;person,obj&gt;thing)" DEF="CONSIDER OR EXAMINE IN DETAIL" TRANS="изучать">studying</W> 
@@ -1210,7 +1210,7 @@
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="PHYSIOLOGICAL" LEMMA="PHYSIOLOGICAL" LINK="modif" PAFT=" " UNL="physiological(icl&gt;adj,com&gt;physiology)" DEF="OF OR RELATING TO THE BIOLOGICAL STUDY OF PHYSIOLOGY" TRANS="физиологический">physiological</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="6" FEAT="A" HYPOT="coord-conj.10" ID="7" KSNAME="PATHOLOGICAL" LEMMA="PATHOLOGICAL" LINK="coord-conj" PAFT=" " UNL="pathological(icl&gt;adj,com&gt;pathology)" DEF="OF OR RELATING TO THE PRACTICE OF PATHOLOGY" TRANS="патологический">pathological</W> 
-<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">states</W> 
+<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">states</W> 
 <W DOM="16" FEAT="PR" ID="9" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="PARASYMPATHETIC" LEMMA="PARASYMPATHETIC" LINK="modif" PAFT=" (">parasympathetic</W>( 
 <W DOM="16" EXTRAFEAT="IN-BR" FEAT="CONJ" ID="11" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
@@ -1262,7 +1262,7 @@
 </S>
 <S DATE="29 11 2010 20:14:13" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX\nTagging contradicts ETAP parsing: STIMULUS - STIMULUS" ID="46" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_7\\br-j17.tgt;46" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.10" ID="1" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">A</W> 
-<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="STATE1" LEMMA="STATE" LINK="predic" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="STATE1" LEMMA="STATE" LINK="predic" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="2" FEAT="PR" HYPOT="quasiagent.10" ID="3" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="PARASYMPATHETIC" LEMMA="PARASYMPATHETIC" LINK="modif" PAFT=" &quot;">parasympathetic</W> 
 "<W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="TUNING" LEMMA="TUNING" LINK="prepos" PAFT="&quot; " UNL="tuning(icl&gt;calibration&gt;thing)" DEF="(MUSIC) CALIBRATING SOMETHING (AN INSTRUMENT OR ELECTRONIC CIRCUIT) TO A STANDARD FREQUENCY" TRANS="настройка">tuning</W>" 
@@ -1305,7 +1305,7 @@
 <W DOM="26" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="sent-coordin.01" ID="42" KSNAME="ELICIT" LEMMA="ELICIT" LINK="sent-coordin" PAFT=" " UNL="elicit(icl&gt;interpret&gt;do,equ&gt;educe,agt&gt;thing,obj&gt;thing)" DEF="">elicits</W> 
 <W DOM="42" FEAT="PR" HYPOT="adverb.02" ID="43" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="45" FEAT="A" HYPOT="determ.13" ID="44" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
-<W DOM="43" FEAT="S SG" HYPOT="prepos.01" ID="45" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="43" FEAT="S SG" HYPOT="prepos.01" ID="45" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="45" FEAT="PR" HYPOT="quasiagent.10" ID="46" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="46" FEAT="S SG" HYPOT="prepos.01" ID="47" KSNAME="TUNING" LEMMA="TUNING" LINK="prepos" PAFT=" " UNL="tuning(icl&gt;calibration&gt;thing)" DEF="(MUSIC) CALIBRATING SOMETHING (AN INSTRUMENT OR ELECTRONIC CIRCUIT) TO A STANDARD FREQUENCY" TRANS="настройка">tuning</W> 
 <W DOM="50" FEAT="ART" HYPOT="determ.10" ID="48" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1392,7 +1392,7 @@
 <W DOM="1" FEAT="S PL" HYPOT="prepos.01" ID="3" KSNAME="STUDY1" LEMMA="STUDY" LINK="prepos" PAFT=", ">studies</W>, 
 <W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="LOSS" LEMMA="LOSS" LINK="predic" PAFT=" " UNL="loss(icl&gt;decline&gt;thing)" DEF="GRADUAL DECLINE IN AMOUNT OR ACTIVITY" TRANS="потеря">loss</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="prepos" PAFT=" " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="">differentiation</W> 
+<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="DIFFERENTIATION" LEMMA="DIFFERENTIATION" LINK="prepos" PAFT=" " UNL="differentiation(icl&gt;discrimination&gt;thing)" DEF="A DISCRIMINATION BETWEEN THINGS AS DIFFERENT AND DISTINCT" TRANS="различение">differentiation</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="9" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="PREVIOUSLY" LEMMA="PREVIOUSLY" LINK="adverb" PAFT=" " UNL="previously(icl&gt;how,com&gt;time)" DEF="AT AN EARLIER TIME OR FORMERLY" TRANS="ранее">previously</W> 
 <W DOM="11" FEAT="V PP" HYPOT="modif.01" ID="9" KSNAME="ESTABLISH" LEMMA="ESTABLISH" LINK="modif" PAFT=" ">established</W> 
@@ -1456,7 +1456,7 @@
 <W DOM="34" EXTRAFEAT="IN-BR" FEAT="NUM" HYPOT="juxtapos.01" ID="35" KSNAME="NUM-SMALL" LEMMA="3" LINK="juxtapos" PAFT=") ">3</W>) 
 <W DOM="45" FEAT="PR" HYPOT="adverb.02" ID="36" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="38" FEAT="ART" HYPOT="determ.10" ID="37" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="36" FEAT="S SG" HYPOT="prepos.01" ID="38" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="36" FEAT="S SG" HYPOT="prepos.01" ID="38" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="38" FEAT="PR" HYPOT="1-compl.07" ID="39" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="39" FEAT="S SG" HYPOT="prepos.01" ID="40" KSNAME="DEPRESSION2" LEMMA="DEPRESSION" LINK="prepos" PAFT=", " UNL="depression(icl&gt;psychological_state&gt;thing,ant&gt;elation)" DEF="A MENTAL STATE CHARACTERIZED BY A PESSIMISTIC SENSE OF INADEQUACY AND A DESPONDENT LACK OF ACTIVITY" TRANS="депрессия">depression</W>, 
 <W DOM="44" FEAT="ART" HYPOT="determ.11" ID="41" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1510,7 +1510,7 @@
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="22" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="VARIETY" LEMMA="VARIETY" LINK="prepos" PAFT=" " UNL="variety(icl&gt;collection&gt;thing,equ&gt;assortment)" DEF="A COLLECTION CONTAINING A VARIETY OF SORTS OF THINGS" TRANS="множество">variety</W> 
 <W DOM="23" FEAT="PR" HYPOT="quasiagent.10" ID="24" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="24" FEAT="S PL" HYPOT="prepos.01" ID="25" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">states</W> 
+<W DOM="24" FEAT="S PL" HYPOT="prepos.01" ID="25" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">states</W> 
 <W DOM="20" FEAT="PR" HYPOT="adverb.02" ID="26" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="26" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="WHICH1" LEMMA="WHICH" LINK="prepos" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="28" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1968,7 +1968,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="ATTITUDE" LEMMA="ATTITUDE" LINK="prepos" PAFT=" " UNL="attitude(icl&gt;cognition&gt;thing)" DEF="A COMPLEX MENTAL STATE INVOLVING BELIEFS AND FEELINGS AND VALUES AND DISPOSITIONS TO ACT IN CERTAIN WAYS" TRANS="отношение">attitude</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="10" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="10" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="12" FEAT="PR" HYPOT="1-compl.07" ID="13" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="ANXIETY" LEMMA="ANXIETY" LINK="prepos" PAFT=". " UNL="anxiety(icl&gt;psychological_state&gt;thing)" DEF="A RELATIVELY PERMANENT STATE OF ANXIETY OCCURRING IN A VARIETY OF MENTAL DISORDERS" TRANS="беспокойство">anxiety</W>. 
 </S>
@@ -1997,12 +1997,12 @@
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="RATE1" LEMMA="RATE" LINK="prepos" PAFT=" " UNL="rate(icl&gt;magnitude_relation&gt;thing)" DEF="A MAGNITUDE OR FREQUENCY RELATIVE TO A TIME UNIT" TRANS="скорость">rate</W> 
 <W DOM="22" FEAT="PR" HYPOT="quasiagent.10" ID="23" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="23" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="EXCRETION" LEMMA="EXCRETION" LINK="prepos" PAFT=" " UNL="excretion(icl&gt;discharge&gt;thing,equ&gt;elimination)" DEF="">excretion</W> 
+<W DOM="23" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="EXCRETION" LEMMA="EXCRETION" LINK="prepos" PAFT=" " UNL="excretion(icl&gt;discharge&gt;thing,equ&gt;elimination)" DEF="THE BODILY PROCESS OF DISCHARGING WASTE MATTER" TRANS="испражнение">excretion</W> 
 <W DOM="25" FEAT="PR" HYPOT="quasiagent.10" ID="26" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="26" FEAT="S PL" HYPOT="prepos.01" ID="28" KSNAME="CATECHOLAMINE" LEMMA="CATECHOLAMINE" LINK="prepos" PAFT=", ">catecholamines</W>, 
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="25" FEAT="S SG" HYPOT="coordin.01" ID="30" KSNAME="STATE1" LEMMA="STATE" LINK="coordin" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="25" FEAT="S SG" HYPOT="coordin.01" ID="30" KSNAME="STATE1" LEMMA="STATE" LINK="coordin" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="30" FEAT="PR" HYPOT="quasiagent.10" ID="31" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="34" FEAT="ART" HYPOT="determ.11" ID="32" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="34" FEAT="S SG" GRP="33,34" HYPOT="compos.01" ID="33" KSNAME="MUSCLE" LEMMA="MUSCLE" LINK="compos" PAFT=" ">muscle</W> 
@@ -2060,7 +2060,7 @@
 <W DOM="28" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="PARASYMPATHETIC" LEMMA="PARASYMPATHETIC" LINK="modif" PAFT=" ">parasympathetic</W> 
 <W DOM="25" FEAT="CONJ" HYPOT="coordin.10" ID="26" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="26" FEAT="A" HYPOT="coord-conj.10" ID="27" KSNAME="SYMPATHETIC" LEMMA="SYMPATHETIC" LINK="coord-conj" PAFT=" " UNL="sympathetic(icl&gt;adj,com&gt;sympathetic_nervous_system)" DEF="OF OR RELATING TO THE SYMPATHETIC NERVOUS SYSTEM" TRANS="симпатический">sympathetic</W> 
-<W DOM="23" FEAT="S PL" HYPOT="prepos.01" ID="28" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=" " UNL="division(icl&gt;concept&gt;thing,equ&gt;part)" DEF="">divisions</W> 
+<W DOM="23" FEAT="S PL" HYPOT="prepos.01" ID="28" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=" " UNL="division(icl&gt;abstract_thing,equ&gt;part)" DEF="ONE OF THE PORTIONS INTO WHICH SOMETHING IS REGARDED AS DIVIDED AND WHICH TOGETHER CONSTITUTE A WHOLE" TRANS="часть">divisions</W> 
 <W DOM="28" FEAT="PR" HYPOT="quasiagent.10" ID="29" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="32" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="32" FEAT="NID" HYPOT="compos.01" ID="31" KSNAME="FICT-LEX" LEMMA="HYPOTHALAMIC" LINK="compos" PAFT=" ">hypothalamic</W> 
@@ -2145,7 +2145,7 @@
 <W DOM="43" FEAT="A" HYPOT="modif.01" ID="42" KSNAME="VARIOUS" LEMMA="VARIOUS" LINK="modif" PAFT=" ">various</W> 
 <W DOM="38" FEAT="S PL" HYPOT="prepos.01" ID="43" KSNAME="MOOD" LEMMA="MOOD" LINK="prepos" PAFT=" " UNL="mood(icl&gt;feeling&gt;thing,equ&gt;temper)" DEF="A CHARACTERISTIC (HABITUAL OR RELATIVELY TEMPORARY) STATE OF FEELING" TRANS="настроение">moods</W> 
 <W DOM="43" FEAT="CONJ" HYPOT="coordin.10" ID="44" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="44" FEAT="S PL" HYPOT="coord-conj.10" ID="45" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">states</W> 
+<W DOM="44" FEAT="S PL" HYPOT="coord-conj.10" ID="45" KSNAME="STATE1" LEMMA="STATE" LINK="coord-conj" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">states</W> 
 <W DOM="45" FEAT="PR" HYPOT="1-compl.07" ID="46" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="46" FEAT="S PL" HYPOT="prepos.01" ID="47" KSNAME="EMOTION" LEMMA="EMOTION" LINK="prepos" PAFT=" " UNL="emotion(icl&gt;feeling&gt;thing)" DEF="ANY STRONG FEELING" TRANS="эмоция">emotions</W> 
 <W DOM="47" FEAT="PR" HYPOT="attrib.01" ID="48" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -2166,7 +2166,7 @@
 <W DOM="61" FEAT="S SG" HYPOT="comp-conj.10" ID="63" KSNAME="RESULT1" LEMMA="RESULT" LINK="comp-conj" PAFT=" " UNL="result(icl&gt;phenomenon&gt;thing,equ&gt;consequence)" DEF="A PHENOMENON THAT FOLLOWS AND IS CAUSED BY SOME PREVIOUS PHENOMENON" TRANS="результат">result</W> 
 <W DOM="63" FEAT="PR" HYPOT="quasiagent.10" ID="64" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="66" FEAT="A" HYPOT="modif.01" ID="65" KSNAME="PSYCHOPHARMACOLOGICAL" LEMMA="PSYCHOPHARMACOLOGICAL" LINK="modif" PAFT=" ">psychopharmacological</W> 
-<W DOM="64" FEAT="S PL" HYPOT="prepos.01" ID="66" KSNAME="AGENT2" LEMMA="AGENT" LINK="prepos" PAFT=". " UNL="agent(icl&gt;causal_agent&gt;thing)" DEF="">agents</W>. 
+<W DOM="64" FEAT="S PL" HYPOT="prepos.01" ID="66" KSNAME="AGENT2" LEMMA="AGENT" LINK="prepos" PAFT=". " UNL="agent(icl&gt;causal_agent&gt;abstract_thing)" DEF="AN ACTIVE CAUSE CAPABLE OF PRODUCING AN EFFECT" TRANS="причина">agents</W>. 
 </S>
 <S DATE="29 11 2010 20:14:27" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX\nTagging contradicts ETAP parsing: FURTHER - FAR1,FAR2" ID="77" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_7\\br-j17.tgt;77" STATUS="doubt">
 <W DOM="31" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="IN$VIEW$OF" LEMMA="IN VIEW OF" LINK="adverb" PAFT=" ">In view of</W> 
@@ -2191,7 +2191,7 @@
 <W DOM="19" FEAT="V PP" HYPOT="modif.01" ID="20" KSNAME="OBSERVE2" LEMMA="OBSERVE" LINK="modif" PAFT=" " UNL="observe(icl&gt;sight&gt;do,equ&gt;detect,agt&gt;volitional_thing,obj&gt;thing)" DEF="DISCOVER OR DETERMINE THE EXISTENCE, PRESENCE, OR FACT OF" TRANS="наблюдать">observed</W> 
 <W DOM="20" FEAT="PR" HYPOT="adverb.02" ID="21" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="adverb" PAFT=" ">between</W> 
 <W DOM="23" FEAT="NID" HYPOT="compos.01" ID="22" KSNAME="FICT-LEX" LEMMA="AUTONOMIC" LINK="compos" PAFT=" ">autonomic</W> 
-<W DOM="21" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">states</W> 
+<W DOM="21" FEAT="S PL" HYPOT="prepos.01" ID="23" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">states</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="26" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="PSYCHOLOGICAL" LEMMA="PSYCHOLOGICAL" LINK="modif" PAFT=" " UNL="psychological(icl&gt;adj)" DEF="MENTAL OR EMOTIONAL AS OPPOSED TO PHYSICAL IN NATURE" TRANS="психологический">psychological</W> 
 <W DOM="24" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="coord-conj.10" ID="26" KSNAME="BEHAVIOUR" LEMMA="BEHAVIOUR" LINK="coord-conj" PAFT=" ">behavior</W> 

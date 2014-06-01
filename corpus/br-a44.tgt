@@ -1545,7 +1545,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="copulat.10" ID="10" KSNAME="PLACE1" LEMMA="PLACE" LINK="copulat" PAFT=" ">place</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="THESE" LEMMA="THESE" LINK="determ" PAFT=" ">these</W> 
 <W DOM="6" FEAT="S PL" HYPOT="durat.10" ID="12" KSNAME="DAY" LEMMA="DAY" LINK="durat" PAFT=", ">days</W>, 
-<W DOM="6" FEAT="V ING" HYPOT="adverb.03" ID="13" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="adverb" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatening</W> 
+<W DOM="6" FEAT="V ING" HYPOT="adverb.03" ID="13" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="adverb" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatening</W> 
 <W DOM="13" FEAT="PART" HYPOT="adverb.11" ID="14" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="14" FEAT="V MF" HYPOT="prepos.16" ID="15" KSNAME="EXPAND" LEMMA="EXPAND" LINK="prepos" PAFT=" ">expand</W> 
 <W DOM="15" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="BEYOND1" LEMMA="BEYOND" LINK="adverb" PAFT=" ">beyond</W> 

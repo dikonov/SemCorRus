@@ -1021,7 +1021,7 @@
 <W DOM="12" FEAT="S OBJ SG" HYPOT="prepos.01" ID="13" KSNAME="I" LEMMA="I" LINK="prepos" PAFT=" ">me</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="14" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
 <W DOM="14" FEAT="PART" HYPOT="copulat.13" ID="15" KSNAME="TO2" LEMMA="TO" LINK="copulat" PAFT=" ">to</W> 
-<W DOM="15" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="15" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="DAUGHTER" LEMMA="DAUGHTER" LINK="1-compl" PAFT=" ">daughter</W> 
 <W DOM="23" FEAT="PR" HYPOT="adverb.02" ID="19" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
@@ -1112,7 +1112,7 @@
 <W DOM="9" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="8" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="9" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
 <W DOM="9" FEAT="PART" HYPOT="copulat.13" ID="10" KSNAME="TO2" LEMMA="TO" LINK="copulat" PAFT=" ">to</W> 
-<W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="11" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="12" KSNAME="YOU" LEMMA="YOU" LINK="1-compl" PAFT=" ">you</W> 
 <W DOM="11" FEAT="PR" HYPOT="2-compl.02" ID="13" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

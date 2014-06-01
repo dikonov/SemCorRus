@@ -46,7 +46,7 @@
 <S DATE="29 11 2010 20:19:21" EXTRACOMM="Some punctuation marks are not confirmed" ID="3" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_17\\br-f15.tgt;3" STATUS="doubt">
 <W DOM="7" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="AFTER1" LEMMA="AFTER" LINK="adverb" PAFT=" ">After</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="FLOOD1" LEMMA="FLOOD" LINK="prepos" PAFT=" " UNL="flood(icl&gt;batch&gt;thing)" DEF="">flood</W> 
+<W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="FLOOD1" LEMMA="FLOOD" LINK="prepos" PAFT=" " UNL="flood(icl&gt;batch&gt;thing)" DEF="AN OVERWHELMING NUMBER OR AMOUNT" TRANS="поток">flood</W> 
 <W DOM="3" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="PROTEST1" LEMMA="PROTEST" LINK="prepos" PAFT=", ">protests</W>, 
 <W DOM="7" FEAT="S NOM PL" HYPOT="predic.01" ID="6" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
@@ -1322,7 +1322,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="COME" LEMMA="COME" PAFT=" " UNL="come(icl&gt;change&gt;occur,obj&gt;thing,gol&gt;thing)" DEF="REACH OR ENTER A STATE OR POSITION" TRANS="входить">came</W> 
 <W DOM="6" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
-<W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="INGLORIOUS" LEMMA="INGLORIOUS" LINK="modif" PAFT=" " UNL="inglorious(icl&gt;adj,equ&gt;black)" DEF="">inglorious</W> 
+<W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="INGLORIOUS" LEMMA="INGLORIOUS" LINK="modif" PAFT=" " UNL="inglorious(icl&gt;adj,equ&gt;black)" DEF="(USED OF CONDUCT OR CHARACTER) DESERVING OR BRINGING DISGRACE OR SHAME" TRANS="бесславный,постыдный">inglorious</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="END1" LEMMA="END" LINK="prepos" PAFT=". " UNL="end(icl&gt;state,aoj&gt;thing)" DEF="A FINAL STATE" TRANS="исход,конец">end</W>. 
 </S>
 <S DATE="29 11 2010 20:19:31" EXTRACOMM="Tagging contradicts ETAP parsing: CANNOT - CAN1" ID="50" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_17\\br-f15.tgt;50" STATUS="doubt">

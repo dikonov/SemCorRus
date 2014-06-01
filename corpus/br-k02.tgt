@@ -582,7 +582,7 @@
 <W DOM="14" FEAT="PR" HYPOT="quasiagent.10" ID="15" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=" " UNL="little(icl&gt;adj,equ&gt;small,ant&gt;big)" DEF="LIMITED OR BELOW AVERAGE IN NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="небольшой">little</W> 
-<W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexican</W> 
+<W DOM="15" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexican</W> 
 <W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="19" KSNAME="NAME2" LEMMA="NAME" LINK="modif" PAFT=" " UNL="name(icl&gt;call&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="ASSIGN A SPECIFIED PROPER NAME TO" TRANS="называть">named</W> 
 <W DOM="18" FEAT="S SG" HYPOT="appos.03" ID="20" KSNAME="FRM-PROP" LEMMA="MARTINEZ" LINK="appos" PAFT=". ">Martinez</W>. 
 </S>
@@ -807,7 +807,7 @@
 <W DOM="6" FEAT="A" HYPOT="predic.01" ID="5" KSNAME="SOME1" LEMMA="SOME" LINK="predic" PAFT=" ">some</W> 
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="WIRE2" LEMMA="WIRE" LINK="fictit" PAFT=" " UNL="wire(icl&gt;equip&gt;do,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="">wired</W> 
 <W DOM="2" FEAT="PART" ID="7" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
-<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="SET1" LEMMA="SET" LINK="prepos" PAFT=" " UNL="set_off(icl&gt;change_integrity&gt;do,equ&gt;explode,agt&gt;thing,obj&gt;thing)" DEF="">set</W> 
+<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="SET1" LEMMA="SET" LINK="prepos" PAFT=" " UNL="set_off(icl&gt;change_integrity&gt;do,equ&gt;explode,agt&gt;thing,obj&gt;thing)" DEF="CAUSE TO BURST WITH A VIOLENT RELEASE OF ENERGY" TRANS="взрывать">set</W> 
 <W DOM="2" FEAT="ADV" ID="9" KSNAME="OFF1" LEMMA="OFF" LINK="fictit" PAFT=" ">off</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="10" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="WHOLE1" LEMMA="WHOLE" LINK="modif" PAFT=" " UNL="whole(icl&gt;adj,ant&gt;fractional)" DEF="INCLUDING ALL COMPONENTS WITHOUT EXCEPTION" TRANS="цельный,целый,весь">whole</W> 
@@ -837,7 +837,7 @@
 <W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="SHAKE2" LEMMA="SHAKE" LINK="prepos" PAFT=" " UNL="shake_off(icl&gt;escape&gt;do,equ&gt;shake,agt&gt;thing,obj&gt;thing)" DEF="GET RID OF" TRANS="отрываться">shake</W> 
 <W DOM="4" FEAT="ADV" HYPOT="phras-junct.10" ID="5" KSNAME="OFF1" LEMMA="OFF" LINK="phras-junct" PAFT=" ">off</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="JUMBLE1" LEMMA="JUMBLE" LINK="1-compl" PAFT=" " UNL="jumble(icl&gt;disorderliness&gt;thing,equ&gt;clutter)" DEF="">jumble</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="JUMBLE1" LEMMA="JUMBLE" LINK="1-compl" PAFT=" " UNL="jumble(icl&gt;disorderliness&gt;thing,equ&gt;clutter)" DEF="A CONFUSED MULTITUDE OF THINGS" TRANS="путаница">jumble</W> 
 <W DOM="7" FEAT="PR" HYPOT="quasiagent.10" ID="8" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="FEAR1" LEMMA="FEAR" LINK="prepos" PAFT=" " UNL="fear(icl&gt;emotion&gt;thing,ant&gt;fearlessness)" DEF="AN EMOTION EXPERIENCED IN ANTICIPATION OF SOME SPECIFIC PAIN OR DANGER (USUALLY ACCOMPANIED BY A DESIRE TO FLEE OR FIGHT)" TRANS="страх">fears</W> 
@@ -926,7 +926,7 @@
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="BEHIND2" LEMMA="BEHIND" LINK="adverb" PAFT=" ">behind</W> 
 <W DOM="11" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="13" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="10" FEAT="S SG" ID="15" KSNAME="TREAD2" LEMMA="TREAD" LINK="fictit" PAFT=" " UNL="tread(icl&gt;step&gt;thing,equ&gt;pace)" DEF="">tread</W> 
+<W DOM="10" FEAT="S SG" ID="15" KSNAME="TREAD2" LEMMA="TREAD" LINK="fictit" PAFT=" " UNL="tread(icl&gt;step&gt;thing,equ&gt;pace)" DEF="A STEP IN WALKING OR RUNNING" TRANS="шагать">tread</W> 
 <W DOM="15" FEAT="PR" HYPOT="quasiagent.10" ID="16" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="16" FEAT="A" HYPOT="prepos.01" ID="17" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="prepos" PAFT=". ">another</W>. 
 </S>
@@ -1148,7 +1148,7 @@
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="NOCTURNAL" LEMMA="NOCTURNAL" LINK="modif" PAFT=" " UNL="nocturnal(icl&gt;adj,ant&gt;diurnal)" DEF="">nocturnal</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="PILGRIMAGE1" LEMMA="PILGRIMAGE" LINK="prepos" PAFT=", " UNL="pilgrimage(icl&gt;journey&gt;thing)" DEF="A JOURNEY TO A SACRED PLACE" TRANS="паломничество">pilgrimage</W>, 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
-<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="DIRGE" LEMMA="DIRGE" LINK="1-compl" MSNAME="DIRGE" PAFT=" " UNL="dirge(icl&gt;song&gt;thing)" DEF="">dirge</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="DIRGE" LEMMA="DIRGE" LINK="1-compl" MSNAME="DIRGE" PAFT=" " UNL="dirge(icl&gt;song&gt;thing)" DEF="A SONG OR HYMN OF MOURNING COMPOSED OR PERFORMED AS A MEMORIAL TO A DEAD PERSON" TRANS="плач">dirge</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="UNSUNG" LEMMA="UNSUNG" LINK="modif" PAFT=" ">unsung</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.02" ID="14" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="WANT2" LEMMA="WANT" LINK="prepos" PAFT=" " UNL="want(icl&gt;need&gt;thing,equ&gt;lack)" DEF="THE STATE OF NEEDING SOMETHING THAT IS ABSENT OR UNAVAILABLE" TRANS="потребность">want</W> 
@@ -1628,7 +1628,7 @@
 <W DOM="9" EXTRAFEAT="CAP" FEAT="ADV" ID="1" KSNAME="ABOVE2" LEMMA="ABOVE" LINK="fictit" PAFT=", " UNL="above(icl&gt;how,ant&gt;below)" DEF="IN OR TO A PLACE THAT IS HIGHER" TRANS="выше">Above</W>, 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="V ING" HYPOT="modif.01" ID="3" KSNAME="GLOW2" LEMMA="GLOW" LINK="modif" PAFT=" ">glowing</W> 
-<W DOM="5" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="IVORY" LEMMA="IVORY" LINK="compos" MSNAME="IVORY" PAFT=" " UNL="ivory(icl&gt;white&gt;thing,equ&gt;bone)" DEF="">ivory</W> 
+<W DOM="5" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="IVORY" LEMMA="IVORY" LINK="compos" MSNAME="IVORY" PAFT=" " UNL="ivory(icl&gt;white&gt;thing,equ&gt;bone)" DEF="A SHADE OF WHITE THE COLOR OF BLEACHED BONES" TRANS="цвет слоновой кости">ivory</W> 
 <W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="BATON1" LEMMA="BATON" LINK="predic" PAFT=" ">baton</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="8" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 

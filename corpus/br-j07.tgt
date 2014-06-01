@@ -15,7 +15,7 @@
 <W DOM="12" FEAT="S SG" HYPOT="predic.01" ID="11" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="12" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.10" ID="13" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="12" FEAT="S SG" HYPOT="copulat.10" ID="14" KSNAME="RETARDATION" LEMMA="RETARDATION" LINK="copulat" PAFT=" " UNL="retardation(icl&gt;change&gt;thing,equ&gt;deceleration,ant&gt;acceleration)" DEF="">retardation</W> 
+<W DOM="12" FEAT="S SG" HYPOT="copulat.10" ID="14" KSNAME="RETARDATION" LEMMA="RETARDATION" LINK="copulat" PAFT=" " UNL="retardation(icl&gt;change&gt;thing,equ&gt;deceleration,ant&gt;acceleration)" DEF="A DECREASE IN RATE OF CHANGE" TRANS="замедление">retardation</W> 
 <W DOM="14" FEAT="PR" HYPOT="1-compl.07" ID="15" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="ORBITAL" LEMMA="ORBITAL" LINK="modif" PAFT=" ">orbital</W> 
@@ -392,7 +392,7 @@
 <W DOM="20" FEAT="ART" HYPOT="determ.10" ID="17" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="19" FEAT="ADV" HYPOT="restr.11" ID="18" KSNAME="FAIRLY1" LEMMA="FAIRLY" LINK="restr" PAFT=" " UNL="fairly(icl&gt;how,equ&gt;reasonably,ant&gt;unreasonably,com&gt;reasonable)" DEF="TO A MODERATELY SUFFICIENT EXTENT OR DEGREE" TRANS="довольно">fairly</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="STEADY1" LEMMA="STEADY" LINK="modif" PAFT=" " UNL="steady(icl&gt;adj,ant&gt;unsteady)" DEF="NOT SUBJECT TO CHANGE OR VARIATION ESPECIALLY IN BEHAVIOR" TRANS="постоянный,стабильный">steady</W> 
-<W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="20" KSNAME="STATE1" LEMMA="STATE" LINK="1-compl" PAFT=". " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W>. 
+<W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="20" KSNAME="STATE1" LEMMA="STATE" LINK="1-compl" PAFT=". " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W>. 
 </S>
 <S DATE="29 11 2010 20:09:52" EXTRACOMM="Tagging contradicts ETAP parsing:  - FRM-PROP" ID="14" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j07.tgt;14" STATUS="doubt">
 <W DOM="2" FEAT="S SG" HYPOT="compos.01" ID="1" KSNAME="FRM-PROP" LEMMA="ASTEROIDAL" LINK="compos" PAFT=" ">Asteroidal</W> 
@@ -479,7 +479,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="DISCREPANCY" LEMMA="DISCREPANCY" LINK="predic" PAFT=" " UNL="discrepancy(icl&gt;difference&gt;thing)" DEF="A DIFFERENCE BETWEEN CONFLICTING FACTS OR CLAIMS OR OPINIONS" TRANS="расхождение,несоответствие">discrepancy</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="DEMONSTRATE" LEMMA="DEMONSTRATE" PAFT=" " UNL="demonstrate(icl&gt;confirm&gt;be,equ&gt;prove,obj&gt;uw,aoj&gt;thing)" DEF="ESTABLISH VALIDITY OF" TRANS="подтверждать">demonstrates</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="INADEQUACY" LEMMA="INADEQUACY" LINK="1-compl" PAFT=" " UNL="inadequacy(icl&gt;amount&gt;thing,equ&gt;insufficiency,ant&gt;adequacy)" DEF="">inadequacies</W> 
+<W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="INADEQUACY" LEMMA="INADEQUACY" LINK="1-compl" PAFT=" " UNL="inadequacy(icl&gt;amount&gt;thing,equ&gt;insufficiency,ant&gt;adequacy)" DEF="LACK OF AN ADEQUATE QUANTITY OR NUMBER" TRANS="недостаточность">inadequacies</W> 
 <W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="EXPERIMENTAL" LEMMA="EXPERIMENTAL" LINK="modif" PAFT=" " UNL="experimental(icl&gt;adj,com&gt;experiment)" DEF="RELATING TO OR BASED ON EXPERIMENT" TRANS="экспериментальный">experimental</W> 
@@ -1238,7 +1238,7 @@
 <W DOM="4" FEAT="CONJ" HYPOT="1-compl.21" ID="5" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="VAPORIZATION" LEMMA="VAPORIZATION" LINK="predic" PAFT=" " UNL="vaporization(icl&gt;annihilation&gt;thing)" DEF="ANNIHILATION BY VAPORIZING SOMETHING" TRANS="испарение">vaporization</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="7" FEAT="S SG" HYPOT="coord-conj.10" ID="8" KSNAME="EJECTION" LEMMA="EJECTION" LINK="coord-conj" PAFT=" " UNL="ejection(icl&gt;propulsion&gt;thing,equ&gt;expulsion)" DEF="">ejection</W> 
+<W DOM="7" FEAT="S SG" HYPOT="coord-conj.10" ID="8" KSNAME="EJECTION" LEMMA="EJECTION" LINK="coord-conj" PAFT=" " UNL="ejection(icl&gt;propulsion&gt;thing,equ&gt;expulsion)" DEF="THE ACT OF EXPELLING OR PROJECTING OR EJECTING" TRANS="выбрасывание">ejection</W> 
 <W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="MATERIAL1" LEMMA="MATERIAL" LINK="prepos" PAFT=" " UNL="material(icl&gt;substance&gt;thing)" DEF="THE TANGIBLE SUBSTANCE THAT GOES INTO THE MAKEUP OF A PHYSICAL OBJECT" TRANS="материал">material</W> 
 <W DOM="8" FEAT="PR" HYPOT="agent.10" ID="11" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
@@ -1309,7 +1309,7 @@
 </S>
 <S DATE="29 11 2010 20:09:57" ID="53" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j07.tgt;53" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" &quot;">This</W> 
-"<W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="compos.06" ID="2" KSNAME="EJECTION" LEMMA="EJECTION" LINK="compos" PAFT="&quot; " UNL="ejection(icl&gt;propulsion&gt;thing,equ&gt;expulsion)" DEF="">ejection</W>" 
+"<W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="compos.06" ID="2" KSNAME="EJECTION" LEMMA="EJECTION" LINK="compos" PAFT="&quot; " UNL="ejection(icl&gt;propulsion&gt;thing,equ&gt;expulsion)" DEF="THE ACT OF EXPELLING OR PROJECTING OR EJECTING" TRANS="выбрасывание">ejection</W>" 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="MOMENTUM" LEMMA="MOMENTUM" LINK="predic" PAFT=" " UNL="momentum(icl&gt;force&gt;thing)" DEF="AN IMPELLING FORCE OR STRENGTH" TRANS="инерция">momentum</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="LINEARLY" LEMMA="LINEARLY" LINK="adverb" PAFT=" ">linearly</W> 
@@ -1628,7 +1628,7 @@
 <W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="MASS1" LEMMA="MASS" LINK="prepos" PAFT=" " UNL="mass(icl&gt;fundamental_quantity&gt;thing)" DEF="THE PROPERTY OF A BODY THAT CAUSES IT TO HAVE WEIGHT IN A GRAVITATIONAL FIELD" TRANS="масса">mass</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="16" FEAT="NUM" ID="6" KSNAME="NUM-LARGE" LEMMA="25" LINK="fictit" PAFT=" ">25</W> 
-<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="G" LEMMA="G" LINK="prepos" PAFT=" " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="">g</W> 
+<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="G" LEMMA="G" LINK="prepos" PAFT=" " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="A METRIC UNIT OF WEIGHT EQUAL TO ONE THOUSANDTH OF A KILOGRAM" TRANS="г,гр">g</W> 
 <W DOM="7" FEAT="PR" HYPOT="attrib.01" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="11" FEAT="S SG" HYPOT="compos.01" ID="10" KSNAME="ZERO1" LEMMA="ZERO" LINK="compos" PAFT=" " UNL="zero(icl&gt;digit&gt;thing)" DEF="DIGIT 0" TRANS="нуль">zero</W> 
@@ -1881,7 +1881,7 @@
 <W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="SCALE1" LEMMA="SCALE" LINK="1-compl" PAFT=" " UNL="scale(icl&gt;proportion&gt;thing) scale(icl&gt;proportion&gt;property,aoj&gt;thing)" DEF="">scale</W> 
 <W DOM="23" FEAT="PR" HYPOT="1-compl.07" ID="24" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="1" FEAT="NUM" ID="25" KSNAME="NUM-DECIM" LEMMA="0.15" LINK="fictit" PAFT=" ">0.15</W> 
-<W DOM="24" FEAT="S SG" HYPOT="prepos.01" ID="26" KSNAME="G" LEMMA="G" LINK="prepos" PAFT=" " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="">g</W> 
+<W DOM="24" FEAT="S SG" HYPOT="prepos.01" ID="26" KSNAME="G" LEMMA="G" LINK="prepos" PAFT=" " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="A METRIC UNIT OF WEIGHT EQUAL TO ONE THOUSANDTH OF A KILOGRAM" TRANS="г,гр">g</W> 
 <W DOM="26" FEAT="PR" HYPOT="attrib.01" ID="27" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="28" KSNAME="FRM1" LEMMA="A**" LINK="prepos" PAFT=" ">a**</W> 
 <W DOM="30" EXTRAFEAT="CAP-MIX STRICT_ABBR" FEAT="COM" HYPOT="compos.12" ID="29" KSNAME="FICT-COM" LEMMA="F-INITIAL" LINK="compos" MSNAME="F-INITIAL" PAFT=", ">f</W>, 

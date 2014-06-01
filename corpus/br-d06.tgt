@@ -9,7 +9,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="PAST1" LEMMA="PAST" LINK="prepos" PAFT=" ">past</W> 
 <W DOM="7" FEAT="NUM" HYPOT="quantit.10" ID="6" KSNAME="FIFTY" LEMMA="FIFTY" LINK="quantit" PAFT=" ">fifty</W> 
 <W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="YEAR" LEMMA="YEAR" LINK="1-compl" PAFT=", ">years</W>, 
-<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="2-compl.14" ID="8" KSNAME="COME" LEMMA="COME" LINK="2-compl" PAFT=" " UNL="come_out(icl&gt;occur,equ&gt;issue,obj&gt;thing)" DEF="">come</W> 
+<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="2-compl.14" ID="8" KSNAME="COME" LEMMA="COME" LINK="2-compl" PAFT=" " UNL="come_out(icl&gt;occur,equ&gt;issue,obj&gt;thing)" DEF="COME OUT OF" TRANS="выходить">come</W> 
 <W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="1-compl" PAFT=" ">out of</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="UNCERTAINTY" LEMMA="UNCERTAINTY" LINK="prepos" PAFT=" ">uncertainty</W> 
@@ -403,7 +403,7 @@
 <W DOM="30" FEAT="PR" HYPOT="quasiagent.10" ID="31" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="31" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="GOD" LEMMA="GOD" LINK="prepos" PAFT=", ">God</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="33" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="33" FEAT="V ING" HYPOT="analyt.11" ID="34" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="33" FEAT="V ING" HYPOT="analyt.11" ID="34" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="34" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="35" KSNAME="I" LEMMA="I" LINK="1-compl" PAFT=" ">me</W> 
 <W DOM="34" FEAT="PART" HYPOT="2-compl.12" ID="36" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="36" FEAT="V MF" HYPOT="prepos.16" ID="37" KSNAME="ACCEPT" LEMMA="ACCEPT" LINK="prepos" PAFT=" " UNL="accept(icl&gt;evaluate&gt;be,equ&gt;consider_true,src&gt;thing,obj&gt;information,aoj&gt;person)" DEF="CONSIDER OR HOLD AS TRUE" TRANS="принимать">accept</W> 
@@ -505,7 +505,7 @@
 <W DOM="8" FEAT="A SUP" HYPOT="modif.01" ID="7" KSNAME="GOOD1" LEMMA="GOOD" LINK="modif" PAFT=" ">best</W> 
 <W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="METHOD" LEMMA="METHOD" LINK="predic" PAFT=", ">method</W>, 
 <W DOM="10" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="9" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="LOOK1" LEMMA="LOOK" LINK="fictit" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="">looked</W> 
+<W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="LOOK1" LEMMA="LOOK" LINK="fictit" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться">looked</W> 
 <W DOM="10" FEAT="ADV" HYPOT="phras-junct.10" ID="11" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="10" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="1-compl.18" ID="12" KSNAME="WORD1" LEMMA="WORD" LINK="1-compl" PAFT=" &quot;">Word</W>" 
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="adverb.02" ID="13" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
@@ -1231,7 +1231,7 @@
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="SICK" LEMMA="SICK" LINK="modif" PAFT=" ">sick</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="ROOM" LEMMA="ROOM" LINK="1-compl" PAFT=", ">room</W>, 
-<W DOM="12" FEAT="V ING" HYPOT="coordin.01" ID="13" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="12" FEAT="V ING" HYPOT="coordin.01" ID="13" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="13" FEAT="PR" HYPOT="2-compl.02" ID="14" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="16" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="determ.13" ID="15" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">His</W> 
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="PRESENCE" LEMMA="PRESENCE" LINK="prepos" PAFT=" ">presence</W> 

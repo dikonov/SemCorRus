@@ -1397,7 +1397,7 @@
 <W DOM="12" FEAT="A" HYPOT="copulat.11" ID="14" KSNAME="INFECTIOUS" LEMMA="INFECTIOUS" LINK="copulat" PAFT=". " UNL="infectious(icl&gt;adj,ant&gt;noninfectious)" DEF="EASILY SPREAD" TRANS="заразный">infectious</W>. 
 </S>
 <S DATE="29 11 2010 20:10:18" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX\nSome nodes are not confirmed" ID="69" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j08.tgt;69" STATUS="doubt">
-<W DOM="17" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="AGENT2" LEMMA="AGENT" LINK="predic" PAFT=" " UNL="agent(icl&gt;causal_agent&gt;thing)" DEF="">Agents</W> 
+<W DOM="17" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="AGENT2" LEMMA="AGENT" LINK="predic" PAFT=" " UNL="agent(icl&gt;causal_agent&gt;abstract_thing)" DEF="AN ACTIVE CAUSE CAPABLE OF PRODUCING AN EFFECT" TRANS="причина">Agents</W> 
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="relat.01" ID="3" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">are</W> 
 <W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="KNOW" LEMMA="KNOW" LINK="pass-anal" PAFT=" ">known</W> 

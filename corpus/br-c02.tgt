@@ -385,7 +385,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="BUFF1" LEMMA="BUFF" LINK="predic" MSNAME="BUFF1" PAFT=" " UNL="buff(icl&gt;follower&gt;thing,equ&gt;fan)" DEF="">buff</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">could</W> 
 <W DOM="6" FEAT="ADV" HYPOT="restr.11" ID="5" KSNAME="HARDLY" LEMMA="HARDLY" LINK="restr" PAFT=" " UNL="hardly(icl&gt;how,equ&gt;barely)" DEF="BY A SMALL MARGIN" TRANS="едва">hardly</W> 
-<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="1-compl" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="1-compl" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="4" FEAT="PR" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="fictit" PAFT=" ">for</W> 
 <W DOM="7" FEAT="ADV COMP" HYPOT="prepos.17" ID="8" KSNAME="MORE" LEMMA="MORE" LINK="prepos" PAFT=". ">more</W>. 
 </S>
@@ -623,7 +623,7 @@
 <W DOM="14" FEAT="CONJ" HYPOT="coordin.10" ID="15" KSNAME="NOR" LEMMA="NOR" LINK="coordin" PAFT=" ">nor</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="INQUISITIVE" LEMMA="INQUISITIVE" LINK="modif" PAFT=" " UNL="inquisitive(icl&gt;adj)" DEF="INQUIRING OR APPEARING TO INQUIRE" TRANS="пытливый">inquisitive</W> 
-<W DOM="15" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="NEWCOMER" LEMMA="NEWCOMER" LINK="coord-conj" PAFT=". " UNL="newcomer(icl&gt;novice&gt;thing)" DEF="">newcomer</W>. 
+<W DOM="15" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="NEWCOMER" LEMMA="NEWCOMER" LINK="coord-conj" PAFT=". " UNL="newcomer(icl&gt;novice&gt;thing)" DEF="ANY NEW PARTICIPANT IN SOME ACTIVITY" TRANS="новичок">newcomer</W>. 
 </S>
 <S DATE="29 11 2010 19:55:04" ID="27" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-c02.tgt;27" STATUS="doubt">
 <W DOM="21" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">By</W> 
@@ -1292,7 +1292,7 @@
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="VARIOUS" LEMMA="VARIOUS" LINK="modif" PAFT=" ">various</W> 
 <W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif" PAFT=" ">national</W> 
-<W DOM="15" FEAT="S PL" HYPOT="predic.01" ID="14" KSNAME="BAND3" LEMMA="BAND" LINK="predic" PAFT=" " UNL="band(icl&gt;musical_organization&gt;thing,equ&gt;dance_band)" DEF="">bands</W> 
+<W DOM="15" FEAT="S PL" HYPOT="predic.01" ID="14" KSNAME="BAND3" LEMMA="BAND" LINK="predic" PAFT=" " UNL="band(icl&gt;musical_organization&gt;group,equ&gt;dance_band)" DEF="A GROUP OF MUSICIANS PLAYING POPULAR MUSIC FOR DANCING" TRANS="группа">bands</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="15" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
 <W DOM="15" FEAT="V ING" HYPOT="analyt.11" ID="16" KSNAME="MARCH1" LEMMA="MARCH" LINK="analyt" PAFT=" " UNL="march(icl&gt;walk(icl&gt;go)&gt;do,plt&gt;uw,plf&gt;uw,agt&gt;living_thing)" DEF="WALK WITH REGULAR OR MEASURED STEPS" TRANS="шагать">marching</W> 
 <W DOM="16" FEAT="PR" HYPOT="adverb.02" ID="17" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
@@ -1390,7 +1390,7 @@
 <W DOM="12" FEAT="PR" HYPOT="quasiagent.10" ID="13" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="NUM" HYPOT="quantit.10" ID="15" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" " UNL="two(icl&gt;digit&gt;thing) two(icl&gt;digit&gt;information)" DEF="">two</W> 
-<W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="prepos" PAFT=" " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speakers</W> 
+<W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="prepos" PAFT=" " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speakers</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="subord-conj.10" ID="17" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">are</W> 
 <W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="ALLOW" LEMMA="ALLOW" LINK="pass-anal" PAFT=" ">allowed</W> 
 <W DOM="18" FEAT="PART" HYPOT="1-compl.15" ID="19" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
@@ -1553,7 +1553,7 @@
 <W DOM="12" FEAT="V PP" HYPOT="subj-copr.01" ID="19" KSNAME="COMBINE1" LEMMA="COMBINE" LINK="subj-copr" PAFT=" " UNL="combine(icl&gt;add&gt;do,equ&gt;compound,cob&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="TO PUT OR ADD TOGETHER SEVERAL INDEPENDENT PARTS" TRANS="объединять">combined</W> 
 <W DOM="19" FEAT="PR" HYPOT="adverb.02" ID="20" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="23" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="MASTER1" LEMMA="MASTER" LINK="compos" PAFT=" " UNL="master(icl&gt;creation&gt;thing)" DEF="">master</W> 
+<W DOM="23" FEAT="S SG" HYPOT="compos.01" ID="22" KSNAME="MASTER1" LEMMA="MASTER" LINK="compos" PAFT=" " UNL="master(icl&gt;creation&gt;thing)" DEF="AN ORIGINAL CREATION (I.E., AN AUDIO RECORDING) FROM WHICH COPIES CAN BE MADE" TRANS="мастер,оригинал">master</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="TAPE1" LEMMA="TAPE" LINK="prepos" PAFT=" " UNL="tape(icl&gt;recording&gt;thing)" DEF="A RECORDING MADE ON MAGNETIC TAPE" TRANS="лента">tape</W> 
 <W DOM="19" FEAT="PART" HYPOT="adverb.11" ID="24" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="24" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="25" KSNAME="PRODUCE1" LEMMA="PRODUCE" LINK="prepos" PAFT=" ">produce</W> 

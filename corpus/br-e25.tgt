@@ -612,7 +612,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="COMMUTATOR" LEMMA="COMMUTATOR" LINK="prepos" PAFT=" " UNL="commutator(icl&gt;switch&gt;thing)" DEF="SWITCH FOR REVERSING THE DIRECTION OF AN ELECTRIC CURRENT" TRANS="коммутатор">commutator</W> 
 <W DOM="16" FEAT="PR" HYPOT="attrib.01" ID="17" KSNAME="LIKE1" LEMMA="LIKE" LINK="attrib" PAFT=" ">like</W> 
 <W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="ASSEMBLY" LEMMA="ASSEMBLY" LINK="prepos" PAFT=" ">assembly</W> 
-<W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="19" KSNAME="ROTATE" LEMMA="ROTATE" LINK="modif" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotated</W> 
+<W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="19" KSNAME="ROTATE" LEMMA="ROTATE" LINK="modif" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotated</W> 
 <W DOM="19" FEAT="PR" HYPOT="agent.10" ID="20" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.10" ID="21" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="23" FEAT="A" GRP="22,23" HYPOT="modif.01" ID="22" KSNAME="SYNCHRONOUS" LEMMA="SYNCHRONOUS" LINK="modif" PAFT=" ">synchronous</W> 
@@ -1668,7 +1668,7 @@
 <W DOM="4" FEAT="CONJ" GRP="4,5" HYPOT="compar.10" ID="5" KSNAME="THAN" LEMMA="THAN" LINK="compar" PAFT=" ">than</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="GASTROINTESTINAL" LEMMA="GASTROINTESTINAL" LINK="modif" PAFT=" " UNL="gastrointestinal(icl&gt;adj,com&gt;gastrointestinal_tract)" DEF="OF OR RELATING TO THE STOMACH AND INTESTINES" TRANS="гастроинтестинальный,желудочно-кишечный">gastrointestinal</W> 
-<W DOM="5" FEAT="S SG" HYPOT="comp-conj.10" ID="8" KSNAME="TRACT2" LEMMA="TRACT" LINK="comp-conj" PAFT=" " UNL="tract(icl&gt;system&gt;thing)" DEF="">tract</W> 
+<W DOM="5" FEAT="S SG" HYPOT="comp-conj.10" ID="8" KSNAME="TRACT2" LEMMA="TRACT" LINK="comp-conj" PAFT=" " UNL="tract(icl&gt;system&gt;thing,fld&gt;anatomy)" DEF="A SYSTEM OF BODY PARTS THAT TOGETHER SERVE SOME PARTICULAR PURPOSE" TRANS="тракт">tract</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="9" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="9" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="PLAN2" LEMMA="PLAN" LINK="pass-anal" PAFT=" " UNL="plan(icl&gt;cogitate&gt;do,agt&gt;volitional_thing,obj&gt;thing)" DEF="TO DEVISE OR PROJECT THE REALIZATION OR ACHIEVEMENT OF" TRANS="планировать">planned</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
@@ -1914,7 +1914,7 @@
 </S>
 <S DATE="29 11 2010 20:15:07" EXTRACOMM="Tagging contradicts ETAP parsing: AN1 - FRM1\nSome punctuation marks are not confirmed" ID="78" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e25.tgt;78" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="FOR2" LEMMA="FOR" PAFT=" ">For</W> 
-<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DISPLAY1" LEMMA="DISPLAY" LINK="predic" PAFT=", " UNL="display(icl&gt;demonstration&gt;thing)" DEF="">display</W>, 
+<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DISPLAY1" LEMMA="DISPLAY" LINK="predic" PAFT=", " UNL="display(icl&gt;demonstration&gt;thing)" DEF="SOMETHING INTENDED TO COMMUNICATE A PARTICULAR IMPRESSION" TRANS="демонстрация,показ">display</W>, 
 <W DOM="1" EXTRAFEAT="ALT CAP" FEAT="S SG" GRP="3,4" ID="3" KSNAME="FICT-S" LEMMA="DR" LINK="fictit" MSNAME="DR" PAFT=" ">Dr.</W> 
 <W DOM="3" FEAT="S SG" GRP="3,4" HYPOT="appos.03" ID="4" KSNAME="FRM-PROP" LEMMA="BAUM" LINK="appos" PAFT=" ">Baum</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="5" KSNAME="USE2" LEMMA="USE" LINK="subord-conj" PAFT=" ">uses</W> 
@@ -2093,7 +2093,7 @@
 <W DOM="7" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="TUB" LEMMA="TUB" LINK="prepos" PAFT=" " UNL="tub(icl&gt;vessel&gt;thing,equ&gt;bathtub)" DEF="A RELATIVELY LARGE OPEN CONTAINER THAT YOU FILL WITH WATER AND USE TO WASH THE BODY" TRANS="лохань">tub</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="8" FEAT="V ING" HYPOT="coord-conj.10" ID="9" KSNAME="ROTATE" LEMMA="ROTATE" LINK="coord-conj" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="">rotating</W> 
+<W DOM="8" FEAT="V ING" HYPOT="coord-conj.10" ID="9" KSNAME="ROTATE" LEMMA="ROTATE" LINK="coord-conj" PAFT=" " UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться">rotating</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="TRANSDUCER" LEMMA="TRANSDUCER" LINK="1-compl" PAFT=" " UNL="transducer(icl&gt;electrical_device&gt;thing)" DEF="AN ELECTRICAL DEVICE THAT CONVERTS ONE FORM OF ENERGY INTO ANOTHER" TRANS="преобразователь">transducer</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="adverb.10" ID="12" KSNAME="WHILE1" LEMMA="WHILE" LINK="adverb" PAFT=" ">while</W> 
@@ -2168,7 +2168,7 @@
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="V ING" HYPOT="modif.01" ID="14" KSNAME="SURROUND" LEMMA="SURROUND" LINK="modif" PAFT=" ">surrounding</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="WHITE1" LEMMA="WHITE" LINK="modif" PAFT=" ">white</W> 
-<W DOM="12" FEAT="S PL" HYPOT="coord-conj.10" ID="16" KSNAME="WALL1" LEMMA="WALL" LINK="coord-conj" PAFT=". " UNL="wall(icl&gt;stratum&gt;thing)" DEF="">walls</W>. 
+<W DOM="12" FEAT="S PL" HYPOT="coord-conj.10" ID="16" KSNAME="WALL1" LEMMA="WALL" LINK="coord-conj" PAFT=". " UNL="wall(icl&gt;stratum&gt;concrete_thing,fld&gt;anatomy)" DEF="A LAYER (A LINING OR MEMBRANE) THAT ENCLOSES A STRUCTURE" TRANS="стенка">walls</W>. 
 </S>
 <S DATE="29 11 2010 20:15:09" ID="87" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e25.tgt;87" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.10" ID="1" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">A</W> 

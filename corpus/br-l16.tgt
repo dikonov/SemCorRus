@@ -716,7 +716,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SPOT2" LEMMA="SPOT" PAFT=" " UNL="spot(icl&gt;sight&gt;do,equ&gt;descry,agt&gt;living_thing,obj&gt;thing,ins&gt;thing)" DEF="CATCH SIGHT OF" TRANS="увидеть,заметить">spotted</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="FRM-PROP" LEMMA="DOCHERTY" LINK="1-compl" PAFT=" ">Docherty</W> 
-<W DOM="3" FEAT="V ING" HYPOT="modif.01" ID="4" KSNAME="COME" LEMMA="COME" LINK="modif" PAFT=" " UNL="come_out(icl&gt;occur,equ&gt;issue,obj&gt;thing)" DEF="">coming</W> 
+<W DOM="3" FEAT="V ING" HYPOT="modif.01" ID="4" KSNAME="COME" LEMMA="COME" LINK="modif" PAFT=" " UNL="come_out(icl&gt;occur,equ&gt;issue,obj&gt;thing)" DEF="COME OUT OF" TRANS="выходить">coming</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="1-compl" PAFT=" ">out of</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="ROOM" LEMMA="ROOM" LINK="prepos" PAFT=" " UNL="room(icl&gt;area&gt;thing)" DEF="AN AREA WITHIN A BUILDING ENCLOSED BY WALLS AND FLOOR AND CEILING" TRANS="комната">room</W> 
@@ -1581,7 +1581,7 @@
 <W DOM="16" FEAT="S PL" HYPOT="1-compl.01" ID="18" KSNAME="FACE1" LEMMA="FACE" LINK="1-compl" PAFT="; " UNL="face(icl&gt;person&gt;thing)" DEF="A PART OF A PERSON THAT IS USED TO REFER TO A PERSON" TRANS="лицо">faces</W>; 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="21" FEAT="S POSS SG" HYPOT="posses.01" ID="20" KSNAME="ROOM" LEMMA="ROOM" LINK="posses" PAFT=" " UNL="room(icl&gt;area&gt;thing)" DEF="AN AREA WITHIN A BUILDING ENCLOSED BY WALLS AND FLOOR AND CEILING" TRANS="комната">room's</W> 
-<W DOM="22" FEAT="S PL" HYPOT="predic.01" ID="21" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="predic" PAFT=" " UNL="occupant(icl&gt;inhabitant&gt;thing,equ&gt;resident,ant&gt;nonresident)" DEF="">occupants</W> 
+<W DOM="22" FEAT="S PL" HYPOT="predic.01" ID="21" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="predic" PAFT=" " UNL="occupant(icl&gt;inhabitant&gt;person,equ&gt;resident,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="обитатель">occupants</W> 
 <W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="sent-coordin.01" ID="22" KSNAME="BE" LEMMA="BE" LINK="sent-coordin" PAFT=" ">were</W> 
 <W DOM="24" FEAT="ADV" HYPOT="restr.11" ID="23" KSNAME="STILL1" LEMMA="STILL" LINK="restr" PAFT=" " UNL="still(icl&gt;how,com&gt;duration)" DEF="WITHOUT CHANGE OR INTERRUPTION" TRANS="по-прежнему">still</W> 
 <W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="24" KSNAME="SEAT2" LEMMA="SEAT" LINK="pass-anal" PAFT=" " UNL="seat(icl&gt;make_sit_down&gt;do,plt&gt;thing,agt&gt;person,obj&gt;person)" DEF="ARRANGE FOR SOMEONE TO SIT SOMEWHERE" TRANS="сажать">seated</W> 
@@ -1620,7 +1620,7 @@
 <W DOM="11" FEAT="NUM" HYPOT="predic.01" ID="10" KSNAME="ONE1" LEMMA="ONE" LINK="predic" PAFT=" ">one</W> 
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="11" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="11" FEAT="S SG" HYPOT="copulat.10" ID="13" KSNAME="CLUB1" LEMMA="CLUB" LINK="copulat" PAFT="-" UNL="club(icl&gt;building&gt;thing,equ&gt;clubhouse)" DEF="">club</W>- 
+<W DOM="11" FEAT="S SG" HYPOT="copulat.10" ID="13" KSNAME="CLUB1" LEMMA="CLUB" LINK="copulat" PAFT="-" UNL="club(icl&gt;building&gt;functional_thing,equ&gt;clubhouse)" DEF="A BUILDING THAT IS OCCUPIED BY A SOCIAL CLUB" TRANS="клуб">club</W>- 
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="14" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="relat.01" ID="15" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">was</W> 
 <W DOM="15" FEAT="PR" HYPOT="copulat.13" ID="16" KSNAME="OUT2" LEMMA="OUT" LINK="copulat" PAFT="; ">out</W>; 
@@ -1820,7 +1820,7 @@
 </S>
 <S DATE="30 11 2010 10:37:23" ID="136" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-l16.tgt;136" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="7" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="predic" PAFT=" " UNL="occupant(icl&gt;inhabitant&gt;thing,equ&gt;resident,ant&gt;nonresident)" DEF="">occupants</W> 
+<W DOM="7" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="predic" PAFT=" " UNL="occupant(icl&gt;inhabitant&gt;person,equ&gt;resident,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="обитатель">occupants</W> 
 <W DOM="2" FEAT="PR" HYPOT="1-compl.07" ID="3" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="APARTMENT" LEMMA="APARTMENT" LINK="prepos" PAFT=" " UNL="apartment(icl&gt;housing&gt;thing)" DEF="A SUITE OF ROOMS USUALLY ON ONE FLOOR OF AN APARTMENT HOUSE" TRANS="квартира">Apartment</W> 
 <W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="appos.03" ID="5" KSNAME="NUMBER1" LEMMA="NUMBER" LINK="appos" PAFT=" " UNL="number(icl&gt;information,icl&gt;property&gt;abstract_thing,aoj&gt;thing)" DEF="A NUMERAL OR STRING OF NUMERALS THAT IS USED FOR IDENTIFICATION" TRANS="номер">Number</W> 
@@ -2072,7 +2072,7 @@
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="STREET" LEMMA="STREET" LINK="prepos" PAFT=" ">street</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.13" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="13" KSNAME="SIGNAL2" LEMMA="SIGNAL" LINK="coord-conj" PAFT=" " UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="">signal</W> 
+<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="13" KSNAME="SIGNAL2" LEMMA="SIGNAL" LINK="coord-conj" PAFT=" " UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="" TRANS="сигналить,давать сигнал">signal</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="15" KSNAME="COP1" LEMMA="COP" LINK="1-compl" PAFT=". " UNL="cop(icl&gt;policeman&gt;thing,equ&gt;bull)" DEF="UNCOMPLIMENTARY TERMS FOR A POLICEMAN" TRANS="мусор,мент,коп">cop</W>. 
 </S>

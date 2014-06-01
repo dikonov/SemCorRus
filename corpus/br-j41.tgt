@@ -239,7 +239,7 @@
 </S>
 <S DATE="30 11 2010 11:08:49" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="8" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_23\\br-j41.tgt;8">
 <W ID="1">In order to</W> 
-<W FEAT="V" ID="2" KSNAME="FOCUS1" LEMMA="FOCUS" UNL="focus(icl&gt;align&gt;do,equ&gt;concenter,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:31:01::">focus</W> 
+<W FEAT="V" ID="2" KSNAME="FOCUS1" LEMMA="FOCUS" UNL="focus(icl&gt;align&gt;do,equ&gt;concenter,agt&gt;thing,obj&gt;thing)" DEF="BRING INTO FOCUS OR ALIGNMENT" TRANS="сосредоточивать" WN21="2:31:01::">focus</W> 
 <W FEAT="ADV" ID="3" KSNAME="CLEARLY" LEMMA="CLEARLY" UNL="clearly(icl&gt;how,equ&gt;intelligibly,ant&gt;unintelligibly,com&gt;clear)" DEF="IN AN INTELLIGIBLE MANNER" TRANS="ясно" WN21="4:02:01::">clearly</W> 
 <W ID="4">upon</W> 
 <W FEAT="ART" ID="5" KSNAME="THE" LEMMA="THE">the</W> 
@@ -1848,7 +1848,7 @@
 <W FEAT="S" ID="4" KSNAME="REASON1" LEMMA="REASON" UNL="reason(icl&gt;rational_motive&gt;thing)" DEF="A RATIONAL MOTIVE FOR A BELIEF OR ACTION" TRANS="основание,причина" WN21="1:16:00::">reasons</W>, 
 <W FEAT="ART" ID="5" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="6" KSNAME="UNION" LEMMA="UNION" UNL="union(icl&gt;organization&gt;thing)" DEF="AN ORGANIZATION OF EMPLOYEES FORMED TO BARGAIN WITH THE EMPLOYER" TRANS="профсоюз" WN21="1:14:01::">union</W> 
-<W FEAT="V" ID="7" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="" WN21="2:32:01::">asks</W> 
+<W FEAT="V" ID="7" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить" WN21="2:32:01::">asks</W> 
 <W ID="8">for</W>( 
 <W DOM="10" FEAT="CONJ" GRP="9,10" ID="9" KSNAME="AND" LEMMA="AND" LINK="restr">and</W> 
 <W FEAT="V" GRP="9,10" GRPHEAD="" ID="10" KSNAME="ACCEPT" LEMMA="ACCEPT" UNL="accept(icl&gt;get&gt;do,equ&gt;take,agt&gt;volitional_thing,obj&gt;thing,cag&gt;thing)" DEF="TAKE SOMETHING GIVEN OR OFFERED" TRANS="принимать" WN21="2:40:00::">accepts</W>) 

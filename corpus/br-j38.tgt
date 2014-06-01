@@ -783,7 +783,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="THESE" LEMMA="THESE" LINK="determ" PAFT=" ">These</W> 
 <W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="SCHOOL1" LEMMA="SCHOOL" LINK="predic" PAFT=" ">schools</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
-<W DOM="3" FEAT="V PP" ID="4" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="3" FEAT="V PP" ID="4" KSNAME="INTEND1" LEMMA="INTEND" LINK="fictit" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="4" FEAT="PART" HYPOT="adverb.11" ID="5" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="5" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="PROVIDE" LEMMA="PROVIDE" LINK="prepos" PAFT=" " UNL="provide(icl&gt;equip&gt;do,cob&gt;thing,obj&gt;thing)" DEF="TO EQUIP OR FURNISH WITH" TRANS="снабжать">provide</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1205,7 +1205,7 @@
 <W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="12" FEAT="S SG" HYPOT="copulat.10" ID="14" KSNAME="FOCUS2" LEMMA="FOCUS" LINK="copulat" PAFT=" " UNL="focus(icl&gt;point&gt;abstract_thing,aoj&gt;thing,opl&gt;thing)" DEF="FOCAL POINT" TRANS="средоточие">focus</W> 
 <W DOM="14" FEAT="PR" HYPOT="1-compl.07" ID="15" KSNAME="ON1" LEMMA="ON" LINK="1-compl" PAFT=" ">on</W> 
-<W DOM="15" FEAT="V ING" HYPOT="prepos.01" ID="16" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serving</W> 
+<W DOM="15" FEAT="V ING" HYPOT="prepos.01" ID="16" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serving</W> 
 <W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="17" KSNAME="SOLELY" LEMMA="SOLELY" LINK="adverb" PAFT=" " UNL="solely(icl&gt;how,equ&gt;entirely,com&gt;sole)" DEF="WITHOUT ANY OTHERS BEING INCLUDED OR INVOLVED" TRANS="исключительно">solely</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="18" KSNAME="LOCAL1" LEMMA="LOCAL" LINK="modif" PAFT=" " UNL="local(icl&gt;adj,ant&gt;national)" DEF="RELATING TO OR APPLICABLE TO OR CONCERNED WITH THE ADMINISTRATION OF A CITY OR TOWN OR DISTRICT RATHER THAN A LARGER AREA" TRANS="местный">local</W> 
 <W DOM="20" FEAT="S SG" HYPOT="compos.01" ID="19" KSNAME="JOB1" LEMMA="JOB" LINK="compos" PAFT=" " UNL="job(icl&gt;activity&gt;thing,equ&gt;occupation)" DEF="THE PRINCIPAL ACTIVITY IN YOUR LIFE THAT YOU DO TO EARN MONEY" TRANS="работа,ремесло">job</W> 
@@ -1284,7 +1284,7 @@
 <W FEAT="S" ID="27" KSNAME="JOB1" LEMMA="JOB" UNL="job(icl&gt;activity&gt;thing,equ&gt;occupation)" DEF="THE PRINCIPAL ACTIVITY IN YOUR LIFE THAT YOU DO TO EARN MONEY" TRANS="работа,ремесло" WN21="1:04:00::">jobs</W>, 
 <W FEAT="CONJ" ID="28" KSNAME="AND" LEMMA="AND">and</W> 
 <W ID="29">of</W> 
-<W FEAT="V" ID="30" KSNAME="CONSULT" LEMMA="CONSULT" UNL="consult(icl&gt;discuss&gt;do,equ&gt;confer,agt&gt;person,cag&gt;person,scn&gt;thing)" DEF="" WN21="2:32:05::">consulting</W> 
+<W FEAT="V" ID="30" KSNAME="CONSULT" LEMMA="CONSULT" UNL="consult(icl&gt;discuss&gt;do,equ&gt;confer,agt&gt;person,cag&gt;person,scn&gt;thing)" DEF="HAVE A CONFERENCE IN ORDER TO TALK SOMETHING OVER" TRANS="совещаться" WN21="2:32:05::">consulting</W> 
 <W ID="31">with</W> 
 <W FEAT="A" ID="32" KSNAME="LOCAL1" LEMMA="LOCAL" UNL="local(icl&gt;adj,ant&gt;national)" DEF="RELATING TO OR APPLICABLE TO OR CONCERNED WITH THE ADMINISTRATION OF A CITY OR TOWN OR DISTRICT RATHER THAN A LARGER AREA" TRANS="местный" WN21="3:00:01::">local</W> 
 <W FEAT="S" ID="33" KSNAME="EMPLOYER" LEMMA="EMPLOYER" UNL="employer(icl&gt;leader&gt;thing,ant&gt;employee)" DEF="A PERSON OR FIRM THAT EMPLOYS WORKERS" TRANS="работодатель,наниматель" WN21="1:18:00::">employers</W> 
@@ -1343,7 +1343,7 @@
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="PROGRAMME2" LEMMA="PROGRAMME" LINK="1-compl" PAFT=" ">program</W> 
 <W DOM="10" FEAT="PR" HYPOT="1-compl.07" ID="11" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="11" FEAT="V ING" HYPOT="prepos.01" ID="12" KSNAME="PROJECT2" LEMMA="PROJECT" LINK="prepos" PAFT=" " UNL="project(icl&gt;plan&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">projecting</W> 
+<W DOM="11" FEAT="V ING" HYPOT="prepos.01" ID="12" KSNAME="PROJECT2" LEMMA="PROJECT" LINK="prepos" PAFT=" " UNL="project(icl&gt;plan&gt;do,agt&gt;thing,obj&gt;thing)" DEF="PRESENT FOR CONSIDERATION" TRANS="выдвигать">projecting</W> 
 <W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="INDUSTRY" LEMMA="INDUSTRY" LINK="1-compl" PAFT=" " UNL="industry(icl&gt;commercial_enterprise&gt;thing)" DEF="THE ORGANIZED ACTION OF MAKING OF GOODS AND SERVICES FOR SALE" TRANS="промышленность">industry</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="OCCUPATIONAL" LEMMA="OCCUPATIONAL" LINK="modif" PAFT=" " UNL="occupational(icl&gt;adj,com&gt;occupation)" DEF="OF OR RELATING TO THE ACTIVITY OR BUSINESS FOR WHICH YOU ARE TRAINED" TRANS="оккупационный">occupational</W> 

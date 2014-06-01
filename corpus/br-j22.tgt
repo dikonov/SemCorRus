@@ -30,7 +30,7 @@
 <W DOM="17" FEAT="NID" HYPOT="compos.01" ID="16" KSNAME="FICT-LEX" LEMMA="DIVISIVE" LINK="compos" PAFT=" ">divisive</W> 
 <W DOM="15" FEAT="S PL" HYPOT="prepos.01" ID="17" KSNAME="FORCE2" LEMMA="FORCE" LINK="prepos" PAFT=", ">forces</W>, 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="27" FEAT="S PL" HYPOT="predic.01" ID="19" KSNAME="GAP1" LEMMA="GAP" LINK="predic" PAFT=" " UNL="gap(icl&gt;disparity&gt;thing)" DEF="">gaps</W> 
+<W DOM="27" FEAT="S PL" HYPOT="predic.01" ID="19" KSNAME="GAP1" LEMMA="GAP" LINK="predic" PAFT=" " UNL="gap(icl&gt;disparity&gt;thing)" DEF="A CONSPICUOUS DISPARITY OR DIFFERENCE AS BETWEEN TWO FIGURES" TRANS="разрыв">gaps</W> 
 <W DOM="19" FEAT="PR" HYPOT="1-compl.07" ID="20" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="1-compl" PAFT=" ">between</W> 
 <W DOM="20" FEAT="S PL" HYPOT="prepos.01" ID="21" KSNAME="RULER2" LEMMA="RULER" LINK="prepos" PAFT=" " UNL="ruler(icl&gt;person&gt;thing)" DEF="">rulers</W> 
 <W DOM="21" FEAT="CONJ" HYPOT="coordin.10" ID="22" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -882,7 +882,7 @@
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="10" KSNAME="LIVE1" LEMMA="LIVE" PAFT=" ">live</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="13" FEAT="A" HYPOT="determ.13" ID="12" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
-<W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="13" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="prepos" PAFT=", " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="">illusions</W>, 
+<W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="13" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="prepos" PAFT=", " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="SOMETHING MANY PEOPLE BELIEVE THAT IS FALSE" TRANS="иллюзия">illusions</W>, 
 <W DOM="15" FEAT="S NOM PL" HYPOT="predic.01" ID="14" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
 <W DOM="28" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="1-compl.14" ID="15" KSNAME="CAN1" LEMMA="CAN" LINK="1-compl" PAFT=" ">can</W> 
 <W DOM="10" FEAT="V MF" ID="16" KSNAME="AFFORD" LEMMA="AFFORD" LINK="fictit" PAFT=" ">afford</W> 
@@ -1417,7 +1417,7 @@
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="16" FEAT="ADV" HYPOT="adverb.01" ID="15" KSNAME="VASTLY" LEMMA="VASTLY" LINK="adverb" PAFT=" " UNL="vastly(icl&gt;how,com&gt;vast)" DEF="TO AN EXCEEDINGLY GREAT EXTENT OR DEGREE" TRANS="страшно">vastly</W> 
 <W DOM="17" FEAT="V PP" HYPOT="modif.01" ID="16" KSNAME="INCREASE1" LEMMA="INCREASE" LINK="modif" PAFT=" ">increased</W> 
-<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="17" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="1-compl" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W> 
+<W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="17" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="1-compl" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W> 
 <W DOM="17" FEAT="PR" HYPOT="1-compl.07" ID="18" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="18" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="RESOURCE" LEMMA="RESOURCE" LINK="prepos" PAFT=". " UNL="resource(icl&gt;asset&gt;abstract_thing,obj&gt;uw)" DEF="" TRANS="ресурс">resources</W>. 
 </S>
@@ -2018,7 +2018,7 @@
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="SHORT1" LEMMA="SHORT" LINK="modif" PAFT=" ">short</W> 
 <W DOM="19" FEAT="CONJ" HYPOT="coordin.10" ID="20" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="22" FEAT="ADV" HYPOT="restr.12" ID="21" KSNAME="AT$LEAST" LEMMA="AT LEAST" LINK="restr" PAFT=" " UNL="at_least(icl&gt;how,ant&gt;at_most)" DEF="NOT LESS THAN" TRANS="не менее">at least</W> 
-<W DOM="20" FEAT="A" HYPOT="coord-conj.10" ID="22" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="coord-conj" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="">measurable</W> 
+<W DOM="20" FEAT="A" HYPOT="coord-conj.10" ID="22" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="coord-conj" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="CAPABLE OF BEING MEASURED" TRANS="измеримый">measurable</W> 
 <W DOM="18" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="DURATION" LEMMA="DURATION" LINK="prepos" PAFT=". " UNL="duration(icl&gt;time&gt;thing)" DEF="THE PROPERTY OF ENDURING OR CONTINUING IN TIME" TRANS="продолжительность,длительность">duration</W>. 
 </S>
 <S DATE="29 11 2010 20:15:56" ID="67" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_8\\br-j22.tgt;67" STATUS="doubt">

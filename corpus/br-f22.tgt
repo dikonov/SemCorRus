@@ -32,7 +32,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="NONE" LEMMA="NONE" LINK="predic" PAFT=" ">none</W> 
 <W DOM="2" FEAT="PR" HYPOT="elect.10" ID="3" KSNAME="OF" LEMMA="OF" LINK="elect" PAFT=" ">of</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="prepos" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;thing,ant&gt;nonresident)" DEF="">residents</W> 
+<W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="prepos" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;person,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="резидент,житель">residents</W> 
 <W DOM="24" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.14" ID="6" KSNAME="REALIZE" LEMMA="REALIZE" LINK="1-compl" PAFT=" ">realize</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="_root" FEAT="S SG" ID="8" KSNAME="INFLUENCE1" LEMMA="INFLUENCE" PAFT=" " UNL="influence(icl&gt;consequence&gt;thing)" DEF="THE EFFECT OF ONE THING (OR PERSON) ON ANOTHER" TRANS="влияние">influence</W> 
@@ -46,7 +46,7 @@
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="HISTORY" LEMMA="HISTORY" LINK="prepos" PAFT=", " UNL="history(icl&gt;past&gt;thing)" DEF="THE AGGREGATE OF PAST EVENTS" TRANS="история">history</W>, 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="17" FEAT="S PL" HYPOT="coord-conj.10" ID="19" KSNAME="DEED1" LEMMA="DEED" LINK="coord-conj" PAFT=" " UNL="deed(icl&gt;accomplishment&gt;thing)" DEF="">deeds</W> 
+<W DOM="17" FEAT="S PL" HYPOT="coord-conj.10" ID="19" KSNAME="DEED1" LEMMA="DEED" LINK="coord-conj" PAFT=" " UNL="deed(icl&gt;accomplishment&gt;thing)" DEF="A NOTABLE ACHIEVEMENT" TRANS="подвиг">deeds</W> 
 <W DOM="19" FEAT="PR" HYPOT="quasiagent.10" ID="20" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="20" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="VALOUR" LEMMA="VALOUR" LINK="prepos" PAFT=" ">valor</W> 
 <W DOM="23" FEAT="S SG" HYPOT="predic.01" ID="22" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
@@ -85,7 +85,7 @@
 <W DOM="18" FEAT="S PL" HYPOT="prepos.01" ID="20" KSNAME="NUMBER1" LEMMA="NUMBER" LINK="prepos" PAFT=" " UNL="number(icl&gt;abstract_thing,icl&gt;quantity,obj&gt;thing)" DEF="THE PROPERTY POSSESSED BY A SUM OR TOTAL OR INDEFINITE QUANTITY OF UNITS OR INDIVIDUALS" TRANS="число,количество">numbers</W> 
 <W DOM="20" FEAT="PR" HYPOT="quasiagent.10" ID="21" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="FRM-PROP" LEMMA="CHEYENNES" LINK="prepos" PAFT=", ">Cheyennes</W>, 
-<W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="23" KSNAME="SIOUX" LEMMA="SIOUX" LINK="coordin" PAFT=" " UNL="sioux(icl&gt;plains_indian&gt;thing)" DEF="">Sioux</W> 
+<W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="coordin.01" ID="23" KSNAME="SIOUX" LEMMA="SIOUX" LINK="coordin" PAFT=" " UNL="sioux(icl&gt;plains_indian&gt;person)" DEF="A MEMBER OF A GROUP OF NORTH AMERICAN INDIAN PEOPLES WHO SPOKE A SIOUAN LANGUAGE AND WHO RANGED FROM LAKE MICHIGAN TO THE ROCKY MOUNTAINS" TRANS="сиу">Sioux</W> 
 <W DOM="23" FEAT="CONJ" HYPOT="coordin.10" ID="24" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="24" FEAT="S SG" HYPOT="coord-conj.10" ID="25" KSNAME="FRM-PROP" LEMMA="APACHES" LINK="coord-conj" PAFT=", ">Apaches</W>, 
 <W DOM="30" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="MEXICAN1" LEMMA="MEXICAN" LINK="modif" PAFT=" " UNL="mexican(icl&gt;adj,com&gt;mexico)" DEF="OF OR RELATING TO MEXICO OR ITS INHABITANTS" TRANS="мексиканский">Mexican</W> 
@@ -218,7 +218,7 @@
 <W DOM="16" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="CHANDLER" LEMMA="CHANDLER" LINK="predic" MSNAME="CHANDLER" PAFT=" ">Chandler</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="16" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="16" FEAT="S SG" HYPOT="copulat.10" ID="18" KSNAME="EPITOME" LEMMA="EPITOME" LINK="copulat" PAFT=" " UNL="epitome(icl&gt;model&gt;thing,equ&gt;prototype)" DEF="">epitome</W> 
+<W DOM="16" FEAT="S SG" HYPOT="copulat.10" ID="18" KSNAME="EPITOME" LEMMA="EPITOME" LINK="copulat" PAFT=" " UNL="epitome(icl&gt;model&gt;thing,equ&gt;prototype)" DEF="A STANDARD OR TYPICAL EXAMPLE" TRANS="образец">epitome</W> 
 <W DOM="18" FEAT="PR" HYPOT="1-compl.07" ID="19" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">old</W> 
@@ -471,7 +471,7 @@
 <S DATE="29 11 2010 20:23:17" EXTRACOMM="Tagging contradicts ETAP parsing:  - EARLY1,EARLY2" ID="20" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f22.tgt;20" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="BUT1" LEMMA="BUT" PAFT=" ">But</W> 
 <W DOM="5" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="5" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,equ&gt;inaugural)" DEF="">first</W> 
+<W DOM="5" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="FIRST1" LEMMA="FIRST" LINK="modif" PAFT=" " UNL="first(icl&gt;adj,equ&gt;inaugural)" DEF="SERVING TO SET IN MOTION" TRANS="начальный">first</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="FEW1" LEMMA="FEW" LINK="modif" PAFT=" ">few</W> 
 <W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="DAY" LEMMA="DAY" LINK="predic" PAFT=" " UNL="day(icl&gt;period&gt;time,icl&gt;unit)" DEF="MEASURE OF TIME" TRANS="день">days</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
@@ -857,7 +857,7 @@
 <W DOM="25" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="CENTURY1" LEMMA="CENTURY" LINK="prepos" PAFT=" " UNL="century(icl&gt;period&gt;time,com&gt;calendar)" DEF="A PARTICULAR PERIOD IN HISTORY" TRANS="век">century</W> 
 <W DOM="27" FEAT="PR" HYPOT="attrib.01" ID="28" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="28" FEAT="S PL" HYPOT="prepos.01" ID="30" KSNAME="STRAIN2" LEMMA="STRAIN" LINK="prepos" PAFT=" " UNL="strain(icl&gt;music&gt;thing,equ&gt;tune)" DEF="">strains</W> 
+<W DOM="28" FEAT="S PL" HYPOT="prepos.01" ID="30" KSNAME="STRAIN2" LEMMA="STRAIN" LINK="prepos" PAFT=" " UNL="strain(icl&gt;music&gt;thing,equ&gt;tune)" DEF="A SUCCESSION OF NOTES FORMING A DISTINCTIVE SEQUENCE" TRANS="напев,мелодия">strains</W> 
 <W DOM="30" FEAT="PR" HYPOT="quasiagent.10" ID="31" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="34" FEAT="ART" HYPOT="determ.10" ID="32" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="34" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="33" KSNAME="IRISH1" LEMMA="IRISH" LINK="modif" PAFT=" " UNL="irish(icl&gt;adj,com&gt;ireland)" DEF="OF OR RELATING TO OR CHARACTERISTIC OF IRELAND OR ITS PEOPLE" TRANS="ирландский">Irish</W> 
@@ -950,7 +950,7 @@
 <W DOM="17" FEAT="PR" HYPOT="3-compl.01" ID="19" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="3-compl" PAFT=" ">about</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="NID" HYPOT="compos.01" ID="21" KSNAME="FICT-LEX" LEMMA="OULD" LINK="compos" PAFT=" " UNL="old(icl&gt;adj,ant&gt;new)" DEF="NOT NEW" TRANS="старый">ould</W> 
-<W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="SOD1" LEMMA="SOD" LINK="prepos" PAFT=", " UNL="sod(icl&gt;land&gt;thing,equ&gt;turf)" DEF="">sod</W>, 
+<W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="SOD1" LEMMA="SOD" LINK="prepos" PAFT=", " UNL="sod(icl&gt;land&gt;thing,equ&gt;turf)" DEF="SURFACE LAYER OF GROUND CONTAINING A MAT OF GRASS AND GRASS ROOTS" TRANS="дерн">sod</W>, 
 <W DOM="25" FEAT="S SG" HYPOT="predic.01" ID="23" KSNAME="NO$ONE" LEMMA="NO ONE" LINK="predic" PAFT=" ">no one</W> 
 <W DOM="25" FEAT="ADV" HYPOT="adverb.01" ID="24" KSNAME="REALLY" LEMMA="REALLY" LINK="adverb" PAFT=" " UNL="really(icl&gt;how,equ&gt;truly,com&gt;real)" DEF="IN ACCORDANCE WITH TRUTH OR FACT OR REALITY" TRANS="действительно,поистине">really</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="25" KSNAME="THINK" LEMMA="THINK" PAFT=" " UNL="think(icl&gt;be,equ&gt;believe,cob&gt;uw,obj&gt;uw,aoj&gt;person)" DEF="TO HAVE A PARTICULAR OPINION OR JUDGEMENT" TRANS="думать">thought</W> 
@@ -1075,7 +1075,7 @@
 <W DOM="10" FEAT="PR" HYPOT="2-compl.02" ID="11" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="AIRBORNE" LEMMA="AIRBORNE" LINK="modif" PAFT=" " UNL="airborne(icl&gt;adj)" DEF="MOVED OR CONVEYED BY OR THROUGH AIR" TRANS="воздушный">airborne</W> 
-<W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=", " UNL="division(icl&gt;army_unit&gt;thing)" DEF="">division</W>, 
+<W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="DIVISION3" LEMMA="DIVISION" LINK="prepos" PAFT=", " UNL="division(icl&gt;army_unit&gt;thing,fld&gt;army)" DEF="AN ARMY UNIT LARGE ENOUGH TO SUSTAIN COMBAT" TRANS="дивизия">division</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="15" KSNAME="GO1" LEMMA="GO" PAFT=" " UNL="go_out(icl&gt;leave&gt;occur,obj&gt;thing)" DEF="">went</W> 
 <W DOM="15" FEAT="ADV" HYPOT="phras-junct.13" ID="16" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="15" FEAT="PR" HYPOT="2-compl.02" ID="17" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 
@@ -1556,7 +1556,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="CARROLL" LEMMA="CARROLL" LINK="1-compl" PAFT=" ">Carroll</W> 
 <W DOM="3" FEAT="PR" HYPOT="attrib.01" ID="4" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;part&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=" " UNL="bottom(icl&gt;part&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWEST PART OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="HILL1" LEMMA="HILL" LINK="prepos" PAFT=" " UNL="hill(icl&gt;natural_elevation&gt;thing)" DEF="A LOCAL AND WELL-DEFINED ELEVATION OF THE LAND" TRANS="холм">hill</W> 
@@ -1594,7 +1594,7 @@
 <W DOM="10" FEAT="ADV" GRP="10,11" HYPOT="parenth.00" ID="11" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
 <W DOM="10" FEAT="PR" HYPOT="coord-conj.10" ID="12" KSNAME="INTO" LEMMA="INTO" LINK="coord-conj" PAFT=" ">into</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.10" ID="13" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="RUN2" LEMMA="RUN" LINK="prepos" PAFT=". " UNL="run(icl&gt;locomotion&gt;thing)" DEF="">run</W>. 
+<W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="RUN2" LEMMA="RUN" LINK="prepos" PAFT=". " UNL="run(icl&gt;locomotion&gt;thing)" DEF="THE ACT OF RUNNING" TRANS="бег">run</W>. 
 </S>
 <S DATE="29 11 2010 20:23:29" ID="75" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f22.tgt;75" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -1631,7 +1631,7 @@
 </S>
 <S DATE="29 11 2010 20:23:29" EXTRACOMM="Tagging contradicts ETAP parsing: CAVALRYMAN - CAVALRYMAN" ID="77" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f22.tgt;77" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="KOREAN2" LEMMA="KOREAN" LINK="predic" PAFT=" " UNL="korean(icl&gt;asian&gt;thing)" DEF="">Koreans</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="KOREAN2" LEMMA="KOREAN" LINK="predic" PAFT=" " UNL="korean(icl&gt;asian&gt;person)" DEF="A NATIVE OR INHABITANT OF KOREA WHO SPEAKS THE KOREAN LANGUAGE" TRANS="кореец">Koreans</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="FALL2" LEMMA="FALL" PAFT=" " UNL="fall_back(icl&gt;follow&gt;occur,equ&gt;lag,obj&gt;thing)" DEF="">fell</W> 
 <W DOM="3" FEAT="ADV" HYPOT="phras-junct.13" ID="4" KSNAME="BACK1" LEMMA="BACK" LINK="phras-junct" PAFT=", ">back</W>, 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.13" ID="5" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
@@ -1760,7 +1760,7 @@
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="HEAD1" LEMMA="HEAD" LINK="prepos" PAFT=" " UNL="head(icl&gt;external_body_part&gt;thing)" DEF="THE UPPER PART OF THE HUMAN BODY OR THE FRONT PART OF THE BODY IN ANIMALS" TRANS="голова">head</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.13" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="DETONATE" LEMMA="DETONATE" LINK="coord-conj" PAFT=" " UNL="detonate(icl&gt;change_integrity&gt;do,equ&gt;explode,agt&gt;thing,obj&gt;thing)" DEF="">detonated</W> 
+<W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="11" KSNAME="DETONATE" LEMMA="DETONATE" LINK="coord-conj" PAFT=" " UNL="detonate(icl&gt;change_integrity&gt;do,equ&gt;explode,agt&gt;thing,obj&gt;thing)" DEF="CAUSE TO BURST WITH A VIOLENT RELEASE OF ENERGY" TRANS="детонировать">detonated</W> 
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="SIMULTANEOUSLY" LEMMA="SIMULTANEOUSLY" LINK="adverb" PAFT=". " UNL="simultaneously(icl&gt;how,com&gt;simultaneous)" DEF="AT THE SAME INSTANT" TRANS="одновременно">simultaneously</W>. 
 </S>
 <S DATE="29 11 2010 20:23:30" EXTRACOMM="Tagging contradicts ETAP parsing:  - ENEMY" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f22.tgt;83" STATUS="doubt">
@@ -1900,7 +1900,7 @@
 <S DATE="29 11 2010 20:23:31" ID="93" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f22.tgt;93" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">Then</W> 
 <W DOM="3" FEAT="S NOM PL" HYPOT="predic.01" ID="2" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="LET" LEMMA="LET" PAFT=" " UNL="let_out(icl&gt;do,equ&gt;utter,agt&gt;thing,obj&gt;thing)" DEF="">let</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="LET" LEMMA="LET" PAFT=" " UNL="let_out(icl&gt;do,equ&gt;utter,agt&gt;thing,obj&gt;thing)" DEF="EXPRESS AUDIBLY" TRANS="издавать">let</W> 
 <W DOM="3" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="BELLOW1" LEMMA="BELLOW" LINK="1-compl" PAFT=" " UNL="bellow(icl&gt;cry&gt;thing)" DEF="">bellow</W> 
@@ -1991,7 +1991,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="1" KSNAME="ARTILLERY" LEMMA="ARTILLERY" LINK="compos" PAFT=" " UNL="artillery(icl&gt;army_unit&gt;thing)" DEF="AN ARMY UNIT THAT USES BIG GUNS" TRANS="артиллерия">Artillery</W> 
 <W DOM="1" FEAT="CONJ" HYPOT="coordin.10" ID="2" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="2" FEAT="S SG" HYPOT="coord-conj.10" ID="3" KSNAME="AIR1" LEMMA="AIR" LINK="coord-conj" PAFT=" ">air</W> 
-<W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="STRIKE2" LEMMA="STRIKE" LINK="predic" PAFT=" " UNL="strike(icl&gt;attack&gt;thing)" DEF="">strikes</W> 
+<W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="STRIKE2" LEMMA="STRIKE" LINK="predic" PAFT=" " UNL="strike(icl&gt;attack&gt;do,agt&gt;thing,obj&gt;thing)" DEF="MAKE A STRATEGIC, OFFENSIVE, ASSAULT AGAINST AN ENEMY, OPPONENT, OR A TARGET" TRANS="нападать">strikes</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="CALL2" LEMMA="CALL" LINK="pass-anal" PAFT=" ">called</W> 
 <W DOM="6" FEAT="ADV" HYPOT="phras-junct.10" ID="7" KSNAME="IN2" LEMMA="IN" LINK="phras-junct" PAFT=" ">in</W> 
@@ -2231,7 +2231,7 @@
 <W DOM="22" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.07" ID="24" KSNAME="RENO" LEMMA="RENO" LINK="predic" PAFT=" ">Reno</W> 
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="25" KSNAME="LEAVE1" LEMMA="LEAVE" LINK="relat" PAFT=" ">leave</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.11" ID="26" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="25" FEAT="S SG" HYPOT="1-compl.01" ID="27" KSNAME="BATTLEFIELD" LEMMA="BATTLEFIELD" LINK="1-compl" MSNAME="BATTLEFIELD" PAFT=" " UNL="battlefield(icl&gt;tract&gt;thing)" DEF="">battlefield</W> 
+<W DOM="25" FEAT="S SG" HYPOT="1-compl.01" ID="27" KSNAME="BATTLEFIELD" LEMMA="BATTLEFIELD" LINK="1-compl" MSNAME="BATTLEFIELD" PAFT=" " UNL="battlefield(icl&gt;tract&gt;thing)" DEF="A REGION WHERE A BATTLE IS BEING (OR HAS BEEN) FOUGHT" TRANS="поле сражения">battlefield</W> 
 <W DOM="27" FEAT="CONJ" HYPOT="coordin.10" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.11" ID="29" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="28" FEAT="S SG" HYPOT="coord-conj.10" ID="30" KSNAME="OFFICER" LEMMA="OFFICER" LINK="coord-conj" PAFT=" " UNL="officer(icl&gt;serviceman&gt;thing,equ&gt;military_officer)" DEF="ANY PERSON IN THE ARMED SERVICES WHO HOLDS A POSITION OF AUTHORITY OR COMMAND" TRANS="армейский офицер,офицер">officer</W> 
@@ -2250,7 +2250,7 @@
 <W DOM="42" FEAT="V PP" HYPOT="pass-anal.10" ID="43" KSNAME="TORTURE2" LEMMA="TORTURE" LINK="pass-anal" PAFT=" " UNL="torture(icl&gt;injure&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">tortured</W> 
 <W DOM="43" FEAT="PR" HYPOT="agent.10" ID="44" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="46" FEAT="ART" HYPOT="determ.11" ID="45" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="44" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="46" KSNAME="SIOUX" LEMMA="SIOUX" LINK="prepos" PAFT=", " UNL="sioux(icl&gt;plains_indian&gt;thing)" DEF="">Sioux</W>, 
+<W DOM="44" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="46" KSNAME="SIOUX" LEMMA="SIOUX" LINK="prepos" PAFT=", " UNL="sioux(icl&gt;plains_indian&gt;person)" DEF="A MEMBER OF A GROUP OF NORTH AMERICAN INDIAN PEOPLES WHO SPOKE A SIOUAN LANGUAGE AND WHO RANGED FROM LAKE MICHIGAN TO THE ROCKY MOUNTAINS" TRANS="сиу">Sioux</W>, 
 <W DOM="43" FEAT="V PP" HYPOT="coordin.02" ID="47" KSNAME="REFUSE1" LEMMA="REFUSE" LINK="coordin" PAFT=" " UNL="refuse(icl&gt;affirm&gt;do,agt&gt;volitional_thing,obj&gt;uw,rec&gt;thing)" DEF="TO EXPRESS UNWILLINGNESS TO DO SOMETHING" TRANS="отказываться">refused</W> 
 <W DOM="47" FEAT="PART" HYPOT="1-compl.15" ID="48" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="48" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="49" KSNAME="SAY" LEMMA="SAY" LINK="prepos" PAFT=" " UNL="say(icl&gt;communicate&gt;do,equ&gt;tell,agt&gt;person,obj&gt;uw,cao&gt;thing,rec&gt;volitional_thing)" DEF="COMMUNICATE SMTH USING WORDS" TRANS="сказать">say</W> 
@@ -2390,7 +2390,7 @@
 <W FEAT="V" ID="8" KSNAME="COMMAND2" LEMMA="COMMAND" UNL="command(icl&gt;lead&gt;do,agt&gt;person,obj&gt;volitional_thing,rec&gt;thing)" DEF="GIVE ORDERS; ESP. TO A GROUP OF PEOPLE IN THE ARMY" TRANS="командовать" WN21="2:32:01::">commanding</W> 
 <W FEAT="ART" ID="9" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="A" ID="10" KSNAME="FULL1" LEMMA="FULL" UNL="full(icl&gt;adj,equ&gt;entire)" DEF="CONSTITUTING THE FULL QUANTITY OR EXTENT" TRANS="полный,исчерпывающий" WN21="5:00:01:whole:">full</W> 
-<W FEAT="S SG" ID="11" KSNAME="DIVISION3" LEMMA="DIVISION" UNL="division(icl&gt;army_unit&gt;thing)" DEF="" WN21="1:14:00::">division</W>, 
+<W FEAT="S SG" ID="11" KSNAME="DIVISION3" LEMMA="DIVISION" UNL="division(icl&gt;army_unit&gt;thing,fld&gt;army)" DEF="AN ARMY UNIT LARGE ENOUGH TO SUSTAIN COMBAT" TRANS="дивизия" WN21="1:14:00::">division</W>, 
 <W FEAT="CONJ" ID="12" KSNAME="AND" LEMMA="AND">and</W> 
 <W ID="13">at</W> 
 <W FEAT="NUM" ID="14" KSNAME="NUM-LARGE" LEMMA="25">25</W> 

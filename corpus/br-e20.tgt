@@ -2204,7 +2204,7 @@
 <W DOM="_root" EXTRAFEAT="ALT FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">'s</W> 
 <W DOM="4" FEAT="A" HYPOT="determ.13" ID="3" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" ">no</W> 
 <W DOM="5" FEAT="S SG" HYPOT="compos.02" ID="4" KSNAME="USE1" LEMMA="USE" LINK="compos" PAFT=" ">use</W> 
-<W DOM="1" FEAT="V ING" HYPOT="explet.10" ID="5" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="explet" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;thing,gol&gt;uw)" DEF="">pretending</W> 
+<W DOM="1" FEAT="V ING" HYPOT="explet.10" ID="5" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="explet" PAFT=" " UNL="pretend(icl&gt;feign&gt;do,agt&gt;living_thing,obj&gt;uw)" DEF="TO BEHAVE IN A PARTICULAR WAY WITH THE INTENT TO DECEIVE SOMEONE" TRANS="притворяться">pretending</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="1-compl.21" ID="6" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
 <W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="8" KSNAME="CONDITIONER" LEMMA="CONDITIONER" LINK="predic" PAFT=" ">conditioners</W> 

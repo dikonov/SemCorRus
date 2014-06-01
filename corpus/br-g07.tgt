@@ -430,7 +430,7 @@
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="9" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="8,9" HYPOT="modif.01" ID="8" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">New</W> 
 <W DOM="6" FEAT="S SG" GRP="8,9" HYPOT="descr-appos.01" ID="9" KSNAME="FRM-PROP" LEMMA="ENGLANDER" LINK="descr-appos" PAFT=" ">Englander</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="TRANSPLANT1" LEMMA="TRANSPLANT" PAFT=" " UNL="transplant(icl&gt;displace&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="">transplanted</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="10" KSNAME="TRANSPLANT1" LEMMA="TRANSPLANT" PAFT=" " UNL="transplant(icl&gt;displace&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;concrete_thing)" DEF="LIFT AND RESET IN ANOTHER SOIL OR SITUATION" TRANS="переносить">transplanted</W> 
 <W DOM="10" FEAT="PR" HYPOT="2-compl.02" ID="11" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="PHILADELPHIA" LEMMA="PHILADELPHIA" LINK="prepos" PAFT=", ">Philadelphia</W>, 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="13" KSNAME="WRITE" LEMMA="WRITE" LINK="coordin" PAFT=" ">wrote</W> 
@@ -2171,7 +2171,7 @@
 <W DOM="1" FEAT="CONJ" ID="20" KSNAME="AS1" LEMMA="AS" LINK="fictit" PAFT=" ">as</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="S SG" HYPOT="compos.02" ID="22" KSNAME="SERPENT" LEMMA="SERPENT" LINK="compos" PAFT=" ">serpent</W> 
-<W DOM="1" FEAT="V ING" ID="23" KSNAME="CREEP2" LEMMA="CREEP" LINK="fictit" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">creeping</W> 
+<W DOM="1" FEAT="V ING" ID="23" KSNAME="CREEP2" LEMMA="CREEP" LINK="fictit" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">creeping</W> 
 <W DOM="23" FEAT="PR" HYPOT="adverb.02" ID="24" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="26" FEAT="A" HYPOT="modif.04" ID="25" KSNAME="HIS1" LEMMA="HIS" LINK="modif" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="24" FEAT="A" HYPOT="prepos.01" ID="26" KSNAME="DEADLY1" LEMMA="DEADLY" LINK="prepos" PAFT=" ">deadly</W> 

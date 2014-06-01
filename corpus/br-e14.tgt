@@ -29,7 +29,7 @@
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="prepos.01" ID="8" KSNAME="NEXT1" LEMMA="NEXT" LINK="prepos" PAFT=" ">next</W> 
 <W DOM="8" FEAT="PART" HYPOT="attrib.15" ID="9" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" LINK="prepos" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="">sprinkle</W> 
+<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" LINK="prepos" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="DISTRIBUTE LOOSELY" TRANS="разбрасывать">sprinkle</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="OVER1" LEMMA="OVER" LINK="adverb" PAFT=" ">over</W> 
 <W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="COAL1" LEMMA="COAL" LINK="prepos" PAFT=" ">coals</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="adverb.10" ID="13" KSNAME="IF" LEMMA="IF" LINK="adverb" PAFT=" ">if</W> 
@@ -2058,7 +2058,7 @@
 <S DATE="29 11 2010 20:51:52" ID="120" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_41\\br-e14.tgt;120" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="IF" LEMMA="IF" LINK="adverb" PAFT=" ">If</W> 
 <W DOM="1" FEAT="V PP" HYPOT="absol-conj.10" ID="2" KSNAME="DESIRE1" LEMMA="DESIRE" LINK="absol-conj" PAFT=", " UNL="desire(icl&gt;want&gt;be,cob&gt;thing,obj&gt;uw,aoj&gt;person)" DEF="FEEL OR HAVE A DESIRE FOR" TRANS="желать">desired</W>, 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="">sprinkle</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="SPRINKLE2" LEMMA="SPRINKLE" PAFT=" " UNL="sprinkle(icl&gt;discharge&gt;do,equ&gt;scatter,agt&gt;thing,obj&gt;concrete_thing)" DEF="DISTRIBUTE LOOSELY" TRANS="разбрасывать">sprinkle</W> 
 <W DOM="3" FEAT="PR" HYPOT="2-compl.02" ID="4" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="6" FEAT="NUM" HYPOT="quantit.10" ID="5" KSNAME="NUM-ONE" LEMMA="1" LINK="quantit" PAFT=" ">1</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="TEASPOON" LEMMA="TEASPOON" LINK="prepos" MSNAME="TEASPOON" PAFT=" ">teaspoon</W> 

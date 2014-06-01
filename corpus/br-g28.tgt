@@ -1020,7 +1020,7 @@
 <W DOM="32" FEAT="S PL" ID="25" KSNAME="PROBLEM" LEMMA="PROBLEM" LINK="fictit" PAFT=" " UNL="problem(icl&gt;difficulty&gt;abstract_thing,obj&gt;thing)" DEF="A STATE OF DIFFICULTY THAT NEEDS TO BE RESOLVED" TRANS="проблема">problems</W> 
 <W DOM="23" FEAT="S NOM SG" HYPOT="coord-conj.10" ID="26" KSNAME="HE1" LEMMA="HE" LINK="coord-conj" PAFT=" ">he</W> 
 <W DOM="32" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="27" KSNAME="HAVE" LEMMA="HAVE" LINK="fictit" PAFT=" ">has</W> 
-<W DOM="27" FEAT="V PP" HYPOT="analyt.12" ID="28" KSNAME="DEVIATE" LEMMA="DEVIATE" LINK="analyt" PAFT=" " UNL="deviate(icl&gt;differ&gt;occur,obj&gt;thing)" DEF="">deviated</W> 
+<W DOM="27" FEAT="V PP" HYPOT="analyt.12" ID="28" KSNAME="DEVIATE" LEMMA="DEVIATE" LINK="analyt" PAFT=" " UNL="deviate(icl&gt;differ&gt;occur,obj&gt;thing)" DEF="BE AT VARIANCE WITH" TRANS="отклоняться">deviated</W> 
 <W DOM="28" FEAT="PR" HYPOT="2-compl.02" ID="29" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="31" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="PATTERN1" LEMMA="PATTERN" LINK="prepos" PAFT=" " UNL="pattern(icl&gt;practice&gt;thing,equ&gt;convention)" DEF="SOMETHING REGARDED AS A NORMATIVE EXAMPLE" TRANS="образец">pattern</W> 
@@ -1592,7 +1592,7 @@
 <W DOM="9" FEAT="PR" HYPOT="2-collig-compl.10" ID="10" KSNAME="FOR1" LEMMA="FOR" LINK="2-collig-compl" PAFT=" ">for</W> 
 <W DOM="8" FEAT="ART" ID="11" KSNAME="AN1" LEMMA="AN" LINK="fictit" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="NATURAL1" LEMMA="NATURAL" LINK="modif" PAFT=" " UNL="natural(icl&gt;adj,ant&gt;artificial)" DEF="EXISTING IN OR PRODUCED BY NATURE" TRANS="природный,натуральный">natural</W> 
-<W DOM="8" FEAT="S SG" ID="13" KSNAME="ROBUSTNESS" LEMMA="ROBUSTNESS" LINK="fictit" PAFT=" " UNL="robustness(icl&gt;strength&gt;thing)" DEF="">robustness</W> 
+<W DOM="8" FEAT="S SG" ID="13" KSNAME="ROBUSTNESS" LEMMA="ROBUSTNESS" LINK="fictit" PAFT=" " UNL="robustness(icl&gt;strength&gt;thing)" DEF="THE PROPERTY OF BEING STRONG AND HEALTHY IN CONSTITUTION" TRANS="прочность">robustness</W> 
 <W DOM="13" FEAT="A" GRP="14,15" HYPOT="descr-modif.01" ID="14" KSNAME="SUCH" LEMMA="SUCH" LINK="descr-modif" PAFT=" ">such</W> 
 <W DOM="14" FEAT="CONJ" GRP="14,15" HYPOT="compar.10" ID="15" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
 <W DOM="17" FEAT="S NOM SG" HYPOT="predic.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -1778,7 +1778,7 @@
 <W DOM="74" FEAT="ADV COMP" HYPOT="adverb.01" ID="75" KSNAME="MORE" LEMMA="MORE" LINK="adverb" PAFT=" ">more</W> 
 <W DOM="77" EXTRAFEAT="CMP" FEAT="COM" HYPOT="compos.12" ID="76" KSNAME="UN2" LEMMA="UN" LINK="compos">un</W>
 <W DOM="78" FEAT="A" HYPOT="modif.01" ID="77" KSNAME="MALICIOUS" LEMMA="MALICIOUS" LINK="modif" PAFT=" ">malicious</W> 
-<W DOM="74" FEAT="S SG" HYPOT="1-compl.01" ID="78" KSNAME="MISCHIEF" LEMMA="MISCHIEF" LINK="1-compl" PAFT=" " UNL="mischief(icl&gt;misbehavior&gt;thing)" DEF="">mischief</W> 
+<W DOM="74" FEAT="S SG" HYPOT="1-compl.01" ID="78" KSNAME="MISCHIEF" LEMMA="MISCHIEF" LINK="1-compl" PAFT=" " UNL="mischief(icl&gt;misbehavior&gt;thing)" DEF="RECKLESS OR MALICIOUS BEHAVIOR THAT CAUSES DISCOMFORT OR ANNOYANCE IN OTHERS" TRANS="проказничание,проказы">mischief</W> 
 <W DOM="78" FEAT="CONJ" HYPOT="coordin.10" ID="79" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="81" FEAT="ADV COMP" HYPOT="restr.12" ID="80" KSNAME="MORE" LEMMA="MORE" LINK="restr" PAFT=" ">more</W> 
 <W DOM="82" FEAT="A" HYPOT="modif.01" ID="81" KSNAME="UNINTENDED" LEMMA="UNINTENDED" LINK="modif" PAFT=" " UNL="unintended(icl&gt;adj,ant&gt;intended)" DEF="NOT DELIBERATE" TRANS="непреднамеренный">unintended</W> 

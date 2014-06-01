@@ -213,7 +213,7 @@
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="NUM" HYPOT="quantit.10" ID="2" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
 <W DOM="4" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="WOMAN" LEMMA="WOMAN" LINK="predic" PAFT=" ">women</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="BABBLE2" LEMMA="BABBLE" PAFT=" " UNL="babble(icl&gt;chatter&gt;do,agt&gt;thing)" DEF="">babbled</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="BABBLE2" LEMMA="BABBLE" PAFT=" " UNL="babble(icl&gt;chatter&gt;do,agt&gt;thing)" DEF="TO TALK FOOLISHLY" TRANS="болтать">babbled</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="coordin.13" ID="5" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="6" KSNAME="CROON2" LEMMA="CROON" LINK="coord-conj" MSNAME="CROON2" PAFT=" " UNL="croon(icl&gt;sing&gt;do,agt&gt;living_thing,obj&gt;thing)" DEF="SING SOFTLY" TRANS="напевать вполголоса">crooned</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">at</W> 

@@ -496,7 +496,7 @@
 <W DOM="16" FEAT="PR" HYPOT="attrib.01" ID="17" KSNAME="AGAINST" LEMMA="AGAINST" LINK="attrib" PAFT=" ">against</W> 
 <W DOM="17" FEAT="S PL" HYPOT="prepos.01" ID="18" KSNAME="MEMBER" LEMMA="MEMBER" LINK="prepos" PAFT=" ">members</W> 
 <W DOM="20" FEAT="S NOM SG" HYPOT="predic.01" ID="19" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
-<W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="20" KSNAME="TRANSGRESS" LEMMA="TRANSGRESS" LINK="relat" PAFT=" " UNL="transgress(icl&gt;disrespect&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">transgressed</W> 
+<W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="20" KSNAME="TRANSGRESS" LEMMA="TRANSGRESS" LINK="relat" PAFT=" " UNL="transgress(icl&gt;disrespect&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ACT IN DISREGARD OF LAWS, RULES, CONTRACTS, OR PROMISES" TRANS="преступать">transgressed</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="A" GRP="22,23" HYPOT="modif.01" ID="22" KSNAME="ETHICAL" LEMMA="ETHICAL" LINK="modif" PAFT=" ">ethical</W> 
 <W DOM="20" FEAT="S PL" GRP="22,23" HYPOT="1-compl.01" ID="23" KSNAME="CODE1" LEMMA="CODE" LINK="1-compl" PAFT=" ">codes</W> 
@@ -1630,7 +1630,7 @@
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="16" KSNAME="TAKE" LEMMA="TAKE" LINK="relat" PAFT=" ">took</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="16" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="NAME1" LEMMA="NAME" LINK="1-compl" PAFT=", ">name</W>, 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="19" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="19" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="21,22" HYPOT="modif.01" ID="21" KSNAME="CONTINENTAL" LEMMA="CONTINENTAL" LINK="modif" PAFT=" ">Continental</W> 
 <W DOM="19" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="21,22" HYPOT="1-compl.01" ID="22" KSNAME="CONGRESS" LEMMA="CONGRESS" LINK="1-compl" PAFT=" ">Congress</W> 

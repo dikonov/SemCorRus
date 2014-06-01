@@ -72,7 +72,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="MARK2" LEMMA="MARK" PAFT=" " UNL="mark(icl&gt;indicate&gt;be,obj&gt;thing,cao&gt;thing,aoj&gt;concrete_thing)" DEF="BE A PHYSICAL MARK OF" TRANS="обозначать">marks</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="FORMAL" LEMMA="FORMAL" LINK="modif" PAFT=" ">formal</W> 
-<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="A" GRP="10,11" HYPOT="modif.01" ID="10" KSNAME="POLITICAL1" LEMMA="POLITICAL" LINK="modif" PAFT=" ">political</W> 
@@ -158,7 +158,7 @@
 <W ID="31">in</W> 
 <W FEAT="A" ID="32" KSNAME="THEIR" LEMMA="THEIR">their</W> 
 <W FEAT="A" ID="33" KSNAME="POLITICAL1" LEMMA="POLITICAL" WN21="3:01:01::">political</W> 
-<W FEAT="S" ID="34" KSNAME="ALIGNMENT" LEMMA="ALIGNMENT" UNL="alignment(icl&gt;organization&gt;thing,equ&gt;alliance,ant&gt;nonalignment)" DEF="" WN21="1:14:00::">alignments</W> 
+<W FEAT="S" ID="34" KSNAME="ALIGNMENT" LEMMA="ALIGNMENT" UNL="alignment(icl&gt;organization&gt;thing,equ&gt;alliance,ant&gt;nonalignment)" DEF="AN ORGANIZATION OF PEOPLE (OR COUNTRIES) INVOLVED IN A PACT OR TREATY" TRANS="блок" WN21="1:14:00::">alignments</W> 
 <W ID="35">with</W> 
 <W FEAT="NUM" ID="36" KSNAME="ONE1" LEMMA="ONE">one</W> 
 <W FEAT="A" ID="37" KSNAME="ANOTHER1" LEMMA="ANOTHER">another</W>; 
@@ -240,7 +240,7 @@
 <W FEAT="ART" ID="34" KSNAME="THE" LEMMA="THE">the</W> 
 "<W FEAT="S SG" GRP="35,36,37" GRPHEAD="" ID="35" KSNAME="FLEXIBILITY" LEMMA="FLEXIBILITY" UNL="give(icl&gt;property&gt;abstract_thing,equ&gt;adaptability)" DEF="" WN21="1:07:01::">flexibility</W> 
 <W DOM="35" FEAT="PR" GRP="35,36,37" ID="36" KSNAME="OF" LEMMA="OF" LINK="quasiagent">of</W> 
-<W DOM="36" FEAT="S SG" GRP="35,36,37" ID="37" KSNAME="ALIGNMENT" LEMMA="ALIGNMENT" LINK="prepos" UNL="alignment(icl&gt;organization&gt;thing,equ&gt;alliance,ant&gt;nonalignment)" DEF="" WN21="1:14:00::">alignment</W>" 
+<W DOM="36" FEAT="S SG" GRP="35,36,37" ID="37" KSNAME="ALIGNMENT" LEMMA="ALIGNMENT" LINK="prepos" UNL="alignment(icl&gt;organization&gt;thing,equ&gt;alliance,ant&gt;nonalignment)" DEF="AN ORGANIZATION OF PEOPLE (OR COUNTRIES) INVOLVED IN A PACT OR TREATY" TRANS="блок" WN21="1:14:00::">alignment</W>" 
 <W FEAT="CONJ" ID="38" KSNAME="THAT1" LEMMA="THAT">that</W> 
 <W FEAT="ART" ID="39" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="40" KSNAME="SYSTEM" LEMMA="SYSTEM" UNL="system(icl&gt;plan_of_action&gt;thing)" DEF="A PROCEDURE OR PROCESS FOR OBTAINING AN OBJECTIVE" TRANS="система" WN21="1:09:01::">system</W> 
@@ -504,7 +504,7 @@
 <W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="prepos.01" ID="20" KSNAME="THOSE" LEMMA="THOSE" LINK="prepos" PAFT=" ">those</W> 
 <W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="attrib.01" ID="21" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="23" EXTRAFEAT="CAP IN-QUOT" FEAT="A" HYPOT="modif.01" ID="22" KSNAME="EUROPEAN1" LEMMA="EUROPEAN" LINK="modif" PAFT=" " UNL="european(icl&gt;adj,com&gt;europe)" DEF="OF OR RELATING TO OR CHARACTERISTIC OF EUROPE OR THE PEOPLE OF EUROPE" TRANS="европейский">European</W> 
-<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="prepos" PAFT="&quot;. " UNL="origin(icl&gt;ancestry&gt;thing)" DEF="">origin</W>". 
+<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="prepos" PAFT="&quot;. " UNL="origin(icl&gt;ancestry&gt;thing)" DEF="PROPERTIES ATTRIBUTABLE TO YOUR ANCESTRY" TRANS="происхождение">origin</W>". 
 </S>
 <S DATE="30 11 2010 10:34:18" ID="18" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_24\\br-j42.tgt;18" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="OF$COURSE" LEMMA="OF COURSE" LINK="adverb" PAFT=" " UNL="of_course(icl&gt;how,equ&gt;naturally,ant&gt;unnaturally)" DEF="AS MIGHT BE EXPECTED" TRANS="разумеется,понятно,безусловно,конечно">Of course</W> 
@@ -925,7 +925,7 @@
 <W DOM="22" FEAT="CONJ" HYPOT="attrib.18" ID="23" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="26" FEAT="V ING" HYPOT="modif.01" ID="24" KSNAME="TRANSCEND" LEMMA="TRANSCEND" LINK="modif" MSNAME="TRANSCEND" PAFT=" " UNL="transcend(icl&gt;be,equ&gt;exceed,obj&gt;thing,aoj&gt;thing)" DEF="GO BEYOND" TRANS="превышать">transcending</W> 
 <W DOM="26" FEAT="A" HYPOT="modif.01" ID="25" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
-<W DOM="23" FEAT="S PL" HYPOT="comp-conj.10" ID="26" KSNAME="TIE1" LEMMA="TIE" LINK="comp-conj" PAFT=" " UNL="tie(icl&gt;relationship&gt;thing,equ&gt;affiliation)" DEF="">ties</W> 
+<W DOM="23" FEAT="S PL" HYPOT="comp-conj.10" ID="26" KSNAME="TIE1" LEMMA="TIE" LINK="comp-conj" PAFT=" " UNL="tie(icl&gt;relationship&gt;thing,equ&gt;affiliation)" DEF="A SOCIAL OR BUSINESS RELATIONSHIP" TRANS="связь">ties</W> 
 <W DOM="26" FEAT="PR" HYPOT="1-compl.07" ID="27" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="28" KSNAME="SOCIAL1" LEMMA="SOCIAL" LINK="modif" PAFT=" ">social</W> 
 <W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="29" KSNAME="SOLIDARITY" LEMMA="SOLIDARITY" LINK="prepos" PAFT=". " UNL="solidarity(icl&gt;commonality&gt;thing)" DEF="A UNION OF INTERESTS OR PURPOSES OR SYMPATHIES AMONG MEMBERS OF A GROUP" TRANS="сплоченность">solidarity</W>. 
@@ -998,7 +998,7 @@
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="10" KSNAME="INCORPORATE1" LEMMA="INCORPORATE" LINK="relat" PAFT=" " UNL="incorporate(icl&gt;do,equ&gt;include,cob&gt;thing,agt&gt;person,obj&gt;thing,gol&gt;thing)" DEF="MAKE INTO A WHOLE OR MAKE PART OF A WHOLE" TRANS="включать">incorporated</W> 
 <W DOM="13" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
 <W DOM="13" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="HEGELIAN1" LEMMA="HEGELIAN" LINK="modif" PAFT=" " UNL="hegelian(icl&gt;adj,com&gt;hegel)" DEF="OF OR RELATING TO HEGEL OR HIS DIALECTIC PHILOSOPHY" TRANS="гегельянский">Hegelian</W> 
-<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="1-compl" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="">abstraction</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="1-compl" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="A CONCEPT OR IDEA NOT ASSOCIATED WITH ANY SPECIFIC INSTANCE" TRANS="абстракция">abstraction</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="sent-coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="15" KSNAME="SEE1" LEMMA="SEE" LINK="coord-conj" PAFT=" ">saw</W> 
 <W DOM="15" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="LAW" LEMMA="LAW" LINK="1-compl" PAFT=", " UNL="law(icl&gt;collection&gt;thing)" DEF="THE COLLECTION OF RULES IMPOSED BY AUTHORITY" TRANS="свод законов,право,закон,законы">law</W>, 
@@ -1123,7 +1123,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="V PP" HYPOT="modif.01" ID="1" KSNAME="HIDE1" LEMMA="HIDE" LINK="modif" PAFT=" ">Hidden</W> 
 <W DOM="4" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="BEHIND3" LEMMA="BEHIND" LINK="compos" PAFT=" ">behind</W> 
 <W DOM="4" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="HEGELIAN1" LEMMA="HEGELIAN" LINK="modif" PAFT=" " UNL="hegelian(icl&gt;adj,com&gt;hegel)" DEF="OF OR RELATING TO HEGEL OR HIS DIALECTIC PHILOSOPHY" TRANS="гегельянский">Hegelian</W> 
-<W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="predic" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="">abstractions</W> 
+<W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="predic" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="A CONCEPT OR IDEA NOT ASSOCIATED WITH ANY SPECIFIC INSTANCE" TRANS="абстракция">abstractions</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="5" FEAT="ADV COMP" HYPOT="adverb.01" ID="6" KSNAME="MORE" LEMMA="MORE" LINK="adverb" PAFT=" ">more</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="PRACTICAL" LEMMA="PRACTICAL" LINK="modif" PAFT=" " UNL="practical(icl&gt;adj,ant&gt;impractical)" DEF="CONCERNED WITH ACTUAL USE OR PRACTICE" TRANS="практический">practical</W> 
@@ -1142,7 +1142,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="NATIONALISM" LEMMA="NATIONALISM" LINK="predic" PAFT=" " UNL="nationalism(icl&gt;doctrine&gt;thing,ant&gt;multiculturalism)" DEF="THE DOCTRINE THAT YOUR NATIONAL CULTURE AND INTERESTS ARE SUPERIOR TO ANY OTHER" TRANS="национализм">nationalism</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="7" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="7" FEAT="S SG" HYPOT="copulat.10" ID="9" KSNAME="GROWTH" LEMMA="GROWTH" LINK="copulat" PAFT=" " UNL="growth(icl&gt;beginning&gt;thing,equ&gt;emergence)" DEF="">growth</W> 
+<W DOM="7" FEAT="S SG" HYPOT="copulat.10" ID="9" KSNAME="GROWTH" LEMMA="GROWTH" LINK="copulat" PAFT=" " UNL="growth(icl&gt;beginning&gt;thing,equ&gt;emergence)" DEF="THE GRADUAL BEGINNING OR COMING FORTH" TRANS="рост">growth</W> 
 <W DOM="9" FEAT="PR" HYPOT="quasiagent.10" ID="10" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="DEMOCRACY" LEMMA="DEMOCRACY" LINK="prepos" PAFT=" " UNL="democracy(icl&gt;political_orientation&gt;thing)" DEF="THE POLITICAL ORIENTATION OF THOSE WHO FAVOR GOVERNMENT BY THE PEOPLE OR BY THEIR ELECTED REPRESENTATIVES" TRANS="демократия">democracy</W> 
 <W DOM="11" FEAT="PR" HYPOT="attrib.01" ID="12" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -1165,7 +1165,7 @@
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="STATUS" LEMMA="STATUS" LINK="prepos" PAFT=" " UNL="status(icl&gt;state&gt;thing)" DEF="THE RELATIVE POSITION OR STANDING OF THINGS OR ESPECIALLY PERSONS IN A SOCIETY" TRANS="статус,положение">status</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="14" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="coord-conj" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="14" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="coord-conj" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="15" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="DRAMATIC" LEMMA="DRAMATIC" LINK="modif" PAFT=" " UNL="dramatic(icl&gt;adj)" DEF="">dramatic</W> 
 <W DOM="15" FEAT="S PL" HYPOT="1-compl.01" ID="17" KSNAME="EFFECT1" LEMMA="EFFECT" LINK="1-compl" PAFT=" " UNL="effect(icl&gt;phenomenon&gt;thing,equ&gt;consequence)" DEF="A PHENOMENON THAT FOLLOWS AND IS CAUSED BY SOME PREVIOUS PHENOMENON" TRANS="эффект">effects</W> 

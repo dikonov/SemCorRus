@@ -54,7 +54,7 @@
 <W DOM="46" FEAT="S SG" GRP="49,50" HYPOT="1-compl.01" ID="50" KSNAME="MAN1" LEMMA="MAN" LINK="1-compl" PAFT=" ">man</W> 
 <W DOM="46" FEAT="PR" HYPOT="adverb.02" ID="51" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="adverb" PAFT=" ">about</W> 
 <W DOM="53" FEAT="ART" HYPOT="determ.11" ID="52" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="51" FEAT="S SG" HYPOT="prepos.01" ID="53" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="51" FEAT="S SG" HYPOT="prepos.01" ID="53" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="53" FEAT="PR" HYPOT="quasiagent.10" ID="54" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="54" FEAT="S SG" HYPOT="prepos.01" ID="55" KSNAME="LITERATURE" LEMMA="LITERATURE" LINK="prepos" PAFT=" ">literature</W> 
 <W DOM="55" FEAT="CONJ" HYPOT="coordin.10" ID="56" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
@@ -84,7 +84,7 @@
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="HUMAN1" LEMMA="HUMAN" LINK="modif" PAFT=" " UNL="human(icl&gt;adj,com&gt;humanity)" DEF="CHARACTERISTIC OF HUMANITY" TRANS="человеческий,человечий,людской">human</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="9" KSNAME="STATURE" LEMMA="STATURE" LINK="predic" PAFT=" " UNL="stature(icl&gt;esteem&gt;thing)" DEF="HIGH LEVEL OF RESPECT GAINED BY IMPRESSIVE DEVELOPMENT OR ACHIEVEMENT" TRANS="почет">stature</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="10" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
-<W DOM="10" FEAT="A" HYPOT="copulat.11" ID="11" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="copulat" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="">measurable</W> 
+<W DOM="10" FEAT="A" HYPOT="copulat.11" ID="11" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="copulat" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="CAPABLE OF BEING MEASURED" TRANS="измеримый">measurable</W> 
 <W DOM="11" FEAT="PR" GRP="12,13,14" HYPOT="attrib.02" ID="12" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="12" FEAT="S PL" GRP="12,13,14" HYPOT="prepos.01" ID="13" KSNAME="TERM1" LEMMA="TERM" LINK="prepos" PAFT=" ">terms</W> 
 <W DOM="13" FEAT="PR" GRP="12,13,14" HYPOT="quasiagent.10" ID="14" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -1628,7 +1628,7 @@
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM PL" GRP="1,2,3,4,5,6,7,8,9,10" HYPOT="predic.01" ID="1" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" " PBEF="&quot;">You</W> 
 <W DOM="_root" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5,6,7,8,9,10" ID="2" KSNAME="THINK" LEMMA="THINK" PAFT=" " UNL="think(icl&gt;be,equ&gt;believe,cob&gt;uw,obj&gt;uw,aoj&gt;person)" DEF="TO HAVE A PARTICULAR OPINION OR JUDGEMENT" TRANS="думать">think</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="1,2,3,4,5,6,7,8,9,10" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="5" EXTRAFEAT="CAP IN-QUOT" FEAT="S PL" GRP="1,2,3,4,5,6,7,8,9,10" HYPOT="predic.01" ID="4" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;native&gt;thing)" DEF="">Russians</W> 
+<W DOM="5" EXTRAFEAT="CAP IN-QUOT" FEAT="S PL" GRP="1,2,3,4,5,6,7,8,9,10" HYPOT="predic.01" ID="4" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF RUSSIA" TRANS="русский">Russians</W> 
 <W DOM="2" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS PL" GRP="1,2,3,4,5,6,7,8,9,10" HYPOT="1-compl.31" ID="5" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">are</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="V ING" GRP="1,2,3,4,5,6,7,8,9,10" HYPOT="analyt.11" ID="6" KSNAME="GET" LEMMA="GET" LINK="analyt" PAFT=" " UNL="get_ahead(icl&gt;do,equ&gt;gain,agt&gt;thing)" DEF="">getting</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="AHEAD$OF" LEMMA="AHEAD OF" LINK="adverb" MSNAME="AHEAD$OF" PAFT=" ">ahead of</W> 
@@ -1815,7 +1815,7 @@
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="NID" HYPOT="1-compl.01" ID="16" KSNAME="FICT-LEX" LEMMA="DOVE" LINK="1-compl" PAFT="', " UNL="dove(icl&gt;pigeon&gt;thing)" DEF="ANY OF NUMEROUS SMALL PIGEONS" TRANS="голубь">dove</W>', 
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="17" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="coord-conj.10" ID="18" KSNAME="MOST" LEMMA="MOST" LINK="coord-conj" PAFT=" ">most</W> 
-<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="adverb.01" ID="19" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="">terribly</W> 
+<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="adverb.01" ID="19" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="USED AS INTENSIFIERS" TRANS="очень,ужасно,страшно">terribly</W> 
 <W DOM="25" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="descr-modif.01" ID="20" KSNAME="SHARP1" LEMMA="SHARP" LINK="descr-modif" PAFT=" ">sharp</W> 
 <W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="attrib.02" ID="21" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="prepos.01" ID="22" KSNAME="ALL1" LEMMA="ALL" LINK="prepos" PAFT=",' ">all</W>,' 
@@ -2195,7 +2195,7 @@
 <W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="POWER1" LEMMA="POWER" LINK="predic" PAFT=" " UNL="power(icl&gt;quality&gt;thing,ant&gt;powerlessness)" DEF="POSSESSION OF CONTROLLING INFLUENCE" TRANS="могущество">power</W> 
 <W DOM="4" FEAT="ADV" GRP="3,4" HYPOT="restr.11" ID="3" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="5" FEAT="ADV" GRP="3,4" HYPOT="restr.11" ID="4" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" ">only</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="5" KSNAME="CORRUPT1" LEMMA="CORRUPT" PAFT=" " UNL="corrupt(icl&gt;change&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">corrupts</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="5" KSNAME="CORRUPT1" LEMMA="CORRUPT" PAFT=" " UNL="corrupt(icl&gt;change&gt;do,agt&gt;thing,obj&gt;thing)" DEF="CORRUPT MORALLY OR BY INTEMPERANCE OR SENSUALITY" TRANS="развращать">corrupts</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="sent-coordin.10" ID="6" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.01" ID="7" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 

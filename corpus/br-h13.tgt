@@ -11,7 +11,7 @@
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="compos.01" ID="8" KSNAME="COMMUTER" LEMMA="COMMUTER" LINK="compos" MSNAME="COMMUTER" PAFT=" " UNL="commuter(icl&gt;passenger_train&gt;thing)" DEF="">commuter</W> 
 <W DOM="15" FEAT="S PL" HYPOT="predic.01" ID="9" KSNAME="RAILROAD" LEMMA="RAILROAD" LINK="predic" MSNAME="RAILROAD" PAFT=" " UNL="railroad(icl&gt;line&gt;thing,equ&gt;railway)" DEF="LINE THAT IS THE COMMERCIAL ORGANIZATION RESPONSIBLE FOR OPERATING A SYSTEM OF TRANSPORTATION FOR TRAINS THAT PULL PASSENGERS OR FREIGHT" TRANS="железная дорога">railroads</W> 
-<W DOM="9" FEAT="V ING" HYPOT="modif.01" ID="10" KSNAME="SERVE2" LEMMA="SERVE" LINK="modif" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serving</W> 
+<W DOM="9" FEAT="V ING" HYPOT="modif.01" ID="10" KSNAME="SERVE2" LEMMA="SERVE" LINK="modif" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serving</W> 
 <W DOM="14" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
 <W DOM="14" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="LARGE" LEMMA="LARGE" LINK="modif" PAFT=" " UNL="large(icl&gt;adj,equ&gt;big,ant&gt;small)" DEF="ABOVE AVERAGE IN SIZE OR NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="большой">large</W> 
 <W DOM="14" FEAT="A" HYPOT="modif.01" ID="13" KSNAME="METROPOLITAN1" LEMMA="METROPOLITAN" LINK="modif" PAFT=" " UNL="metropolitan(icl&gt;adj,com&gt;metropolis)" DEF="RELATING TO OR CHARACTERISTIC OF A METROPOLIS" TRANS="столичный">metropolitan</W> 
@@ -410,7 +410,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="PERCENT" LEMMA="PERCENT" LINK="1-compl" PAFT=" " UNL="percent(icl&gt;quantity,qua&gt;quantity,per&gt;thing)" DEF="A UNIT OF PROPORTION" TRANS="процент">percent</W> 
 <W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
-<W DOM="11" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="SOUTHBOUND" LEMMA="SOUTHBOUND" LINK="modif" MSNAME="SOUTHBOUND" PAFT=" " UNL="southbound(icl&gt;adj)" DEF="">southbound</W> 
+<W DOM="11" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="SOUTHBOUND" LEMMA="SOUTHBOUND" LINK="modif" MSNAME="SOUTHBOUND" PAFT=" " UNL="southbound(icl&gt;adj)" DEF="MOVING TOWARD THE SOUTH" TRANS="южный">southbound</W> 
 <W DOM="11" FEAT="S SG" GRP="11,12" HYPOT="compos.01" ID="10" KSNAME="COMMUTER" LEMMA="COMMUTER" LINK="compos" MSNAME="COMMUTER" PAFT=" ">commuter</W> 
 <W DOM="7" FEAT="S SG" GRP="11,12" HYPOT="prepos.01" ID="11" KSNAME="TRAFFIC" LEMMA="TRAFFIC" LINK="prepos" PAFT=" ">traffic</W> 
 <W DOM="11" FEAT="V ING" HYPOT="modif.01" ID="12" KSNAME="COME" LEMMA="COME" LINK="modif" PAFT=" " UNL="come(icl&gt;move&gt;do,plt&gt;place,agt&gt;person)" DEF="TRAVEL TOWARD SOMETHING OR SOMEBODY" TRANS="идти">coming</W> 
@@ -629,7 +629,7 @@
 <W DOM="7" FEAT="S SG" GRP="7,8" HYPOT="prepos.01" ID="8" KSNAME="HAND1" LEMMA="HAND" LINK="prepos" PAFT=", ">hand</W>, 
 <W DOM="8" FEAT="ADV" HYPOT="parenth.16" ID="9" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">however</W>, 
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="NEW$YORK" LEMMA="NEW YORK" LINK="predic" PAFT=" ">New York</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="11" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intends</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="11" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intends</W> 
 <W DOM="11" FEAT="PART" HYPOT="1-compl.15" ID="12" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="12" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="PURSUE" LEMMA="PURSUE" LINK="prepos" PAFT=" " UNL="pursue(icl&gt;do,equ&gt;continue,cob&gt;thing,agt&gt;person,obj&gt;thing)" DEF="">pursue</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -686,7 +686,7 @@
 <W DOM="8" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="NEW$YORK" LEMMA="NEW YORK" LINK="1-compl" PAFT=" ">New York</W> 
 <W DOM="8" FEAT="PART" HYPOT="2-compl.12" ID="11" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="16" EXTRAFEAT="ALT" FEAT="A COMP" HYPOT="modif.01" ID="12" KSNAME="FAR1" LEMMA="FAR" LINK="modif" PAFT=" ">further</W> 
-<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="13" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="fictit" PAFT=" " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="">curtail</W> 
+<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="13" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="fictit" PAFT=" " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="PLACE RESTRICTIONS ON" TRANS="ограничивать">curtail</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="13" FEAT="S SG" HYPOT="nonact-compl.10" ID="15" KSNAME="COMMUTER" LEMMA="COMMUTER" LINK="nonact-compl" MSNAME="COMMUTER" PAFT=" " UNL="commuter(icl&gt;passenger_train&gt;thing)" DEF="">commuter</W> 
 <W DOM="13" FEAT="S PL" HYPOT="1-compl.01" ID="16" KSNAME="OPERATION" LEMMA="OPERATION" LINK="1-compl" PAFT=" " UNL="operation(icl&gt;business_activity&gt;thing)" DEF="A BUSINESS ESPECIALLY ONE RUN ON A LARGE SCALE" TRANS="предприятие,дело">operations</W> 
@@ -1829,7 +1829,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">could</W> 
 <W DOM="2" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="HALT2" LEMMA="HALT" LINK="1-compl" PAFT=" ">halt</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="FLOOD1" LEMMA="FLOOD" LINK="1-compl" PAFT=" " UNL="flood(icl&gt;batch&gt;thing)" DEF="">flood</W> 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="FLOOD1" LEMMA="FLOOD" LINK="1-compl" PAFT=" " UNL="flood(icl&gt;batch&gt;thing)" DEF="AN OVERWHELMING NUMBER OR AMOUNT" TRANS="поток">flood</W> 
 <W DOM="5" FEAT="PR" HYPOT="1-compl.07" ID="6" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="7" KSNAME="COMMUNIST" LEMMA="COMMUNIST" LINK="compos" PAFT=" ">Communist</W> 
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="ARM1" LEMMA="ARM" LINK="prepos" PAFT=" ">arms</W> 

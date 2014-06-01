@@ -571,9 +571,9 @@
 <W DOM="7" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="REPRESENTATION" LEMMA="REPRESENTATION" LINK="predic" PAFT=", " UNL="representation(icl&gt;content&gt;thing)" DEF="A PRESENTATION TO THE MIND IN THE FORM OF AN IDEA OR IMAGE" TRANS="представление">representations</W>, 
 <W DOM="5" FEAT="ADV" HYPOT="parenth.16" ID="6" KSNAME="THEREFORE" LEMMA="THEREFORE" LINK="parenth" PAFT=", " UNL="therefore(icl&gt;how)" DEF="(USED TO INTRODUCE A LOGICAL CONCLUSION) FROM THAT FACT OR REASON OR AS A RESULT" TRANS="следовательно,поэтому">therefore</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="7" KSNAME="BE" LEMMA="BE" PAFT=" &quot;" UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">are</W> 
-"<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="copulat.10" ID="8" KSNAME="IMITATION" LEMMA="IMITATION" LINK="copulat" PAFT=" " UNL="imitation(icl&gt;copy&gt;thing)" DEF="">imitations</W> 
+"<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="copulat.10" ID="8" KSNAME="IMITATION" LEMMA="IMITATION" LINK="copulat" PAFT=" " UNL="imitation(icl&gt;copy&gt;thing)" DEF="A COPY THAT IS REPRESENTED AS THE ORIGINAL" TRANS="подделка,имитация">imitations</W> 
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="1-compl.07" ID="9" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="IMITATION" LEMMA="IMITATION" LINK="prepos" PAFT="&quot; " UNL="imitation(icl&gt;copy&gt;thing)" DEF="">imitations</W>" 
+<W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="IMITATION" LEMMA="IMITATION" LINK="prepos" PAFT="&quot; " UNL="imitation(icl&gt;copy&gt;thing)" DEF="A COPY THAT IS REPRESENTED AS THE ORIGINAL" TRANS="подделка,имитация">imitations</W>" 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.13" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="coord-conj.10" ID="12" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">are</W> 
 <W DOM="14" FEAT="ADV" HYPOT="adverb.01" ID="13" KSNAME="COMPLETELY" LEMMA="COMPLETELY" LINK="adverb" PAFT=" " UNL="completely(icl&gt;how,equ&gt;wholly,ant&gt;partly,com&gt;complete)" DEF="TO A COMPLETE DEGREE OR TO THE FULL OR ENTIRE EXTENT (`WHOLE' IS OFTEN USED INFORMALLY FOR `WHOLLY')" TRANS="совсем,вконец,совершенно,вдрызг,дочиста,дотла">completely</W> 
@@ -801,7 +801,7 @@
 <W DOM="21" EXTRAFEAT="IN-BR" FEAT="V PP" GRP="22,23,24,25,26,27,28,29" HYPOT="juxtapos.01" ID="22" KSNAME="BASE2" LEMMA="BASE" LINK="juxtapos" PAFT=" ">based</W> 
 <W DOM="22" EXTRAFEAT="IN-BR" FEAT="PR" GRP="22,23,24,25,26,27,28,29" HYPOT="2-compl.02" ID="23" KSNAME="UPON" LEMMA="UPON" LINK="2-compl" PAFT=" ">upon</W> 
 <W DOM="25" EXTRAFEAT="IN-BR" FEAT="ART" GRP="22,23,24,25,26,27,28,29" HYPOT="determ.10" ID="24" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="23" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="22,23,24,25,26,27,28,29" HYPOT="prepos.01" ID="25" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="prepos" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="23" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="22,23,24,25,26,27,28,29" HYPOT="prepos.01" ID="25" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="prepos" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="25" EXTRAFEAT="IN-BR" FEAT="PR" GRP="22,23,24,25,26,27,28,29" HYPOT="1-compl.07" ID="26" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="26" EXTRAFEAT="IN-BR" FEAT="S PL" GRP="22,23,24,25,26,27,28,29" HYPOT="prepos.01" ID="27" KSNAME="LEVEL1" LEMMA="LEVEL" LINK="prepos" PAFT=" " UNL="level(icl&gt;degree&gt;abstract_thing,aoj&gt;thing)" DEF="A SPECIFIC IDENTIFIABLE POSITION IN A CONTINUUM OR SERIES" TRANS="уровень,степень">levels</W> 
 <W DOM="27" EXTRAFEAT="IN-BR" FEAT="PR" GRP="22,23,24,25,26,27,28,29" HYPOT="quasiagent.10" ID="28" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -1243,7 +1243,7 @@
 <W DOM="27" FEAT="V MF" HYPOT="prepos.16" ID="28" KSNAME="CONNOTE" LEMMA="CONNOTE" LINK="prepos" MSNAME="CONNOTE" PAFT=" " UNL="connote(icl&gt;express&gt;do,equ&gt;imply,agt&gt;thing,obj&gt;thing)" DEF="">connote</W> 
 <W DOM="31" FEAT="A" HYPOT="modif.01" ID="29" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
 <W DOM="31" FEAT="A" HYPOT="modif.01" ID="30" KSNAME="CONVENTIONAL" LEMMA="CONVENTIONAL" LINK="modif" PAFT=" ">conventional</W> 
-<W DOM="28" FEAT="S PL" HYPOT="1-compl.01" ID="31" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="1-compl" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="">abstractions</W> 
+<W DOM="28" FEAT="S PL" HYPOT="1-compl.01" ID="31" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="1-compl" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="A CONCEPT OR IDEA NOT ASSOCIATED WITH ANY SPECIFIC INSTANCE" TRANS="абстракция">abstractions</W> 
 <W DOM="31" FEAT="PR" HYPOT="attrib.01" ID="32" KSNAME="AS$TO" LEMMA="AS TO" LINK="attrib" PAFT=" ">as to</W> 
 <W DOM="32" FEAT="V MF" HYPOT="prepos.16" ID="33" KSNAME="INVITE" LEMMA="INVITE" LINK="prepos" PAFT=" ">invite</W> 
 <W DOM="35" FEAT="A" HYPOT="modif.01" ID="34" KSNAME="NEUTRAL2" LEMMA="NEUTRAL" LINK="modif" PAFT=" ">neutral</W> 
@@ -1663,7 +1663,7 @@
 <W DOM="19" FEAT="S POSS SG" HYPOT="posses.01" ID="18" KSNAME="ONE2" LEMMA="ONE" LINK="posses" PAFT=" ">one's</W> 
 <W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="GOOD2" LEMMA="GOOD" LINK="prepos" PAFT=", " UNL="good(icl&gt;advantage&gt;thing)" DEF="BENEFIT" TRANS="благо">good</W>, 
 <W DOM="19" FEAT="S PL" HYPOT="descr-appos.01" ID="20" KSNAME="OTHERS" LEMMA="OTHERS" LINK="descr-appos" PAFT=" ">others</W> 
-<W DOM="19" FEAT="V ING" HYPOT="modif.01" ID="21" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="modif" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatening</W> 
+<W DOM="19" FEAT="V ING" HYPOT="modif.01" ID="21" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="modif" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatening</W> 
 <W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="ILL2" LEMMA="ILL" LINK="1-compl" PAFT=". ">ill</W>. 
 </S>
 <S DATE="29 11 2010 20:26:54" ID="56" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g16.tgt;56" STATUS="doubt">
@@ -1748,7 +1748,7 @@
 <W DOM="13" FEAT="PR" HYPOT="2-compl.02" ID="14" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="LARGE" LEMMA="LARGE" LINK="modif" PAFT=" " UNL="large(icl&gt;adj,equ&gt;big,ant&gt;small)" DEF="ABOVE AVERAGE IN SIZE OR NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="большой">large</W> 
-<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="ARENA" LEMMA="ARENA" LINK="prepos" PAFT=" " UNL="arena(icl&gt;environment&gt;thing,equ&gt;sphere)" DEF="">arena</W> 
+<W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="ARENA" LEMMA="ARENA" LINK="prepos" PAFT=" " UNL="arena(icl&gt;environment&gt;thing,equ&gt;sphere)" DEF="A PARTICULAR ENVIRONMENT OR WALK OF LIFE" TRANS="арена">arena</W> 
 <W DOM="17" FEAT="PR" HYPOT="quasiagent.10" ID="18" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="18" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="POWER1" LEMMA="POWER" LINK="prepos" PAFT=" " UNL="power(icl&gt;quality&gt;thing,ant&gt;powerlessness)" DEF="POSSESSION OF CONTROLLING INFLUENCE" TRANS="могущество">powers</W> 
 <W DOM="8" FEAT="S SG" ID="20" KSNAME="WHICH1" LEMMA="WHICH" LINK="fictit" MSNAME="WHICH1" PAFT=" ">which</W> 
@@ -1908,7 +1908,7 @@
 <W DOM="29" FEAT="S SG" GRP="28,29" HYPOT="compos.01" ID="28" KSNAME="SENSE1" LEMMA="SENSE" LINK="compos" PAFT=" ">sense</W> 
 <W DOM="26" FEAT="S SG" GRP="28,29" HYPOT="copulat.10" ID="29" KSNAME="DATA" LEMMA="DATA" LINK="copulat" PAFT=" ">data</W> 
 <W DOM="29" FEAT="PR" HYPOT="attrib.01" ID="30" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
-<W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="prepos" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="">abstraction</W> 
+<W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="31" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="prepos" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="A CONCEPT OR IDEA NOT ASSOCIATED WITH ANY SPECIFIC INSTANCE" TRANS="абстракция">abstraction</W> 
 <W DOM="31" FEAT="PR" HYPOT="2-compl.02" ID="32" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="34" FEAT="A" HYPOT="modif.01" ID="33" KSNAME="CAUSAL" LEMMA="CAUSAL" LINK="modif" PAFT=" " UNL="causal(icl&gt;adj)" DEF="INVOLVING OR CONSTITUTING A CAUSE" TRANS="причинный">causal</W> 
 <W DOM="32" FEAT="S SG" HYPOT="prepos.01" ID="34" KSNAME="EFFICACY" LEMMA="EFFICACY" LINK="prepos" PAFT=", " UNL="efficacy(icl&gt;effectiveness&gt;thing,ant&gt;inefficacy)" DEF="CAPACITY OR POWER TO PRODUCE A DESIRED EFFECT" TRANS="эффективность">efficacy</W>, 
@@ -1947,7 +1947,7 @@
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="relat.01" ID="17" KSNAME="BE" LEMMA="BE" LINK="relat" PAFT=" ">is</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.10" ID="18" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="SOPHISTICATED" LEMMA="SOPHISTICATED" LINK="modif" PAFT=" " UNL="sophisticated(icl&gt;adj,ant&gt;naive)" DEF="HAVING OR APPEALING TO THOSE HAVING WORLDLY KNOWLEDGE AND REFINEMENT AND SAVOIR-FAIRE" TRANS="искушенный,умудренный">sophisticated</W> 
-<W DOM="5" FEAT="S SG" ID="20" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="fictit" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="">abstraction</W> 
+<W DOM="5" FEAT="S SG" ID="20" KSNAME="ABSTRACTION" LEMMA="ABSTRACTION" LINK="fictit" PAFT=" " UNL="abstraction(icl&gt;concept&gt;thing)" DEF="A CONCEPT OR IDEA NOT ASSOCIATED WITH ANY SPECIFIC INSTANCE" TRANS="абстракция">abstraction</W> 
 <W DOM="17" FEAT="PR" HYPOT="adverb.02" ID="21" KSNAME="FROM" LEMMA="FROM" LINK="adverb" PAFT=" ">from</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="PERCEPTION" LEMMA="PERCEPTION" LINK="prepos" PAFT=" " UNL="perception(icl&gt;representation&gt;thing,equ&gt;percept)" DEF="THE REPRESENTATION OF WHAT IS PERCEIVED" TRANS="восприятие">perception</W> 
 <W DOM="19" FEAT="PR" HYPOT="1-compl.08" ID="23" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
@@ -2126,7 +2126,7 @@
 <W DOM="10" FEAT="PR" HYPOT="quasiagent.10" ID="11" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="11" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="EVENT" LEMMA="EVENT" LINK="prepos" PAFT=" " UNL="event(icl&gt;psychological_feature&gt;thing)" DEF="SOMETHING THAT HAPPENS AT A GIVEN PLACE AND TIME" TRANS="событие">events</W> 
 <W DOM="6" FEAT="CONJ" ID="13" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
-<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="14" KSNAME="FAN2" LEMMA="FAN" LINK="fictit" PAFT=" " UNL="fan_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="">fan</W> 
+<W DOM="6" EXTRAFEAT="QFIN" FEAT="V MF" ID="14" KSNAME="FAN2" LEMMA="FAN" LINK="fictit" PAFT=" " UNL="fan_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">fan</W> 
 <W DOM="14" FEAT="ADV" HYPOT="phras-junct.10" ID="15" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="14" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

@@ -272,7 +272,7 @@
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="SPIRITUAL1" LEMMA="SPIRITUAL" LINK="modif" PAFT=" ">spiritual</W> 
 <W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="16" KSNAME="ATTITUDE" LEMMA="ATTITUDE" LINK="coord-conj" PAFT=" ">attitude</W> 
 <W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
-<W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="18" KSNAME="LEND" LEMMA="LEND" LINK="relat" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="">lends</W> 
+<W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="18" KSNAME="LEND" LEMMA="LEND" LINK="relat" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="BESTOW A QUALITY ON" TRANS="придавать">lends</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="FREEDOM" LEMMA="FREEDOM" LINK="1-compl" PAFT=" ">freedom</W> 
 <W DOM="19" FEAT="PR" HYPOT="attrib.01" ID="20" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1751,7 +1751,7 @@
 <S DATE="30 11 2010 10:41:29" ID="91" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_43\\br-f04.tgt;91" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="NOTHING1" LEMMA="NOTHING" LINK="predic" PAFT=" ">Nothing</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="PEEL2" LEMMA="PEEL" LINK="pass-anal" PAFT=". " UNL="peel(icl&gt;strip&gt;do,equ&gt;skin,agt&gt;thing,obj&gt;thing)" DEF="">peeled</W>. 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="PEEL2" LEMMA="PEEL" LINK="pass-anal" PAFT=". " UNL="peel(icl&gt;strip&gt;do,equ&gt;skin,agt&gt;thing,obj&gt;thing)" DEF="STRIP THE SKIN OFF" TRANS="чистить">peeled</W>. 
 </S>
 <S DATE="30 11 2010 10:41:29" ID="92" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_43\\br-f04.tgt;92" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -1989,7 +1989,7 @@
 <S DATE="30 11 2010 10:41:30" ID="102" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_43\\br-f04.tgt;102" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="PARENT1" LEMMA="PARENT" LINK="predic" PAFT=" ">Parents</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
-<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="PR" HYPOT="adverb.02" ID="4" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BULLETIN" LEMMA="BULLETIN" LINK="prepos" PAFT=" ">bulletin</W> 

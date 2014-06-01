@@ -270,7 +270,7 @@
 <W DOM="13" FEAT="ADV" HYPOT="phras-junct.10" ID="14" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="13" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="LIKE1" LEMMA="LIKE" LINK="adverb" PAFT=" ">like</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="HAYSTACK" LEMMA="HAYSTACK" LINK="prepos" MSNAME="HAYSTACK" PAFT=" &quot;. " UNL="haystack(icl&gt;stack&gt;thing)" DEF="">haystack</W>". 
+<W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="HAYSTACK" LEMMA="HAYSTACK" LINK="prepos" MSNAME="HAYSTACK" PAFT=" &quot;. " UNL="haystack(icl&gt;stack&gt;thing)" DEF="A STACK OF HAY" TRANS="стог,скирда">haystack</W>". 
 </S>
 <S DATE="30 11 2010 10:38:58" ID="24" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-n12.tgt;24" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
@@ -722,7 +722,7 @@
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="V PP" HYPOT="modif.01" ID="2" KSNAME="STARTLE1" LEMMA="STARTLE" LINK="modif" PAFT=" ">startled</W> 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="ANIMAL" LEMMA="ANIMAL" LINK="predic" PAFT=" " UNL="animal(icl&gt;organism&gt;thing)" DEF="A LIVING ORGANISM CHARACTERIZED BY VOLUNTARY MOVEMENT" TRANS="животное">animal</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="LET" LEMMA="LET" PAFT=" " UNL="let_out(icl&gt;do,equ&gt;utter,agt&gt;thing,obj&gt;thing)" DEF="">let</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="LET" LEMMA="LET" PAFT=" " UNL="let_out(icl&gt;do,equ&gt;utter,agt&gt;thing,obj&gt;thing)" DEF="EXPRESS AUDIBLY" TRANS="издавать">let</W> 
 <W DOM="4" FEAT="ADV" HYPOT="phras-junct.10" ID="5" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="7" KSNAME="TERRIFY" LEMMA="TERRIFY" LINK="modif" PAFT=" ">terrified</W> 
@@ -899,7 +899,7 @@
 <W DOM="2" FEAT="S" HYPOT="predic.01" ID="1" KSNAME="FICT-PERS" LEMMA="JESS" LINK="predic" PAFT=" ">Jess</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CATCH1" LEMMA="CATCH" PAFT=" ">caught</W> 
 <W DOM="4" FEAT="A" HYPOT="determ.13" ID="3" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="BREATH" LEMMA="BREATH" LINK="1-compl" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="вдох">breath</W> 
+<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="BREATH" LEMMA="BREATH" LINK="1-compl" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="дыхание,вдох">breath</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="SURPRISE1" LEMMA="SURPRISE" LINK="prepos" PAFT=". " UNL="surprise(icl&gt;astonishment&gt;thing)" DEF="THE ASTONISHMENT YOU FEEL WHEN SOMETHING TOTALLY UNEXPECTED HAPPENS TO YOU" TRANS="удивление">surprise</W>. 
 </S>
@@ -1402,7 +1402,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="TWIST1" LEMMA="TWIST" PAFT=" " UNL="twist(icl&gt;move&gt;occur,equ&gt;writhe,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="TO MOVE IN A TWISTING OR CONTORTED MOTION, (ESPECIALLY WHEN STRUGGLING)" TRANS="выворачиваться,извиваться,выкручиваться">twisted</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="CLAW" LEMMA="CLAW" LINK="prepos" PAFT=", " UNL="claw(icl&gt;mechanical_device&gt;thing,equ&gt;hook)" DEF="">claw</W>, 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="CLAW" LEMMA="CLAW" LINK="prepos" PAFT=", " UNL="claw(icl&gt;mechanical_device&gt;thing,equ&gt;hook)" DEF="A MECHANICAL DEVICE THAT IS CURVED OR BENT TO SUSPEND OR HOLD OR PULL SOMETHING" TRANS="захват">claw</W>, 
 <W DOM="7" FEAT="CONJ" HYPOT="sent-coordin.10" ID="11" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="13" KSNAME="DO1" LEMMA="DO" LINK="coord-conj" PAFT=" ">did</W> 
@@ -2027,7 +2027,7 @@
 <W DOM="19" FEAT="PR" HYPOT="attrib.01" ID="20" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="23" FEAT="A" HYPOT="determ.13" ID="21" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="22" KSNAME="FRANTIC" LEMMA="FRANTIC" LINK="modif" PAFT=" ">frantic</W> 
-<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="HASTE" LEMMA="HASTE" LINK="prepos" PAFT=" " UNL="haste(icl&gt;motion&gt;thing)" DEF="">haste</W> 
+<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="HASTE" LEMMA="HASTE" LINK="prepos" PAFT=" " UNL="haste(icl&gt;motion&gt;thing)" DEF="THE ACT OF MOVING HURRIEDLY AND IN A CARELESS MANNER" TRANS="гонка">haste</W> 
 <W DOM="23" FEAT="PART" HYPOT="1-compl.00" ID="24" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="24" FEAT="V MF" HYPOT="prepos.16" ID="25" KSNAME="GET" LEMMA="GET" LINK="prepos" PAFT=" " UNL="get_away(icl&gt;flee&gt;do,equ&gt;escape,plf&gt;thing,agt&gt;living_thing)" DEF="RUN AWAY FROM CONFINEMENT" TRANS="сбежать">get</W> 
 <W DOM="25" FEAT="ADV" HYPOT="phras-junct.10" ID="26" KSNAME="AWAY2" LEMMA="AWAY" LINK="phras-junct" PAFT=" ">away</W> 

@@ -2094,7 +2094,7 @@
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="5" KSNAME="INTRODUCE" LEMMA="INTRODUCE" PAFT=" " UNL="introduce(icl&gt;attach&gt;do,equ&gt;insert,agt&gt;thing,obj&gt;thing)" DEF="PUT OR INTRODUCE INTO SOMETHING" TRANS="вводить">introduce</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="STRONG" LEMMA="STRONG" LINK="modif" PAFT=" ">strong</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="POLITICAL1" LEMMA="POLITICAL" LINK="modif" PAFT=" ">political</W> 
-<W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="BIAS2" LEMMA="BIAS" LINK="1-compl" PAFT=" " UNL="bias(icl&gt;partiality&gt;thing)" DEF="">bias</W> 
+<W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="BIAS2" LEMMA="BIAS" LINK="1-compl" PAFT=" " UNL="bias(icl&gt;partiality&gt;thing)" DEF="A PARTIALITY THAT PREVENTS OBJECTIVE CONSIDERATION OF AN ISSUE OR SITUATION" TRANS="предубеждение">bias</W> 
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="INTO" LEMMA="INTO" LINK="2-compl" PAFT=" ">into</W> 
 <W DOM="11" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="WORK1" LEMMA="WORK" LINK="prepos" PAFT=", ">works</W>, 
@@ -2134,7 +2134,7 @@
 <W DOM="8" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="REALLY" LEMMA="REALLY" LINK="adverb" PAFT=" " UNL="really(icl&gt;how,equ&gt;actually,com&gt;real)" DEF="IN ACTUAL FACT" TRANS="действительно">really</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="8" KSNAME="REFLECT" LEMMA="REFLECT" PAFT=" " UNL="reflect(icl&gt;indicate&gt;be,plf&gt;thing,obj&gt;thing,aoj&gt;thing,plc&gt;thing)" DEF="MANIFEST OR BRING BACK" TRANS="отражать">reflects</W> 
 <W DOM="8" FEAT="S PL" HYPOT="1-compl.01" ID="9" KSNAME="IMAGE1" LEMMA="IMAGE" LINK="1-compl" PAFT=" " UNL="image(icl&gt;representation&gt;thing)" DEF="AN ICONIC MENTAL REPRESENTATION" TRANS="образ">images</W> 
-<W DOM="9" FEAT="V PP" HYPOT="modif.01" ID="10" KSNAME="ENGRAVE" LEMMA="ENGRAVE" LINK="modif" PAFT=" " UNL="engrave(icl&gt;carve&gt;do,equ&gt;scratch,agt&gt;person,obj&gt;thing,ins&gt;thing)" DEF="">engraved</W> 
+<W DOM="9" FEAT="V PP" HYPOT="modif.01" ID="10" KSNAME="ENGRAVE" LEMMA="ENGRAVE" LINK="modif" PAFT=" " UNL="engrave(icl&gt;carve&gt;do,equ&gt;scratch,agt&gt;person,obj&gt;thing,ins&gt;thing)" DEF="CARVE, CUT, OR ETCH INTO A MATERIAL OR SURFACE" TRANS="вырезать">engraved</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="INTO" LEMMA="INTO" LINK="adverb" PAFT=" ">into</W> 
 <W DOM="11" FEAT="S OBJ SG" HYPOT="prepos.01" ID="12" KSNAME="IT" LEMMA="IT" LINK="prepos" PAFT=" ">it</W> 
 <W DOM="10" FEAT="PR" HYPOT="agent.10" ID="13" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 

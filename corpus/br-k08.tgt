@@ -268,7 +268,7 @@
 <W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="DINNER" LEMMA="DINNER" LINK="prepos" PAFT=", " UNL="dinner(icl&gt;meal&gt;thing)" DEF="THE MAIN MEAL OF THE DAY SERVED IN THE EVENING OR AT MIDDAY" TRANS="обед">dinner</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="parenth.16" ID="4" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">however</W>, 
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="FRM-PROP" LEMMA="ROUSSEAU" LINK="predic" PAFT=" ">Rousseau</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="6" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asks</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="6" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asks</W> 
 <W DOM="2" FEAT="PR" HYPOT="explic.02" ID="7" KSNAME="FOR1" LEMMA="FOR" LINK="explic" PAFT=" ">for</W> 
 <W DOM="9" FEAT="ADV" HYPOT="restr.11" ID="8" KSNAME="STILL1" LEMMA="STILL" LINK="restr" PAFT=" " UNL="still(icl&gt;how,com&gt;comparison)" DEF="TO A GREATER DEGREE" TRANS="еще">still</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" " UNL="another(icl&gt;adj,equ&gt;another)" DEF="ANY OF VARIOUS ALTERNATIVES" TRANS="другой">another</W> 
@@ -288,7 +288,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="2" FEAT="PR" HYPOT="copulat.13" ID="3" KSNAME="IN1" LEMMA="IN" LINK="copulat" PAFT=" ">in</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="HURRY1" LEMMA="HURRY" LINK="prepos" PAFT=" " UNL="hurry(icl&gt;speed&gt;thing,equ&gt;haste)" DEF="">hurry</W> 
+<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="HURRY1" LEMMA="HURRY" LINK="prepos" PAFT=" " UNL="hurry(icl&gt;speed&gt;thing,equ&gt;haste)" DEF="OVERLY EAGER SPEED (AND POSSIBLE CARELESSNESS)" TRANS="торопливость">hurry</W> 
 <W DOM="5" FEAT="PART" HYPOT="1-compl.00" ID="6" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="6" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="WRITE" LEMMA="WRITE" LINK="prepos" PAFT=" ">write</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" " UNL="another(icl&gt;adj,equ&gt;another)" DEF="ANY OF VARIOUS ALTERNATIVES" TRANS="другой">another</W> 
@@ -417,7 +417,7 @@
 <W DOM="3" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="6" KSNAME="UNDERSTAND" LEMMA="UNDERSTAND" LINK="1-compl" PAFT=" ">understand</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="STRANGE" LEMMA="STRANGE" LINK="modif" PAFT=" " UNL="strange(icl&gt;adj,ant&gt;familiar)" DEF="BEING DEFINITELY OUT OF THE ORDINARY AND UNEXPECTED" TRANS="странный">strange</W> 
-<W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="PREDICAMENT" LEMMA="PREDICAMENT" LINK="1-compl" MSNAME="PREDICAMENT" PAFT=" " UNL="predicament(icl&gt;difficulty&gt;thing)" DEF="">predicament</W> 
+<W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="PREDICAMENT" LEMMA="PREDICAMENT" LINK="1-compl" MSNAME="PREDICAMENT" PAFT=" " UNL="predicament(icl&gt;difficulty&gt;thing)" DEF="A SITUATION FROM WHICH EXTRICATION IS DIFFICULT ESPECIALLY AN UNPLEASANT OR TRYING ONE" TRANS="трудное положение">predicament</W> 
 <W DOM="15" FEAT="PR" HYPOT="2-compl.03" ID="10" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="WHICH1" LEMMA="WHICH" LINK="prepos" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -638,7 +638,7 @@
 <W DOM="3" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2" ID="2" KSNAME="FORBID" LEMMA="FORBID" LINK="fictit" PAFT="&quot;! ">forbid</W>"! 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="CRY2" LEMMA="CRY" PAFT=" " UNL="cry(icl&gt;utter&gt;do,equ&gt;shout,agt&gt;living_thing)" DEF="GIVE A SUDDEN LOUD CRY" TRANS="закричать,заорать">cried</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="3" FEAT="S PL" HYPOT="1-compl.01" ID="5" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT=", " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies</W>, 
+<W DOM="3" FEAT="S PL" HYPOT="1-compl.01" ID="5" KSNAME="LADY" LEMMA="LADY" LINK="1-compl" PAFT=", " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies</W>, 
 <W DOM="5" FEAT="V PP" HYPOT="modif.01" ID="6" KSNAME="ENCHANT" LEMMA="ENCHANT" LINK="modif" PAFT=" " UNL="enchant(icl&gt;please&gt;do,agt&gt;volitional_thing,obj&gt;living_thing,met&gt;thing)" DEF="">enchanted</W> 
 <W DOM="6" FEAT="PR" HYPOT="agent.10" ID="7" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
@@ -916,7 +916,7 @@
 <W DOM="1" FEAT="ADV" HYPOT="coordin.04" ID="2" KSNAME="JUST1" LEMMA="JUST" LINK="coordin" PAFT=" " UNL="just(icl&gt;how,equ&gt;merely,com&gt;mere)" DEF="AND NOTHING MORE" TRANS="всего,только,лишь">just</W> 
 <W DOM="19" FEAT="PR" HYPOT="adverb.02" ID="3" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="LADY" LEMMA="LADY" LINK="prepos" PAFT=", " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies</W>, 
+<W DOM="3" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="LADY" LEMMA="LADY" LINK="prepos" PAFT=", " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies</W>, 
 <W DOM="19" FEAT="CONJ" ID="6" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="8" FEAT="ADV" HYPOT="restr.11" ID="7" KSNAME="JUST1" LEMMA="JUST" LINK="restr" PAFT=" " UNL="just(icl&gt;how,equ&gt;merely,com&gt;mere)" DEF="AND NOTHING MORE" TRANS="всего,только,лишь">just</W> 
 <W DOM="6" FEAT="PR" HYPOT="coord-conj.10" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="coord-conj" PAFT=" ">for</W> 
@@ -941,7 +941,7 @@
 </S>
 <S DATE="29 11 2010 19:53:57" EXTRACOMM="Some nodes are not confirmed" ID="56" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_11\\br-k08.tgt;56" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies</W> 
+<W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="DELIGHT2" LEMMA="DELIGHT" LINK="pass-anal" PAFT=" " UNL="delight(icl&gt;satisfy&gt;be,equ&gt;please,obj&gt;person,aoj&gt;thing,met&gt;thing)" DEF="">delighted</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="5" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
@@ -976,7 +976,7 @@
 <W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="GIVE" LEMMA="GIVE" LINK="pass-anal" PAFT=" " UNL="give(icl&gt;supply&gt;occur,equ&gt;yield,cob&gt;abstract_thing,obj&gt;thing,ben&gt;person)" DEF="BE THE CAUSE OR SOURCE OF" TRANS="приносить">given</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.04" ID="10" KSNAME="ITS1" LEMMA="ITS" LINK="modif" MSNAME="ITS1" PAFT=" ">its</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.04" ID="11" KSNAME="FEEBLE" LEMMA="FEEBLE" LINK="modif" PAFT=" ">feeble</W> 
-<W DOM="13" FEAT="A" HYPOT="modif.03" ID="12" KSNAME="AMATEUR1" LEMMA="AMATEUR" LINK="modif" PAFT=" " UNL="amateur(icl&gt;adj)" DEF="">amateur</W> 
+<W DOM="13" FEAT="A" HYPOT="modif.03" ID="12" KSNAME="AMATEUR1" LEMMA="AMATEUR" LINK="modif" PAFT=" " UNL="amateur(icl&gt;adj)" DEF="ENGAGED IN AS A PASTIME" TRANS="любительский">amateur</W> 
 <W DOM="9" FEAT="V ING" HYPOT="1-compl.01" ID="13" KSNAME="RENDER1" LEMMA="RENDER" LINK="1-compl" PAFT=", ">rendering</W>, 
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="14" KSNAME="EVERYONE" LEMMA="EVERYONE" LINK="predic" MSNAME="EVERYONE" PAFT=" ">everyone</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.00" ID="15" KSNAME="INSIST" LEMMA="INSIST" LINK="coord-conj" PAFT=" ">insisted</W> 
@@ -1039,7 +1039,7 @@
 </S>
 <S DATE="29 11 2010 19:54:00" ID="60" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_11\\br-k08.tgt;60" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="4" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies</W> 
+<W DOM="4" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies</W> 
 <W DOM="2" FEAT="ADV" HYPOT="restr.11" ID="3" KSNAME="ESPECIALLY" LEMMA="ESPECIALLY" LINK="restr" PAFT=" " UNL="especially(icl&gt;how,equ&gt;particularly,com&gt;especial)" DEF="TO A DISTINCTLY GREATER EXTENT OR DEGREE THAN IS COMMON" TRANS="особенно,особо">especially</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">could</W> 
 <W DOM="4" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="5" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
@@ -1765,7 +1765,7 @@
 <W DOM="17" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="S PL" HYPOT="prepos.01" ID="17" KSNAME="REHEARSAL" LEMMA="REHEARSAL" LINK="prepos" PAFT=" ">rehearsals</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="18" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">were</W> 
-<W DOM="18" FEAT="V ING" HYPOT="analyt.11" ID="19" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;thing)" DEF="">pretending</W> 
+<W DOM="18" FEAT="V ING" HYPOT="analyt.11" ID="19" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;person,obj&gt;uw)" DEF="TO IMAGINE THAT SOMETHING IS TRUE WHEN PLAYING A GAME" TRANS="притворяться">pretending</W> 
 <W DOM="19" FEAT="CONJ" HYPOT="1-compl.21" ID="20" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="22" FEAT="S NOM PL" HYPOT="predic.01" ID="21" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="20" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="22" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
@@ -2144,7 +2144,7 @@
 <W DOM="3" FEAT="CONJ" HYPOT="sent-coordin.10" ID="5" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.10" ID="7" KSNAME="MUST1" LEMMA="MUST" LINK="coord-conj" MSNAME="MUST1" PAFT=" ">must</W> 
-<W DOM="7" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="1-compl" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;thing)" DEF="">pretend</W> 
+<W DOM="7" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="1-compl" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;person,obj&gt;uw)" DEF="TO IMAGINE THAT SOMETHING IS TRUE WHEN PLAYING A GAME" TRANS="притворяться">pretend</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="1-compl.21" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="HAIR" LEMMA="HAIR" LINK="predic" PAFT=" " UNL="hair(icl&gt;body_covering&gt;thing)" DEF="A COVERING FOR THE BODY (OR PARTS OF IT) CONSISTING OF A DENSE GROWTH OF THREADLIKE STRUCTURES (AS ON THE HUMAN HEAD)" TRANS="волосы">hair</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="11" KSNAME="DO1" LEMMA="DO" LINK="subord-conj" PAFT=" ">does</W> 

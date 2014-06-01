@@ -584,7 +584,7 @@
 <W DOM="18" FEAT="NID" HYPOT="prepos.01" ID="19" KSNAME="FICT-LEX" LEMMA="DIAM" LINK="prepos" PAFT=" ">diam</W> 
 <W DOM="19" FEAT="PR" HYPOT="attrib.01" ID="20" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=", " UNL="bottom(icl&gt;side&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W>, 
+<W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=", " UNL="bottom(icl&gt;side&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWER SIDE OF ANYTHING" TRANS="низ">bottom</W>, 
 <W DOM="9" FEAT="NUM" ID="23" KSNAME="NUM-SMALL" LEMMA="4" LINK="fictit" PAFT=" ">4</W> 
 <W DOM="9" FEAT="S SG" ID="24" KSNAME="FT" LEMMA="FT" LINK="fictit" PAFT=" " UNL="foot(icl&gt;linear_unit&gt;thing)" DEF="A LINEAR UNIT OF LENGTH EQUAL TO 12 INCHES OR A THIRD OF A YARD" TRANS="фут">ft</W> 
 <W DOM="24" FEAT="ADV" HYPOT="attrib.14" ID="25" KSNAME="BELOW2" LEMMA="BELOW" LINK="attrib" PAFT=" ">below</W> 
@@ -1886,7 +1886,7 @@
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="coord-conj.10" ID="18" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" " UNL="be(icl&gt;occur,equ&gt;exist,obj&gt;thing)" DEF="HAVE AN EXISTENCE" TRANS="существовать">was</W> 
 <W DOM="18" FEAT="ADV" HYPOT="adverb.01" ID="19" KSNAME="THERE1" LEMMA="THERE" LINK="adverb" PAFT=" ">there</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.10" ID="20" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="18" FEAT="S SG" HYPOT="copulat.10" ID="21" KSNAME="DEFICIENCY" LEMMA="DEFICIENCY" LINK="copulat" PAFT=" " UNL="deficiency(icl&gt;amount&gt;thing,equ&gt;insufficiency,ant&gt;sufficiency)" DEF="">deficiency</W> 
+<W DOM="18" FEAT="S SG" HYPOT="copulat.10" ID="21" KSNAME="DEFICIENCY" LEMMA="DEFICIENCY" LINK="copulat" PAFT=" " UNL="deficiency(icl&gt;amount&gt;thing,equ&gt;insufficiency,ant&gt;sufficiency)" DEF="LACK OF AN ADEQUATE QUANTITY OR NUMBER" TRANS="недостаточность">deficiency</W> 
 <W DOM="21" FEAT="PR" HYPOT="quasiagent.10" ID="22" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="24" FEAT="V PP" HYPOT="modif.01" ID="23" KSNAME="DISSOLVE" LEMMA="DISSOLVE" LINK="modif" PAFT=" ">dissolved</W> 
 <W DOM="22" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="OXYGEN" LEMMA="OXYGEN" LINK="prepos" PAFT=". " UNL="oxygen(icl&gt;chemical_element&gt;thing)" DEF="A NONMETALLIC BIVALENT ELEMENT THAT IS NORMALLY A COLORLESS ODORLESS TASTELESS NONFLAMMABLE DIATOMIC GAS" TRANS="кислород">oxygen</W>. 

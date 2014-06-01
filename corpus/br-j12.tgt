@@ -625,7 +625,7 @@
 <W DOM="5" FEAT="NUM" HYPOT="quantit.10" ID="2" KSNAME="THREE1" LEMMA="THREE" LINK="quantit" PAFT=" " UNL="three(icl&gt;digit&gt;thing) three(icl&gt;digit&gt;information)" DEF="">three</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="DIRECT2" LEMMA="DIRECT" LINK="modif" PAFT=" ">direct</W> 
-<W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="PATHWAY" LEMMA="PATHWAY" LINK="predic" PAFT=" " UNL="pathway(icl&gt;path&gt;thing)" DEF="">pathways</W> 
+<W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="PATHWAY" LEMMA="PATHWAY" LINK="predic" PAFT=" " UNL="pathway(icl&gt;path&gt;thing)" DEF="A TRODDEN PATH" TRANS="тропинка">pathways</W> 
 <W DOM="5" FEAT="PR" HYPOT="1-compl.07" ID="6" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="ALVEOLAR" LEMMA="ALVEOLAR" LINK="modif" PAFT=" " UNL="alveolar(icl&gt;adj,com&gt;alveolus)" DEF="">alveolar</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="BRONCHIAL" LEMMA="BRONCHIAL" LINK="modif" PAFT=" " UNL="bronchial(icl&gt;adj,com&gt;bronchus)" DEF="RELATING TO OR ASSOCIATED WITH THE BRONCHI" TRANS="бронхиальный">bronchial</W> 
@@ -734,7 +734,7 @@
 </S>
 <S DATE="29 11 2010 20:11:47" ID="33" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j12.tgt;33" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="14" FEAT="S SG" ID="2" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="fictit" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W> 
+<W DOM="14" FEAT="S SG" ID="2" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="fictit" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.10" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=", ">and</W>, 
 <W DOM="3" FEAT="ADV" HYPOT="parenth.00" ID="4" KSNAME="PERHAPS" LEMMA="PERHAPS" LINK="parenth" PAFT=", " UNL="perhaps(icl&gt;how,equ&gt;possibly)" DEF="BY CHANCE" TRANS="возможно">perhaps</W>, 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="5" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
@@ -1404,7 +1404,7 @@
 <W FEAT="V" ID="25" KSNAME="FILL1" LEMMA="FILL" UNL="fill(icl&gt;cause&gt;do,equ&gt;make_full,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="MAKE FULL, ALSO IN A METAPHORICAL SENSE" TRANS="наполнять" WN21="2:30:01::">filled</W> 
 <W ID="26">with</W> 
 <W FEAT="ART" ID="27" KSNAME="AN1" LEMMA="AN">a</W> 
-<W FEAT="S SG" ID="28" KSNAME="SOLUTION1" LEMMA="SOLUTION" UNL="solution(icl&gt;liquid&gt;concrete_thing,obj&gt;thing,plc&gt;liquid)" DEF="" WN21="1:27:00::">solution</W> 
+<W FEAT="S SG" ID="28" KSNAME="SOLUTION1" LEMMA="SOLUTION" UNL="solution(icl&gt;liquid&gt;matter,obj&gt;matter,plc&gt;matter)" DEF="A LIQUID" TRANS="раствор" WN21="1:27:00::">solution</W> 
 <W ID="29">under</W> 
 <W FEAT="S SG" ID="30" KSNAME="PRESSURE" LEMMA="PRESSURE" UNL="pressure(icl&gt;physical_phenomenon&gt;thing)" DEF="THE FORCE APPLIED TO A UNIT AREA OF SURFACE" TRANS="давление" WN21="1:19:00::">pressure</W> 
 <W FEAT="CONJ" ID="31" KSNAME="AND" LEMMA="AND">and</W> 

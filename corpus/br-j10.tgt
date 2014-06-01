@@ -14,7 +14,7 @@
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="10" KSNAME="HIBERNATE" LEMMA="HIBERNATE" PAFT=" " UNL="hibernate(icl&gt;sleep&gt;occur,obj&gt;thing)" DEF="">hibernate</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="11" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="12" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;thing)" DEF="">state</W> 
+<W DOM="11" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="STATE1" LEMMA="STATE" LINK="prepos" PAFT=" " UNL="state(icl&gt;attribute&gt;abstract_thing)" DEF="THE WAY SOMETHING IS WITH RESPECT TO ITS MAIN ATTRIBUTES" TRANS="состояние">state</W> 
 <W DOM="13" FEAT="PR" HYPOT="1-compl.07" ID="14" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="TORPOR" LEMMA="TORPOR" LINK="prepos" PAFT=". " UNL="torpor(icl&gt;physiological_state&gt;thing)" DEF="A STATE OF MOTOR AND MENTAL INACTIVITY WITH A PARTIAL SUSPENSION OF SENSIBILITY" TRANS="оцепенение,оцепенелость,ступор">torpor</W>. 
 </S>
@@ -37,7 +37,7 @@
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="16" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">are</W> 
 <W DOM="16" FEAT="V ING" HYPOT="analyt.11" ID="17" KSNAME="TURN2" LEMMA="TURN" LINK="analyt" PAFT=" " UNL="turn_over(icl&gt;remove&gt;do,equ&gt;dig,agt&gt;thing)" DEF="">turning</W> 
 <W DOM="17" FEAT="ADV" HYPOT="adverb.01" ID="18" KSNAME="OVER2" LEMMA="OVER" LINK="adverb" PAFT=" ">over</W> 
-<W DOM="17" FEAT="S PL" HYPOT="1-compl.01" ID="19" KSNAME="SOD1" LEMMA="SOD" LINK="1-compl" PAFT=" " UNL="sod(icl&gt;land&gt;thing,equ&gt;turf)" DEF="">sods</W> 
+<W DOM="17" FEAT="S PL" HYPOT="1-compl.01" ID="19" KSNAME="SOD1" LEMMA="SOD" LINK="1-compl" PAFT=" " UNL="sod(icl&gt;land&gt;thing,equ&gt;turf)" DEF="SURFACE LAYER OF GROUND CONTAINING A MAT OF GRASS AND GRASS ROOTS" TRANS="дерн">sods</W> 
 <W DOM="19" FEAT="PR" HYPOT="attrib.01" ID="20" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="22" FEAT="A" HYPOT="determ.13" ID="21" KSNAME="YOUR" LEMMA="YOUR" LINK="determ" PAFT=" ">your</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="GARDEN" LEMMA="GARDEN" LINK="prepos" PAFT=", " UNL="garden(icl&gt;plot&gt;thing)" DEF="A PLOT OF GROUND WHERE PLANTS ARE CULTIVATED" TRANS="сад">garden</W>, 
@@ -467,7 +467,7 @@
 <W DOM="11" FEAT="NID" HYPOT="predic.01" ID="10" KSNAME="FICT-LEX" LEMMA="BUMBLEBEES" LINK="predic" PAFT=" ">bumblebees</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="11" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="11" FEAT="A COMP" HYPOT="copulat.11" ID="12" KSNAME="BIG" LEMMA="BIG" LINK="copulat" PAFT=", " UNL="big(icl&gt;adj,equ&gt;large,ant&gt;little)" DEF="ABOVE AVERAGE IN SIZE OR NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="большой">bigger</W>, 
-<W DOM="12" FEAT="A COMP" HYPOT="coordin.02" ID="13" KSNAME="HAIRY" LEMMA="HAIRY" LINK="coordin" PAFT=", " UNL="hairy(icl&gt;adj,ant&gt;hairless)" DEF="">hairier</W>, 
+<W DOM="12" FEAT="A COMP" HYPOT="coordin.02" ID="13" KSNAME="HAIRY" LEMMA="HAIRY" LINK="coordin" PAFT=", " UNL="hairy(icl&gt;adj,ant&gt;hairless)" DEF="HAVING OR COVERED WITH HAIR" TRANS="волосатый">hairier</W>, 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="16" FEAT="ADV" HYPOT="restr.01" ID="15" KSNAME="MUCH" LEMMA="MUCH" LINK="restr" PAFT=" ">much</W> 
 <W DOM="17" FEAT="ADV COMP" HYPOT="restr.12" ID="16" KSNAME="MORE" LEMMA="MORE" LINK="restr" PAFT=" ">more</W> 
@@ -614,7 +614,7 @@
 <W DOM="3" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="SPECIES" LEMMA="SPECIES" LINK="predic" PAFT=" " UNL="species(icl&gt;taxonomic_group&gt;thing)" DEF="(BIOLOGY) TAXONOMIC GROUP WHOSE MEMBERS CAN INTERBREED" TRANS="вид">species</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="SEEM" LEMMA="SEEM" PAFT=" " UNL="seem(icl&gt;be,obj&gt;uw,aoj&gt;uw,ben&gt;person)" DEF="GIVE A CERTAIN IMPRESSION" TRANS="казаться">seem</W> 
 <W DOM="3" FEAT="PART" HYPOT="1-compl.15" ID="4" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="PREFER1" LEMMA="PREFER" LINK="prepos" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">prefer</W> 
+<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="PREFER1" LEMMA="PREFER" LINK="prepos" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">prefer</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="READY" LEMMA="READY" LINK="modif" PAFT=" ">ready</W> 
 <W DOM="9" FEAT="V PP" HYPOT="modif.01" ID="8" KSNAME="MAKE1" LEMMA="MAKE" LINK="modif" PAFT=" ">made</W> 
@@ -1323,7 +1323,7 @@
 <W DOM="11" FEAT="PR" HYPOT="1-compl.07" ID="12" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="RIGHTFUL" LEMMA="RIGHTFUL" LINK="modif" PAFT=" ">rightful</W> 
-<W DOM="12" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="INHABITANT" LEMMA="INHABITANT" LINK="prepos" PAFT=" " UNL="inhabitant(icl&gt;person&gt;thing)" DEF="">inhabitants</W> 
+<W DOM="12" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="INHABITANT" LEMMA="INHABITANT" LINK="prepos" PAFT=" " UNL="inhabitant(icl&gt;person)" DEF="A PERSON WHO INHABITS A PARTICULAR PLACE" TRANS="житель">inhabitants</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.10" ID="16" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="S SG" HYPOT="coord-conj.10" ID="18" KSNAME="STORE2" LEMMA="STORE" LINK="coord-conj" PAFT=" " UNL="store(icl&gt;abstract_thing,equ&gt;stock,obj&gt;thing)" DEF="" TRANS="запас">store</W> 
@@ -1545,7 +1545,7 @@
 </S>
 <S DATE="29 11 2010 20:11:16" EXTRACOMM="Tagging contradicts ETAP parsing:  - SIDE1\nTagging contradicts ETAP parsing:  - FICT-LEX" ID="65" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_6\\br-j10.tgt;65" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWER SIDE OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="PART1" LEMMA="PART" LINK="predic" PAFT=" ">part</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

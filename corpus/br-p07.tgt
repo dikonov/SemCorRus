@@ -563,7 +563,7 @@
 <S DATE="30 11 2010 10:40:54" ID="38" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-p07.tgt;38" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=", ">Then</W>, 
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="2" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
-<W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="prepos" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="">disappointment</W> 
+<W DOM="2" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="DISAPPOINTMENT" LEMMA="DISAPPOINTMENT" LINK="prepos" PAFT=" " UNL="disappointment(icl&gt;dissatisfaction&gt;thing)" DEF="A FEELING OF DISSATISFACTION THAT RESULTS WHEN YOUR EXPECTATIONS ARE NOT REALIZED" TRANS="разочарование">disappointment</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="EVIDENT" LEMMA="EVIDENT" LINK="modif" PAFT=" ">evident</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.02" ID="5" KSNAME="UPON" LEMMA="UPON" LINK="attrib" PAFT=" ">upon</W> 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
@@ -1222,9 +1222,9 @@
 <W DOM="_root" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" ID="3" KSNAME="DAY" LEMMA="DAY" PAFT=" " UNL="day(icl&gt;time_period&gt;thing,equ&gt;daylight,ant&gt;night)" DEF="THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE" TRANS="день">day</W> 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coordin.10" ID="4" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coord-conj.10" ID="5" KSNAME="NIGHT" LEMMA="NIGHT" LINK="coord-conj" PAFT=", " UNL="night(icl&gt;time_period&gt;thing,ant&gt;day)" DEF="THE TIME AFTER SUNSET AND BEFORE SUNRISE WHILE IT IS DARK OUTSIDE" TRANS="ночь">night</W>, 
-<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coordin.01" ID="6" KSNAME="WATCH3" LEMMA="WATCH" LINK="coordin" PAFT=" " UNL="watch(icl&gt;shift&gt;thing)" DEF="">watch</W> 
+<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coordin.01" ID="6" KSNAME="WATCH3" LEMMA="WATCH" LINK="coordin" PAFT=" " UNL="watch(icl&gt;shift&gt;group)" DEF="PERSONNEL OR CREW WHO ARE ON DUTY" TRANS="смена,вахта">watch</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coord-conj.10" ID="8" KSNAME="WATCH3" LEMMA="WATCH" LINK="coord-conj" PAFT=" " UNL="watch(icl&gt;shift&gt;thing)" DEF="">watch</W> 
+<W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7,8,9" HYPOT="coord-conj.10" ID="8" KSNAME="WATCH3" LEMMA="WATCH" LINK="coord-conj" PAFT=" " UNL="watch(icl&gt;shift&gt;group)" DEF="PERSONNEL OR CREW WHO ARE ON DUTY" TRANS="смена,вахта">watch</W> 
 <W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6,7,8,9" ID="9" KSNAME="ABOUT2" LEMMA="ABOUT" LINK="fictit" PAFT=". ">about</W>. 
 </S>
 <S DATE="30 11 2010 10:41:00" EXTRACOMM="Tagging contradicts ETAP parsing: US - WE\nSome nodes are not confirmed" ID="76" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-p07.tgt;76" STATUS="doubt">
@@ -1541,7 +1541,7 @@
 <W DOM="1" FEAT="CONJ" HYPOT="rhem.10" ID="5" KSNAME="THAT1" LEMMA="THAT" LINK="rhem" PAFT=" ">that</W> 
 <W DOM="7" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
-<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="SERVE2" LEMMA="SERVE" LINK="analyt" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">served</W> 
+<W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="SERVE2" LEMMA="SERVE" LINK="analyt" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">served</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="NAVY" LEMMA="NAVY" LINK="1-compl" MSNAME="NAVY" PAFT=". " UNL="navy(icl&gt;military_service&gt;thing)" DEF="AN ORGANIZATION OF MILITARY VESSELS BELONGING TO A COUNTRY AND AVAILABLE FOR SEA WARFARE" TRANS="военно-морской флот">Navy</W>. 
 </S>

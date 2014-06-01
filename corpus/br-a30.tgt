@@ -1629,7 +1629,7 @@
 <W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" ID="3" KSNAME="RAOUL" LEMMA="RAOUL" LINK="fictit" PAFT=" ">Raoul</W> 
 <W DOM="3" FEAT="S SG" HYPOT="appos.10" ID="4" KSNAME="FRM-PROP" LEMMA="ESNARDS" LINK="appos" PAFT=" ">Esnards</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" ID="5" KSNAME="HAVE" LEMMA="HAVE" LINK="fictit" PAFT=" ">have</W> 
-<W DOM="5" FEAT="V PP" HYPOT="analyt.12" ID="6" KSNAME="EXCHANGE2" LEMMA="EXCHANGE" LINK="analyt" PAFT=" " UNL="exchange(icl&gt;change_by_reversal&gt;occur,equ&gt;switch_over,obj&gt;thing,gol&gt;thing)" DEF="">exchanged</W> 
+<W DOM="5" FEAT="V PP" HYPOT="analyt.12" ID="6" KSNAME="EXCHANGE2" LEMMA="EXCHANGE" LINK="analyt" PAFT=" " UNL="exchange(icl&gt;change_by_reversal&gt;occur,equ&gt;switch_over,obj&gt;thing,gol&gt;thing)" DEF="CHANGE OVER, CHANGE AROUND, AS TO A NEW ORDER OR SEQUENCE" TRANS="менять">exchanged</W> 
 <W DOM="8" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="RESIDENCE" LEMMA="RESIDENCE" LINK="1-compl" PAFT=" ">residence</W> 
 <W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="9" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 

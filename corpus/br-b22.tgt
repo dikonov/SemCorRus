@@ -817,7 +817,7 @@
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="relat.01" ID="7" KSNAME="CAN1" LEMMA="CAN" LINK="relat" PAFT=" ">cannot</W> 
 <W DOM="7" FEAT="ADV" HYPOT="restr.10" ID="8" KSNAME="NOT" LEMMA="NOT" LINK="restr" NODETYPE="FANTOM" PAFT=" "/>
 <W DOM="7" FEAT="V MF" HYPOT="1-compl.17" ID="9" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
-<W DOM="9" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="EVADE" LEMMA="EVADE" LINK="pass-anal" PAFT=" " UNL="evade(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="">evaded</W> 
+<W DOM="9" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="EVADE" LEMMA="EVADE" LINK="pass-anal" PAFT=" " UNL="evade(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="AVOID OR TRY TO AVOID FULFILLING, ANSWERING, OR PERFORMING (DUTIES, QUESTIONS, OR ISSUES)" TRANS="уклоняться">evaded</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="11" FEAT="V PP" GRP="11,12" HYPOT="coord-conj.10" ID="12" KSNAME="GLOSS2" LEMMA="GLOSS" LINK="coord-conj" PAFT=" ">glossed</W> 
 <W DOM="12" FEAT="PR" GRP="11,12" HYPOT="adverb.02" ID="13" KSNAME="OVER1" LEMMA="OVER" LINK="adverb" PAFT=" ">over</W> 
@@ -989,7 +989,7 @@
 <W DOM="22" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">As</W> 
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="3" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">has</W> 
-<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="TURN2" LEMMA="TURN" LINK="analyt" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="">turned</W> 
+<W DOM="3" FEAT="V PP" HYPOT="analyt.12" ID="4" KSNAME="TURN2" LEMMA="TURN" LINK="analyt" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться">turned</W> 
 <W DOM="4" FEAT="ADV" HYPOT="phras-junct.10" ID="5" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=", ">out</W>, 
 <W DOM="4" FEAT="ADV" HYPOT="parenth.10" ID="6" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">however</W>, 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

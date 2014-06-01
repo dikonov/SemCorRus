@@ -347,7 +347,7 @@
 <W DOM="19" FEAT="ADV" HYPOT="parenth.16" ID="20" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
 <W DOM="20" FEAT="PR" HYPOT="attrib.02" ID="21" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="21" FEAT="S PL" HYPOT="prepos.01" ID="22" KSNAME="PEOPLE2" LEMMA="PEOPLE" LINK="prepos" PAFT=" ">people</W> 
-<W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="PASS1" LEMMA="PASS" LINK="modif" PAFT=" " UNL="pass_by(icl&gt;travel&gt;occur,equ&gt;travel_by,cob&gt;thing,obj&gt;thing)" DEF="">passing</W> 
+<W DOM="22" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="PASS1" LEMMA="PASS" LINK="modif" PAFT=" " UNL="pass_by(icl&gt;travel&gt;occur,equ&gt;travel_by,cob&gt;thing,obj&gt;thing)" DEF="PASS BY" TRANS="проходить мимо,миновать">passing</W> 
 <W DOM="23" FEAT="ADV" HYPOT="phras-junct.10" ID="24" KSNAME="BY2" LEMMA="BY" LINK="phras-junct" PAFT=". ">by</W>. 
 </S>
 <S DATE="30 11 2010 10:51:06" EXTRACOMM="Tagging contradicts ETAP parsing: THAT1 - THAT3" ID="21" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_47\\br-l02.tgt;21" STATUS="doubt">
@@ -620,7 +620,7 @@
 </S>
 <S DATE="30 11 2010 10:51:07" ID="42" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_47\\br-l02.tgt;42" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=". " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W>. 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=". " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W>. 
 </S>
 <S DATE="30 11 2010 10:51:07" ID="43" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_47\\br-l02.tgt;43" STATUS="doubt">
 "<W DOM="3" EXTRAFEAT="CAP IN-QUOT" FEAT="INTJ" GRP="1,2,3,4,5" HYPOT="parenth.21" ID="1" KSNAME="OH" LEMMA="OH" LINK="parenth" PAFT=", " PBEF="&quot;">Oh</W>, 
@@ -1293,7 +1293,7 @@
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="CAR" LEMMA="CAR" LINK="prepos" PAFT=" ">car</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="11" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="12" KSNAME="HAVE" LEMMA="HAVE" LINK="coord-conj" PAFT=" ">had</W> 
-<W DOM="12" FEAT="V PP" HYPOT="analyt.12" ID="13" KSNAME="TRANSPOSE" LEMMA="TRANSPOSE" LINK="analyt" PAFT=" " UNL="transpose(icl&gt;change_by_reversal&gt;do,equ&gt;permute,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="">transposed</W> 
+<W DOM="12" FEAT="V PP" HYPOT="analyt.12" ID="13" KSNAME="TRANSPOSE" LEMMA="TRANSPOSE" LINK="analyt" PAFT=" " UNL="transpose(icl&gt;change_by_reversal&gt;do,equ&gt;permute,src&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="CHANGE THE ORDER OR ARRANGEMENT OF" TRANS="переставлять">transposed</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="LAST1" LEMMA="LAST" LINK="modif" PAFT=" ">last</W> 
 <W DOM="17" FEAT="NUM" HYPOT="quantit.10" ID="16" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 

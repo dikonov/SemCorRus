@@ -288,7 +288,7 @@
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="12" KSNAME="LINE1" LEMMA="LINE" LINK="prepos" PAFT=", ">line</W>, 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" &quot;">the</W> 
 "<W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="compos.06" ID="14" KSNAME="MODERATE1" LEMMA="MODERATE" LINK="compos" PAFT="&quot; " UNL="moderate(icl&gt;adj,ant&gt;immoderate)" DEF="BEING WITHIN REASONABLE OR AVERAGE LIMITS" TRANS="умеренный">moderate</W>" 
-<W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">rating</W> 
+<W DOM="16" FEAT="S SG" HYPOT="predic.01" ID="15" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">rating</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="16" KSNAME="MAY1" LEMMA="MAY" PAFT=" ">may</W> 
 <W DOM="16" FEAT="V MF" HYPOT="1-compl.17" ID="17" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
 <W DOM="19" FEAT="ADV COMP" HYPOT="adverb.01" ID="18" KSNAME="FAR2" LEMMA="FAR" LINK="adverb" PAFT=" ">further</W> 
@@ -624,7 +624,7 @@
 <W DOM="17" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="EXTENSIVE" LEMMA="EXTENSIVE" LINK="modif" PAFT=" ">extensive</W> 
 <W DOM="17" FEAT="S SG" HYPOT="compos.01" ID="16" KSNAME="AGE1" LEMMA="AGE" LINK="compos" PAFT=" " UNL="age(icl&gt;abstract_thing,aoj&gt;thing,val&gt;uw)" DEF="THE NUMBER OF YEARS SOMEONE HAS LIVED OR SOMETHING HAS EXISTED" TRANS="возраст">age</W> 
-<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="GAP1" LEMMA="GAP" LINK="prepos" PAFT=" " UNL="gap(icl&gt;disparity&gt;thing)" DEF="">gap</W> 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="GAP1" LEMMA="GAP" LINK="prepos" PAFT=" " UNL="gap(icl&gt;disparity&gt;thing)" DEF="A CONSPICUOUS DISPARITY OR DIFFERENCE AS BETWEEN TWO FIGURES" TRANS="разрыв">gap</W> 
 <W DOM="17" FEAT="V ING" HYPOT="modif.01" ID="18" KSNAME="OCCUR" LEMMA="OCCUR" LINK="modif" PAFT=" " UNL="occur(icl&gt;happen&gt;occur,cob&gt;thing,obj&gt;uw,plc&gt;uw)" DEF="COME TO PASS" TRANS="случаться">occurring</W> 
 <W DOM="18" FEAT="PR" HYPOT="adverb.02" ID="19" KSNAME="DURING" LEMMA="DURING" LINK="adverb" MSNAME="DURING" PAFT=" ">during</W> 
 <W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="CHILDHOOD" LEMMA="CHILDHOOD" LINK="prepos" PAFT=" " UNL="childhood(icl&gt;immaturity&gt;thing)" DEF="THE STATE OF A CHILD BETWEEN INFANCY AND ADOLESCENCE" TRANS="детство">childhood</W> 
@@ -641,7 +641,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="PORTION1" LEMMA="PORTION" LINK="predic" PAFT=" " UNL="portion(icl&gt;relation&gt;thing,equ&gt;part)" DEF="SOMETHING DETERMINED IN RELATION TO SOMETHING THAT INCLUDES IT" TRANS="часть">portion</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="PROVIDE" LEMMA="PROVIDE" PAFT=" " UNL="provide(icl&gt;equip&gt;do,cob&gt;thing,obj&gt;thing)" DEF="TO EQUIP OR FURNISH WITH" TRANS="снабжать">provides</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="RATING" LEMMA="RATING" LINK="1-compl" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">rating</W> 
+<W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="RATING" LEMMA="RATING" LINK="1-compl" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">rating</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="ANY" LEMMA="ANY" LINK="determ" PAFT=" ">any</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="STAGE1" LEMMA="STAGE" LINK="prepos" PAFT=" ">stage</W> 
@@ -694,7 +694,7 @@
 <W DOM="1" FEAT="CONJ" HYPOT="explet.10" ID="5" KSNAME="THAT1" LEMMA="THAT" LINK="explet" PAFT=" ">that</W> 
 <W DOM="21" FEAT="S PL" HYPOT="predic.01" ID="6" KSNAME="DIFFERENCE1" LEMMA="DIFFERENCE" LINK="predic" PAFT=" " UNL="difference(icl&gt;quality&gt;thing,ant&gt;sameness)" DEF="THE QUALITY OF BEING UNLIKE OR DISSIMILAR" TRANS="отличие">differences</W> 
 <W DOM="6" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
-<W DOM="7" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="RATING" LEMMA="RATING" LINK="prepos" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">ratings</W> 
+<W DOM="7" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="RATING" LEMMA="RATING" LINK="prepos" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">ratings</W> 
 <W DOM="8" FEAT="A" GRP="9,10" HYPOT="modif.01" ID="9" KSNAME="DUE1" LEMMA="DUE" LINK="modif" PAFT=" ">due</W> 
 <W DOM="9" FEAT="PR" GRP="9,10" HYPOT="1-compl.07" ID="10" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="SELECTION" LEMMA="SELECTION" LINK="prepos" PAFT=" " UNL="selection(icl&gt;action,agt&gt;thing,obj&gt;thing)" DEF="THE ACT OF CHOOSING OR SELECTING" TRANS="отбор,выбор">selection</W> 
@@ -729,7 +729,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="ACCORDINGLY" LEMMA="ACCORDINGLY" LINK="parenth" PAFT=", " UNL="accordingly(icl&gt;how,equ&gt;consequently,com&gt;consequent)" DEF="(SENTENCE CONNECTORS) BECAUSE OF THE REASON GIVEN" TRANS="соответственно">Accordingly</W>, 
 <W DOM="3" FEAT="S SG" HYPOT="compos.01" ID="2" KSNAME="MATURITY" LEMMA="MATURITY" LINK="compos" PAFT=" " UNL="maturity(icl&gt;state&gt;thing,ant&gt;immaturity)" DEF="STATE OF BEING MATURE" TRANS="зрелость">maturity</W> 
 <W DOM="4" FEAT="S SG" HYPOT="compos.01" ID="3" KSNAME="LEVEL1" LEMMA="LEVEL" LINK="compos" PAFT=" " UNL="level(icl&gt;property&gt;abstract_thing,obj&gt;quantity,aoj&gt;thing,scn&gt;uw)" DEF="A VALUE ON A SCALE" TRANS="уровень">level</W> 
-<W DOM="18" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">ratings</W> 
+<W DOM="18" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">ratings</W> 
 <W DOM="4" FEAT="PR" HYPOT="agent.10" ID="5" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="MEANS" LEMMA="MEANS" LINK="prepos" PAFT=" ">means</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
@@ -774,7 +774,7 @@
 <W DOM="5" FEAT="S PL" HYPOT="explet.13" ID="8" KSNAME="DIFFERENCE1" LEMMA="DIFFERENCE" LINK="explet" PAFT=" " UNL="difference(icl&gt;quality&gt;thing,ant&gt;sameness)" DEF="THE QUALITY OF BEING UNLIKE OR DISSIMILAR" TRANS="отличие">differences</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="RATING" LEMMA="RATING" LINK="prepos" PAFT=", " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">ratings</W>, 
+<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="RATING" LEMMA="RATING" LINK="prepos" PAFT=", " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">ratings</W>, 
 <W DOM="6" FEAT="CONJ" HYPOT="sent-coordin.10" ID="12" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="14" FEAT="PART" HYPOT="predic.10" ID="13" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="coord-conj.10" ID="14" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">is</W> 
@@ -786,7 +786,7 @@
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="SKELETAL" LEMMA="SKELETAL" LINK="modif" PAFT=" " UNL="skeletal(icl&gt;adj,com&gt;skeleton)" DEF="OF OR RELATING TO OR FORMING OR ATTACHED TO A SKELETON" TRANS="скелетный">Skeletal</W> 
 <W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="AGE1" LEMMA="AGE" LINK="compos" PAFT=" " UNL="age(icl&gt;abstract_thing,aoj&gt;thing,val&gt;uw)" DEF="THE NUMBER OF YEARS SOMEONE HAS LIVED OR SOMETHING HAS EXISTED" TRANS="возраст">Age</W> 
-<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="">rating</W> 
+<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="RATING" LEMMA="RATING" LINK="predic" PAFT=" " UNL="rating(icl&gt;appraisal&gt;thing,equ&gt;evaluation)" DEF="AN APPRAISAL OF THE VALUE OF SOMETHING" TRANS="оценка">rating</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="subord-conj.10" ID="6" KSNAME="CAN1" LEMMA="CAN" LINK="subord-conj" PAFT=" ">can</W> 
 <W DOM="6" FEAT="V MF" HYPOT="1-compl.17" ID="7" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">be</W> 
 <W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="MAKE1" LEMMA="MAKE" LINK="pass-anal" PAFT=" " UNL="make(icl&gt;do,com&gt;mental,agt&gt;person,obj&gt;abstract_thing)" DEF="TO FORMULATE IN MIND" TRANS="придумывать">made</W> 
@@ -1198,7 +1198,7 @@
 <W DOM="41" FEAT="ADV COMP" HYPOT="coord-conj.10" ID="42" KSNAME="MORE" LEMMA="MORE" LINK="coord-conj" PAFT=" ">more</W> 
 <W DOM="44" FEAT="ADV" HYPOT="restr.12" ID="43" KSNAME="PRECISELY" LEMMA="PRECISELY" LINK="restr" MSNAME="PRECISELY" PAFT=" " UNL="precisely(icl&gt;how)" DEF="JUST AS IT SHOULD BE" TRANS="точно,в точности">precisely</W> 
 <W DOM="28" FEAT="PR" HYPOT="adverb.02" ID="44" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
-<W DOM="44" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="prepos.01" ID="45" KSNAME="REFER2" LEMMA="REFER" LINK="prepos" PAFT=" " UNL="refer(icl&gt;research&gt;do,equ&gt;consult,agt&gt;thing)" DEF="">referring</W> 
+<W DOM="44" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="prepos.01" ID="45" KSNAME="REFER2" LEMMA="REFER" LINK="prepos" PAFT=" " UNL="refer(icl&gt;consult&gt;do,agt&gt;person,obj&gt;information)" DEF="SEEK INFORMATION FROM" TRANS="обращаться">referring</W> 
 <W DOM="45" FEAT="PR" HYPOT="2-compl.02" ID="46" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="49" FEAT="ART" HYPOT="determ.11" ID="47" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="49" FEAT="A" HYPOT="modif.01" ID="48" KSNAME="ORIGINAL2" LEMMA="ORIGINAL" LINK="modif" PAFT=" " UNL="original(icl&gt;adj)" DEF="(OF E.G. INFORMATION) NOT SECONDHAND OR BY WAY OF SOMETHING INTERMEDIARY" TRANS="первичный">original</W> 
@@ -1238,7 +1238,7 @@
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="READILY" LEMMA="READILY" LINK="adverb" PAFT=" " UNL="readily(icl&gt;how)" DEF="WITHOUT MUCH DIFFICULTY" TRANS="легко">readily</W> 
 <W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="CLARIFY" LEMMA="CLARIFY" LINK="pass-anal" PAFT=" ">clarified</W> 
 <W DOM="3" FEAT="PR" HYPOT="adverb.02" ID="6" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
-<W DOM="6" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="prepos.01" ID="7" KSNAME="REFER2" LEMMA="REFER" LINK="prepos" PAFT=" " UNL="refer(icl&gt;research&gt;do,equ&gt;consult,agt&gt;thing)" DEF="">referring</W> 
+<W DOM="6" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="prepos.01" ID="7" KSNAME="REFER2" LEMMA="REFER" LINK="prepos" PAFT=" " UNL="refer(icl&gt;consult&gt;do,agt&gt;person,obj&gt;information)" DEF="SEEK INFORMATION FROM" TRANS="обращаться">referring</W> 
 <W DOM="7" FEAT="PR" HYPOT="2-compl.02" ID="8" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="TABLE2" LEMMA="TABLE" LINK="prepos" PAFT=" " UNL="table(icl&gt;array&gt;thing)" DEF="A SET OF DATA ARRANGED IN ROWS AND COLUMNS" TRANS="таблица">Table</W> 
 <W DOM="9" FEAT="NUM" HYPOT="num-appos.10" ID="10" KSNAME="NUM-ONE" LEMMA="1." LINK="num-appos" PAFT=". ">1.</W> 

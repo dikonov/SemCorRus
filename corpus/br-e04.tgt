@@ -1232,7 +1232,7 @@
 <W DOM="4" FEAT="V ING" HYPOT="adverb.03" ID="9" KSNAME="DISILLUSION2" LEMMA="DISILLUSION" LINK="adverb" PAFT=" ">disillusioning</W> 
 <W DOM="9" FEAT="CONJ" HYPOT="adverb.10" ID="10" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="12" KSNAME="GAP1" LEMMA="GAP" LINK="predic" PAFT=" " UNL="gap(icl&gt;disparity&gt;thing)" DEF="">gap</W> 
+<W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="12" KSNAME="GAP1" LEMMA="GAP" LINK="predic" PAFT=" " UNL="gap(icl&gt;disparity&gt;thing)" DEF="A CONSPICUOUS DISPARITY OR DIFFERENCE AS BETWEEN TWO FIGURES" TRANS="разрыв">gap</W> 
 <W DOM="12" FEAT="PR" HYPOT="1-compl.07" ID="13" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="1-compl" PAFT=" ">between</W> 
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="SOUND1" LEMMA="SOUND" LINK="prepos" PAFT=" " UNL="sound(icl&gt;auditory_communication&gt;thing,equ&gt;audio)" DEF="THE AUDIBLE PART OF A TRANSMITTED SIGNAL" TRANS="звук">sound</W> 
 <W DOM="14" FEAT="CONJ" HYPOT="coordin.10" ID="15" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1479,7 +1479,7 @@
 <W DOM="24" FEAT="ADV" HYPOT="restr.11" ID="21" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;merely)" DEF="AND NOTHING MORE" TRANS="всего">only</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.10" ID="22" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="24" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="CLEVER" LEMMA="CLEVER" LINK="modif" PAFT=" ">clever</W> 
-<W DOM="20" FEAT="S SG" HYPOT="copulat.10" ID="24" KSNAME="IMITATION" LEMMA="IMITATION" LINK="copulat" PAFT=". " UNL="imitation(icl&gt;copy&gt;thing)" DEF="">imitation</W>. 
+<W DOM="20" FEAT="S SG" HYPOT="copulat.10" ID="24" KSNAME="IMITATION" LEMMA="IMITATION" LINK="copulat" PAFT=". " UNL="imitation(icl&gt;copy&gt;thing)" DEF="A COPY THAT IS REPRESENTED AS THE ORIGINAL" TRANS="подделка,имитация">imitation</W>. 
 </S>
 <S DATE="29 11 2010 20:00:40" EXTRACOMM="Some nodes are not confirmed" ID="65" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_3\\br-e04.tgt;65" STATUS="doubt">
 <W DOM="3" FEAT="S POSS" HYPOT="posses.01" ID="1" KSNAME="FICT-ORG" LEMMA="COMMAND'S" LINK="posses" PAFT=" ">Command's</W> 

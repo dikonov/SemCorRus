@@ -542,7 +542,7 @@
 <W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="coord-conj.10" ID="20" KSNAME="HAVE" LEMMA="HAVE" LINK="coord-conj" PAFT=" ">has</W> 
 <W DOM="20" FEAT="V PP" HYPOT="analyt.12" ID="21" KSNAME="UNDERGO" LEMMA="UNDERGO" LINK="analyt" PAFT=" ">undergone</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.10" ID="22" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="24" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="REMODEL" LEMMA="REMODEL" LINK="modif" PAFT=" " UNL="remodel(icl&gt;change&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">remodeling</W> 
+<W DOM="24" EXTRAFEAT="ALT" FEAT="V ING" HYPOT="modif.01" ID="23" KSNAME="REMODEL" LEMMA="REMODEL" LINK="modif" PAFT=" " UNL="remodel(icl&gt;change&gt;do,agt&gt;thing,obj&gt;thing)" DEF="DO OVER, AS OF (PART OF) A HOUSE" TRANS="реконструировать">remodeling</W> 
 <W DOM="21" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="JOB1" LEMMA="JOB" LINK="1-compl" PAFT=". ">job</W>. 
 </S>
 <S DATE="30 11 2010 10:52:56" EXTRACOMM="Tagging contradicts ETAP parsing: LATTER - LATTER" ID="25" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_30\\br-a31.tgt;25" STATUS="doubt">
@@ -2071,7 +2071,7 @@
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6" HYPOT="prepos.01" ID="6" KSNAME="CHURCH" LEMMA="CHURCH" LINK="prepos" PAFT=" ">Church</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
 <W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="9" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="READ" LEMMA="READ" LINK="prepos" PAFT=" " UNL="read(icl&gt;study&gt;do,agt&gt;person,obj&gt;thing)" DEF="BE A STUDENT OF A CERTAIN SUBJECT" TRANS="учиться">read</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

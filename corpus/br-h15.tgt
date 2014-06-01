@@ -101,7 +101,7 @@
 <W DOM="10" EXTRAFEAT="IN-BR IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="FIG1" LEMMA="FIG" LINK="prepos" PAFT=" " UNL="fig(icl&gt;illustration&gt;thing,equ&gt;figure)" DEF="A DIAGRAM OR PICTURE ILLUSTRATING TEXTUAL MATERIAL" TRANS="рис.">fig</W> 
 <W DOM="8" EXTRAFEAT="IN-BR IN-QUOT" FEAT="NUM" HYPOT="predic.08" ID="12" KSNAME="NUM-LARGE" LEMMA="6" LINK="predic" PAFT=") ">6</W>) 
 <W DOM="_root" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS PL" ID="13" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
-<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="pass-anal.10" ID="14" KSNAME="SLIP3" LEMMA="SLIP" LINK="pass-anal" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;glide&gt;occur,equ&gt;skid,obj&gt;thing)" DEF="">slipped</W> 
+<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="pass-anal.10" ID="14" KSNAME="SLIP3" LEMMA="SLIP" LINK="pass-anal" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;slide&gt;thing,equ&gt;skid)" DEF="AN UNEXPECTED SLIDE" TRANS="скольжение">slipped</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="2-compl.02" ID="15" KSNAME="INTO" LEMMA="INTO" LINK="2-compl" PAFT=" ">into</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="PLACE1" LEMMA="PLACE" LINK="prepos" PAFT=" ">place</W> 
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="attrib.01" ID="17" KSNAME="ACROSS1" LEMMA="ACROSS" LINK="attrib" PAFT=" ">across</W> 
@@ -1295,7 +1295,7 @@
 <W DOM="6" FEAT="CONJ" HYPOT="adverb.10" ID="7" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="9" KSNAME="EMERGENCY" LEMMA="EMERGENCY" LINK="predic" MSNAME="EMERGENCY" PAFT=" " UNL="emergency(icl&gt;crisis&gt;thing)" DEF="A SUDDEN UNFORESEEN CRISIS (USUALLY INVOLVING DANGER) THAT REQUIRES IMMEDIATE ACTION" TRANS="чрезвычайная ситуация">emergency</W> 
-<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="10" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="subord-conj" PAFT=". " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatens</W>. 
+<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="10" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="subord-conj" PAFT=". " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatens</W>. 
 </S>
 <S DATE="29 11 2010 20:05:38" EXTRACOMM="Tagging contradicts ETAP parsing: NUM-LARGE - NUM-LARGE\nSome punctuation marks are not confirmed" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_21\\br-h15.tgt;83" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="1" KSNAME="BASEMENT" LEMMA="BASEMENT" LINK="compos" PAFT=" " UNL="basement(icl&gt;floor&gt;thing)" DEF="THE LOWERMOST PORTION OF A STRUCTURE PARTLY OR WHOLLY BELOW GROUND LEVEL" TRANS="подвал">Basement</W> 
@@ -2310,7 +2310,7 @@
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="S SG" HYPOT="compos.01" ID="5" KSNAME="CITY" LEMMA="CITY" LINK="compos" PAFT=" ">city</W> 
 <W DOM="7" FEAT="S SG" HYPOT="compos.01" ID="6" KSNAME="APARTMENT" LEMMA="APARTMENT" LINK="compos" PAFT=" " UNL="apartment(icl&gt;housing&gt;thing)" DEF="A SUITE OF ROOMS USUALLY ON ONE FLOOR OF AN APARTMENT HOUSE" TRANS="квартира">apartment</W> 
-<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="DWELLER" LEMMA="DWELLER" LINK="prepos" PAFT=" " UNL="dweller(icl&gt;person&gt;thing,equ&gt;inhabitant)" DEF="">dweller</W> 
+<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="DWELLER" LEMMA="DWELLER" LINK="prepos" PAFT=" " UNL="dweller(icl&gt;person,equ&gt;inhabitant)" DEF="A PERSON WHO INHABITS A PARTICULAR PLACE" TRANS="обитатель">dweller</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="8" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">is</W> 
 <W DOM="8" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="PRIMARILY" LEMMA="PRIMARILY" LINK="adverb" PAFT=" " UNL="primarily(icl&gt;how,equ&gt;mainly)" DEF="" TRANS="по большей части,в основном">primarily</W> 
 <W DOM="8" FEAT="PART" HYPOT="copulat.13" ID="10" KSNAME="TO2" LEMMA="TO" LINK="copulat" PAFT=" ">to</W> 
@@ -2330,7 +2330,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="COOPERATION" LEMMA="COOPERATION" LINK="1-compl" PAFT=" " UNL="cooperation(icl&gt;group_action&gt;thing,ant&gt;competition)" DEF="JOINT OPERATION OR ACTION" TRANS="сотрудничество">cooperation</W> 
 <W DOM="6" FEAT="PR" HYPOT="quasiagent.10" ID="7" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
-<W DOM="7" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="prepos" PAFT=" " UNL="occupant(icl&gt;inhabitant&gt;thing,equ&gt;resident,ant&gt;nonresident)" DEF="">occupants</W> 
+<W DOM="7" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="OCCUPANT" LEMMA="OCCUPANT" LINK="prepos" PAFT=" " UNL="occupant(icl&gt;inhabitant&gt;person,equ&gt;resident,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="обитатель">occupants</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.11" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="10" FEAT="PR" HYPOT="coord-conj.10" ID="11" KSNAME="OF" LEMMA="OF" LINK="coord-conj" PAFT=" ">of</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

@@ -939,7 +939,7 @@
 <W DOM="29" FEAT="S NOM SG" HYPOT="predic.01" ID="27" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="29" FEAT="ADV" HYPOT="restr.11" ID="28" KSNAME="STILL1" LEMMA="STILL" LINK="restr" PAFT=" ">still</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.00" ID="29" KSNAME="CAN1" LEMMA="CAN" LINK="coord-conj" PAFT=" ">can</W> 
-<W DOM="29" FEAT="V MF" HYPOT="1-compl.17" ID="30" KSNAME="CHARM2" LEMMA="CHARM" LINK="1-compl" PAFT=" " UNL="charm(icl&gt;attract&gt;do,equ&gt;capture,agt&gt;volitional_thing,obj&gt;living_thing,met&gt;thing)" DEF="">charm</W> 
+<W DOM="29" FEAT="V MF" HYPOT="1-compl.17" ID="30" KSNAME="CHARM2" LEMMA="CHARM" LINK="1-compl" PAFT=" " UNL="charm(icl&gt;attract&gt;do,equ&gt;capture,agt&gt;volitional_thing,obj&gt;living_thing,met&gt;thing)" DEF="ATTRACT" TRANS="очаровывать">charm</W> 
 <W DOM="30" FEAT="CONJ" HYPOT="coordin.13" ID="31" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="31" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="32" KSNAME="ASTOUND" LEMMA="ASTOUND" LINK="coord-conj" PAFT=". " UNL="astound(icl&gt;surprise&gt;occur,equ&gt;amaze,obj&gt;volitional_thing,met&gt;thing)" DEF="AFFECT WITH WONDER" TRANS="поражать">astound</W>. 
 </S>

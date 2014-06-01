@@ -181,7 +181,7 @@
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="BRAINY" LEMMA="BRAINY" LINK="modif" PAFT=" " UNL="brainy(icl&gt;adj)" DEF="HAVING OR MARKED BY UNUSUAL AND IMPRESSIVE INTELLIGENCE" TRANS="мозговитый">brainy</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=" " UNL="little(icl&gt;adj,equ&gt;small,ant&gt;big)" DEF="LIMITED OR BELOW AVERAGE IN NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="небольшой">little</W> 
-<W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W> 
+<W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="LADY" LEMMA="LADY" LINK="predic" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W> 
 <W DOM="2" FEAT="CONJ" ID="9" KSNAME="LIKE4" LEMMA="LIKE" LINK="fictit" PAFT=" ">like</W> 
 <W DOM="2" FEAT="A" ID="10" KSNAME="HER" LEMMA="HER" LINK="fictit" MSNAME="HER" PAFT=" ">her</W> 
 <W DOM="27" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.14" ID="11" KSNAME="HAVE" LEMMA="HAVE" LINK="1-compl" PAFT=" ">had</W> 
@@ -577,7 +577,7 @@
 <W DOM="14" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="11,12" ID="13" KSNAME="LORD" LEMMA="LORD" LINK="fictit" PAFT=" ">Lord</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="14" KSNAME="LOOK1" LEMMA="LOOK" PAFT=" " UNL="look(icl&gt;be,equ&gt;seem,aoj&gt;thing,man&gt;uw)" DEF="">looked</W> 
 <W DOM="16" FEAT="ADV" HYPOT="restr.11" ID="15" KSNAME="ALMOST" LEMMA="ALMOST" LINK="restr" PAFT=" " UNL="almost(icl&gt;how,equ&gt;about)" DEF="(OF ACTIONS OR STATES) SLIGHTLY SHORT OF OR NOT QUITE ACCOMPLISHED" TRANS="почти,почитай">almost</W> 
-<W DOM="14" FEAT="A" HYPOT="subj-copr.01" ID="16" KSNAME="INSIGNIFICANT" LEMMA="INSIGNIFICANT" LINK="subj-copr" PAFT=", " UNL="insignificant(icl&gt;adj)" DEF="">insignificant</W>, 
+<W DOM="14" FEAT="A" HYPOT="subj-copr.01" ID="16" KSNAME="INSIGNIFICANT" LEMMA="INSIGNIFICANT" LINK="subj-copr" PAFT=", " UNL="insignificant(icl&gt;adj)" DEF="NOT WORTHY OF NOTICE" TRANS="незаметный">insignificant</W>, 
 <W DOM="18" FEAT="ADV" HYPOT="restr.11" ID="17" KSNAME="ALMOST" LEMMA="ALMOST" LINK="restr" PAFT=" " UNL="almost(icl&gt;how,equ&gt;about)" DEF="(OF ACTIONS OR STATES) SLIGHTLY SHORT OF OR NOT QUITE ACCOMPLISHED" TRANS="почти,почитай">almost</W> 
 <W DOM="16" FEAT="A" HYPOT="coordin.02" ID="18" KSNAME="CONTEMPTIBLE" LEMMA="CONTEMPTIBLE" LINK="coordin" PAFT=". " UNL="contemptible(icl&gt;adj,ant&gt;estimable)" DEF="DESERVING OF CONTEMPT OR SCORN" TRANS="недостойный">contemptible</W>. 
 </S>
@@ -634,7 +634,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="2" FEAT="S NOM SG" HYPOT="predic.08" ID="3" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="5" FEAT="ADV" HYPOT="restr.12" ID="4" KSNAME="VERY1" LEMMA="VERY" LINK="restr" PAFT=" ">very</W> 
-<W DOM="7" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="POWERFUL" LEMMA="POWERFUL" LINK="modif" PAFT=" " UNL="powerful(icl&gt;adj,equ&gt;brawny)" DEF="">powerful</W> 
+<W DOM="7" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="POWERFUL" LEMMA="POWERFUL" LINK="modif" PAFT=" " UNL="powerful(icl&gt;adj,equ&gt;brawny)" DEF="(OF A PERSON) POSSESSING PHYSICAL STRENGTH AND WEIGHT" TRANS="сильный">powerful</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.02" ID="6" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="2" FEAT="S SG" ID="7" KSNAME="BUILD2" LEMMA="BUILD" LINK="fictit" PAFT=". " UNL="build(icl&gt;bodily_property&gt;thing,equ&gt;physique)" DEF="CONSTITUTION OF THE HUMAN BODY" TRANS="комплекция">build</W>. 
 </S>
@@ -1115,7 +1115,7 @@
 <W DOM="2" FEAT="PR" HYPOT="1-compl.07" ID="3" KSNAME="AT" LEMMA="AT" LINK="1-compl" PAFT=" ">at</W> 
 <W DOM="3" FEAT="S OBJ SG" HYPOT="prepos.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=", ">him</W>, 
 <W DOM="6" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="LIP1" LEMMA="LIP" LINK="predic" PAFT=" " UNL="lip(icl&gt;external_body_part&gt;thing)" DEF="FLESHY FOLDS OF TISSUE AS THOSE SURROUNDING THE MOUTH" TRANS="губа">lips</W> 
-<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="6" KSNAME="COMPRESS1" LEMMA="COMPRESS" LINK="sent-coordin" PAFT=". " UNL="compress(icl&gt;tighten&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">compressed</W>. 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="6" KSNAME="COMPRESS1" LEMMA="COMPRESS" LINK="sent-coordin" PAFT=". " UNL="compress(icl&gt;tighten&gt;do,agt&gt;thing,obj&gt;thing)" DEF="SQUEEZE OR PRESS TOGETHER" TRANS="сжимать">compressed</W>. 
 </S>
 <S DATE="30 11 2010 10:38:16" EXTRACOMM="Tagging contradicts ETAP parsing:  - PRETEND1,PRETEND1,PRETEND2,PRETEND2" ID="87" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-n09.tgt;87" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=", ">Then</W>, 
@@ -1943,7 +1943,7 @@
 <W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="PUSH1" LEMMA="PUSH" LINK="prepos" PAFT=" " UNL="push(icl&gt;move(icl&gt;cause)&gt;do,ant&gt;pull,plt&gt;uw,plf&gt;uw,obj&gt;thing)" DEF="MOVE WITH FORCE, HE PUSHED THE TABLE INTO A CORNER" TRANS="толкать">push</W> 
 <W DOM="9" FEAT="PR" HYPOT="adverb.02" ID="10" KSNAME="PAST3" LEMMA="PAST" LINK="adverb" PAFT=" ">past</W> 
 <W DOM="10" FEAT="S OBJ SG" HYPOT="prepos.01" ID="11" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=", ">him</W>, 
-<W DOM="13" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="INADVERTENTLY" LEMMA="INADVERTENTLY" LINK="adverb" PAFT=" " UNL="inadvertently(icl&gt;how,equ&gt;unwittingly,ant&gt;advertently,com&gt;inadvertent)" DEF="">inadvertently</W> 
+<W DOM="13" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="INADVERTENTLY" LEMMA="INADVERTENTLY" LINK="adverb" PAFT=" " UNL="inadvertently(icl&gt;how,equ&gt;unwittingly,ant&gt;advertently,com&gt;inadvertent)" DEF="WITHOUT KNOWLEDGE OR INTENTION" TRANS="непреднамеренно">inadvertently</W> 
 <W DOM="11" FEAT="V ING" HYPOT="descr-modif.01" ID="13" KSNAME="SHOVE1" LEMMA="SHOVE" LINK="descr-modif" PAFT=" " UNL="shove(icl&gt;push&gt;do,equ&gt;jostle,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="COME INTO ROUGH CONTACT WITH WHILE MOVING" TRANS="толкаться,пихаться">shoving</W> 
 <W DOM="13" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="14" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="13" FEAT="PR" HYPOT="3-compl.01" ID="15" KSNAME="INTO" LEMMA="INTO" LINK="3-compl" PAFT=" ">into</W> 
@@ -2097,7 +2097,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="MEAN1" LEMMA="MEAN" PAFT=" " UNL="mean(icl&gt;intend&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="HAVE IN MIND AS A PURPOSE" TRANS="хотеть">meant</W> 
 <W DOM="2" FEAT="S OBJ SG" ID="3" KSNAME="HE1" LEMMA="HE" LINK="fictit" PAFT=" ">him</W> 
 <W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" ">no</W> 
-<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="HARM1" LEMMA="HARM" LINK="1-compl" PAFT=". " UNL="harm(icl&gt;ill_health&gt;thing,equ&gt;injury)" DEF="">harm</W>. 
+<W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="HARM1" LEMMA="HARM" LINK="1-compl" PAFT=". " UNL="harm(icl&gt;ill_health&gt;thing,equ&gt;injury)" DEF="ANY PHYSICAL DAMAGE TO THE BODY CAUSED BY VIOLENCE OR ACCIDENT OR FRACTURE ETC." TRANS="телесное повреждение">harm</W>. 
 </S>
 <S DATE="30 11 2010 10:38:23" ID="151" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-n09.tgt;151" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 

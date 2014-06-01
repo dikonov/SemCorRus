@@ -1559,7 +1559,7 @@
 <W FEAT="CONJ" ID="36" KSNAME="OR" LEMMA="OR">or</W> 
 <W FEAT="S SG" ID="37" KSNAME="SCREW1" LEMMA="SCREW">screw</W>, 
 <W FEAT="CONJ" ID="38" KSNAME="AND" LEMMA="AND">and</W> 
-<W FEAT="V" ID="39" KSNAME="ROTATE" LEMMA="ROTATE" UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="" WN21="2:38:01::">rotating</W> 
+<W FEAT="V" ID="39" KSNAME="ROTATE" LEMMA="ROTATE" UNL="rotate(icl&gt;turn&gt;occur,equ&gt;revolve,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вращаться" WN21="2:38:01::">rotating</W> 
 <W FEAT="ART" ID="40" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="41" KSNAME="HOUSING" LEMMA="HOUSING">housing</W> 
 <W ID="42">until</W> 

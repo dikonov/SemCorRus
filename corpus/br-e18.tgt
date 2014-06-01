@@ -340,7 +340,7 @@
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="5,6" HYPOT="modif.01" ID="5" KSNAME="GENERAL1" LEMMA="GENERAL" LINK="modif" PAFT=" ">General</W> 
 <W DOM="7" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="5,6" HYPOT="predic.01" ID="6" KSNAME="COURT1" LEMMA="COURT" LINK="predic" PAFT=" ">Court</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="SERVE2" LEMMA="SERVE" PAFT=" " UNL="serve(icl&gt;delive&gt;do,agt&gt;thing,obj&gt;paper,ben&gt;person)" DEF="">served</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="SERVE2" LEMMA="SERVE" PAFT=" " UNL="serve(icl&gt;delive&gt;do,agt&gt;thing,obj&gt;paper,rec&gt;person)" DEF="DELIVER A WARRANT OR SUMMONS TO SOMEONE" TRANS="вручать">served</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="NOTICE2" LEMMA="NOTICE" LINK="1-compl" PAFT=" ">notice</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1404,7 +1404,7 @@
 <W DOM="35" FEAT="S" GRP="34,35" ID="34" KSNAME="VIRGINIA" LEMMA="VIRGINIA" LINK="compos">Virginia</W> 
 <W FEAT="S" GRP="34,35" ID="35" KSNAME="INFANTRY1" LEMMA="INFANTRY">Infantry</W>, 
 <W ID="36">then</W> 
-<W FEAT="V" ID="37" KSNAME="SWARM2" LEMMA="SWARM" UNL="swarm(icl&gt;hum&gt;occur,equ&gt;teem,cob&gt;thing,obj&gt;thing,plc&gt;thing)" DEF="" WN21="2:42:00::">swarming</W> 
+<W FEAT="V" ID="37" KSNAME="SWARM2" LEMMA="SWARM" UNL="swarm(icl&gt;hum&gt;occur,equ&gt;teem,cob&gt;thing,obj&gt;thing,plc&gt;thing)" DEF="BE TEEMING, BE ABUZZ" TRANS="кишеть" WN21="2:42:00::">swarming</W> 
 <W ID="38">through</W> 
 <W FEAT="ART" ID="39" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S PL" ID="40" KSNAME="STREET" LEMMA="STREET">streets</W> 

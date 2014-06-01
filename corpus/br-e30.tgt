@@ -122,7 +122,7 @@
 <W DOM="_root" EXTRAFEAT="CAP FIN QFIN" FEAT="V PRS PL" ID="1" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;occur,equ&gt;exist,obj&gt;thing)" DEF="HAVE AN EXISTENCE" TRANS="существовать">Are</W> 
 <W DOM="1" FEAT="PART" HYPOT="predic.10" ID="2" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">there</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=", " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W>, 
-<W DOM="6" FEAT="A COMP" HYPOT="modif.01" ID="4" KSNAME="CHEAP" LEMMA="CHEAP" LINK="modif" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="">cheaper</W> 
+<W DOM="6" FEAT="A COMP" HYPOT="modif.01" ID="4" KSNAME="CHEAP" LEMMA="CHEAP" LINK="modif" PAFT=" " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="RELATIVELY LOW IN PRICE OR CHARGING LOW PRICES" TRANS="дешевый">cheaper</W> 
 <W DOM="6" FEAT="S PL" HYPOT="compos.01" ID="5" KSNAME="COMMUNICATION" LEMMA="COMMUNICATION" LINK="compos" PAFT=" " UNL="communication(icl&gt;action,agt&gt;thing,ptn&gt;thing)" DEF="THE ACTIVITY OF COMMUNICATING" TRANS="общение">communications</W> 
 <W DOM="2" FEAT="S PL" HYPOT="explet.13" ID="6" KSNAME="TECHNIQUE" LEMMA="TECHNIQUE" LINK="explet" PAFT=" " UNL="technique(icl&gt;method&gt;thing)" DEF="A PRACTICAL METHOD OR ART APPLIED TO SOME PARTICULAR TASK" TRANS="техника">techniques</W> 
 <W DOM="8" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
@@ -676,7 +676,7 @@
 <W DOM="3" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="5" FEAT="S POSS SG" HYPOT="posses.01" ID="3" KSNAME="EMPLOYEE" LEMMA="EMPLOYEE" LINK="posses" PAFT=" " UNL="employee(icl&gt;worker&gt;thing,ant&gt;employer)" DEF="A WORKER WHO IS HIRED TO PERFORM A JOB" TRANS="служащий">employee's</W> 
 <W DOM="5" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="GARDEN" LEMMA="GARDEN" LINK="compos" PAFT=" " UNL="garden(icl&gt;vegetation&gt;thing)" DEF="THE FLOWERS OR VEGETABLES OR FRUITS OR HERBS THAT ARE CULTIVATED IN A GARDEN" TRANS="огород">garden</W> 
-<W DOM="1" FEAT="S SG" HYPOT="predic.07" ID="5" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT=" " UNL="club(icl&gt;association&gt;thing)" DEF="">club</W> 
+<W DOM="1" FEAT="S SG" HYPOT="predic.07" ID="5" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT=" " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">club</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="6" KSNAME="TAKE" LEMMA="TAKE" LINK="1-compl" PAFT=" ">take</W> 
 <W DOM="6" FEAT="ADV" HYPOT="phras-junct.10" ID="7" KSNAME="OVER2" LEMMA="OVER" LINK="phras-junct" PAFT=" ">over</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="PARTIAL" LEMMA="PARTIAL" LINK="modif" PAFT=" ">partial</W> 
@@ -689,7 +689,7 @@
 <W DOM="_root" EXTRAFEAT="CAP FIN QFIN" FEAT="V PST" ID="1" KSNAME="WOULD" LEMMA="WOULD" MSNAME="WOULD" PAFT=" ">Would</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="4" FEAT="S SG" HYPOT="compos.01" ID="3" KSNAME="CAMERA" LEMMA="CAMERA" LINK="compos" PAFT=" " UNL="camera(icl&gt;photographic_equipment&gt;thing)" DEF="EQUIPMENT FOR TAKING PHOTOGRAPHS (USUALLY CONSISTING OF A LIGHTPROOF BOX WITH A LENS AT ONE END AND LIGHT-SENSITIVE FILM AT THE OTHER)" TRANS="фотокамера,камера">camera</W> 
-<W DOM="1" FEAT="S SG" HYPOT="predic.07" ID="4" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT=" " UNL="club(icl&gt;association&gt;thing)" DEF="">club</W> 
+<W DOM="1" FEAT="S SG" HYPOT="predic.07" ID="4" KSNAME="CLUB1" LEMMA="CLUB" LINK="predic" PAFT=" " UNL="club(icl&gt;association&gt;group)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="клуб">club</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="5" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
 <W DOM="5" FEAT="A" HYPOT="copulat.11" ID="6" KSNAME="USEFUL" LEMMA="USEFUL" LINK="copulat" PAFT=" " UNL="useful(icl&gt;adj,ant&gt;useless)" DEF="BEING OF USE OR SERVICE" TRANS="полезный">useful</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.02" ID="7" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -819,7 +819,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="13" KSNAME="WOULD" LEMMA="WOULD" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="13" FEAT="S PL" HYPOT="predic.07" ID="14" KSNAME="TAXI1" LEMMA="TAXI" LINK="predic" PAFT=" " UNL="taxi(icl&gt;car&gt;thing,equ&gt;cab)" DEF="A CAR DRIVEN BY A PERSON WHOSE JOB IS TO TAKE PASSENGERS WHERE THEY WANT TO GO IN EXCHANGE FOR MONEY" TRANS="такси">taxis</W> 
 <W DOM="13" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="15" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">be</W> 
-<W DOM="15" FEAT="A COMP" HYPOT="copulat.11" ID="16" KSNAME="CHEAP" LEMMA="CHEAP" LINK="copulat" PAFT="? " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="">cheaper</W>? 
+<W DOM="15" FEAT="A COMP" HYPOT="copulat.11" ID="16" KSNAME="CHEAP" LEMMA="CHEAP" LINK="copulat" PAFT="? " UNL="cheap(icl&gt;adj,ant&gt;expensive)" DEF="RELATIVELY LOW IN PRICE OR CHARGING LOW PRICES" TRANS="дешевый">cheaper</W>? 
 </S>
 <S DATE="29 11 2010 20:16:37" EXTRACOMM="Tagging contradicts ETAP parsing:  - INTRA" ID="49" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e30.tgt;49" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="restr.12" ID="1" KSNAME="HOW" LEMMA="HOW" LINK="restr" PAFT=" ">How</W> 
@@ -917,8 +917,8 @@
 <W DOM="6" FEAT="S PL" GRP="6,7" HYPOT="1-compl.01" ID="7" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" LINK="1-compl" PAFT=" ">departments</W> 
 <W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.17" ID="8" KSNAME="DO1" LEMMA="DO" LINK="1-compl" PAFT=" " UNL="do(icl&gt;do,equ&gt;perform,cob&gt;thing,agt&gt;volitional_thing,obj&gt;action)" DEF="CARRY OUT OR PERFORM SMTH" TRANS="делать,выполнять,заниматься">do</W> 
 <W DOM="8" FEAT="PART" HYPOT="adverb.11" ID="9" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="9" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="prepos" PAFT=" " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="">curtail</W> 
-<W DOM="10" FEAT="S PL" HYPOT="1-compl.01" ID="11" KSNAME="ORDER2" LEMMA="ORDER" LINK="1-compl" PAFT=", " UNL="order(icl&gt;commercial_document&gt;information,fld&gt;commerce)" DEF="">orders</W>, 
+<W DOM="9" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="CURTAIL" LEMMA="CURTAIL" LINK="prepos" PAFT=" " UNL="curtail(icl&gt;limit&gt;do,equ&gt;restrict,agt&gt;thing,obj&gt;thing)" DEF="PLACE RESTRICTIONS ON" TRANS="ограничивать">curtail</W> 
+<W DOM="10" FEAT="S PL" HYPOT="1-compl.01" ID="11" KSNAME="ORDER2" LEMMA="ORDER" LINK="1-compl" PAFT=", " UNL="order(icl&gt;commercial_document&gt;information,equ&gt;money_order,fld&gt;commerce)" DEF="A WRITTEN DIRECTION TO PAY MONEY TO SOMEONE" TRANS="чек">orders</W>, 
 <W DOM="11" FEAT="S PL" HYPOT="coordin.01" ID="12" KSNAME="SHIPMENT" LEMMA="SHIPMENT" LINK="coordin" PAFT=", " UNL="shipment(icl&gt;departure&gt;thing,equ&gt;dispatch)" DEF="THE ACT OF SENDING OFF SOMETHING" TRANS="отправка,отгрузка">shipments</W>, 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="13" FEAT="S PL" HYPOT="coord-conj.10" ID="14" KSNAME="RECEIPT2" LEMMA="RECEIPT" LINK="coord-conj" PAFT=" " UNL="receipt(icl&gt;acquiring&gt;thing,equ&gt;reception)" DEF="THE ACT OF RECEIVING" TRANS="получение">receipts</W> 

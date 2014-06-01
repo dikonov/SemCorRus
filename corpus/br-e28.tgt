@@ -1217,7 +1217,7 @@
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="HIGH1" LEMMA="HIGH" LINK="modif" PAFT=" ">high</W> 
 <W DOM="14" FEAT="S SG" HYPOT="compos.01" ID="13" KSNAME="QUALITY" LEMMA="QUALITY" LINK="compos" PAFT=" " UNL="quality(icl&gt;degree&gt;abstract_thing,equ&gt;grade,obj&gt;thing)" DEF="A DEGREE OR GRADE OF EXCELLENCE OR WORTH" TRANS="качество">quality</W> 
 <W DOM="15" FEAT="S PL" HYPOT="predic.01" ID="14" KSNAME="SALESMAN" LEMMA="SALESMAN" LINK="predic" PAFT=" " UNL="salesman(icl&gt;salesperson&gt;thing)" DEF="A MAN SALESPERSON" TRANS="продавец">salesmen</W> 
-<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="15" KSNAME="SERVE2" LEMMA="SERVE" LINK="sent-coordin" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serve</W> 
+<W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="sent-coordin.01" ID="15" KSNAME="SERVE2" LEMMA="SERVE" LINK="sent-coordin" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serve</W> 
 <W DOM="15" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="16" KSNAME="YOU" LEMMA="YOU" LINK="1-compl" PAFT=" ">you</W> 
 <W DOM="15" FEAT="ADV SUP" HYPOT="adverb.01" ID="17" KSNAME="WELL1" LEMMA="WELL" LINK="adverb" PAFT=", ">best</W>, 
 <W DOM="15" FEAT="CONJ" HYPOT="sent-coordin.10" ID="18" KSNAME="OR" LEMMA="OR" LINK="sent-coordin" PAFT=" ">or</W> 
@@ -1617,7 +1617,7 @@
 <W DOM="18" FEAT="S PL" HYPOT="1-compl.01" ID="20" KSNAME="ESTIMATE2" LEMMA="ESTIMATE" LINK="1-compl" PAFT=" " UNL="estimate(icl&gt;document&gt;information)" DEF="A DOCUMENT APPRAISING THE VALUE OF SOMETHING FOR INSURANCE OR TAXATION" TRANS="смета">estimates</W> 
 <W DOM="20" FEAT="PR" HYPOT="1-compl.07" ID="21" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="23" FEAT="S PL" HYPOT="compos.01" ID="22" KSNAME="SALE" LEMMA="SALE" LINK="compos" PAFT=" ">sales</W> 
-<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=", " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W>, 
+<W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=", " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W>, 
 <W DOM="23" FEAT="S SG" HYPOT="coordin.01" ID="24" KSNAME="PRODUCTION" LEMMA="PRODUCTION" LINK="coordin" PAFT=", " UNL="production(icl&gt;act&gt;thing)" DEF="THE ACT OR PROCESS OF PRODUCING SOMETHING" TRANS="производство">production</W>, 
 <W DOM="24" FEAT="CONJ" HYPOT="coordin.10" ID="25" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="27" FEAT="S SG" GRP="26,27" HYPOT="compos.01" ID="26" KSNAME="DISTRIBUTION" LEMMA="DISTRIBUTION" LINK="compos" PAFT=" ">distribution</W> 
@@ -1988,7 +1988,7 @@
 <W DOM="13" FEAT="ADV" HYPOT="phras-junct.10" ID="14" KSNAME="AROUND2" LEMMA="AROUND" LINK="phras-junct" PAFT=", " UNL="around(icl&gt;how,equ&gt;about)" DEF="TO OR AMONG MANY DIFFERENT PLACES OR IN NO PARTICULAR DIRECTION" TRANS="всюду,кругом">around</W>, 
 <W DOM="13" FEAT="A" HYPOT="1-compl.01" ID="15" KSNAME="EITHER1" LEMMA="EITHER" LINK="1-compl" PAFT=" ">either</W> 
 <W DOM="15" FEAT="PR" HYPOT="attrib.01" ID="16" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
-<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,aoj&gt;thing)" DEF="">volume</W> 
+<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="VOLUME1" LEMMA="VOLUME" LINK="prepos" PAFT=" " UNL="volume(icl&gt;property&gt;abstract_thing,equ&gt;magnitude,obj&gt;thing,val&gt;thing)" DEF="THE PROPERTY OF SOMETHING THAT IS GREAT IN MAGNITUDE" TRANS="объем">volume</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.11" ID="18" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="18" FEAT="PR" HYPOT="coord-conj.10" ID="19" KSNAME="IN1" LEMMA="IN" LINK="coord-conj" PAFT=" ">in</W> 
 <W DOM="21" FEAT="S SG" HYPOT="compos.01" ID="20" KSNAME="PRODUCT" LEMMA="PRODUCT" LINK="compos" PAFT=" ">product</W> 

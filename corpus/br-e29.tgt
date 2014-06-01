@@ -472,7 +472,7 @@
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="coord-conj.10" ID="10" KSNAME="INSTITUTIONAL" LEMMA="INSTITUTIONAL" LINK="coord-conj" PAFT=" " UNL="institutional(icl&gt;adj,com&gt;institution)" DEF="RELATING TO OR CONSTITUTING OR INVOLVING AN INSTITUTION" TRANS="институциональный">institutional</W> 
 <W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="coordin.01" ID="11" KSNAME="STRUCTURE1" LEMMA="STRUCTURE" LINK="coordin" PAFT=", " UNL="structure(icl&gt;artifact&gt;thing)" DEF="A THING CONSTRUCTED" TRANS="строение">structures</W>, 
 <W DOM="11" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="coordin.01" ID="12" KSNAME="HOTEL" LEMMA="HOTEL" LINK="coordin" PAFT=", " UNL="hotel(icl&gt;building&gt;thing)" DEF="A BUILDING WHERE TRAVELERS CAN PAY FOR LODGING AND MEALS AND OTHER SERVICES" TRANS="гостиница">hotels</W>, 
-<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="coordin.01" ID="13" KSNAME="CLUB1" LEMMA="CLUB" LINK="coordin" PAFT=", " UNL="club(icl&gt;building&gt;thing,equ&gt;clubhouse)" DEF="">clubs</W>, 
+<W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="coordin.01" ID="13" KSNAME="CLUB1" LEMMA="CLUB" LINK="coordin" PAFT=", " UNL="club(icl&gt;building&gt;functional_thing,equ&gt;clubhouse)" DEF="A BUILDING THAT IS OCCUPIED BY A SOCIAL CLUB" TRANS="клуб">clubs</W>, 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="coordin.01" ID="14" KSNAME="SHIP1" LEMMA="SHIP" LINK="coordin" PAFT=", " UNL="ship(icl&gt;vessel&gt;thing)" DEF="A VESSEL THAT CARRIES PASSENGERS OR FREIGHT" TRANS="судно,корабль">ships</W>, 
 <W DOM="14" EXTRAFEAT="ALT IN-QUOT" FEAT="S PL" HYPOT="coordin.01" ID="15" KSNAME="THEATRE" LEMMA="THEATRE" LINK="coordin" PAFT=", ">theaters</W>, 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="16" KSNAME="AS$WELL$AS" LEMMA="AS WELL AS" LINK="coordin" PAFT=" ">as well as</W> 
@@ -618,7 +618,7 @@
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.13" ID="10" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
 <W DOM="10" FEAT="ADV" HYPOT="restr.d0" ID="11" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 
 <W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="12" KSNAME="UNDERSTAND" LEMMA="UNDERSTAND" LINK="coord-conj" PAFT=" ">understand</W> 
-<W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="CARPENTRY" LEMMA="CARPENTRY" LINK="1-compl" MSNAME="CARPENTRY" PAFT=" " UNL="carpentry(icl&gt;trade&gt;thing)" DEF="">carpentry</W> 
+<W DOM="12" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="CARPENTRY" LEMMA="CARPENTRY" LINK="1-compl" MSNAME="CARPENTRY" PAFT=" " UNL="carpentry(icl&gt;trade&gt;thing)" DEF="THE CRAFT OF A CARPENTER: MAKING THINGS OUT OF WOOD" TRANS="плотничанье,плотничество">carpentry</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="PAINTING" LEMMA="PAINTING" LINK="coord-conj" PAFT=" " UNL="painting(icl&gt;trade&gt;thing)" DEF="THE OCCUPATION OF A HOUSE PAINTER" TRANS="малярное дело,малярство">painting</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.10" ID="16" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1754,7 +1754,7 @@
 <W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="9" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="COURSE" LEMMA="COURSE" LINK="prepos" PAFT=" " UNL="course(icl&gt;thing,equ&gt;classes)" DEF="EDUCATION IMPARTED IN A SERIES OF LESSONS OR MEETINGS" TRANS="курс">courses</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
-<W DOM="11" EXTRAFEAT="CAP" FEAT="A" HYPOT="prepos.01" ID="12" KSNAME="ENGLISH1" LEMMA="ENGLISH" LINK="prepos" PAFT=", " UNL="english(icl&gt;humanistic_discipline&gt;thing)" DEF="">English</W>, 
+<W DOM="11" EXTRAFEAT="CAP" FEAT="A" HYPOT="prepos.01" ID="12" KSNAME="ENGLISH1" LEMMA="ENGLISH" LINK="prepos" PAFT=", " UNL="english(icl&gt;humanistic_discipline&gt;abstract_thing)" DEF="THE DISCIPLINE THAT STUDIES THE ENGLISH LANGUAGE AND LITERATURE" TRANS="английский">English</W>, 
 <W DOM="8" FEAT="S SG" HYPOT="coordin.01" ID="13" KSNAME="HISTORY" LEMMA="HISTORY" LINK="coordin" PAFT=", " UNL="history(icl&gt;humanistic_discipline&gt;thing)" DEF="THE DISCIPLINE THAT RECORDS AND INTERPRETS PAST EVENTS INVOLVING HUMAN BEINGS" TRANS="история">history</W>, 
 <W DOM="13" FEAT="S SG" HYPOT="coordin.01" ID="14" KSNAME="PSYCHOLOGY" LEMMA="PSYCHOLOGY" LINK="coordin" PAFT=" " UNL="psychology(icl&gt;science&gt;thing)" DEF="THE SCIENCE OF MENTAL LIFE" TRANS="психология">psychology</W> 
 <W DOM="14" FEAT="ADV" HYPOT="coordin.00" ID="15" KSNAME="AND$SO$ON" LEMMA="AND SO ON" LINK="coordin" PAFT=" ">and so on</W> 

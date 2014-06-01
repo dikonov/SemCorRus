@@ -1585,7 +1585,7 @@
 <W DOM="18" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="NEW" LEMMA="NEW" LINK="modif" PAFT=" ">new</W> 
 <W DOM="38" FEAT="S SG" HYPOT="predic.01" ID="18" KSNAME="PLOT1" LEMMA="PLOT" LINK="predic" PAFT=" ">plot</W> 
 <W DOM="18" FEAT="PART" HYPOT="attrib.15" ID="19" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="prepos" PAFT=" " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="">overthrow</W> 
+<W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="prepos" PAFT=" " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="CAUSE THE DOWNFALL OF" TRANS="свергать">overthrow</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="22" KSNAME="VENEZUELAN1" LEMMA="VENEZUELAN" LINK="modif" PAFT=" ">Venezuelan</W> 
 <W DOM="20" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="GOVERNMENT" LEMMA="GOVERNMENT" LINK="1-compl" PAFT=", ">government</W>, 

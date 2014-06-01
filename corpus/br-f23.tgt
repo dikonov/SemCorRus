@@ -452,7 +452,7 @@
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="MATERIAL2" LEMMA="MATERIAL" LINK="modif" PAFT=" " UNL="material(icl&gt;adj)" DEF="CONCERNED WITH OR AFFECTING PHYSICAL AS DISTINCT FROM INTELLECTUAL OR PSYCHOLOGICAL WELL-BEING" TRANS="материальный">material</W> 
 <W DOM="30" FEAT="S PL" HYPOT="predic.01" ID="27" KSNAME="SACRIFICE2" LEMMA="SACRIFICE" LINK="predic" PAFT=" " UNL="sacrifice(icl&gt;act&gt;thing,equ&gt;forfeit)" DEF="">sacrifices</W> 
 <W DOM="27" FEAT="CONJ" HYPOT="coordin.10" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="28" FEAT="S PL" HYPOT="coord-conj.10" ID="29" KSNAME="DENIAL" LEMMA="DENIAL" LINK="coord-conj" PAFT=" " UNL="denial(icl&gt;selflessness&gt;thing,equ&gt;abnegation)" DEF="">denials</W> 
+<W DOM="28" FEAT="S PL" HYPOT="coord-conj.10" ID="29" KSNAME="DENIAL" LEMMA="DENIAL" LINK="coord-conj" PAFT=" " UNL="denial(icl&gt;selflessness&gt;thing,equ&gt;abnegation)" DEF="RENUNCIATION OF YOUR OWN INTERESTS IN FAVOR OF THE INTERESTS OF OTHERS" TRANS="самоотречение">denials</W> 
 <W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.10" ID="30" KSNAME="WILL1" LEMMA="WILL" LINK="coord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="30" FEAT="V MF" HYPOT="analyt.13" ID="31" KSNAME="HAVE" LEMMA="HAVE" LINK="analyt" PAFT=" ">have</W> 
 <W DOM="31" FEAT="PART" HYPOT="1-compl.15" ID="32" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
@@ -476,7 +476,7 @@
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="14" KSNAME="POLICY1" LEMMA="POLICY" LINK="prepos" PAFT=" " UNL="policy(icl&gt;argumentation&gt;thing)" DEF="A LINE OF ARGUMENT RATIONALIZING THE COURSE OF ACTION OF A GOVERNMENT" TRANS="политика">policy</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="15" KSNAME="DESIGN1" LEMMA="DESIGN" LINK="subord-conj" PAFT=" ">designed</W> 
 <W DOM="15" FEAT="PART" HYPOT="2-compl.12" ID="16" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
-<W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="17" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="prepos" PAFT=" " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="">overthrow</W> 
+<W DOM="16" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="17" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="prepos" PAFT=" " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="CAUSE THE DOWNFALL OF" TRANS="свергать">overthrow</W> 
 <W DOM="17" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="COMMUNISM" LEMMA="COMMUNISM" LINK="1-compl" PAFT="; " UNL="communism(icl&gt;socialism&gt;thing)" DEF="A FORM OF SOCIALISM THAT ABOLISHES PRIVATE OWNERSHIP" TRANS="коммунизм">Communism</W>; 
 <W DOM="20" FEAT="A" HYPOT="determ.13" ID="19" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" ">my</W> 
 <W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="20" KSNAME="POINT1" LEMMA="POINT" LINK="predic" PAFT=" " UNL="point(icl&gt;meaning&gt;thing)" DEF="A BRIEF VERSION OF THE ESSENTIAL MEANING OF SOMETHING" TRANS="суть,соль">point</W> 
@@ -546,7 +546,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="THIS2" LEMMA="THIS" LINK="predic" PAFT=" ">This</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="2" KSNAME="BRING" LEMMA="BRING" PAFT=" ">brings</W> 
 <W DOM="2" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="3" KSNAME="WE" LEMMA="WE" LINK="1-compl" PAFT=" ">us</W> 
-<W DOM="5" FEAT="ADV" HYPOT="restr.12" ID="4" KSNAME="SQUARELY" LEMMA="SQUARELY" LINK="restr" PAFT=" " UNL="squarely(icl&gt;how,com&gt;square)" DEF="">squarely</W> 
+<W DOM="5" FEAT="ADV" HYPOT="restr.12" ID="4" KSNAME="SQUARELY" LEMMA="SQUARELY" LINK="restr" PAFT=" " UNL="squarely(icl&gt;how,com&gt;square)" DEF="DIRECTLY AND WITHOUT EVASION" TRANS="прямо">squarely</W> 
 <W DOM="2" FEAT="PR" HYPOT="3-compl.01" ID="5" KSNAME="TO1" LEMMA="TO" LINK="3-compl" PAFT=" ">to</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="PROBLEM" LEMMA="PROBLEM" LINK="prepos" PAFT=" ">problem</W> 
@@ -1472,7 +1472,7 @@
 <W DOM="2" FEAT="V ING" HYPOT="prepos.01" ID="3" KSNAME="INVITE" LEMMA="INVITE" LINK="prepos" PAFT=" ">inviting</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="MILITARY1" LEMMA="MILITARY" LINK="modif" PAFT=" " UNL="military(icl&gt;adj,com&gt;military_science)" DEF="OF OR RELATING TO THE STUDY OF THE PRINCIPLES OF WARFARE" TRANS="военный">military</W> 
-<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="SHOWDOWN" LEMMA="SHOWDOWN" LINK="1-compl" MSNAME="SHOWDOWN" PAFT=" " UNL="showdown(icl&gt;disagreement&gt;thing,equ&gt;confrontation)" DEF="">showdown</W> 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="6" KSNAME="SHOWDOWN" LEMMA="SHOWDOWN" LINK="1-compl" MSNAME="SHOWDOWN" PAFT=" " UNL="showdown(icl&gt;disagreement&gt;thing,equ&gt;confrontation)" DEF="A HOSTILE DISAGREEMENT FACE-TO-FACE" TRANS="столкновение">showdown</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" EXTRAFEAT="ALT CAP" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="WEST1" LEMMA="WEST" LINK="prepos" PAFT=" " UNL="west(iof&gt;region&gt;thing,com&gt;culture)" DEF="THE COUNTRIES OF WESTERN EUROPE AND AMERICA" TRANS="Запад">West</W> 
@@ -2001,7 +2001,7 @@
 </S>
 <S DATE="29 11 2010 20:24:17" ID="75" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f23.tgt;75" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="STRAIN2" LEMMA="STRAIN" LINK="predic" PAFT=" " UNL="strain(icl&gt;music&gt;thing,equ&gt;tune)" DEF="">strains</W> 
+<W DOM="5" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="STRAIN2" LEMMA="STRAIN" LINK="predic" PAFT=" " UNL="strain(icl&gt;music&gt;thing,equ&gt;tune)" DEF="A SUCCESSION OF NOTES FORMING A DISTINCTIVE SEQUENCE" TRANS="напев,мелодия">strains</W> 
 <W DOM="2" FEAT="PR" HYPOT="quasiagent.10" ID="3" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="NEUTRALISM" LEMMA="NEUTRALISM" LINK="prepos" PAFT=" " UNL="neutralism(icl&gt;foreign_policy&gt;thing)" DEF="A POLICY OF NEUTRALITY OR NONALIGNMENT IN INTERNATIONAL AFFAIRS" TRANS="нейтрализм">neutralism</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
@@ -2093,7 +2093,7 @@
 <W DOM="5" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="TIBET" LEMMA="TIBET" LINK="prepos" PAFT=" " UNL="tibet(iof&gt;asian_country&gt;thing)" DEF="AN ASIAN COUNTRY UNDER THE CONTROL OF CHINA" TRANS="Тибет">Tibet</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
 <W DOM="9" FEAT="S NOM PL" HYPOT="predic.01" ID="8" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
-<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="fictit" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;thing)" DEF="">pretended</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="fictit" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;person,obj&gt;uw)" DEF="TO IMAGINE THAT SOMETHING IS TRUE WHEN PLAYING A GAME" TRANS="притворяться">pretended</W> 
 <W DOM="9" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.31" ID="10" KSNAME="DO1" LEMMA="DO" LINK="1-compl" PAFT=" ">did</W> 
 <W DOM="10" FEAT="ADV" HYPOT="restr.10" ID="11" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="10" FEAT="V MF" HYPOT="analyt.10" ID="12" KSNAME="EXIST" LEMMA="EXIST" LINK="analyt" PAFT=". ">exist</W>. 

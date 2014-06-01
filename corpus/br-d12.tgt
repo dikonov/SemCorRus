@@ -444,7 +444,7 @@
 <W DOM="34" FEAT="A" HYPOT="modif.01" ID="33" KSNAME="NEUTRAL2" LEMMA="NEUTRAL" LINK="modif" PAFT=" ">neutral</W> 
 <W DOM="31" FEAT="S SG" HYPOT="prepos.01" ID="34" KSNAME="AGENT1" LEMMA="AGENT" LINK="prepos" PAFT=" ">agent</W> 
 <W DOM="36" FEAT="ADV" HYPOT="adverb.01" ID="35" KSNAME="SIMPLY" LEMMA="SIMPLY" LINK="adverb" PAFT=" ">simply</W> 
-<W DOM="29" FEAT="V ING" HYPOT="adverb.03" ID="36" KSNAME="SERVE2" LEMMA="SERVE" LINK="adverb" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serving</W> 
+<W DOM="29" FEAT="V ING" HYPOT="adverb.03" ID="36" KSNAME="SERVE2" LEMMA="SERVE" LINK="adverb" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serving</W> 
 <W DOM="38" FEAT="ART" HYPOT="determ.11" ID="37" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="36" FEAT="S PL" HYPOT="1-compl.01" ID="38" KSNAME="INTEREST1" LEMMA="INTEREST" LINK="1-compl" PAFT=" ">interests</W> 
 <W DOM="38" FEAT="PR" HYPOT="attrib.01" ID="39" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
@@ -453,7 +453,7 @@
 <W DOM="41" FEAT="CONJ" HYPOT="coordin.10" ID="42" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="42" FEAT="S SG" HYPOT="coord-conj.10" ID="43" KSNAME="BUYER" LEMMA="BUYER" LINK="coord-conj" PAFT=" ">buyer</W> 
 <W DOM="36" FEAT="CONJ" HYPOT="coordin.10" ID="44" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="44" FEAT="V ING" HYPOT="coord-conj.10" ID="45" KSNAME="MEDIATE1" LEMMA="MEDIATE" LINK="coord-conj" PAFT=" " UNL="mediate(icl&gt;negociate&gt;do,equ&gt;intercede,agt&gt;volitional_thing,obj&gt;thing)" DEF="">mediating</W> 
+<W DOM="44" FEAT="V ING" HYPOT="coord-conj.10" ID="45" KSNAME="MEDIATE1" LEMMA="MEDIATE" LINK="coord-conj" PAFT=" " UNL="mediate(icl&gt;negociate&gt;do,equ&gt;intercede,agt&gt;volitional_thing,obj&gt;thing)" DEF="ACT BETWEEN PARTIES WITH A VIEW TO RECONCILING DIFFERENCES" TRANS="посредничать">mediating</W> 
 <W DOM="45" FEAT="PR" HYPOT="1-compl.07" ID="46" KSNAME="BETWEEN1" LEMMA="BETWEEN" LINK="1-compl" PAFT=" ">between</W> 
 <W DOM="46" FEAT="S OBJ PL" HYPOT="prepos.01" ID="47" KSNAME="THEY" LEMMA="THEY" LINK="prepos" PAFT=". ">them</W>. 
 </S>
@@ -466,7 +466,7 @@
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="CONSIST1" LEMMA="CONSIST" LINK="prepos" PAFT=" " UNL="consist(icl&gt;be,equ&gt;lie,obj&gt;uw,aoj&gt;thing)" DEF="HAVE ITS ESSENTIAL FEATURES AS SPECIFIED" TRANS="состоять">consist</W> 
 <W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="LARGELY" LEMMA="LARGELY" LINK="adverb" PAFT=" ">largely</W> 
 <W DOM="6" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
-<W DOM="8" FEAT="V ING" HYPOT="prepos.01" ID="9" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serving</W> 
+<W DOM="8" FEAT="V ING" HYPOT="prepos.01" ID="9" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serving</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S PL" HYPOT="2-compl.10" ID="11" KSNAME="WISH2" LEMMA="WISH" LINK="2-compl" PAFT=" ">wishes</W> 
 <W DOM="11" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
@@ -633,7 +633,7 @@
 <W DOM="3" FEAT="PR" GRP="3,4" HYPOT="1-compl.07" ID="4" KSNAME="TO1" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="RACE1" LEMMA="RACE" LINK="prepos" PAFT=" ">race</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="6" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="6" EXTRAFEAT="ALT" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="STRIKE1" LEMMA="STRIKE" LINK="pass-anal" PAFT=" " UNL="strike(icl&gt;delete&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">stricken</W> 
+<W DOM="6" EXTRAFEAT="ALT" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="STRIKE1" LEMMA="STRIKE" LINK="pass-anal" PAFT=" " UNL="strike(icl&gt;delete&gt;do,agt&gt;thing,obj&gt;thing)" DEF="REMOVE BY ERASING OR CROSSING OUT OR AS IF BY DRAWING A LINE" TRANS="вычеркивать">stricken</W> 
 <W DOM="7" FEAT="PR" HYPOT="agent.10" ID="8" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="ASSOCIATION" LEMMA="ASSOCIATION" LINK="prepos" PAFT=" ">association</W> 
@@ -821,7 +821,7 @@
 <W DOM="49" FEAT="S NOM PL" HYPOT="predic.01" ID="48" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="47" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="49" KSNAME="CLAIM2" LEMMA="CLAIM" LINK="relat" PAFT=" ">claim</W> 
 <W DOM="49" FEAT="PART" HYPOT="adverb.11" ID="50" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="50" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="51" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=", " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serve</W>, 
+<W DOM="50" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="51" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=", " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serve</W>, 
 <W DOM="26" FEAT="CONJ" ID="52" KSNAME="OR" LEMMA="OR" LINK="fictit" PAFT=" ">or</W> 
 <W DOM="26" FEAT="PR" ID="53" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="fictit" PAFT=" ">about</W> 
 <W DOM="56" FEAT="ART" HYPOT="determ.11" ID="54" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -846,7 +846,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="DO1" LEMMA="DO" PAFT=" ">does</W> 
 <W DOM="4" FEAT="ADV" HYPOT="restr.10" ID="5" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="7" FEAT="ADV" HYPOT="restr.11" ID="6" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
-<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.10" ID="7" KSNAME="FIT1" LEMMA="FIT" LINK="analyt" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="">fit</W> 
+<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.10" ID="7" KSNAME="FIT1" LEMMA="FIT" LINK="analyt" PAFT=" " UNL="fit(icl&gt;equal&gt;occur,equ&gt;match,obj&gt;thing)" DEF="BE COMPATIBLE, SIMILAR OR CONSISTENT" TRANS="соответствовать">fit</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="PRESENT1" LEMMA="PRESENT" LINK="modif" PAFT=" ">present</W> 
 <W DOM="7" FEAT="S PL" HYPOT="1-compl.01" ID="10" KSNAME="REALITY" LEMMA="REALITY" LINK="1-compl" PAFT=" ">realities</W> 

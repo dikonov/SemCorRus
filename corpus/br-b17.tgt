@@ -816,7 +816,7 @@
 <W DOM="19" FEAT="S SG" GRP="18,19,20" HYPOT="prepos.01" ID="20" KSNAME="MONEY" LEMMA="MONEY" LINK="prepos" PAFT=" ">money</W> 
 <W DOM="16" FEAT="PART" HYPOT="adverb.11" ID="21" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="21" FEAT="V MF" HYPOT="prepos.16" ID="22" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
-<W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="23" KSNAME="ALLOT" LEMMA="ALLOT" LINK="pass-anal" PAFT=" " UNL="allot(icl&gt;give&gt;do,equ&gt;distribute,agt&gt;thing,obj&gt;thing)" DEF="">allotted</W> 
+<W DOM="22" FEAT="V PP" HYPOT="pass-anal.10" ID="23" KSNAME="ALLOT" LEMMA="ALLOT" LINK="pass-anal" PAFT=" " UNL="allot(icl&gt;give&gt;do,equ&gt;distribute,agt&gt;thing,obj&gt;thing)" DEF="ADMINISTER OR BESTOW, AS IN SMALL PORTIONS" TRANS="распределять">allotted</W> 
 <W DOM="23" FEAT="PR" HYPOT="2-compl.02" ID="24" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="26" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="24" FEAT="S SG" HYPOT="prepos.01" ID="26" KSNAME="COLLEGE" LEMMA="COLLEGE" LINK="prepos" PAFT=". ">college</W>. 

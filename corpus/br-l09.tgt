@@ -749,7 +749,7 @@
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="modif" PAFT=" " UNL="little(icl&gt;adj,equ&gt;small,ant&gt;big)" DEF="LIMITED OR BELOW AVERAGE IN NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="небольшой">little</W> 
 <W DOM="18" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="DRAFT2" LEMMA="DRAFT" LINK="predic" PAFT=" ">draft</W> 
 <W DOM="14" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="18" KSNAME="HAVE" LEMMA="HAVE" LINK="coord-conj" PAFT=" ">had</W> 
-<W DOM="18" FEAT="V PP" HYPOT="analyt.12" ID="19" KSNAME="CREEP2" LEMMA="CREEP" LINK="analyt" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">crept</W> 
+<W DOM="18" FEAT="V PP" HYPOT="analyt.12" ID="19" KSNAME="CREEP2" LEMMA="CREEP" LINK="analyt" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">crept</W> 
 <W DOM="19" FEAT="PR" HYPOT="2-compl.02" ID="20" KSNAME="ACROSS1" LEMMA="ACROSS" LINK="2-compl" PAFT=" ">across</W> 
 <W DOM="22" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="20" FEAT="S SG" HYPOT="prepos.01" ID="22" KSNAME="ROOM" LEMMA="ROOM" LINK="prepos" PAFT=" " UNL="room(icl&gt;area&gt;thing)" DEF="AN AREA WITHIN A BUILDING ENCLOSED BY WALLS AND FLOOR AND CEILING" TRANS="комната">room</W> 
@@ -1070,7 +1070,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="PART1" LEMMA="PART" LINK="prepos" PAFT=" ">part</W> 
 <W DOM="16" FEAT="PR" HYPOT="quasiagent.10" ID="17" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="19" FEAT="A" HYPOT="determ.13" ID="18" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="BREATH" LEMMA="BREATH" LINK="prepos" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="вдох">breath</W> 
+<W DOM="17" FEAT="S SG" HYPOT="prepos.01" ID="19" KSNAME="BREATH" LEMMA="BREATH" LINK="prepos" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="дыхание,вдох">breath</W> 
 <W DOM="16" FEAT="CONJ" HYPOT="coordin.10" ID="20" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="20" FEAT="S SG" HYPOT="coord-conj.10" ID="21" KSNAME="BODY1" LEMMA="BODY" LINK="coord-conj" PAFT="; ">body</W>; 
 <W DOM="23" FEAT="S SG" HYPOT="predic.01" ID="22" KSNAME="FICT-PERS" LEMMA="REV" LINK="predic" PAFT=" ">Rev</W> 
@@ -2287,7 +2287,7 @@
 <W DOM="5" FEAT="PR" HYPOT="quasiagent.10" ID="6" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="DAILY1" LEMMA="DAILY" LINK="modif" PAFT=" " UNL="daily(icl&gt;adj)" DEF="OCCURRING OR DONE EACH DAY" TRANS="ежедневный">daily</W> 
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="LIVING1" LEMMA="LIVING" LINK="prepos" MSNAME="LIVING1" PAFT=" " UNL="living(icl&gt;experience&gt;thing,equ&gt;life)" DEF="THE EXPERIENCE OF BEING ALIVE" TRANS="жизнь">living</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="REFUTE" LEMMA="REFUTE" PAFT=" " UNL="refute(icl&gt;disprove&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">refuted</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="REFUTE" LEMMA="REFUTE" PAFT=" " UNL="refute(icl&gt;disprove&gt;do,agt&gt;thing,obj&gt;thing)" DEF="PROVE TO BE FALSE OR INCORRECT" TRANS="опровергать">refuted</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="10" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="VICIOUS" LEMMA="VICIOUS" LINK="modif" PAFT=" ">vicious</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="ATTEMPT1" LEMMA="ATTEMPT" LINK="1-compl" PAFT=" " UNL="attempt(icl&gt;action,agt&gt;thing,pur&gt;uw)" DEF="EARNEST ACTIVITY INTENDED TO DO SOMETHING" TRANS="попытка">attempt</W> 

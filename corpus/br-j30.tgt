@@ -186,7 +186,7 @@
 <S DATE="30 11 2010 10:33:59" ID="9" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_22\\br-j30.tgt;9" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="V ING" HYPOT="modif.01" ID="1" KSNAME="INTERVIEW2" LEMMA="INTERVIEW" LINK="modif" PAFT=", " UNL="interview(icl&gt;do,equ&gt;question,cob&gt;uw,agt&gt;person,obj&gt;person)" DEF="DISCUSS FORMALLY WITH (SOMEBODY) FOR THE PURPOSE OF AN EVALUATION" TRANS="интервьюировать">Interviewing</W>, 
 <W DOM="1" FEAT="V ING" HYPOT="coordin.02" ID="2" KSNAME="CHECK1" LEMMA="CHECK" LINK="coordin" PAFT=" " UNL="check(icl&gt;verify&gt;do,equ&gt;see,agt&gt;thing,obj&gt;thing)" DEF="">checking</W> 
-<W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="REFERENCE1" LEMMA="REFERENCE" LINK="predic" PAFT=", " UNL="reference(icl&gt;information,equ&gt;recommendation,agt&gt;thing,obj&gt;uw)" DEF="">references</W>, 
+<W DOM="9" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="REFERENCE1" LEMMA="REFERENCE" LINK="predic" PAFT=", " UNL="reference(icl&gt;information,equ&gt;recommendation,agt&gt;thing,obj&gt;uw)" DEF="" TRANS="рекомендация">references</W>, 
 <W DOM="3" FEAT="V ING" HYPOT="coordin.01" ID="4" KSNAME="TRAIN2" LEMMA="TRAIN" LINK="coordin" PAFT=" ">training</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="SALESMAN" LEMMA="SALESMAN" LINK="1-compl" PAFT=", " UNL="salesman(icl&gt;salesperson&gt;thing)" DEF="A MAN SALESPERSON" TRANS="продавец">salesmen</W>, 
@@ -291,7 +291,7 @@
 <W DOM="7" EXTRAFEAT="CAP" FEAT="PR" GRP="1,2,3" HYPOT="adverb.02" ID="1" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">In</W> 
 <W DOM="1" FEAT="S SG" GRP="1,2,3" HYPOT="prepos.01" ID="2" KSNAME="PLACE1" LEMMA="PLACE" LINK="prepos" PAFT=" ">place</W> 
 <W DOM="2" FEAT="PR" GRP="1,2,3" HYPOT="quasiagent.10" ID="3" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="3" FEAT="V ING" HYPOT="prepos.01" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="3" FEAT="V ING" HYPOT="prepos.01" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="5" KSNAME="SALESMAN" LEMMA="SALESMAN" LINK="1-compl" PAFT=" " UNL="salesman(icl&gt;salesperson&gt;thing)" DEF="A MAN SALESPERSON" TRANS="продавец">salesmen</W> 
 <W DOM="4" FEAT="PART" HYPOT="2-compl.12" ID="6" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="7" KSNAME="FILL1" LEMMA="FILL" PAFT=" " UNL="fill_out(icl&gt;do,equ&gt;complete,agt&gt;person,obj&gt;information,ins&gt;information)" DEF="WRITE ALL THE REQUIRED INFORMATION ONTO A FORM" TRANS="заполнять">fill</W> 
@@ -299,10 +299,10 @@
 <W DOM="7" FEAT="S PL" HYPOT="predic.08" ID="9" KSNAME="QUESTIONNAIRE1" LEMMA="QUESTIONNAIRE" LINK="predic" PAFT=", " UNL="questionnaire(icl&gt;form&gt;thing)" DEF="A FORM CONTAINING A SET OF QUESTIONS" TRANS="вопросник,анкета">questionnaires</W>, 
 <W DOM="9" FEAT="V ING" HYPOT="coordin.01" ID="10" KSNAME="CHECK1" LEMMA="CHECK" LINK="coordin" PAFT=" " UNL="check(icl&gt;verify&gt;do,equ&gt;see,agt&gt;thing,obj&gt;thing)" DEF="">checking</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
-<W DOM="10" FEAT="S PL" HYPOT="1-compl.01" ID="12" KSNAME="REFERENCE1" LEMMA="REFERENCE" LINK="1-compl" PAFT=", " UNL="reference(icl&gt;information,equ&gt;recommendation,agt&gt;thing,obj&gt;uw)" DEF="">references</W>, 
+<W DOM="10" FEAT="S PL" HYPOT="1-compl.01" ID="12" KSNAME="REFERENCE1" LEMMA="REFERENCE" LINK="1-compl" PAFT=", " UNL="reference(icl&gt;information,equ&gt;recommendation,agt&gt;thing,obj&gt;uw)" DEF="" TRANS="рекомендация">references</W>, 
 <W DOM="12" FEAT="V ING" HYPOT="descr-modif.01" ID="13" KSNAME="INTERVIEW2" LEMMA="INTERVIEW" LINK="descr-modif" PAFT=" " UNL="interview(icl&gt;do,equ&gt;question,cob&gt;uw,agt&gt;person,obj&gt;person)" DEF="DISCUSS FORMALLY WITH (SOMEBODY) FOR THE PURPOSE OF AN EVALUATION" TRANS="интервьюировать">interviewing</W> 
 <W DOM="13" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="14" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=", ">them</W>, 
-<W DOM="10" FEAT="V ING" HYPOT="coordin.02" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="10" FEAT="V ING" HYPOT="coordin.02" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="15" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="16" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=" ">them</W> 
 <W DOM="15" FEAT="PART" HYPOT="2-compl.12" ID="17" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="17" FEAT="V MF" HYPOT="prepos.16" ID="18" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
@@ -725,7 +725,7 @@
 <W FEAT="PR" GRP="14,15,16,17" ID="15" KSNAME="AT" LEMMA="AT">at</W> 
 <W FEAT="ART" GRP="14,15,16,17" ID="16" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="S" GRP="14,15,16,17" ID="17" KSNAME="TIME1" LEMMA="TIME">time</W>, 
-<W FEAT="V" ID="18" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="" WN21="2:32:01::">asked</W> 
+<W FEAT="V" ID="18" KSNAME="ASK1" LEMMA="ASK" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить" WN21="2:32:01::">asked</W> 
 <W FEAT="S" ID="19" KSNAME="THEY" LEMMA="THEY">them</W> 
 <W FEAT="PART" ID="20" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="21" KSNAME="SIT" LEMMA="SIT" UNL="sit(icl&gt;change_posture&gt;do,equ&gt;sit_down,agt&gt;thing)" DEF="ASSUME SITTING POSITION OR TAKE A SEAT" TRANS="садиться" WN21="2:38:00::">sit</W> 
@@ -1419,7 +1419,7 @@
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="JURY" LEMMA="JURY" LINK="prepos" PAFT=" " UNL="jury(icl&gt;committee&gt;thing)" DEF="A COMMITTEE APPOINTED TO JUDGE A COMPETITION" TRANS="жюри">jury</W> 
 <W DOM="8" FEAT="PR" HYPOT="quasiagent.10" ID="9" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="11" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="PEER1" LEMMA="PEER" LINK="prepos" PAFT=" " UNL="peer(icl&gt;person&gt;thing)" DEF="">peers</W> 
+<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="PEER1" LEMMA="PEER" LINK="prepos" PAFT=" " UNL="peer(icl&gt;person&gt;thing)" DEF="A PERSON WHO IS OF EQUAL STANDING WITH ANOTHER IN A GROUP" TRANS="ровня">peers</W> 
 <W DOM="13" FEAT="S NOM SG" HYPOT="predic.01" ID="12" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="13" KSNAME="SHOW1" LEMMA="SHOW" PAFT=" " UNL="show(icl&gt;demonstrate&gt;do,agt&gt;thing,obj&gt;thing,rec&gt;thing)" DEF="SHOW OR DEMONSTRATE SOMETHING TO AN INTERESTED AUDIENCE" TRANS="выставлять,показывать,демонстрировать">showed</W> 
 <W DOM="15" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
@@ -1579,7 +1579,7 @@
 <W DOM="13" FEAT="S POSS SG" GRP="10,11" HYPOT="posses.01" ID="12" KSNAME="MANAGER" LEMMA="MANAGER" LINK="posses" PAFT=" ">manager's</W> 
 <W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="13" KSNAME="ERROR" LEMMA="ERROR" LINK="prepos" PAFT=" " UNL="error(icl&gt;nonaccomplishment&gt;thing,equ&gt;mistake)" DEF="A WRONG ACTION ATTRIBUTABLE TO BAD JUDGMENT OR IGNORANCE OR INATTENTION" TRANS="ошибка">errors</W> 
 <W DOM="3" FEAT="PR" HYPOT="3-compl.01" ID="14" KSNAME="BY1" LEMMA="BY" LINK="3-compl" PAFT=" ">by</W> 
-<W DOM="14" FEAT="V ING" HYPOT="prepos.01" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="14" FEAT="V ING" HYPOT="prepos.01" ID="15" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="VARIOUS" LEMMA="VARIOUS" LINK="modif" PAFT=" ">various</W> 
 <W DOM="15" FEAT="S PL" HYPOT="1-compl.01" ID="17" KSNAME="OBSERVER" LEMMA="OBSERVER" LINK="1-compl" PAFT=" " UNL="observer(icl&gt;expert&gt;thing)" DEF="AN EXPERT WHO OBSERVES AND COMMENTS ON SOMETHING" TRANS="обозреватель">observers</W> 
 <W DOM="15" FEAT="PART" HYPOT="2-compl.12" ID="18" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -1619,7 +1619,7 @@
 <W DOM="5" FEAT="ADV" HYPOT="parenth.00" ID="6" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="DIRECTOR" LEMMA="DIRECTOR" LINK="predic" PAFT=" " UNL="director(icl&gt;administrator&gt;thing)" DEF="SOMEONE WHO CONTROLS RESOURCES AND EXPENDITURES" TRANS="директор">director</W> 
-<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="11" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="EACH" LEMMA="EACH" LINK="determ" PAFT=" ">each</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="INDIVIDUAL1" LEMMA="INDIVIDUAL" LINK="1-compl" PAFT=" " UNL="individual(icl&gt;organism&gt;thing,equ&gt;person)" DEF="A HUMAN BEING" TRANS="индивид">individual</W> 
 <W DOM="9" FEAT="PART" HYPOT="2-compl.12" ID="12" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -1641,7 +1641,7 @@
 <S DATE="30 11 2010 10:34:10" EXTRACOMM="Tagging contradicts ETAP parsing: CANNOT - CAN1" ID="70" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_22\\br-j30.tgt;70" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
-<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="PART" HYPOT="2-compl.12" ID="4" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="VOTE2" LEMMA="VOTE" LINK="prepos" PAFT=" &quot;">vote</W> 
 "<W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="subj-copr.01" ID="6" KSNAME="TRUE1" LEMMA="TRUE" LINK="subj-copr" PAFT="&quot; " UNL="true(icl&gt;adj,ant&gt;false)" DEF="CONSISTENT WITH FACT OR REALITY" TRANS="истинный">true</W>" 

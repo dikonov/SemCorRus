@@ -208,7 +208,7 @@
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="AFTERNOON" LEMMA="AFTERNOON" LINK="prepos" PAFT=" ">afternoon</W> 
 <W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="SUNSHINE" LEMMA="SUNSHINE" LINK="1-compl" MSNAME="SUNSHINE" PAFT=", ">sunshine</W>, 
 <W DOM="18" FEAT="S NOM SG" HYPOT="predic.01" ID="17" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="18" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="18" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="18" FEAT="CONJ" HYPOT="2-compl.16" ID="19" KSNAME="IF" LEMMA="IF" LINK="2-compl" PAFT=" ">if</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="SOFT" LEMMA="SOFT" LINK="modif" PAFT=" ">soft</W> 
@@ -1029,7 +1029,7 @@
 <W DOM="5" FEAT="ADV COMP" HYPOT="adverb.01" ID="3" KSNAME="LATE2" LEMMA="LATE" LINK="adverb" PAFT=" ">later</W> 
 <W DOM="5" FEAT="S NOM SG" HYPOT="predic.01" ID="4" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="6" FEAT="PART" HYPOT="2-compl.12" ID="7" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="7" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="BECOME" LEMMA="BECOME" LINK="prepos" PAFT=" ">become</W> 
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="DIRECTOR" LEMMA="DIRECTOR" LINK="1-compl" PAFT=" ">director</W> 
@@ -2097,7 +2097,7 @@
 <W DOM="5" FEAT="V MF" HYPOT="1-compl.17" ID="6" KSNAME="HAVE" LEMMA="HAVE" LINK="1-compl" PAFT=" ">have</W> 
 <W DOM="6" FEAT="V PP" HYPOT="analyt.12" ID="7" KSNAME="HAVE" LEMMA="HAVE" LINK="analyt" PAFT=" ">had</W> 
 <W DOM="7" FEAT="PART" HYPOT="1-compl.15" ID="8" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="prepos" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="9" FEAT="S PL" HYPOT="1-compl.01" ID="10" KSNAME="FRIEND" LEMMA="FRIEND" LINK="1-compl" PAFT=" ">friends</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="13" FEAT="ADV" HYPOT="restr.11" ID="12" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 

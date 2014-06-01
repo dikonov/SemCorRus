@@ -296,7 +296,7 @@
 <W DOM="22" FEAT="V MF" HYPOT="analyt.13" ID="23" KSNAME="KNOW" LEMMA="KNOW" LINK="analyt" PAFT=" ">know</W> 
 <W DOM="25" FEAT="S NOM SG" HYPOT="predic.01" ID="24" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="23" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="1-compl.31" ID="25" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">was</W> 
-<W DOM="25" FEAT="V ING" HYPOT="analyt.11" ID="26" KSNAME="KID2" LEMMA="KID" LINK="analyt" PAFT=". " UNL="kid(icl&gt;tease&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">kidding</W>. 
+<W DOM="25" FEAT="V ING" HYPOT="analyt.11" ID="26" KSNAME="KID2" LEMMA="KID" LINK="analyt" PAFT=". " UNL="kid(icl&gt;tease&gt;do,agt&gt;thing,obj&gt;thing)" DEF="BE SILLY OR TEASE ONE ANOTHER" TRANS="подшучивать">kidding</W>. 
 </S>
 <S DATE="30 11 2010 10:37:55" ID="15" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-l18.tgt;15" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="ADV" GRP="1,2,3,4,5,6,7" HYPOT="adverb.01" ID="1" KSNAME="WHERE" LEMMA="WHERE" LINK="adverb" PAFT=" " PBEF="&quot;">Where</W> 
@@ -544,7 +544,7 @@
 <W DOM="9" EXTRAFEAT="ALT FIN IN-QUOT QFIN" FEAT="V PRS" GRP="1,2,3,4,5,6,7" HYPOT="1-compl.30" ID="2" KSNAME="SHALL" LEMMA="SHALL" LINK="1-compl" PAFT=" ">'ll</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="1,2,3,4,5,6,7" HYPOT="analyt.13" ID="3" KSNAME="GET" LEMMA="GET" LINK="analyt" PAFT=" " UNL="get(icl&gt;do,equ&gt;obtain,src&gt;uw,agt&gt;thing,obj&gt;thing)" DEF="COME INTO THE POSSESSION OF SOMETHING" TRANS="получать">get</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="1,2,3,4,5,6,7" HYPOT="determ.13" ID="4" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" ">my</W> 
-<W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S PL" GRP="1,2,3,4,5,6,7" HYPOT="1-compl.01" ID="5" KSNAME="REFERENCE1" LEMMA="REFERENCE" LINK="1-compl" PAFT=" " UNL="reference(icl&gt;information,equ&gt;recommendation,agt&gt;thing,obj&gt;uw)" DEF="">references</W> 
+<W DOM="3" EXTRAFEAT="IN-QUOT" FEAT="S PL" GRP="1,2,3,4,5,6,7" HYPOT="1-compl.01" ID="5" KSNAME="REFERENCE1" LEMMA="REFERENCE" LINK="1-compl" PAFT=" " UNL="reference(icl&gt;information,equ&gt;recommendation,agt&gt;thing,obj&gt;uw)" DEF="" TRANS="рекомендация">references</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="1,2,3,4,5,6,7" HYPOT="attrib.01" ID="6" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="1,2,3,4,5,6,7" HYPOT="prepos.01" ID="7" KSNAME="ORDER2" LEMMA="ORDER" LINK="prepos" PAFT="&quot;, ">order</W>", 
 <W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="FRM-PROP" LEMMA="NEEDHAM" LINK="predic" PAFT=" ">Needham</W> 
@@ -626,7 +626,7 @@
 <W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PST" GRP="15,16" HYPOT="subord-conj.10" ID="15" KSNAME="CALL2" LEMMA="CALL" LINK="subord-conj" PAFT=" ">called</W> 
 <W DOM="15" FEAT="PR" GRP="15,16" HYPOT="1-compl.07" ID="16" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="18" FEAT="A" HYPOT="determ.13" ID="17" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="CHECK2" LEMMA="CHECK" LINK="prepos" PAFT=". " UNL="check(icl&gt;bill&gt;thing)" DEF="">check</W>. 
+<W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="18" KSNAME="CHECK2" LEMMA="CHECK" LINK="prepos" PAFT=". " UNL="check(icl&gt;bill&gt;thing)" DEF="THE BILL IN A RESTAURANT" TRANS="счет">check</W>. 
 </S>
 <S DATE="30 11 2010 10:37:57" EXTRACOMM="Sentence is longer than 40 nodes, processing skipped." ID="38" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-l18.tgt;38">
 <W FEAT="CONJ" ID="1" KSNAME="AS1" LEMMA="AS">As</W> 
@@ -713,7 +713,7 @@
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="4" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="4" FEAT="V PP" HYPOT="analyt.12" ID="5" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="5" FEAT="ADV" HYPOT="parenth.10" ID="6" KSNAME="OTHERWISE1" LEMMA="OTHERWISE" LINK="parenth" PAFT=" " UNL="otherwise(icl&gt;how)" DEF="IN OTHER RESPECTS OR WAYS" TRANS="по-другому,иначе">otherwise</W> 
-<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="OCCUPY" LEMMA="OCCUPY" LINK="pass-anal" PAFT=" " UNL="occupy(icl&gt;interest&gt;do,equ&gt;absorb,agt&gt;thing,obj&gt;thing)" DEF="">occupied</W> 
+<W DOM="5" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="OCCUPY" LEMMA="OCCUPY" LINK="pass-anal" PAFT=" " UNL="occupy(icl&gt;interest&gt;do,equ&gt;absorb,agt&gt;thing,obj&gt;thing)" DEF="ENGAGE OR ENGROSS WHOLLY" TRANS="занимать">occupied</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="PAST2" LEMMA="PAST" LINK="modif" PAFT=" " UNL="past(icl&gt;adj,equ&gt;past)" DEF="">past</W> 
@@ -916,7 +916,7 @@
 <W DOM="21" FEAT="A" ID="12" KSNAME="LIQUID1" LEMMA="LIQUID" LINK="fictit" PAFT=" " UNL="liquid(icl&gt;adj,ant&gt;gaseous)" DEF="EXISTING AS OR HAVING CHARACTERISTICS OF A LIQUID" TRANS="жидкий">liquid</W> 
 <W DOM="8" FEAT="PR" HYPOT="adverb.02" ID="13" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">at</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=", " UNL="bottom(icl&gt;side&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W>, 
+<W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="prepos" PAFT=", " UNL="bottom(icl&gt;side&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWER SIDE OF ANYTHING" TRANS="низ">bottom</W>, 
 <W DOM="21" FEAT="CONJ" ID="16" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="18" FEAT="ART" HYPOT="determ.11" ID="17" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="18" KSNAME="SMELL1" LEMMA="SMELL" LINK="predic" PAFT=" " UNL="smell(icl&gt;sensation&gt;thing)" DEF="THE SENSATION THAT RESULTS WHEN OLFACTORY RECEPTORS IN THE NOSE ARE STIMULATED BY PARTICULAR CHEMICALS IN GASEOUS FORM" TRANS="обоняние">smell</W> 
@@ -1124,7 +1124,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="PUT" LEMMA="PUT" PAFT=" " UNL="put(icl&gt;displace&gt;do,plt&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="MOVE INTO A CERTAIN PLACE" TRANS="помещать">put</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="4" KSNAME="SHELL1" LEMMA="SHELL" LINK="1-compl" PAFT=" " UNL="shell(icl&gt;ammunition&gt;thing)" DEF="">shells</W> 
+<W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="4" KSNAME="SHELL1" LEMMA="SHELL" LINK="1-compl" PAFT=" " UNL="shell(icl&gt;ammunition&gt;functional_thing)" DEF="AMMUNITION CONSISTING OF A CYLINDRICAL METAL CASING CONTAINING AN EXPLOSIVE CHARGE AND A PROJECTILE" TRANS="снаряд">shells</W> 
 <W DOM="2" FEAT="PR" HYPOT="2-compl.02" ID="5" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="TABLE1" LEMMA="TABLE" LINK="prepos" PAFT=", ">table</W>, 
@@ -1200,7 +1200,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="adverb.01" ID="1" KSNAME="MAYBE" LEMMA="MAYBE" LINK="adverb" PAFT=" " UNL="maybe(icl&gt;how,equ&gt;possibly)" DEF="BY CHANCE" TRANS="пожалуй,может быть">Maybe</W> 
 <W DOM="4" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="4" FEAT="ADV" HYPOT="restr.11" ID="3" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;merely)" DEF="AND NOTHING MORE" TRANS="всего">only</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intended</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intended</W> 
 <W DOM="4" FEAT="PART" HYPOT="1-compl.15" ID="5" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="SCARE1" LEMMA="SCARE" LINK="prepos" PAFT=" " UNL="scare(icl&gt;stimulate&gt;do,equ&gt;frighten,agt&gt;volitional_thing,obj&gt;volitional_thing,gol&gt;thing)" DEF="CAUSE FEAR IN" TRANS="пугать">scare</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1676,7 +1676,7 @@
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="3" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="4" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BANG1" LEMMA="BANG" LINK="prepos" PAFT=", " UNL="bang(icl&gt;noise&gt;thing)" DEF="">bang</W>, 
+<W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BANG1" LEMMA="BANG" LINK="prepos" PAFT=", " UNL="bang(icl&gt;noise&gt;thing)" DEF="A SUDDEN VERY LOUD NOISE" TRANS="бабах">bang</W>, 
 <W DOM="6" FEAT="V PP" HYPOT="modif.01" ID="7" KSNAME="ANNOY" LEMMA="ANNOY" LINK="modif" PAFT=" ">annoyed</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="8" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">at</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="HIMSELF" LEMMA="HIMSELF" LINK="prepos" PAFT=" ">himself</W> 
@@ -1690,7 +1690,7 @@
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="THAT3" LEMMA="THAT" LINK="prepos" PAFT=" ">that</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="coordin.11" ID="18" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
 <W DOM="18" FEAT="ADV" HYPOT="coord-conj.10" ID="19" KSNAME="STILL1" LEMMA="STILL" LINK="coord-conj" PAFT=" " UNL="still(icl&gt;how,com&gt;duration)" DEF="WITHOUT CHANGE OR INTERRUPTION" TRANS="по-прежнему">still</W> 
-<W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="20" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="">terribly</W> 
+<W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="20" KSNAME="TERRIBLY" LEMMA="TERRIBLY" LINK="adverb" PAFT=" " UNL="terribly(icl&gt;how)" DEF="USED AS INTENSIFIERS" TRANS="очень,ужасно,страшно">terribly</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="21" KSNAME="CONCERN2" LEMMA="CONCERN" PAFT=" " UNL="concern(icl&gt;interest&gt;be,obj&gt;thing,aoj&gt;thing,scn&gt;thing)" DEF="TO INTEREST OR WORRY" TRANS="интересоваться,волновать,заботить">concerned</W> 
 <W DOM="21" FEAT="PR" HYPOT="1-compl.07" ID="22" KSNAME="WITH" LEMMA="WITH" LINK="1-compl" PAFT=" ">with</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1929,7 +1929,7 @@
 <W DOM="5" FEAT="PR" HYPOT="quasiagent.10" ID="6" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="11" FEAT="S SG" HYPOT="compos.01" ID="7" KSNAME="BEER1" LEMMA="BEER" LINK="compos" PAFT=" " UNL="beer(icl&gt;brew&gt;thing)" DEF="A GENERAL NAME FOR ALCOHOLIC BEVERAGES MADE BY FERMENTING A CEREAL (OR MIXTURE OF CEREALS) FLAVORED WITH HOPS" TRANS="пиво">beer</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
-<W DOM="8" FEAT="V PP" HYPOT="coord-conj.10" ID="9" KSNAME="VETO2" LEMMA="VETO" LINK="coord-conj" PAFT=" " UNL="veto(icl&gt;oppose&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">vetoed</W> 
+<W DOM="8" FEAT="V PP" HYPOT="coord-conj.10" ID="9" KSNAME="VETO2" LEMMA="VETO" LINK="coord-conj" PAFT=" " UNL="veto(icl&gt;oppose&gt;do,agt&gt;thing,obj&gt;thing)" DEF="VOTE AGAINST" TRANS="налагать вето,ветировать">vetoed</W> 
 <W DOM="2" FEAT="CONJ" ID="10" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="IDEA" LEMMA="IDEA" LINK="prepos" PAFT=" " UNL="idea(icl&gt;content&gt;thing)" DEF="THE CONTENT OF COGNITION" TRANS="идея">idea</W> 
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="TOO2" LEMMA="TOO" LINK="adverb" PAFT=". " UNL="too(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="тоже">too</W>. 
@@ -2112,7 +2112,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="PASS1" LEMMA="PASS" PAFT=" ">passed</W> 
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="3" KSNAME="ALONG1" LEMMA="ALONG" LINK="adverb" PAFT=" ">along</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="TIP1" LEMMA="TIP" LINK="prepos" PAFT=" " UNL="tip(icl&gt;guidance&gt;thing)" DEF="">tip</W> 
+<W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="TIP1" LEMMA="TIP" LINK="prepos" PAFT=" " UNL="tip(icl&gt;guidance&gt;thing)" DEF="AN INDICATION OF POTENTIAL OPPORTUNITY" TRANS="намек">tip</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="SIMPLE" LEMMA="SIMPLE" LINK="modif" PAFT=" " UNL="simple(icl&gt;adj,equ&gt;bare)" DEF="APART FROM ANYTHING ELSE" TRANS="обычный,простой">simple</W> 
@@ -2133,7 +2133,7 @@
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="restr.11" ID="1" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" " UNL="only(icl&gt;how,equ&gt;merely)" DEF="AND NOTHING MORE" TRANS="всего">Only</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="OCCASIONAL" LEMMA="OCCASIONAL" LINK="modif" PAFT=" ">occasional</W> 
-<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="TIP1" LEMMA="TIP" LINK="predic" PAFT=" " UNL="tip(icl&gt;guidance&gt;thing)" DEF="">tip</W> 
+<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="TIP1" LEMMA="TIP" LINK="predic" PAFT=" " UNL="tip(icl&gt;guidance&gt;thing)" DEF="AN INDICATION OF POTENTIAL OPPORTUNITY" TRANS="намек">tip</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="5" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;be&gt;be,equ&gt;prove,aoj&gt;thing)" DEF="">turned</W> 
 <W DOM="5" FEAT="ADV" HYPOT="phras-junct.10" ID="6" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="5" FEAT="PART" HYPOT="adverb.11" ID="7" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 

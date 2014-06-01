@@ -884,7 +884,7 @@
 <S DATE="30 11 2010 10:52:52" ID="54" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_48\\br-l07.tgt;54" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" ID="1" KSNAME="I" LEMMA="I" LINK="fictit" PAFT=" ">I</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="2" KSNAME="CAN1" LEMMA="CAN" PAFT=" ">can</W> 
-<W DOM="2" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="LOOK1" LEMMA="LOOK" LINK="1-compl" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="">look</W> 
+<W DOM="2" FEAT="V MF" HYPOT="1-compl.17" ID="3" KSNAME="LOOK1" LEMMA="LOOK" LINK="1-compl" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться">look</W> 
 <W DOM="3" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="2" FEAT="S NOM SG" HYPOT="predic.08" ID="5" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="2" FEAT="ADV" ID="6" KSNAME="UP1" LEMMA="UP" LINK="fictit" PAFT=". ">up</W>. 
@@ -1084,7 +1084,7 @@
 <S DATE="30 11 2010 10:52:54" EXTRACOMM="Tagging contradicts ETAP parsing: WANT1 - WANT2" ID="69" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_48\\br-l07.tgt;69" STATUS="doubt">
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="WANT2" LEMMA="WANT" LINK="predic" PAFT=" " UNL="want(icl&gt;desire&gt;be,obj&gt;uw,aoj&gt;volitional_thing,pur&gt;thing)" DEF="FEEL OR HAVE A DESIRE FOR" TRANS="хотеть">Wants</W> 
 <W DOM="1" FEAT="PART" HYPOT="attrib.15" ID="2" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="3" KSNAME="LOOK1" LEMMA="LOOK" LINK="prepos" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="">look</W> 
+<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="3" KSNAME="LOOK1" LEMMA="LOOK" LINK="prepos" PAFT=" " UNL="look_up(icl&gt;research&gt;do,equ&gt;consult,agt&gt;volitional_thing,obj&gt;thing)" DEF="SEEK INFORMATION FROM" TRANS="справляться">look</W> 
 <W DOM="3" FEAT="ADV" HYPOT="phras-junct.10" ID="4" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.18" ID="5" KSNAME="SOMETHING" LEMMA="SOMETHING" LINK="1-compl" PAFT=" ">something</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 

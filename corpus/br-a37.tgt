@@ -1897,7 +1897,7 @@
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="4" KSNAME="UP2" LEMMA="UP" LINK="relat" PAFT=" " UNL="up(icl&gt;do,agt&gt;thing,obj&gt;thing)" DEF="RAISE" TRANS="поднимать">upped</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="1" FEAT="NID" HYPOT="predic.08" ID="6" KSNAME="FICT-LEX" LEMMA="ANTE" LINK="predic" PAFT=", ">ante</W>, 
-<W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="modif" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="9" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="compos.01" ID="8" KSNAME="CLOSURE" LEMMA="CLOSURE" LINK="compos" PAFT=" ">cloture</W> 
 <W DOM="6" FEAT="S SG" HYPOT="descr-appos.01" ID="9" KSNAME="POWER3" LEMMA="POWER" LINK="descr-appos" PAFT=" ">power</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 

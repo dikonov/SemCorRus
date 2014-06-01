@@ -247,7 +247,7 @@
 <W DOM="3" FEAT="S NOM SG" HYPOT="predic.01" ID="2" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="3" FEAT="PART" HYPOT="copulat.13" ID="4" KSNAME="TO2" LEMMA="TO" LINK="copulat" PAFT=" ">to</W> 
-<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="SKIRT2" LEMMA="SKIRT" LINK="prepos" PAFT=" " UNL="skirt(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="">skirt</W> 
+<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="SKIRT2" LEMMA="SKIRT" LINK="prepos" PAFT=" " UNL="skirt(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="AVOID OR TRY TO AVOID FULFILLING, ANSWERING, OR PERFORMING (DUTIES, QUESTIONS, OR ISSUES)" TRANS="уклоняться,увиливать">skirt</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.10" ID="6" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="5" FEAT="NID" HYPOT="1-compl.01" ID="7" KSNAME="FICT-LEX" LEMMA="GULLEY" LINK="1-compl" PAFT=". ">gulley</W>. 
 </S>

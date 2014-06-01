@@ -1463,7 +1463,7 @@
 <W DOM="6" FEAT="A" GRP="33,34" ID="34" KSNAME="LITTLE1" LEMMA="LITTLE" LINK="fictit" PAFT=" ">little</W> 
 <W DOM="6" FEAT="CONJ" ID="35" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="37" FEAT="A" HYPOT="determ.13" ID="36" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
-<W DOM="6" FEAT="S SG" ID="37" KSNAME="BREATH" LEMMA="BREATH" LINK="fictit" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="вдох">breath</W> 
+<W DOM="6" FEAT="S SG" ID="37" KSNAME="BREATH" LEMMA="BREATH" LINK="fictit" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="дыхание,вдох">breath</W> 
 <W DOM="20" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="38" KSNAME="COME" LEMMA="COME" LINK="relat" PAFT=" ">came</W> 
 <W DOM="38" FEAT="ADV" HYPOT="adverb.01" ID="39" KSNAME="HARD2" LEMMA="HARD" LINK="adverb" PAFT=" " UNL="hard(icl&gt;how,com&gt;hard)" DEF="SLOWLY AND WITH DIFFICULTY" TRANS="тяжело">hard</W> 
 <W DOM="38" FEAT="PR" HYPOT="2-compl.02" ID="40" KSNAME="THROUGH1" LEMMA="THROUGH" LINK="2-compl" PAFT=" ">through</W> 

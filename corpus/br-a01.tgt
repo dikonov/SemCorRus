@@ -258,7 +258,7 @@
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="V ING" HYPOT="copulat.16" ID="9" KSNAME="LACK2" LEMMA="LACK" LINK="copulat" PAFT=" ">lacking</W> 
 <W DOM="9" EXTRAFEAT="IN-QUOT" FEAT="PR" HYPOT="2-compl.02" ID="10" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="EXPERIENCED" LEMMA="EXPERIENCED" LINK="modif" PAFT=" " UNL="experienced(icl&gt;adj,ant&gt;inexperienced)" DEF="HAVING EXPERIENCE" TRANS="опытный">experienced</W> 
-<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="CLERICAL2" LEMMA="CLERICAL" LINK="modif" PAFT=" " UNL="clerical(icl&gt;adj,com&gt;clerk)" DEF="">clerical</W> 
+<W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="CLERICAL2" LEMMA="CLERICAL" LINK="modif" PAFT=" " UNL="clerical(icl&gt;adj,com&gt;office)" DEF="APPROPRIATE FOR OR ENGAGED IN OFFICE WORK" TRANS="канцелярский">clerical</W> 
 <W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="PERSONNEL" LEMMA="PERSONNEL" LINK="prepos" PAFT=" " UNL="personnel(icl&gt;organization&gt;thing,equ&gt;force)" DEF="GROUP OF PEOPLE WILLING TO OBEY ORDERS" TRANS="персонал">personnel</W> 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="attrib.18" ID="14" KSNAME="AS1" LEMMA="AS" LINK="attrib" PAFT=" ">as</W> 
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -632,7 +632,7 @@
 <S DATE="29 11 2010 19:46:09" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="24" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a01.tgt;24" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="NUM" HYPOT="quantit.10" ID="1" KSNAME="FOUR1" LEMMA="FOUR" LINK="quantit" PAFT=" ">Four</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="ADDITIONAL" LEMMA="ADDITIONAL" LINK="modif" PAFT=" ">additional</W> 
-<W DOM="4" FEAT="S PL" ID="3" KSNAME="DEPUTY" LEMMA="DEPUTY" LINK="fictit" PAFT=" " UNL="deputy(icl&gt;assistant&gt;thing)" DEF="">deputies</W> 
+<W DOM="4" FEAT="S PL" ID="3" KSNAME="DEPUTY" LEMMA="DEPUTY" LINK="fictit" PAFT=" " UNL="deputy(icl&gt;assistant&gt;thing)" DEF="AN ASSISTANT WITH POWER TO ACT WHEN HIS SUPERIOR IS ABSENT" TRANS="заместитель">deputies</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">be</W> 
 <W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="EMPLOY" LEMMA="EMPLOY" LINK="pass-anal" PAFT=" " UNL="employ(icl&gt;do,equ&gt;hire,agt&gt;volitional_thing,obj&gt;person,man&gt;thing)" DEF="HIRE FOR WORK" TRANS="нанимать">employed</W> 
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="6" KSNAME="AT" LEMMA="AT" LINK="2-compl" PAFT=" ">at</W> 
@@ -676,7 +676,7 @@
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="1-compl.01" ID="15" KSNAME="ESTABLISHMENT" LEMMA="ESTABLISHMENT" LINK="1-compl" PAFT=" " UNL="establishment(icl&gt;beginning&gt;thing,equ&gt;constitution)" DEF="THE ACT OF FORMING SOMETHING" TRANS="создание">establishment</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="1-compl.07" ID="16" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="determ.10" ID="17" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="modif.01" ID="18" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный">fair</W> 
+<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="modif.01" ID="18" KSNAME="FAIR1" LEMMA="FAIR" LINK="modif" PAFT=" " UNL="fair(icl&gt;adj,equ&gt;impartial,ant&gt;partial)" DEF="SHOWING LACK OF FAVORITISM" TRANS="беспристрастный,справедливый">fair</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="coordin.10" ID="19" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" HYPOT="coord-conj.10" ID="20" KSNAME="EQUITABLE" LEMMA="EQUITABLE" LINK="coord-conj" PAFT="&quot; " UNL="equitable(icl&gt;adj,ant&gt;inequitable)" DEF="IMPLYING JUSTICE DICTATED BY REASON, CONSCIENCE, AND A NATURAL SENSE OF WHAT IS FAIR TO ALL" TRANS="справедливый">equitable</W>" 
 <W DOM="22" FEAT="S SG" HYPOT="compos.01" ID="21" KSNAME="PENSION" LEMMA="PENSION" LINK="compos" PAFT=" " UNL="pension(icl&gt;regular_payment&gt;thing)" DEF="A REGULAR PAYMENT TO A PERSON THAT IS INTENDED TO ALLOW THEM TO SUBSIST WITHOUT WORKING" TRANS="пенсия">pension</W> 
@@ -1018,7 +1018,7 @@
 <W DOM="32" FEAT="V MF" HYPOT="analyt.13" ID="33" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">be</W> 
 <W DOM="36" FEAT="ART" HYPOT="determ.11" ID="34" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="36" FEAT="V PP" HYPOT="modif.01" ID="35" KSNAME="FEATURE1" LEMMA="FEATURE" LINK="modif" PAFT=" ">featured</W> 
-<W DOM="33" FEAT="S SG" HYPOT="copulat.10" ID="36" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="copulat" PAFT=". " UNL="speaker(icl&gt;articulator&gt;thing)" DEF="">speaker</W>. 
+<W DOM="33" FEAT="S SG" HYPOT="copulat.10" ID="36" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="copulat" PAFT=". " UNL="speaker(icl&gt;articulator&gt;person)" DEF="">speaker</W>. 
 </S>
 <S DATE="29 11 2010 19:46:14" ID="44" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_1\\br-a01.tgt;44" STATUS="doubt">
 <W DOM="8" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">In</W> 
@@ -1457,7 +1457,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DEPARTMENT" LEMMA="DEPARTMENT" LINK="predic" PAFT=" " UNL="department(icl&gt;division&gt;thing)" DEF="A SPECIALIZED DIVISION OF A LARGE ORGANIZATION" TRANS="отдел,департамент">department</W> 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="APPARENTLY" LEMMA="APPARENTLY" LINK="adverb" PAFT=" " UNL="apparently(icl&gt;how,com&gt;apparent)" DEF="FROM APPEARANCES ALONE" TRANS="по-видимому,вероятно">apparently</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intends</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="4" KSNAME="INTEND1" LEMMA="INTEND" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intends</W> 
 <W DOM="4" FEAT="PART" HYPOT="1-compl.15" ID="5" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="6" KSNAME="MAKE1" LEMMA="MAKE" LINK="prepos" PAFT=" ">make</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1725,7 +1725,7 @@
 <W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="3,4" HYPOT="compos.01" ID="4" KSNAME="COUNTY" LEMMA="COUNTY" LINK="compos" PAFT=" ">County</W> 
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="LEGISLATOR" LEMMA="LEGISLATOR" LINK="predic" PAFT=" " UNL="legislator(icl&gt;lawgiver&gt;thing)" DEF="SOMEONE WHO MAKES OR ENACTS LAWS" TRANS="законодатель">legislator</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="6" KSNAME="WILL1" LEMMA="WILL" MSNAME="WILL1" PAFT=" ">will</W> 
-<W DOM="6" FEAT="V MF" HYPOT="analyt.13" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="6" FEAT="V MF" HYPOT="analyt.13" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="6" FEAT="ART" ID="8" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" GRP="9,10" ID="9" KSNAME="GEORGIA2" LEMMA="GEORGIA" LINK="fictit" PAFT=" ">Georgia</W> 
 <W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="9,10" HYPOT="compos.01" ID="10" KSNAME="HOUSE1" LEMMA="HOUSE" LINK="compos" PAFT=" ">House</W> 
@@ -1752,7 +1752,7 @@
 <W DOM="1" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="FICT-ORG" LEMMA="COMMERCE" LINK="prepos" PAFT=" ">Commerce</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="6" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
-<W DOM="6" FEAT="V ING" HYPOT="analyt.11" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="6" FEAT="V ING" HYPOT="analyt.11" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="FICT-ORG" LEMMA="HOUSE" LINK="1-compl" PAFT=" ">House</W> 
 <W DOM="9" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -1774,7 +1774,7 @@
 <W DOM="6" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" ID="26" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">be</W> 
 <W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="pass-anal.10" ID="27" KSNAME="RECEIVE" LEMMA="RECEIVE" LINK="pass-anal" PAFT=" " UNL="receive(icl&gt;acquire&gt;do,src&gt;thing,obj&gt;thing)" DEF="GET SOMETHING GIVEN TO YOU" TRANS="получать,принимать">received</W> 
 <W DOM="27" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="coordin.10" ID="28" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="28" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="coord-conj.10" ID="29" KSNAME="EXPEND" LEMMA="EXPEND" LINK="coord-conj" PAFT="&quot; " UNL="expend(icl&gt;pay&gt;do,equ&gt;spend,agt&gt;person,obj&gt;thing,val&gt;thing)" DEF="">expended</W>" 
+<W DOM="28" EXTRAFEAT="IN-QUOT" FEAT="V PP" HYPOT="coord-conj.10" ID="29" KSNAME="EXPEND" LEMMA="EXPEND" LINK="coord-conj" PAFT="&quot; " UNL="expend(icl&gt;pay&gt;do,equ&gt;spend,agt&gt;person,obj&gt;thing,val&gt;thing)" DEF="PAY OUT" TRANS="тратить">expended</W>" 
 <W DOM="6" FEAT="CONJ" ID="30" KSNAME="AS1" LEMMA="AS" LINK="fictit" PAFT=" ">as</W> 
 <W DOM="32" FEAT="S SG" HYPOT="compos.01" ID="31" KSNAME="STATE3" LEMMA="STATE" LINK="compos" PAFT=" " UNL="state(icl&gt;country&gt;place,equ&gt;nation)" DEF="A POLITICALLY ORGANIZED BODY OF PEOPLE UNDER A SINGLE GOVERNMENT" TRANS="государство,страна">state</W> 
 <W DOM="6" FEAT="S PL" ID="32" KSNAME="FUND1" LEMMA="FUND" LINK="fictit" PAFT=". ">funds</W>. 
@@ -1822,7 +1822,7 @@
 <W DOM="8" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="7" KSNAME="GEORGIA2" LEMMA="GEORGIA" LINK="posses" PAFT=" " UNL="georgia(iof&gt;american_state&gt;thing)" DEF="A STATE IN SOUTHEASTERN UNITED STATES" TRANS="Джорджия">Georgia's</W> 
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="CONGRESSMAN" LEMMA="CONGRESSMAN" LINK="prepos" PAFT=" " UNL="congressman(icl&gt;legislator&gt;thing)" DEF="A MEMBER OF THE UNITED STATES HOUSE OF REPRESENTATIVES" TRANS="конгрессмен">congressmen</W> 
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="SPECIFICALLY" LEMMA="SPECIFICALLY" LINK="adverb" PAFT=" " UNL="specifically(icl&gt;how,ant&gt;generally,com&gt;specific)" DEF="IN DISTINCTION FROM OTHERS" TRANS="особенно">specifically</W> 
-<W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="10" KSNAME="ASK1" LEMMA="ASK" LINK="subord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="10" KSNAME="ASK1" LEMMA="ASK" LINK="subord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="10" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="11" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="10" FEAT="PART" HYPOT="2-compl.12" ID="12" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="OFFER1" LEMMA="OFFER" LINK="prepos" PAFT=" " UNL="offer(icl&gt;do,equ&gt;proffer,agt&gt;thing,obj&gt;uw,ben&gt;thing)" DEF="PRESENT FOR ACCEPTANCE OR REJECTION" TRANS="предлагать">offer</W> 

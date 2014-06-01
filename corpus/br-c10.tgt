@@ -561,7 +561,7 @@
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="CONJ" ID="14" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="determ.13" ID="15" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="S SG" ID="16" KSNAME="ORB1" LEMMA="ORB" LINK="fictit" PAFT=" ">orb</W> 
-<W DOM="6" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" ID="17" KSNAME="REVOLVE" LEMMA="REVOLVE" LINK="fictit" PAFT=" " UNL="revolve(icl&gt;turn&gt;occur,obj&gt;concrete_thing)" DEF="">revolved</W> 
+<W DOM="6" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" ID="17" KSNAME="REVOLVE" LEMMA="REVOLVE" LINK="fictit" PAFT=" " UNL="revolve(icl&gt;turn&gt;occur,obj&gt;concrete_thing)" DEF="TURN ON OR AROUND AN AXIS OR A CENTER" TRANS="вертеться">revolved</W> 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="CONJ" HYPOT="adverb.10" ID="18" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="S NOM SG" HYPOT="predic.01" ID="19" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="18" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="20" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
@@ -627,7 +627,7 @@
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="6" FEAT="S POSS SG" HYPOT="posses.01" ID="5" KSNAME="FRM-PROP" LEMMA="MIJBIL'S" LINK="posses" PAFT=" ">Mijbil's</W> 
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="DEATH" LEMMA="DEATH" LINK="prepos" PAFT=" ">death</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="7" KSNAME="LEND" LEMMA="LEND" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="">lend</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="7" KSNAME="LEND" LEMMA="LEND" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="BESTOW A QUALITY ON" TRANS="придавать">lend</W> 
 <W DOM="7" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="DEPTH" LEMMA="DEPTH" LINK="1-compl" PAFT=" ">depth</W> 
 <W DOM="8" FEAT="PR" HYPOT="attrib.01" ID="9" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -934,7 +934,7 @@
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="PUBLIC1" LEMMA="PUBLIC" LINK="modif" PAFT=" ">public</W> 
 <W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="APPROVAL" LEMMA="APPROVAL" LINK="1-compl" PAFT=", ">approval</W>, 
 <W DOM="14" FEAT="S NOM PL" HYPOT="predic.01" ID="13" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
-<W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.14" ID="14" KSNAME="DELIGHT2" LEMMA="DELIGHT" LINK="1-compl" PAFT=" " UNL="delight(icl&gt;do,agt&gt;thing)" DEF="">delight</W> 
+<W DOM="23" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.14" ID="14" KSNAME="DELIGHT2" LEMMA="DELIGHT" LINK="1-compl" PAFT=" " UNL="delight(icl&gt;do,agt&gt;thing)" DEF="TAKE DELIGHT IN" TRANS="наслаждаться">delight</W> 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="FULL1" LEMMA="FULL" LINK="modif" PAFT=" ">full</W> 
 <W DOM="15" FEAT="S PL" HYPOT="prepos.01" ID="17" KSNAME="HOUSE1" LEMMA="HOUSE" LINK="prepos" PAFT=", ">houses</W>, 
@@ -1209,7 +1209,7 @@
 <W DOM="32" FEAT="S SG" HYPOT="predic.01" ID="31" KSNAME="FRM-PROP" LEMMA="MOLIERE" LINK="predic" PAFT=" ">Moliere</W> 
 <W DOM="30" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="comp-conj.10" ID="32" KSNAME="MAY1" LEMMA="MAY" LINK="comp-conj" PAFT=" ">may</W> 
 <W DOM="32" FEAT="V MF" HYPOT="1-compl.17" ID="33" KSNAME="HAVE" LEMMA="HAVE" LINK="1-compl" PAFT=" ">have</W> 
-<W DOM="33" FEAT="V PP" HYPOT="analyt.12" ID="34" KSNAME="INTEND1" LEMMA="INTEND" LINK="analyt" PAFT=". " UNL="intend(icl&gt;convey&gt;do,equ&gt;mean,agt&gt;thing,obj&gt;thing)" DEF="">intended</W>. 
+<W DOM="33" FEAT="V PP" HYPOT="analyt.12" ID="34" KSNAME="INTEND1" LEMMA="INTEND" LINK="analyt" PAFT=". " UNL="intend(icl&gt;convey&gt;do,equ&gt;mean,agt&gt;person,obj&gt;uw,met&gt;thing)" DEF="TO WANT SOMETHING TO HAVE A PARTICULAR MEANING" TRANS="подразумевать">intended</W>. 
 </S>
 <S DATE="29 11 2010 20:23:03" ID="46" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_37\\br-c10.tgt;46" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="APPARENTLY" LEMMA="APPARENTLY" LINK="parenth" PAFT=", ">Apparently</W>, 

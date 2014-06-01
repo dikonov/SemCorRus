@@ -230,7 +230,7 @@
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="23" KSNAME="HAVE" LEMMA="HAVE" LINK="fictit" PAFT=" ">has</W> 
 <W DOM="23" FEAT="V PP" HYPOT="analyt.12" ID="24" KSNAME="ASSUME" LEMMA="ASSUME" LINK="analyt" PAFT=" " UNL="assume(icl&gt;acquire&gt;occur,cob&gt;property,obj&gt;thing)" DEF="TAKE ON A CERTAIN ATTRIBUTE" TRANS="принимать">assumed</W> 
 <W DOM="27" FEAT="A" HYPOT="determ.13" ID="25" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
-<W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="modif" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="">measurable</W> 
+<W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="MEASURABLE" LEMMA="MEASURABLE" LINK="modif" PAFT=" " UNL="measurable(icl&gt;adj,ant&gt;immeasurable)" DEF="CAPABLE OF BEING MEASURED" TRANS="измеримый">measurable</W> 
 <W DOM="24" FEAT="S PL" HYPOT="1-compl.01" ID="27" KSNAME="PROPERTY" LEMMA="PROPERTY" LINK="1-compl" PAFT=" " UNL="property(icl&gt;abstract_thing,equ&gt;characteristics,obj&gt;uw,aoj&gt;thing)" DEF="A QUALITY THAT SOMETHING OR SOMEONE HAS" TRANS="свойство">properties</W> 
 <W DOM="27" FEAT="PR" HYPOT="1-compl.07" ID="28" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="30" FEAT="ART" HYPOT="determ.10" ID="29" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -867,7 +867,7 @@
 </S>
 <S DATE="29 11 2010 20:28:58" EXTRACOMM="Tagging contradicts ETAP parsing: PEOPLE2 - PEOPLE1,PEOPLE2,PEOPLE3" ID="32" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g20.tgt;32" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DWELLER" LEMMA="DWELLER" LINK="predic" PAFT=" " UNL="dweller(icl&gt;person&gt;thing,equ&gt;inhabitant)" DEF="">dweller</W> 
+<W DOM="5" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="DWELLER" LEMMA="DWELLER" LINK="predic" PAFT=" " UNL="dweller(icl&gt;person,equ&gt;inhabitant)" DEF="A PERSON WHO INHABITS A PARTICULAR PLACE" TRANS="обитатель">dweller</W> 
 <W DOM="2" FEAT="PR" HYPOT="attrib.01" ID="3" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="3" EXTRAFEAT="CAP-MIX" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="FICT-S" LEMMA="P" LINK="prepos" MSNAME="P" PAFT=" ">p</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
@@ -1269,7 +1269,7 @@
 <W DOM="6" FEAT="S SG" ID="9" KSNAME="CAPTAIN" LEMMA="CAPTAIN" LINK="fictit" PAFT=" (" UNL="captain(icl&gt;commissioned_military_officer&gt;thing)" DEF="AN OFFICER HOLDING A RANK BELOW A MAJOR BUT ABOVE A LIEUTENANT" TRANS="капитан">captain</W>( 
 <W DOM="9" EXTRAFEAT="IN-BR" FEAT="PR" GRP="10,11,12" HYPOT="juxtapos.01" ID="10" KSNAME="FOR1" LEMMA="FOR" LINK="juxtapos" PAFT=" ">for</W> 
 <W DOM="12" EXTRAFEAT="IN-BR" FEAT="A" GRP="10,11,12" HYPOT="modif.01" ID="11" KSNAME="SMALL" LEMMA="SMALL" LINK="modif" PAFT=" ">small</W> 
-<W DOM="10" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="10,11,12" HYPOT="prepos.01" ID="12" KSNAME="DISPLAY1" LEMMA="DISPLAY" LINK="prepos" PAFT=") " UNL="display(icl&gt;demonstration&gt;thing)" DEF="">display</W>) 
+<W DOM="10" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="10,11,12" HYPOT="prepos.01" ID="12" KSNAME="DISPLAY1" LEMMA="DISPLAY" LINK="prepos" PAFT=") " UNL="display(icl&gt;demonstration&gt;thing)" DEF="SOMETHING INTENDED TO COMMUNICATE A PARTICULAR IMPRESSION" TRANS="демонстрация,показ">display</W>) 
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="14" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="13" FEAT="S SG" HYPOT="coord-conj.10" ID="15" KSNAME="GENERAL2" LEMMA="GENERAL" LINK="coord-conj" PAFT=", " UNL="general(icl&gt;general_officer&gt;thing)" DEF="A GENERAL OFFICER OF THE HIGHEST RANK" TRANS="генерал">general</W>, 
@@ -1885,7 +1885,7 @@
 <W DOM="26" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" HYPOT="subord-conj.10" ID="31" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">are</W> 
 <W DOM="31" FEAT="ADV" HYPOT="restr.10" ID="32" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="34" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="31" FEAT="S PL" HYPOT="copulat.10" ID="34" KSNAME="BOTTLENECK" LEMMA="BOTTLENECK" LINK="copulat" MSNAME="BOTTLENECK" PAFT=". " UNL="bottleneck(icl&gt;narrowing&gt;thing,equ&gt;constriction)" DEF="">bottlenecks</W>. 
+<W DOM="31" FEAT="S PL" HYPOT="copulat.10" ID="34" KSNAME="BOTTLENECK" LEMMA="BOTTLENECK" LINK="copulat" MSNAME="BOTTLENECK" PAFT=". " UNL="bottleneck(icl&gt;narrowing&gt;thing,equ&gt;constriction)" DEF="A NARROWING THAT REDUCES THE FLOW THROUGH A CHANNEL" TRANS="бутылочное горлышко,бутылочное горло">bottlenecks</W>. 
 </S>
 <S DATE="29 11 2010 20:29:08" EXTRACOMM="Tagging contradicts ETAP parsing:  - GUERILLA" ID="72" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g20.tgt;72" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">Such</W> 
@@ -1971,7 +1971,7 @@
 <W DOM="39" FEAT="S SG" HYPOT="coord-conj.10" ID="40" KSNAME="MATHEMATICS" LEMMA="MATHEMATICS" LINK="coord-conj" PAFT=", " UNL="mathematics(icl&gt;science&gt;thing)" DEF="A SCIENCE (OR GROUP OF RELATED SCIENCES) DEALING WITH THE LOGIC OF QUANTITY AND SHAPE AND ARRANGEMENT" TRANS="математика">mathematics</W>, 
 <W DOM="40" FEAT="CONJ" HYPOT="coordin.10" ID="41" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
 <W DOM="43" FEAT="ART" HYPOT="determ.11" ID="42" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="41" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="coord-conj.10" ID="43" KSNAME="FINN" LEMMA="FINN" LINK="coord-conj" PAFT=" " UNL="finn(icl&gt;european&gt;thing)" DEF="">Finns</W> 
+<W DOM="41" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="coord-conj.10" ID="43" KSNAME="FINN" LEMMA="FINN" LINK="coord-conj" PAFT=" " UNL="finn(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF FINLAND" TRANS="финн">Finns</W> 
 <W DOM="43" FEAT="PR" HYPOT="attrib.01" ID="44" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
 <W DOM="44" FEAT="S SG" HYPOT="prepos.01" ID="45" KSNAME="GEOCHEMISTRY" LEMMA="GEOCHEMISTRY" LINK="prepos" PAFT=". " UNL="geochemistry(icl&gt;chemistry&gt;thing)" DEF="THE CHEMISTRY OF THE EARTH'S CRUST" TRANS="геохимия">geochemistry</W>. 
 </S>
@@ -1996,7 +1996,7 @@
 <W DOM="2" FEAT="ART" ID="18" KSNAME="THE" LEMMA="THE" LINK="fictit" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="PR" ID="19" KSNAME="OVER1" LEMMA="OVER" LINK="fictit" PAFT=" ">over</W> 
 <W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
-<W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="prepos" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="">picture</W> 
+<W DOM="19" FEAT="S SG" HYPOT="prepos.01" ID="21" KSNAME="PICTURE1" LEMMA="PICTURE" LINK="prepos" PAFT=" " UNL="picture(icl&gt;situation&gt;thing)" DEF="A SITUATION TREATED AS AN OBSERVABLE OBJECT" TRANS="картина">picture</W> 
 <W DOM="17" FEAT="CONJ" HYPOT="coordin.13" ID="22" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="22" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="23" KSNAME="COMBINE1" LEMMA="COMBINE" LINK="coord-conj" PAFT=" " UNL="combine(icl&gt;add&gt;do,equ&gt;compound,cob&gt;thing,agt&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="TO PUT OR ADD TOGETHER SEVERAL INDEPENDENT PARTS" TRANS="объединять">combine</W> 
 <W DOM="26" FEAT="A" HYPOT="determ.13" ID="24" KSNAME="OUR" LEMMA="OUR" LINK="determ" PAFT=" ">our</W> 
@@ -2141,7 +2141,7 @@
 <W DOM="62" FEAT="PR" HYPOT="quasiagent.10" ID="63" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="66" FEAT="NUM" HYPOT="quantit.10" ID="64" KSNAME="SEVEN1" LEMMA="SEVEN" LINK="quantit" PAFT=" ">seven</W> 
 <W DOM="66" FEAT="S SG" HYPOT="compos.01" ID="65" KSNAME="FRM-PROP" LEMMA="ANDEAN" LINK="compos" PAFT=" ">Andean</W> 
-<W DOM="63" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="66" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="prepos" PAFT=". " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indians</W>. 
+<W DOM="63" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="66" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="prepos" PAFT=". " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indians</W>. 
 </S>
 <S DATE="29 11 2010 20:29:09" ID="80" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_19\\br-g20.tgt;80" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="SO2" LEMMA="SO" PAFT=" ">So</W> 

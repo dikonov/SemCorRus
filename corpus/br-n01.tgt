@@ -656,7 +656,7 @@
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="COUPLE1" LEMMA="COUPLE" LINK="prepos" PAFT=" ">couple</W> 
 <W DOM="10" FEAT="PART" HYPOT="attrib.15" ID="11" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="11" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
-<W DOM="12" FEAT="V ING" HYPOT="analyt.11" ID="13" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=". " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;thing)" DEF="">pretending</W>. 
+<W DOM="12" FEAT="V ING" HYPOT="analyt.11" ID="13" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=". " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;person,obj&gt;uw)" DEF="TO IMAGINE THAT SOMETHING IS TRUE WHEN PLAYING A GAME" TRANS="притворяться">pretending</W>. 
 </S>
 <S DATE="30 11 2010 10:54:30" ID="34" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n01.tgt;34" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -668,7 +668,7 @@
 </S>
 <S DATE="30 11 2010 10:54:30" ID="35" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n01.tgt;35" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=", &quot;" UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W>, 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ASK1" LEMMA="ASK" PAFT=", &quot;" UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W>, 
 "<W DOM="2" EXTRAFEAT="CAP CAPIT FIN IN-QUOT QFIN" FEAT="V PST" GRP="3,4,5,6,7" HYPOT="coordin.05" ID="3" KSNAME="CAN1" LEMMA="CAN" LINK="coordin" PAFT=" ">Could</W> 
 <W DOM="5" EXTRAFEAT="IN-QUOT" FEAT="S NOM PL" GRP="3,4,5,6,7" HYPOT="predic.01" ID="4" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="3,4,5,6,7" HYPOT="sent-coordin.01" ID="5" KSNAME="HAVE" LEMMA="HAVE" LINK="sent-coordin" PAFT=" " UNL="have(icl&gt;do,equ&gt;consume,agt&gt;person,obj&gt;food)" DEF="SERVE ONESELF TO SMTH OR CONSUME" TRANS="есть">have</W> 
@@ -2160,7 +2160,7 @@
 <W DOM="7" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="coord-conj.10" ID="8" KSNAME="THREAD1" LEMMA="THREAD" LINK="coord-conj" PAFT="&quot;? ">thread</W>"? 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="10" KSNAME="GIRL" LEMMA="GIRL" LINK="predic" PAFT=" ">girl</W> 
-<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT=". " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W>. 
+<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="11" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT=". " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W>. 
 </S>
 <S DATE="30 11 2010 10:54:42" ID="149" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n01.tgt;149" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="A" GRP="1,2,3,4,5,6,7" HYPOT="determ.13" ID="1" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" " PBEF="&quot;">My</W> 

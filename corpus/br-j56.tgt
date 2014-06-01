@@ -713,7 +713,7 @@
 <W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="8" KSNAME="GUST1" LEMMA="GUST" LINK="predic" PAFT=" " UNL="gust(icl&gt;wind&gt;thing)" DEF="A STRONG CURRENT OF AIR" TRANS="порыв">gusts</W> 
 <W DOM="8" FEAT="PR" HYPOT="quasiagent.10" ID="9" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="WIND1" LEMMA="WIND" LINK="prepos" PAFT=" " UNL="wind(icl&gt;weather&gt;thing)" DEF="AIR MOVING (SOMETIMES WITH CONSIDERABLE FORCE) FROM AN AREA OF HIGH PRESSURE TO AN AREA OF LOW PRESSURE" TRANS="ветер">wind</W> 
-<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="11" KSNAME="TOPPLE" LEMMA="TOPPLE" LINK="sent-coordin" PAFT=" " UNL="topple(icl&gt;descend&gt;occur,equ&gt;tumble,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">toppled</W> 
+<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="11" KSNAME="TOPPLE" LEMMA="TOPPLE" LINK="sent-coordin" PAFT=" " UNL="topple(icl&gt;descend&gt;occur,equ&gt;tumble,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="опрокидываться">toppled</W> 
 <W DOM="3" FEAT="S PL" ID="12" KSNAME="POLE1" LEMMA="POLE" LINK="fictit" PAFT=", " UNL="pole(icl&gt;rod&gt;thing)" DEF="A LONG (USUALLY ROUND) ROD OF WOOD OR METAL OR PLASTIC" TRANS="шест,жердь">poles</W>, 
 <W DOM="11" FEAT="V ING" HYPOT="adverb.03" ID="13" KSNAME="MAKE1" LEMMA="MAKE" LINK="adverb" PAFT=" ">making</W> 
 <W DOM="13" FEAT="S PL" HYPOT="1-compl.01" ID="14" KSNAME="COMMUNICATION" LEMMA="COMMUNICATION" LINK="1-compl" PAFT=" " UNL="communication(icl&gt;action,agt&gt;thing,ptn&gt;thing)" DEF="THE ACTIVITY OF COMMUNICATING" TRANS="общение">communications</W> 
@@ -1013,7 +1013,7 @@
 <W DOM="23" FEAT="S PL" HYPOT="1-compl.01" ID="28" KSNAME="TOURNAMENT" LEMMA="TOURNAMENT" LINK="1-compl" PAFT=". ">tournaments</W>. 
 </S>
 <S DATE="29 11 2010 20:28:32" ID="41" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j56.tgt;41" STATUS="doubt">
-<W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="NEW$YORKER" LEMMA="NEW YORKER" LINK="predic" PAFT=" " UNL="new_yorker(icl&gt;american&gt;thing)" DEF="">New Yorkers</W> 
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="1" KSNAME="NEW$YORKER" LEMMA="NEW YORKER" LINK="predic" PAFT=" " UNL="new_yorker(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF NEW YORK (ESPECIALLY OF NEW YORK CITY)" TRANS="нью-йоркец">New Yorkers</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
 <W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="KEEP" LEMMA="KEEP" LINK="pass-anal" PAFT=" ">kept</W> 
 <W DOM="1" FEAT="V PP" HYPOT="modif.02" ID="4" KSNAME="INFORM" LEMMA="INFORM" LINK="modif" PAFT=" ">informed</W> 
@@ -1182,7 +1182,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="7" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
 <W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="SHIFT2" LEMMA="SHIFT" LINK="analyt" PAFT=" " UNL="shift(icl&gt;move&gt;occur,plt&gt;uw,plf&gt;uw,obj&gt;thing)" DEF="MOVE ONESELF" TRANS="двигаться">shifted</W> 
 <W DOM="8" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
-<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="LOCATION" LEMMA="LOCATION" LINK="prepos" PAFT=" " UNL="location(icl&gt;determination&gt;thing,equ&gt;localization)" DEF="">location</W> 
+<W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="LOCATION" LEMMA="LOCATION" LINK="prepos" PAFT=" " UNL="location(icl&gt;determination&gt;thing,equ&gt;localization)" DEF="A DETERMINATION OF THE PLACE WHERE SOMETHING IS" TRANS="определение местонахождения">location</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="11" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S SG" GRP="13,14" HYPOT="compos.01" ID="13" KSNAME="RAILROAD" LEMMA="RAILROAD" LINK="compos" MSNAME="RAILROAD" PAFT=" ">railroad</W> 
@@ -2044,7 +2044,7 @@
 <W DOM="33" EXTRAFEAT="CAP CAPIT" FEAT="COM" GRP="30,31,32,33" HYPOT="compos.12" ID="32" KSNAME="CO1" LEMMA="CO" LINK="compos" MSNAME="CO1" PAFT=" ">Co</W> 
 <W DOM="34" FEAT="A" GRP="30,31,32,33" HYPOT="modif.01" ID="33" KSNAME="OPERATIVE" LEMMA="OPERATIVE" LINK="modif" PAFT=" ">operative</W> 
 <W DOM="28" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="30,31,32,33" HYPOT="prepos.01" ID="34" KSNAME="CREAMERY" LEMMA="CREAMERY" LINK="prepos" PAFT=", ">Creamery</W>, 
-<W DOM="18" FEAT="V ING" HYPOT="adverb.03" ID="35" KSNAME="INTEND1" LEMMA="INTEND" LINK="adverb" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intending</W> 
+<W DOM="18" FEAT="V ING" HYPOT="adverb.03" ID="35" KSNAME="INTEND1" LEMMA="INTEND" LINK="adverb" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intending</W> 
 <W DOM="35" FEAT="PART" HYPOT="1-compl.15" ID="36" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="36" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="37" KSNAME="USE2" LEMMA="USE" LINK="prepos" PAFT=" ">use</W> 
 <W DOM="40" FEAT="A" HYPOT="determ.13" ID="38" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 

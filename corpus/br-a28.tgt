@@ -245,7 +245,7 @@
 <W DOM="5" FEAT="NUM" HYPOT="quantit.10" ID="4" KSNAME="EIGHT1" LEMMA="EIGHT" LINK="quantit" PAFT=" ">eight</W> 
 <W DOM="2" FEAT="S PL" HYPOT="prepos.01" ID="5" KSNAME="COMPANY" LEMMA="COMPANY" LINK="prepos" PAFT=" ">companies</W> 
 <W DOM="7" FEAT="CONJ" ID="6" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="7" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turn</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="7" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turn</W> 
 <W DOM="7" FEAT="ADV" HYPOT="phras-junct.10" ID="8" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="FULL1" LEMMA="FULL" LINK="modif" PAFT=" ">full</W> 
 <W DOM="7" FEAT="S PL" HYPOT="1-compl.01" ID="10" KSNAME="LINE1" LEMMA="LINE" LINK="1-compl" PAFT=" ">lines</W> 

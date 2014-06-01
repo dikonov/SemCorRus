@@ -1136,7 +1136,7 @@
 <W DOM="12" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="14,15" HYPOT="prepos.01" ID="15" KSNAME="HOUSE1" LEMMA="HOUSE" LINK="prepos" PAFT=" ">House</W> 
 <W DOM="15" FEAT="ADV" HYPOT="attrib.14" ID="16" KSNAME="YESTERDAY1" LEMMA="YESTERDAY" LINK="attrib" PAFT=" ">yesterday</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="coordin.13" ID="17" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="18" KSNAME="CHARM2" LEMMA="CHARM" LINK="coord-conj" PAFT=" " UNL="charm(icl&gt;attract&gt;do,equ&gt;capture,agt&gt;volitional_thing,obj&gt;living_thing,met&gt;thing)" DEF="">charmed</W> 
+<W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="18" KSNAME="CHARM2" LEMMA="CHARM" LINK="coord-conj" PAFT=" " UNL="charm(icl&gt;attract&gt;do,equ&gt;capture,agt&gt;volitional_thing,obj&gt;living_thing,met&gt;thing)" DEF="ATTRACT" TRANS="очаровывать">charmed</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="20" KSNAME="STAFF1" LEMMA="STAFF" LINK="1-compl" PAFT=" ">staff</W> 
 <W DOM="18" FEAT="PR" HYPOT="2-compl.02" ID="21" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
@@ -1188,7 +1188,7 @@
 <W DOM="20" EXTRAFEAT="IN-QUOT" FEAT="A SUP" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="modif.01" ID="19" KSNAME="GREAT" LEMMA="GREAT" LINK="modif" PAFT=" ">greatest</W> 
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="S PL" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="prepos.01" ID="20" KSNAME="ARTIST" LEMMA="ARTIST" LINK="prepos" PAFT=" ">artists</W> 
 <W DOM="14" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PST" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="subord-conj.10" ID="21" KSNAME="WOULD" LEMMA="WOULD" LINK="subord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="analyt.13" ID="22" KSNAME="LEND" LEMMA="LEND" LINK="analyt" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="">lend</W> 
+<W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="V MF" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="analyt.13" ID="22" KSNAME="LEND" LEMMA="LEND" LINK="analyt" PAFT=" " UNL="lend(icl&gt;impart&gt;be,cob&gt;abstract_thing,obj&gt;thing,aoj&gt;thing)" DEF="BESTOW A QUALITY ON" TRANS="придавать">lend</W> 
 <W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="1-compl.01" ID="23" KSNAME="DISTINCTION" LEMMA="DISTINCTION" LINK="1-compl" PAFT=" ">distinction</W> 
 <W DOM="23" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="attrib.01" ID="24" KSNAME="TO1" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="ART" GRP="10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

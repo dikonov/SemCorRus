@@ -52,7 +52,7 @@
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="GABRIEL" LEMMA="GABRIEL" LINK="predic" PAFT=" ">Gabriel</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">was</W> 
 <W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">being</W> 
-<W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="5" FEAT="PART" HYPOT="2-compl.12" ID="6" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="7" KSNAME="DO1" LEMMA="DO" PAFT=" " UNL="do(icl&gt;do,equ&gt;perform,cob&gt;thing,agt&gt;volitional_thing,obj&gt;action)" DEF="CARRY OUT OR PERFORM SMTH" TRANS="делать,выполнять,заниматься">do</W> 
 <W DOM="7" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="NOW1" LEMMA="NOW" LINK="adverb" PAFT=", ">now</W>, 
@@ -677,7 +677,7 @@
 <W DOM="17" FEAT="S NOM PL" HYPOT="predic.01" ID="16" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.00" ID="17" KSNAME="WILL1" LEMMA="WILL" LINK="coord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="17" FEAT="ADV" HYPOT="restr.10" ID="18" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
-<W DOM="17" FEAT="V MF" HYPOT="analyt.13" ID="19" KSNAME="MISUSE2" LEMMA="MISUSE" LINK="analyt" MSNAME="MISUSE2" PAFT=" " UNL="misuse(icl&gt;use&gt;do,equ&gt;misapply,agt&gt;thing,obj&gt;thing)" DEF="">misuse</W> 
+<W DOM="17" FEAT="V MF" HYPOT="analyt.13" ID="19" KSNAME="MISUSE2" LEMMA="MISUSE" LINK="analyt" MSNAME="MISUSE2" PAFT=" " UNL="misuse(icl&gt;use&gt;do,equ&gt;misapply,agt&gt;thing,obj&gt;thing)" DEF="APPLY TO A WRONG THING OR PERSON" TRANS="злоупотреблять">misuse</W> 
 <W DOM="21" FEAT="ART" HYPOT="determ.11" ID="20" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="19" FEAT="S SG" HYPOT="1-compl.01" ID="21" KSNAME="POWER1" LEMMA="POWER" LINK="1-compl" PAFT=" ">power</W> 
 <W DOM="23" FEAT="S NOM PL" HYPOT="predic.01" ID="22" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
@@ -740,7 +740,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.03" ID="1" KSNAME="WHAT1" LEMMA="WHAT" LINK="1-compl" PAFT=" ">What</W> 
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="GABRIEL" LEMMA="GABRIEL" LINK="predic" PAFT=" ">Gabriel</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="predic.02" ID="3" KSNAME="BE" LEMMA="BE" LINK="predic" PAFT=" ">was</W> 
-<W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="4" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="5" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">was</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="copulat.a1" ID="6" KSNAME="THAT1" LEMMA="THAT" LINK="copulat" PAFT=" ">that</W> 
 <W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="MANKIND" LEMMA="MANKIND" LINK="predic" PAFT=" ">mankind</W> 
@@ -826,7 +826,7 @@
 <W DOM="4" FEAT="CONJ" HYPOT="1-compl.21" ID="5" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="GABRIEL" LEMMA="GABRIEL" LINK="predic" PAFT=" ">Gabriel</W> 
 <W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="7" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="7" FEAT="V ING" HYPOT="analyt.11" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="7" FEAT="V ING" HYPOT="analyt.11" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="8" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="9" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="8" FEAT="PART" HYPOT="2-compl.12" ID="10" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="10" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="RATIFY" LEMMA="RATIFY" LINK="prepos" PAFT=", " UNL="ratify(icl&gt;validate&gt;do,equ&gt;sign,agt&gt;thing,obj&gt;thing)" DEF="APPROVE AND EXPRESS ASSENT, RESPONSIBILITY, OR OBLIGATION" TRANS="ратифицировать">ratify</W>, 
@@ -1550,7 +1550,7 @@
 <W FEAT="A" ID="5" KSNAME="NO2" LEMMA="NO">no</W> 
 <W FEAT="S SG" ID="6" KSNAME="CHANCE1" LEMMA="CHANCE">chance</W> 
 <W ID="7">of</W> 
-<W FEAT="V" ID="8" KSNAME="SIGNAL2" LEMMA="SIGNAL" UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="" WN21="2:32:00::">signaling</W> 
+<W FEAT="V" ID="8" KSNAME="SIGNAL2" LEMMA="SIGNAL" UNL="signal(icl&gt;signalize&gt;do,agt&gt;person,obj&gt;thing,rec&gt;person)" DEF="" TRANS="сигналить,давать сигнал" WN21="2:32:00::">signaling</W> 
 <W FEAT="S" ID="9" KSNAME="THEY" LEMMA="THEY">them</W>- 
 <W ID="10">without</W> 
 <W FEAT="ART" ID="11" KSNAME="THE" LEMMA="THE">the</W> 
@@ -2188,7 +2188,7 @@
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="FULL1" LEMMA="FULL" LINK="modif" PAFT=" ">full</W> 
 <W DOM="12" FEAT="S SG" HYPOT="compos.01" ID="11" KSNAME="FUSION" LEMMA="FUSION" LINK="compos" PAFT=" ">fusion</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="POWER1" LEMMA="POWER" LINK="1-compl" PAFT=" ">power</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="13" KSNAME="WINK1" LEMMA="WINK" PAFT=" " UNL="wink(icl&gt;radiate&gt;occur,equ&gt;flash,obj&gt;thing)" DEF="">winked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="13" KSNAME="WINK1" LEMMA="WINK" PAFT=" " UNL="wink(icl&gt;radiate&gt;occur,equ&gt;flash,obj&gt;thing)" DEF="GLEAM OR GLOW INTERMITTENTLY" TRANS="мигать">winked</W> 
 <W DOM="13" FEAT="PR" HYPOT="adverb.02" ID="14" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">on</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="BOARD4" LEMMA="BOARD" LINK="prepos" PAFT=". ">board</W>. 
@@ -2250,7 +2250,7 @@
 <W DOM="10" FEAT="S PL" HYPOT="1-compl.01" ID="13" KSNAME="MINUTE1" LEMMA="MINUTE" LINK="1-compl" PAFT=" ">minutes</W> 
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="14" KSNAME="ANYHOW" LEMMA="ANYHOW" LINK="adverb" MSNAME="ANYHOW" PAFT=", ">anyhow</W>, 
 <W DOM="10" FEAT="PR" HYPOT="adverb.02" ID="15" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
-<W DOM="15" FEAT="V ING" HYPOT="prepos.01" ID="16" KSNAME="PLOT2" LEMMA="PLOT" LINK="prepos" PAFT=" " UNL="plot(icl&gt;map&gt;do,equ&gt;plat,agt&gt;thing,obj&gt;thing)" DEF="">plotting</W> 
+<W DOM="15" FEAT="V ING" HYPOT="prepos.01" ID="16" KSNAME="PLOT2" LEMMA="PLOT" LINK="prepos" PAFT=" " UNL="plot(icl&gt;map&gt;do,equ&gt;plat,agt&gt;thing,obj&gt;thing)" DEF="MAKE A PLAT OF" TRANS="планировать">plotting</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.10" ID="17" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" ID="18" KSNAME="INTERCEPT" LEMMA="INTERCEPT" LINK="fictit" PAFT=" ">intercept</W> 
 <W DOM="18" FEAT="S SG" HYPOT="1-compl.01" ID="19" KSNAME="ORBIT1" LEMMA="ORBIT" LINK="1-compl" PAFT=". ">orbit</W>. 

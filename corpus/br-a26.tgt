@@ -935,7 +935,7 @@
 <W FEAT="CONJ" ID="10" KSNAME="AS1" LEMMA="AS">as</W> 
 <W GRP="11,12" ID="11">Chip</W> 
 <W GRP="11,12" ID="12">o's</W>, 
-<W FEAT="V" ID="13" KSNAME="TURN2" LEMMA="TURN" REM="phrasverb" UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="" WN21="2:42:01::">turns</W> 
+<W FEAT="V" ID="13" KSNAME="TURN2" LEMMA="TURN" REM="phrasverb" UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться" WN21="2:42:01::">turns</W> 
 <W FEAT="ADV" ID="14" KSNAME="OUT1" LEMMA="OUT">out</W> 
 <W FEAT="PART" ID="15" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="16" KSNAME="SELL1" LEMMA="SELL" WN21="2:42:00::">sell</W> 
@@ -946,7 +946,7 @@
 <W FEAT="ART" ID="21" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="22" KSNAME="STOCK1" LEMMA="STOCK">stock</W> 
 <W FEAT="V" ID="23" KSNAME="MAY1" LEMMA="MAY">may</W> 
-<W FEAT="V" ID="24" KSNAME="TURN2" LEMMA="TURN" REM="phrasverb" UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="" WN21="2:42:01::">turn</W> 
+<W FEAT="V" ID="24" KSNAME="TURN2" LEMMA="TURN" REM="phrasverb" UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться" WN21="2:42:01::">turn</W> 
 <W FEAT="ADV" ID="25" KSNAME="OUT1" LEMMA="OUT">out</W> 
 <W FEAT="PART" ID="26" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="27" KSNAME="BE" LEMMA="BE" WN21="2:42:03::">be</W> 
@@ -1422,7 +1422,7 @@
 <W DOM="12" FEAT="S SG" HYPOT="compos.01" ID="11" KSNAME="UNIT" LEMMA="UNIT" LINK="compos" PAFT=" ">unit</W> 
 <W DOM="9" FEAT="S SG" HYPOT="coord-conj.10" ID="12" KSNAME="SYSTEM" LEMMA="SYSTEM" LINK="coord-conj" PAFT=", ">system</W>, 
 <W DOM="14" FEAT="S SG" HYPOT="predic.01" ID="13" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
-<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="14" KSNAME="TURN2" LEMMA="TURN" LINK="relat" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turns</W> 
+<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="14" KSNAME="TURN2" LEMMA="TURN" LINK="relat" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turns</W> 
 <W DOM="14" FEAT="ADV" HYPOT="phras-junct.10" ID="15" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="19" FEAT="A" HYPOT="modif.01" ID="17" KSNAME="COMPLETE1" LEMMA="COMPLETE" LINK="modif" PAFT=" ">complete</W> 

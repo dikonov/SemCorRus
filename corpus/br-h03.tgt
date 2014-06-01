@@ -165,7 +165,7 @@
 <W DOM="4" EXTRAFEAT="ALT CAP" FEAT="S SG" GRP="1,2" HYPOT="parenth.20" ID="1" KSNAME="MR" LEMMA="MR" LINK="parenth" PAFT=" ">Mr.</W> 
 <W DOM="1" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="1,2" HYPOT="appos.03" ID="2" KSNAME="SPEAKER1" LEMMA="SPEAKER" LINK="appos" PAFT=", ">Speaker</W>, 
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="3" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="4" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="4" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="UNANIMOUS" LEMMA="UNANIMOUS" LINK="modif" PAFT=" ">unanimous</W> 
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="CONSENT1" LEMMA="CONSENT" LINK="predic" PAFT=" ">consent</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="1-compl.21" ID="7" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
@@ -503,7 +503,7 @@
 <W DOM="16" FEAT="V MF" HYPOT="1-compl.17" ID="17" KSNAME="EXPRESS1" LEMMA="EXPRESS" LINK="1-compl" PAFT=" " UNL="express(icl&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">express</W> 
 <W DOM="17" FEAT="S SG" HYPOT="1-compl.01" ID="18" KSNAME="HIMSELF" LEMMA="HIMSELF" LINK="1-compl" PAFT=", ">himself</W>, 
 <W DOM="20" FEAT="S NOM SG" HYPOT="predic.01" ID="19" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="20" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="20" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="20" FEAT="PART" HYPOT="2-compl.12" ID="21" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="21" FEAT="V MF" GRP="22,23" HYPOT="prepos.16" ID="22" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
 <W DOM="22" FEAT="V PP" GRP="22,23" HYPOT="pass-anal.10" ID="23" KSNAME="REMEMBER" LEMMA="REMEMBER" LINK="pass-anal" PAFT=" ">remembered</W> 
@@ -668,7 +668,7 @@
 <W FEAT="V" ID="43" KSNAME="HAVE" LEMMA="HAVE">has</W> 
 <W FEAT="V" ID="44" KSNAME="LOVE2" LEMMA="LOVE" UNL="love(icl&gt;enjoy&gt;be,obj&gt;uw,aoj&gt;person)" DEF="TO GET PLEASURE FROM" TRANS="любить" WN21="2:37:00::">loved</W> 
 <W FEAT="CONJ" ID="45" KSNAME="AND" LEMMA="AND">and</W> 
-<W FEAT="V" ID="46" KSNAME="SERVE2" LEMMA="SERVE" UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:41:02::">served</W> 
+<W FEAT="V" ID="46" KSNAME="SERVE2" LEMMA="SERVE" UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать" WN21="2:41:02::">served</W> 
 <W GRP="47,48" ID="47">so</W> 
 <W GRP="47,48" ID="48">long</W>. 
 </S>
@@ -1872,7 +1872,7 @@
 <W FEAT="A" ID="21" KSNAME="SOCIAL1" LEMMA="SOCIAL">social</W> 
 <W ID="22">measures</W> 
 <W FEAT="S" ID="23" KSNAME="WHICH1" LEMMA="WHICH">which</W> 
-<W FEAT="V" ID="24" KSNAME="ADORN" LEMMA="ADORN" UNL="adorn(icl&gt;change&gt;do,equ&gt;decorate,cob&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="" WN21="2:36:00::">adorn</W> 
+<W FEAT="V" ID="24" KSNAME="ADORN" LEMMA="ADORN" UNL="adorn(icl&gt;change&gt;do,equ&gt;decorate,cob&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="MAKE MORE ATTRACTIVE BY ADDING ORNAMENT, COLOUR, ETC." TRANS="украшать" WN21="2:36:00::">adorn</W> 
 <W FEAT="A" ID="25" KSNAME="OUR" LEMMA="OUR">our</W> 
 <W DOM="27" FEAT="S" GRP="26,27" ID="26" KSNAME="STATUTE" LEMMA="STATUTE" LINK="compos">statute</W> 
 <W FEAT="S" GRP="26,27" ID="27" KSNAME="BOOK1" LEMMA="BOOK">books</W> 
@@ -1912,7 +1912,7 @@
 </S>
 <S DATE="30 11 2010 10:47:10" ID="63" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_45\\br-h03.tgt;63" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="2" KSNAME="PREFER1" LEMMA="PREFER" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">prefer</W> 
+<W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="2" KSNAME="PREFER1" LEMMA="PREFER" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">prefer</W> 
 <W DOM="2" FEAT="PART" HYPOT="1-compl.15" ID="3" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="3" FEAT="V MF" HYPOT="prepos.16" ID="4" KSNAME="SPEAK" LEMMA="SPEAK" LINK="prepos" PAFT=", ">speak</W>, 
 <W DOM="4" FEAT="ADV" HYPOT="parenth.16" ID="5" KSNAME="HOWEVER1" LEMMA="HOWEVER" LINK="parenth" PAFT=", ">however</W>, 

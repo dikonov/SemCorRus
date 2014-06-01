@@ -257,7 +257,7 @@
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="4" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="CONFLICT1" LEMMA="CONFLICT" LINK="1-compl" PAFT=" ">conflicts</W> 
 <W DOM="8" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="THAT3" LEMMA="THAT" LINK="predic" PAFT=" ">that</W> 
-<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="8" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="relat" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatened</W> 
+<W DOM="6" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="8" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="relat" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatened</W> 
 <W DOM="4" FEAT="PART" HYPOT="2-compl.12" ID="9" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="9" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="IGNITE" LEMMA="IGNITE" LINK="prepos" PAFT=" " UNL="ignite(icl&gt;change_state&gt;occur,equ&gt;erupt,obj&gt;thing)" DEF="">ignite</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -278,7 +278,7 @@
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="RECENT" LEMMA="RECENT" LINK="modif" PAFT=" ">recent</W> 
 <W DOM="5" FEAT="S SG" HYPOT="compos.01" ID="4" KSNAME="FRM-PROP" LEMMA="KATANGAN" LINK="compos" PAFT=" ">Katangan</W> 
 <W DOM="6" FEAT="S PL" HYPOT="compos.01" ID="5" KSNAME="OUTBREAK1" LEMMA="OUTBREAK" LINK="compos" PAFT=" ">outbreaks</W> 
-<W DOM="14" FEAT="NID" HYPOT="predic.01" ID="6" KSNAME="FICT-LEX" LEMMA="IMPERILED" LINK="predic" PAFT=" " UNL="imperil(icl&gt;exist&gt;be,equ&gt;endanger,obj&gt;thing,aoj&gt;thing)" DEF="">imperiled</W> 
+<W DOM="14" FEAT="NID" HYPOT="predic.01" ID="6" KSNAME="FICT-LEX" LEMMA="IMPERILED" LINK="predic" PAFT=" " UNL="imperil(icl&gt;exist&gt;be,equ&gt;endanger,obj&gt;thing,aoj&gt;thing)" DEF="POSE A THREAT TO" TRANS="подвергать опасности">imperiled</W> 
 <W DOM="14" FEAT="A" ID="7" KSNAME="THESE" LEMMA="THESE" LINK="fictit" PAFT=" ">these</W> 
 <W DOM="9" FEAT="S PL" HYPOT="compos.01" ID="8" KSNAME="SOLUTION2" LEMMA="SOLUTION" LINK="compos" PAFT=" ">solutions</W> 
 <W DOM="14" EXTRAFEAT="ALT CAP" FEAT="S SG" GRP="9,10" HYPOT="parenth.20" ID="9" KSNAME="MR" LEMMA="MR" LINK="parenth" PAFT=" ">Mr.</W> 
@@ -544,7 +544,7 @@
 </S>
 <S DATE="29 11 2010 20:04:34" ID="31" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_33\\br-b04.tgt;31" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ALLOT" LEMMA="ALLOT" PAFT=" " UNL="allot(icl&gt;give&gt;do,equ&gt;distribute,agt&gt;thing,obj&gt;thing)" DEF="">allotted</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="ALLOT" LEMMA="ALLOT" PAFT=" " UNL="allot(icl&gt;give&gt;do,equ&gt;distribute,agt&gt;thing,obj&gt;thing)" DEF="ADMINISTER OR BESTOW, AS IN SMALL PORTIONS" TRANS="распределять">allotted</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="DOLLAR-SIGN" LEMMA="DOLLAR-SIGN" LINK="1-compl" PAFT=" " UNL="dollar(icl&gt;monetary_unit&gt;thing)" DEF="THE BASIC MONETARY UNIT IN MANY COUNTRIES" TRANS="доллар">$</W> 
 <W DOM="3" FEAT="NUM" HYPOT="quantit.12" ID="4" KSNAME="NUM-THOUS" LEMMA="500000" LINK="quantit" PAFT=" ">500000</W> 
 <W DOM="6" FEAT="NUM" HYPOT="quantit.10" ID="5" KSNAME="THREE1" LEMMA="THREE" LINK="quantit" PAFT=" ">three</W> 
@@ -1256,7 +1256,7 @@
 <W DOM="7" FEAT="CONJ" HYPOT="copulat.13" ID="8" KSNAME="WHETHER" LEMMA="WHETHER" LINK="copulat" PAFT=" ">whether</W> 
 <W DOM="10" EXTRAFEAT="ALT CAP" FEAT="A" GRP="9,10" HYPOT="modif.01" ID="9" KSNAME="WEST2" LEMMA="WEST" LINK="modif" PAFT=" ">West</W> 
 <W DOM="11" EXTRAFEAT="CAP" FEAT="S SG" GRP="9,10" HYPOT="predic.01" ID="10" KSNAME="GERMANY" LEMMA="GERMANY" LINK="predic" PAFT=" ">Germany</W> 
-<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="11" KSNAME="VEER2" LEMMA="VEER" LINK="subord-conj" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veers</W> 
+<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="subord-conj.10" ID="11" KSNAME="VEER2" LEMMA="VEER" LINK="subord-conj" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veers</W> 
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="SLIGHTLY" LEMMA="SLIGHTLY" LINK="adverb" PAFT=" ">slightly</W> 
 <W DOM="11" FEAT="PR" HYPOT="adverb.02" ID="13" KSNAME="TOWARD" LEMMA="TOWARD" LINK="adverb" PAFT=" ">toward</W> 
 <W DOM="15" FEAT="ADV COMP" HYPOT="restr.15" ID="14" KSNAME="MORE" LEMMA="MORE" LINK="restr" PAFT=" ">more</W> 
@@ -1429,7 +1429,7 @@
 <W DOM="13" FEAT="V ING" GRP="14,15" HYPOT="analyt.11" ID="14" KSNAME="GO1" LEMMA="GO" LINK="analyt" PAFT=" ">going</W> 
 <W DOM="14" FEAT="PART" GRP="14,15" HYPOT="1-compl.32" ID="15" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="15" FEAT="V MF" HYPOT="prepos.16" ID="16" KSNAME="GET" LEMMA="GET" LINK="prepos" PAFT=" " UNL="get(icl&gt;occur,equ&gt;become,obj&gt;thing,gol&gt;uw)" DEF="ENTER OR ASSUME A CERTAIN STATE OR CONDITION" TRANS="становиться">get</W> 
-<W DOM="16" FEAT="V PP" HYPOT="1-compl.11" ID="17" KSNAME="GULL3" LEMMA="GULL" LINK="1-compl" PAFT=". " UNL="gull(icl&gt;deceive&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">gulled</W>. 
+<W DOM="16" FEAT="V PP" HYPOT="1-compl.11" ID="17" KSNAME="GULL3" LEMMA="GULL" LINK="1-compl" PAFT=". " UNL="gull(icl&gt;deceive&gt;do,agt&gt;thing,obj&gt;thing)" DEF="FOOL OR HOAX" TRANS="одурачивать">gulled</W>. 
 </S>
 <S DATE="29 11 2010 20:04:46" ID="75" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_33\\br-b04.tgt;75" STATUS="doubt">
 <W DOM="14" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="ACCORDING$TO" LEMMA="ACCORDING TO" LINK="adverb" PAFT=" ">According to</W> 

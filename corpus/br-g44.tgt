@@ -818,7 +818,7 @@
 <W DOM="3" FEAT="PR" GRP="3,4,5" HYPOT="attrib.01" ID="4" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="4" FEAT="S SG" GRP="3,4,5" HYPOT="prepos.01" ID="5" KSNAME="ART1" LEMMA="ART" LINK="prepos" PAFT=" ">art</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="6" KSNAME="INVOLVE" LEMMA="INVOLVE" PAFT=" " UNL="involve(icl&gt;do,equ&gt;entail,agt&gt;thing,obj&gt;thing)" DEF="HAVE AS A NECESSARY FEATURE OR CONSEQUENCE" TRANS="включать">involves</W> 
-<W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="7" FEAT="PR" HYPOT="1-compl.07" ID="8" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="IDEA" LEMMA="IDEA" LINK="prepos" PAFT=" " UNL="idea(icl&gt;content&gt;thing)" DEF="THE CONTENT OF COGNITION" TRANS="идея">ideas</W> 
@@ -909,7 +909,7 @@
 <W DOM="6" FEAT="ADV" HYPOT="restr.11" ID="5" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">also</W> 
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="INCLUDE" LEMMA="INCLUDE" LINK="analyt" PAFT=" " UNL="include(icl&gt;contain&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="HAVE AS A PART, BE MADE UP OUT OF" TRANS="включать">include</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;thing)" DEF="">recognition</W> 
+<W DOM="6" FEAT="S SG" HYPOT="1-compl.01" ID="8" KSNAME="RECOGNITION1" LEMMA="RECOGNITION" LINK="1-compl" PAFT=" " UNL="recognition(icl&gt;acceptance&gt;abstract_thing,obj&gt;thng,aoj&gt;volitional_thing)" DEF="THE STATE OR QUALITY OF BEING PRAISED OR ACKNOWLEDGED" TRANS="признание">recognition</W> 
 <W DOM="4" FEAT="CONJ" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="S SG" HYPOT="predic.01" ID="11" KSNAME="WORK1" LEMMA="WORK" LINK="predic" PAFT=" ">work</W> 

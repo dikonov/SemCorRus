@@ -438,7 +438,7 @@
 <W DOM="32" FEAT="CONJ" HYPOT="adverb.10" ID="29" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="31" FEAT="ART" HYPOT="determ.11" ID="30" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="29" EXTRAFEAT="CAP CAPIT" FEAT="S PL" HYPOT="absol-conj.10" ID="31" KSNAME="BIRD" LEMMA="BIRD" LINK="absol-conj" PAFT=" ">Birds</W> 
-<W DOM="25" FEAT="V PP" HYPOT="modif.01" ID="32" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="modif" PAFT=" " UNL="threaten(icl&gt;bode&gt;do,agt&gt;thing)" DEF="">threatened</W> 
+<W DOM="25" FEAT="V PP" HYPOT="modif.01" ID="32" KSNAME="THREATEN2" LEMMA="THREATEN" LINK="modif" PAFT=" " UNL="threaten(icl&gt;bode&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="TO BE A MENACING INDICATION OF SOMETHING" TRANS="грозить,предвещать">threatened</W> 
 <W DOM="21" FEAT="CONJ" HYPOT="coordin.10" ID="33" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
 <W DOM="33" FEAT="V PP" HYPOT="coord-conj.10" ID="34" KSNAME="FAIL1" LEMMA="FAIL" LINK="coord-conj" PAFT=" ">failed</W> 
 <W DOM="_root" FEAT="PART" ID="35" KSNAME="TO2" LEMMA="TO" PAFT=" ">to</W> 
@@ -659,7 +659,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="BOUNCE2" LEMMA="BOUNCE" PAFT=" " UNL="bounce(icl&gt;hit&gt;do,cob&gt;concrete_thing,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">bounced</W> 
 <W DOM="3" FEAT="ART" ID="4" KSNAME="AN1" LEMMA="AN" LINK="fictit" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="HARD1" LEMMA="HARD" LINK="modif" PAFT=" ">hard</W> 
-<W DOM="3" FEAT="S SG" ID="6" KSNAME="SHOT1" LEMMA="SHOT" LINK="fictit" PAFT=" " UNL="shot(icl&gt;maneuver&gt;thing,equ&gt;stroke)" DEF="">shot</W> 
+<W DOM="3" FEAT="S SG" ID="6" KSNAME="SHOT1" LEMMA="SHOT" LINK="fictit" PAFT=" " UNL="shot(icl&gt;maneuver&gt;action,equ&gt;stroke,fld&gt;sport)" DEF="(SPORTS) THE ACT OF SWINGING OR STRIKING AT A BALL WITH A CLUB OR RACKET OR BAT OR CUE OR HAND" TRANS="удар">shot</W> 
 <W DOM="6" FEAT="PR" HYPOT="attrib.01" ID="7" KSNAME="OFF2" LEMMA="OFF" LINK="attrib" PAFT=" ">off</W> 
 <W DOM="9" FEAT="S POSS SG" HYPOT="posses.01" ID="8" KSNAME="FRM-PROP" LEMMA="KUNKEL'S" LINK="posses" PAFT=" ">Kunkel's</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="GLOVE" LEMMA="GLOVE" LINK="prepos" PAFT=" " UNL="glove(icl&gt;baseball_equipment&gt;thing,equ&gt;baseball_glove)" DEF="THE HANDWEAR USED BY FIELDERS IN PLAYING BASEBALL" TRANS="перчатка">glove</W> 
@@ -764,7 +764,7 @@
 <W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="FACE2" LEMMA="FACE" LINK="prepos" PAFT=" " UNL="face(icl&gt;do,equ&gt;confront,agt&gt;volitional_thing,cag&gt;thing,met&gt;thing)" DEF="OPPOSE, AS IN HOSTILITY OR A COMPETITION" TRANS="встречать">face</W> 
 <W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="FRM-PROP" LEMMA="HYDE" LINK="1-compl" PAFT=" ">Hyde</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="12" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="13" KSNAME="ROMP2" LEMMA="ROMP" LINK="coord-conj" PAFT=" " UNL="romp(icl&gt;play&gt;do,equ&gt;frolic,agt&gt;living_thing,ptn&gt;thing)" DEF="">romped</W> 
+<W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="13" KSNAME="ROMP2" LEMMA="ROMP" LINK="coord-conj" PAFT=" " UNL="romp(icl&gt;play&gt;do,equ&gt;frolic,agt&gt;living_thing,ptn&gt;thing)" DEF="PLAY BOISTEROUSLY" TRANS="резвиться">romped</W> 
 <W DOM="13" FEAT="ADV" HYPOT="adverb.01" ID="14" KSNAME="AROUND2" LEMMA="AROUND" LINK="adverb" PAFT=" " UNL="around(icl&gt;how,equ&gt;about)" DEF="TO OR AMONG MANY DIFFERENT PLACES OR IN NO PARTICULAR DIRECTION" TRANS="всюду,кругом">around</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="adverb.10" ID="15" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="17" FEAT="S SG" HYPOT="predic.01" ID="16" KSNAME="FRM-PROP" LEMMA="SIEBERN" LINK="predic" PAFT=" ">Siebern</W> 
@@ -1657,7 +1657,7 @@
 <W DOM="11" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="9,10" HYPOT="predic.01" ID="9" KSNAME="GARDEN" LEMMA="GARDEN" LINK="predic" PAFT=" ">Garden</W> 
 <W DOM="9" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="9,10" HYPOT="appos.03" ID="10" KSNAME="FRESH" LEMMA="FRESH" LINK="appos" PAFT=" ">Fresh</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="11" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="11" FEAT="V PP" HYPOT="pass-anal.10" ID="12" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="11" FEAT="PR" HYPOT="adverb.02" ID="13" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="TOP2" LEMMA="TOP" LINK="modif" PAFT=" ">top</W> 
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="SPEED1" LEMMA="SPEED" LINK="prepos" PAFT=" " UNL="speed(icl&gt;rate&gt;thing)" DEF="DISTANCE TRAVELLED PER UNIT TIME" TRANS="скорость">speed</W> 
@@ -1850,7 +1850,7 @@
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="SWIFT1" LEMMA="SWIFT" LINK="modif" PAFT=" " UNL="swift(icl&gt;adj,equ&gt;fleet)" DEF="MOVING VERY FAST" TRANS="стремительный">swift</W> 
 <W DOM="6" FEAT="V ING" HYPOT="modif.01" ID="5" KSNAME="STRIDE2" LEMMA="STRIDE" LINK="modif" PAFT=" ">striding</W> 
-<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="descr-appos.01" ID="6" KSNAME="JAMAICAN2" LEMMA="JAMAICAN" LINK="descr-appos" PAFT=", " UNL="jamaican(icl&gt;west_indian&gt;thing)" DEF="">Jamaican</W>, 
+<W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="descr-appos.01" ID="6" KSNAME="JAMAICAN2" LEMMA="JAMAICAN" LINK="descr-appos" PAFT=", " UNL="jamaican(icl&gt;west_indian&gt;person)" DEF="A NATIVE OR INHABITANT OF JAMAICA" TRANS="ямаец">Jamaican</W>, 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="SET1" LEMMA="SET" PAFT=" " UNL="set(icl&gt;establish&gt;do,agt&gt;thing,obj&gt;thing)" DEF="ESTABLISH AS THE HIGHEST LEVEL OR BEST PERFORMANCE" TRANS="устанавливать">set</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" ID="9" KSNAME="MEET" LEMMA="MEET" LINK="fictit" PAFT=" ">meet</W> 
@@ -1912,7 +1912,7 @@
 <W DOM="35" FEAT="NUM" GRP="26,27" HYPOT="quantit.10" ID="29" KSNAME="NUM-LARGE" LEMMA="10" LINK="quantit" PAFT=" ">10</W> 
 <W DOM="31" FEAT="S SG" GRP="28,29" HYPOT="compos.01" ID="30" KSNAME="QUARTER1" LEMMA="QUARTER" LINK="compos" PAFT=" ">quarter</W> 
 <W DOM="32" FEAT="S SG" GRP="28,29" HYPOT="compos.01" ID="31" KSNAME="MILE" LEMMA="MILE" LINK="compos" PAFT=" ">mile</W> 
-<W DOM="2" FEAT="S SG" ID="32" KSNAME="KING1" LEMMA="KING" LINK="fictit" PAFT=" " UNL="king(icl&gt;rival&gt;thing)" DEF="">king</W> 
+<W DOM="2" FEAT="S SG" ID="32" KSNAME="KING1" LEMMA="KING" LINK="fictit" PAFT=" " UNL="king(icl&gt;rival&gt;volitional_thing)" DEF="">king</W> 
 <W DOM="2" FEAT="PR" ID="33" KSNAME="BY1" LEMMA="BY" LINK="fictit" PAFT=" ">by</W> 
 <W DOM="2" FEAT="NUM" ID="34" KSNAME="NUM-LARGE" LEMMA="5" LINK="fictit" PAFT=" ">5</W> 
 <W DOM="25" FEAT="S PL" HYPOT="distanc.10" ID="35" KSNAME="YARD1" LEMMA="YARD" LINK="distanc" PAFT=". " UNL="yard(icl&gt;linear_unit&gt;thing)" DEF="A UNIT OF LENGTH EQUAL TO 3 FEET" TRANS="ярд">yards</W>. 

@@ -84,7 +84,7 @@
 <W DOM="23" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="20" FEAT="S SG" HYPOT="2-compl.10" ID="23" KSNAME="FELLOW" LEMMA="FELLOW" LINK="2-compl" PAFT=" ">fellow</W> 
 <W DOM="20" FEAT="S PL" HYPOT="1-compl.01" ID="24" KSNAME="PRO1" LEMMA="PRO" LINK="1-compl" MSNAME="PRO1" PAFT=" ">pros</W> 
-<W DOM="24" FEAT="V ING" HYPOT="modif.01" ID="25" KSNAME="GAPE1" LEMMA="GAPE" LINK="modif" PAFT=" " UNL="gape(icl&gt;look&gt;do,equ&gt;goggle,agt&gt;person,obj&gt;concrete_thing)" DEF="">gaping</W> 
+<W DOM="24" FEAT="V ING" HYPOT="modif.01" ID="25" KSNAME="GAPE1" LEMMA="GAPE" LINK="modif" PAFT=" " UNL="gape(icl&gt;look&gt;do,equ&gt;goggle,agt&gt;person,obj&gt;concrete_thing)" DEF="LOOK WITH AMAZEMENT" TRANS="таращиться">gaping</W> 
 <W DOM="25" FEAT="PR" HYPOT="adverb.02" ID="26" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="26" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="DISBELIEF" LEMMA="DISBELIEF" LINK="prepos" PAFT=". ">disbelief</W>. 
 </S>
@@ -982,7 +982,7 @@
 <W DOM="11" FEAT="CONJ" HYPOT="sent-coordin.10" ID="15" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=", ">and</W>, 
 <W DOM="21" FEAT="CONJ" HYPOT="adverb.10" ID="16" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="18" FEAT="S NOM SG" HYPOT="predic.01" ID="17" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
-<W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="18" KSNAME="TURN2" LEMMA="TURN" LINK="subord-conj" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="">turned</W> 
+<W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="18" KSNAME="TURN2" LEMMA="TURN" LINK="subord-conj" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться">turned</W> 
 <W DOM="18" FEAT="ADV" HYPOT="phras-junct.10" ID="19" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=", ">out</W>, 
 <W DOM="21" FEAT="A" HYPOT="predic.01" ID="20" KSNAME="NEITHER1" LEMMA="NEITHER" LINK="predic" MSNAME="NEITHER1" PAFT=" ">neither</W> 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="21" KSNAME="WIN" LEMMA="WIN" LINK="coord-conj" PAFT=" " UNL="win(icl&gt;prize&gt;do,agt&gt;volitional_thing,obj&gt;thing,cag&gt;volitional_thing,scn&gt;thing)" DEF="" TRANS="выигрывать">won</W> 

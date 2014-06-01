@@ -1265,7 +1265,7 @@
 <S DATE="30 11 2010 10:42:54" ID="71" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_43\\br-f09.tgt;71" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" ">were</W> 
-<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="ASK1" LEMMA="ASK" LINK="pass-anal" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="PART" HYPOT="2-compl.12" ID="4" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="LEAVE1" LEMMA="LEAVE" LINK="prepos" PAFT=" ">leave</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1640,9 +1640,9 @@
 <W DOM="6" EXTRAFEAT="CAP" FEAT="CONJ" HYPOT="adverb.10" ID="1" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">When</W> 
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="FRM-PROP" LEMMA="FAROUK" LINK="predic" PAFT=" ">Farouk</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="3" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
-<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="pass-anal" PAFT=", " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="">overthrown</W>, 
+<W DOM="3" FEAT="V PP" HYPOT="pass-anal.10" ID="4" KSNAME="OVERTHROW1" LEMMA="OVERTHROW" LINK="pass-anal" PAFT=", " UNL="overthrow(icl&gt;depose&gt;do,src&gt;thing,agt&gt;volitional_thing,obj&gt;volitional_thing)" DEF="CAUSE THE DOWNFALL OF" TRANS="свергать">overthrown</W>, 
 <W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="POLICE1" LEMMA="POLICE" LINK="predic" PAFT=" ">police</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="PICK1" LEMMA="PICK" PAFT=" " UNL="pick_up(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="">picked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="PICK1" LEMMA="PICK" PAFT=" " UNL="pick_up(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="TAKE INTO CUSTODY" TRANS="забирать">picked</W> 
 <W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="UP1" LEMMA="UP" LINK="adverb" PAFT=" ">up</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="10" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="PERSONAL" LEMMA="PERSONAL" LINK="modif" PAFT=" ">personal</W> 
@@ -1888,7 +1888,7 @@
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" FEAT="S SG" GRP="12,13" HYPOT="compos.01" ID="12" KSNAME="VICE1" LEMMA="VICE" LINK="compos" PAFT=" ">vice</W> 
 <W DOM="14" FEAT="S SG" GRP="12,13" HYPOT="predic.01" ID="13" KSNAME="SQUAD" LEMMA="SQUAD" LINK="predic" PAFT=" ">squad</W> 
-<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="14" KSNAME="PICK1" LEMMA="PICK" LINK="relat" PAFT=" " UNL="pick_up(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="">picked</W> 
+<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="14" KSNAME="PICK1" LEMMA="PICK" LINK="relat" PAFT=" " UNL="pick_up(icl&gt;seize&gt;do,equ&gt;collar,agt&gt;thing,obj&gt;thing)" DEF="TAKE INTO CUSTODY" TRANS="забирать">picked</W> 
 <W DOM="14" FEAT="ADV" HYPOT="phras-junct.10" ID="15" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="14" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="16" KSNAME="SHE" LEMMA="SHE" LINK="1-compl" PAFT=" ">her</W> 
 <W DOM="14" FEAT="ADV" HYPOT="adverb.01" ID="17" KSNAME="UP1" LEMMA="UP" LINK="adverb" PAFT=" ">up</W> 

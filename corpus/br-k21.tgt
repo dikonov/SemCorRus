@@ -29,7 +29,7 @@
 <W DOM="17" FEAT="ART" HYPOT="determ.11" ID="16" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="DIRECTION" LEMMA="DIRECTION" LINK="prepos" PAFT=" " UNL="direction(icl&gt;inclination&gt;thing)" DEF="A GENERAL COURSE ALONG WHICH SOMETHING HAS A TENDENCY TO DEVELOP" TRANS="направление">direction</W> 
 <W DOM="17" FEAT="PR" HYPOT="quasiagent.10" ID="18" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="18" FEAT="V ING" HYPOT="prepos.01" ID="19" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;delive&gt;do,agt&gt;thing,obj&gt;paper,ben&gt;person)" DEF="">serving</W> 
+<W DOM="18" FEAT="V ING" HYPOT="prepos.01" ID="19" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;delive&gt;do,agt&gt;thing,obj&gt;paper,rec&gt;person)" DEF="DELIVER A WARRANT OR SUMMONS TO SOMEONE" TRANS="вручать">serving</W> 
 <W DOM="21" FEAT="A" HYPOT="determ.00" ID="20" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="22" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="OWN1" LEMMA="OWN" LINK="modif" PAFT=" ">own</W> 
 <W DOM="19" FEAT="S SG" HYPOT="1-compl.01" ID="22" KSNAME="ORDER3" LEMMA="ORDER" LINK="1-compl" PAFT=", " UNL="order(icl&gt;association&gt;thing,equ&gt;club)" DEF="A FORMAL ASSOCIATION OF PEOPLE WITH SIMILAR INTERESTS" TRANS="братство">order</W>, 
@@ -508,7 +508,7 @@
 <W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="NAME1" LEMMA="NAME" LINK="1-compl" PAFT=" ">name</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="coordin.10" ID="6" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="6" FEAT="V PP" HYPOT="coord-conj.10" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="6" FEAT="V PP" HYPOT="coord-conj.10" ID="7" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="3" FEAT="PR" HYPOT="3-compl.01" ID="8" KSNAME="FOR1" LEMMA="FOR" LINK="3-compl" PAFT=" ">for</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="SAFE1" LEMMA="SAFE" LINK="modif" PAFT=" ">safe</W> 
@@ -707,11 +707,11 @@
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="S POSS SG" HYPOT="posses.01" ID="9" KSNAME="MAN1" LEMMA="MAN" LINK="posses" PAFT=" ">man's</W> 
 <W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="10" KSNAME="KNEE1" LEMMA="KNEE" LINK="predic" PAFT=" " UNL="knee(icl&gt;hinge_joint&gt;thing)" DEF="HINGE JOINT IN THE HUMAN LEG CONNECTING THE TIBIA AND FIBULA WITH THE FEMUR AND PROTECTED IN FRONT BY THE PATELLA" TRANS="колено">knees</W> 
-<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.31" ID="11" KSNAME="BUCKLE2" LEMMA="BUCKLE" LINK="1-compl" PAFT=" " UNL="buckle(icl&gt;collapse&gt;occur,obj&gt;thing)" DEF="">buckle</W> 
+<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="1-compl.31" ID="11" KSNAME="BUCKLE2" LEMMA="BUCKLE" LINK="1-compl" PAFT=" " UNL="buckle(icl&gt;collapse&gt;occur,obj&gt;thing)" DEF="FOLD OR COLLAPSE" TRANS="сгибаться">buckle</W> 
 <W DOM="2" FEAT="CONJ" ID="12" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="14" FEAT="A" HYPOT="determ.13" ID="13" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="2" FEAT="S SG" ID="14" KSNAME="BODY1" LEMMA="BODY" LINK="fictit" PAFT=" ">body</W> 
-<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" ID="15" KSNAME="SAG2" LEMMA="SAG" LINK="fictit" PAFT=". " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="">sag</W>. 
+<W DOM="2" EXTRAFEAT="QFIN" FEAT="V MF" ID="15" KSNAME="SAG2" LEMMA="SAG" LINK="fictit" PAFT=". " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="DROOP, SINK, OR SETTLE FROM OR AS IF FROM PRESSURE OR LOSS OF TAUTNESS" TRANS="провисать,свисать,отвисать,обвисать">sag</W>. 
 </S>
 <S DATE="29 11 2010 20:00:35" ID="53" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k21.tgt;53" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="PART" HYPOT="parenth.16" ID="1" KSNAME="YES" LEMMA="YES" LINK="parenth" PAFT=", ">Yes</W>, 
@@ -987,7 +987,7 @@
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="3" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CORNER1" LEMMA="CORNER" LINK="prepos" PAFT=" ">corner</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="BELCH1" LEMMA="BELCH" PAFT=" " UNL="belch(icl&gt;emit&gt;occur,equ&gt;burp,obj&gt;thing)" DEF="EXPEL GAS FROM THE STOMACH" TRANS="отрыгивать">belched</W> 
-<W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="LOUDLY" LEMMA="LOUDLY" LINK="adverb" PAFT=", " UNL="loudly(icl&gt;how,ant&gt;softly,com&gt;loud)" DEF="">loudly</W>, 
+<W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="LOUDLY" LEMMA="LOUDLY" LINK="adverb" PAFT=", " UNL="loudly(icl&gt;how,ant&gt;softly,com&gt;loud)" DEF="WITH RELATIVELY HIGH VOLUME" TRANS="громко">loudly</W>, 
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="9" KSNAME="DEEP1" LEMMA="DEEP" LINK="modif" PAFT=", ">deep</W>, 
 <W DOM="9" FEAT="A" HYPOT="coordin.02" ID="10" KSNAME="LIQUID1" LEMMA="LIQUID" LINK="coordin" PAFT=" " UNL="liquid(icl&gt;adj,ant&gt;gaseous)" DEF="EXISTING AS OR HAVING CHARACTERISTICS OF A LIQUID" TRANS="жидкий">liquid</W> 
@@ -1197,7 +1197,7 @@
 </S>
 <S DATE="29 11 2010 20:00:37" ID="92" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k21.tgt;92" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM PL" HYPOT="predic.01" ID="1" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">They</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CREEP2" LEMMA="CREEP" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">crept</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="CREEP2" LEMMA="CREEP" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">crept</W> 
 <W DOM="2" FEAT="ADV" HYPOT="2-compl.04" ID="3" KSNAME="DOWN1" LEMMA="DOWN" LINK="2-compl" PAFT=" ">down</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="MUDDY1" LEMMA="MUDDY" LINK="modif" PAFT=" ">muddy</W> 
@@ -1321,7 +1321,7 @@
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="5" FEAT="S SG" HYPOT="1-compl.01" ID="10" KSNAME="HEAD1" LEMMA="HEAD" LINK="1-compl" PAFT=" " UNL="head(icl&gt;external_body_part&gt;thing)" DEF="THE UPPER PART OF THE HUMAN BODY OR THE FRONT PART OF THE BODY IN ANIMALS" TRANS="голова">head</W> 
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="11" KSNAME="TILT2" LEMMA="TILT" LINK="sent-coordin" PAFT=" " UNL="tilt(icl&gt;bend&gt;do,equ&gt;lean,agt&gt;living_thing)" DEF="">tilted</W> 
-<W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="ODDLY" LEMMA="ODDLY" LINK="adverb" PAFT=". " UNL="oddly(icl&gt;how,equ&gt;curiously,com&gt;odd)" DEF="">oddly</W>. 
+<W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="ODDLY" LEMMA="ODDLY" LINK="adverb" PAFT=". " UNL="oddly(icl&gt;how,equ&gt;curiously,com&gt;odd)" DEF="IN A MANNER DIFFERING FROM THE USUAL OR EXPECTED" TRANS="странно">oddly</W>. 
 </S>
 <S DATE="29 11 2010 20:00:38" ID="101" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k21.tgt;101" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="determ.13" ID="1" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">His</W> 
@@ -1407,7 +1407,7 @@
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="PASSIVE1" LEMMA="PASSIVE" LINK="modif" PAFT=" " UNL="passive(icl&gt;adj)" DEF="">passive</W> 
 <W DOM="3" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="GUARD1" LEMMA="GUARD" LINK="1-compl" PAFT="; " UNL="guard(icl&gt;defender&gt;thing)" DEF="">guards</W>; 
 <W DOM="9" FEAT="S NOM SG" HYPOT="predic.01" ID="8" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
-<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="9" KSNAME="CREEP2" LEMMA="CREEP" LINK="sent-coordin" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">crept</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="9" KSNAME="CREEP2" LEMMA="CREEP" LINK="sent-coordin" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">crept</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.02" ID="10" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="13" FEAT="NID" HYPOT="compos.01" ID="12" KSNAME="FICT-LEX" LEMMA="INCERTAIN" LINK="compos" PAFT=" ">incertain</W> 
@@ -1462,7 +1462,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="WATSON" LEMMA="WATSON" LINK="predic" PAFT=" ">Watson</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="WATCH1" LEMMA="WATCH" PAFT=" ">watched</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="5" FEAT="V ING" HYPOT="modif.01" ID="4" KSNAME="CREEP2" LEMMA="CREEP" LINK="modif" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">creeping</W> 
+<W DOM="5" FEAT="V ING" HYPOT="modif.01" ID="4" KSNAME="CREEP2" LEMMA="CREEP" LINK="modif" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">creeping</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="FIGURE1" LEMMA="FIGURE" LINK="1-compl" PAFT=". " UNL="figure(icl&gt;body&gt;thing,equ&gt;human_body)" DEF="ALTERNATIVE NAMES FOR THE BODY OF A HUMAN BEING" TRANS="фигура">figure</W>. 
 </S>
 <S DATE="29 11 2010 20:00:38" ID="111" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_12\\br-k21.tgt;111" STATUS="doubt">
@@ -1559,7 +1559,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="MAN1" LEMMA="MAN" LINK="predic" PAFT=" ">man</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="3" KSNAME="BEGIN" LEMMA="BEGIN" PAFT=" " UNL="begin(icl&gt;do,cob&gt;uw,tmf&gt;uw,obj&gt;uw)" DEF="START DOING" TRANS="начинать">began</W> 
 <W DOM="3" FEAT="PART" HYPOT="1-compl.15" ID="4" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="CREEP2" LEMMA="CREEP" LINK="prepos" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="">creep</W> 
+<W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="CREEP2" LEMMA="CREEP" LINK="prepos" PAFT=" " UNL="creep(icl&gt;travel&gt;occur,equ&gt;crawl,plt&gt;thing,plf&gt;thing,obj&gt;thing)" DEF="MOVE SLOWLY" TRANS="ползать,проползать">creep</W> 
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="6" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="WRONG1" LEMMA="WRONG" LINK="modif" PAFT=" " UNL="wrong(icl&gt;adj,equ&gt;incorrect,ant&gt;right)" DEF="NOT CORRECT" TRANS="неверный">wrong</W> 
@@ -1924,7 +1924,7 @@
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="WEAKLY1" LEMMA="WEAKLY" LINK="adverb" PAFT=", " UNL="weakly(icl&gt;how,ant&gt;strongly,com&gt;weak)" DEF="IN A WEAK OR FEEBLE MANNER OR TO A MINOR DEGREE" TRANS="слабо">weakly</W>, 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="FETID" LEMMA="FETID" LINK="modif" PAFT=" " UNL="fetid(icl&gt;adj)" DEF="OFFENSIVELY MALODOROUS" TRANS="вонючий">fetid</W> 
-<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="BREATH" LEMMA="BREATH" LINK="1-compl" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="вдох">breath</W> 
+<W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="7" KSNAME="BREATH" LEMMA="BREATH" LINK="1-compl" PAFT=" " UNL="breath(icl&gt;air&gt;thing)" DEF="THE AIR THAT IS INHALED AND EXHALED IN RESPIRATION" TRANS="дыхание,вдох">breath</W> 
 <W DOM="7" FEAT="V ING" HYPOT="modif.01" ID="8" KSNAME="BEAT1" LEMMA="BEAT" LINK="modif" PAFT=" ">beating</W> 
 <W DOM="8" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="SOFTLY" LEMMA="SOFTLY" LINK="adverb" PAFT=" " UNL="softly(icl&gt;how,equ&gt;lightly)" DEF="">softly</W> 
 <W DOM="8" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="AGAINST" LEMMA="AGAINST" LINK="1-compl" PAFT=" ">against</W> 
@@ -2300,7 +2300,7 @@
 <W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="SLAUGHTER2" LEMMA="SLAUGHTER" LINK="pass-anal" PAFT=" " UNL="slaughter(icl&gt;kill&gt;do,equ&gt;massacre,agt&gt;thing,obj&gt;thing)" DEF="">slaughtered</W> 
 <W DOM="5" FEAT="A" GRP="4,5" HYPOT="determ.13" ID="4" KSNAME="EVERY" LEMMA="EVERY" LINK="determ" PAFT=" ">every</W> 
 <W DOM="6" FEAT="S SG" GRP="4,5" HYPOT="adverb.04" ID="5" KSNAME="DAY" LEMMA="DAY" LINK="adverb" PAFT=", ">day</W>, 
-<W DOM="3" FEAT="V PP" HYPOT="coordin.02" ID="6" KSNAME="TUMBLE2" LEMMA="TUMBLE" LINK="coordin" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="">tumbled</W> 
+<W DOM="3" FEAT="V PP" HYPOT="coordin.02" ID="6" KSNAME="TUMBLE2" LEMMA="TUMBLE" LINK="coordin" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="валиться">tumbled</W> 
 <W DOM="6" FEAT="PR" HYPOT="3-compl.01" ID="7" KSNAME="INTO" LEMMA="INTO" LINK="3-compl" PAFT=" ">into</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="ETERNITY" LEMMA="ETERNITY" LINK="prepos" PAFT=" " UNL="eternity(icl&gt;time&gt;thing)" DEF="TIME WITHOUT END" TRANS="вечность">eternity</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="attrib.13" ID="9" KSNAME="LIKE4" LEMMA="LIKE" LINK="attrib" PAFT=" ">like</W> 

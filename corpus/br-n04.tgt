@@ -806,7 +806,7 @@
 <W DOM="8" EXTRAFEAT="ALT IN-QUOT" FEAT="ADV" HYPOT="restr.11" ID="7" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
 <W DOM="6" EXTRAFEAT="IN-QUOT" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="EASY" LEMMA="EASY" LINK="modif" PAFT=" ">easy</W> 
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="PART" HYPOT="objinfin.10" ID="9" KSNAME="TO2" LEMMA="TO" LINK="objinfin" PAFT=" ">to</W> 
-<W DOM="9" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="DODGE1" LEMMA="DODGE" LINK="prepos" PAFT=" " UNL="dodge(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="">dodge</W> 
+<W DOM="9" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="DODGE1" LEMMA="DODGE" LINK="prepos" PAFT=" " UNL="dodge(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="AVOID OR TRY TO AVOID FULFILLING, ANSWERING, OR PERFORMING (DUTIES, QUESTIONS, OR ISSUES)" TRANS="уклоняться">dodge</W> 
 <W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="2-compl.04" ID="11" KSNAME="OUT1" LEMMA="OUT" LINK="2-compl" PAFT=" ">out</W> 
 <W DOM="10" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="12,13" HYPOT="adverb.02" ID="12" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="12,13" HYPOT="determ.13" ID="13" KSNAME="THIS1" LEMMA="THIS" LINK="determ" PAFT=" ">this</W> 
@@ -1091,7 +1091,7 @@
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="VALLEY" LEMMA="VALLEY" LINK="prepos" PAFT=", ">valley</W>, 
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">then</W> 
-<W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="10" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="modif" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="">spread</W> 
+<W DOM="8" FEAT="V PP" HYPOT="modif.01" ID="10" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="modif" PAFT=" " UNL="spread_out(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing,plc&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">spread</W> 
 <W DOM="10" FEAT="ADV" HYPOT="phras-junct.10" ID="11" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="10" FEAT="PR" HYPOT="2-compl.02" ID="12" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="13" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -1192,7 +1192,7 @@
 <W DOM="7" FEAT="S OBJ SG" HYPOT="prepos.01" ID="8" KSNAME="I" LEMMA="I" LINK="prepos" PAFT=" ">me</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="11" FEAT="V PP" HYPOT="predic.01" ID="10" KSNAME="GRIND1" LEMMA="GRIND" LINK="predic" PAFT=" ">ground</W> 
-<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="11" KSNAME="QUIVER1" LEMMA="QUIVER" LINK="sent-coordin" PAFT=" " UNL="quiver(icl&gt;tremble&gt;occur,obj&gt;concrete_thing)" DEF="">quivered</W> 
+<W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="sent-coordin.01" ID="11" KSNAME="QUIVER1" LEMMA="QUIVER" LINK="sent-coordin" PAFT=" " UNL="quiver(icl&gt;tremble&gt;occur,obj&gt;concrete_thing)" DEF="SHAKE WITH FAST, TREMULOUS MOVEMENTS" TRANS="дрожать">quivered</W> 
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="SLIGHTLY" LEMMA="SLIGHTLY" LINK="adverb" PAFT=". ">slightly</W>. 
 </S>
 <S DATE="30 11 2010 10:55:17" EXTRACOMM="Some punctuation marks are not confirmed" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_49\\br-n04.tgt;83" STATUS="doubt">
@@ -2241,7 +2241,7 @@
 <W ID="24">only</W> 
 <W FEAT="PART" ID="25" KSNAME="TO2" LEMMA="TO">to</W> 
 <W FEAT="V" ID="26" KSNAME="BE" LEMMA="BE">be</W> 
-<W FEAT="V" ID="27" KSNAME="TUMBLE2" LEMMA="TUMBLE" UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="" WN21="2:38:00::">tumbled</W> 
+<W FEAT="V" ID="27" KSNAME="TUMBLE2" LEMMA="TUMBLE" UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="валиться" WN21="2:38:00::">tumbled</W> 
 <W FEAT="V" ID="28" KSNAME="BLEED" LEMMA="BLEED" UNL="bleed(icl&gt;discharge&gt;be,equ&gt;shed,aoj&gt;living_thing)" DEF="EMIT BLOOD" TRANS="кровоточить" WN21="2:29:00::">bleeding</W> 
 <W ID="29">from</W> 
 <W FEAT="A" ID="30" KSNAME="THEIR" LEMMA="THEIR">their</W> 
@@ -2278,7 +2278,7 @@
 <W DOM="17" FEAT="PR" HYPOT="attrib.02" ID="18" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
 <W DOM="20" FEAT="A" HYPOT="modif.01" ID="19" KSNAME="GHASTLY1" LEMMA="GHASTLY" LINK="modif" PAFT=" ">ghastly</W> 
 <W DOM="3" FEAT="S PL" ID="20" KSNAME="WOUND1" LEMMA="WOUND" LINK="fictit" PAFT=", ">wounds</W>, 
-<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="21" KSNAME="SLIP3" LEMMA="SLIP" LINK="fictit" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;glide&gt;occur,equ&gt;skid,obj&gt;thing)" DEF="">slipped</W> 
+<W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="21" KSNAME="SLIP3" LEMMA="SLIP" LINK="fictit" MSNAME="SLIP3" PAFT=" " UNL="slip(icl&gt;slide&gt;thing,equ&gt;skid)" DEF="AN UNEXPECTED SLIDE" TRANS="скольжение">slipped</W> 
 <W DOM="21" FEAT="ADV" HYPOT="adverb.01" ID="22" KSNAME="SIDEWAYS" LEMMA="SIDEWAYS" LINK="adverb" PAFT=", ">sideways</W>, 
 <W DOM="21" FEAT="ADV" HYPOT="adverb.01" ID="23" KSNAME="SLOWLY" LEMMA="SLOWLY" LINK="adverb" PAFT=", ">slowly</W>, 
 <W DOM="25" FEAT="ADV" HYPOT="restr.11" ID="24" KSNAME="ALMOST" LEMMA="ALMOST" LINK="restr" PAFT=" ">almost</W> 

@@ -309,7 +309,7 @@
 </S>
 <S DATE="30 11 2010 10:40:53" EXTRACOMM="Tagging contradicts ETAP parsing: FRM-PROP - ROOSEVELT" ID="13" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_42\\br-f02.tgt;13" STATUS="doubt">
 <W DOM="10" EXTRAFEAT="CAP" FEAT="PART" HYPOT="adverb.11" ID="1" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">To</W> 
-<W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="2" KSNAME="SILENCE2" LEMMA="SILENCE" LINK="prepos" PAFT=" " UNL="silence(icl&gt;suppress&gt;do,equ&gt;hush,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="">silence</W> 
+<W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="2" KSNAME="SILENCE2" LEMMA="SILENCE" LINK="prepos" PAFT=" " UNL="silence(icl&gt;suppress&gt;do,equ&gt;hush,agt&gt;volitional_thing,obj&gt;thing,ins&gt;thing)" DEF="CAUSE TO BE QUIET OR NOT TALK" TRANS="тишина">silence</W> 
 <W DOM="2" FEAT="S PL" HYPOT="1-compl.01" ID="3" KSNAME="EXTREMIST1" LEMMA="EXTREMIST" LINK="1-compl" PAFT=", ">extremists</W>, 
 <W DOM="3" FEAT="PART" HYPOT="attrib.15" ID="4" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
 <W DOM="4" FEAT="V MF" HYPOT="prepos.16" ID="5" KSNAME="WARN" LEMMA="WARN" LINK="prepos" PAFT=" ">warn</W> 
@@ -640,7 +640,7 @@
 <W DOM="12" FEAT="S SG" GRP="11,12" HYPOT="compos.01" ID="11" KSNAME="NITROGEN" LEMMA="NITROGEN" LINK="compos" PAFT=" ">nitrogen</W> 
 <W DOM="13" FEAT="S SG" GRP="11,12" HYPOT="compos.01" ID="12" KSNAME="MUSTARD" LEMMA="MUSTARD" LINK="compos" PAFT=" ">mustard</W> 
 <W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="13" KSNAME="EGG" LEMMA="EGG" LINK="prepos" PAFT=" ">eggs</W> 
-<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="14" KSNAME="NESTLE1" LEMMA="NESTLE" LINK="fictit" PAFT=" " UNL="nestle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="">nestled</W> 
+<W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="14" KSNAME="NESTLE1" LEMMA="NESTLE" LINK="fictit" PAFT=" " UNL="nestle(icl&gt;cling_to&gt;do,equ&gt;cuddle,agt&gt;living_thing,obj&gt;living_thing,plc&gt;thing)" DEF="MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION" TRANS="угнездиться">nestled</W> 
 <W DOM="14" FEAT="PR" HYPOT="2-compl.02" ID="15" KSNAME="BELOW1" LEMMA="BELOW" LINK="2-compl" PAFT=" ">below</W> 
 <W DOM="15" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="DECK1" LEMMA="DECK" LINK="prepos" PAFT=". ">decks</W>. 
 </S>

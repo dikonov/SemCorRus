@@ -74,7 +74,7 @@
 <S DATE="29 11 2010 20:22:52" ID="3" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f21.tgt;3" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="A" HYPOT="modif.01" ID="2" KSNAME="ANCIENT" LEMMA="ANCIENT" LINK="modif" PAFT=" " UNL="ancient(icl&gt;adj)" DEF="VERY OLD" TRANS="древний">ancient</W> 
-<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="GREEK2" LEMMA="GREEK" LINK="predic" PAFT=" " UNL="greek(icl&gt;european&gt;thing)" DEF="">Greeks</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="3" KSNAME="GREEK2" LEMMA="GREEK" LINK="predic" PAFT=" " UNL="greek(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF GREECE" TRANS="грек">Greeks</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="RECORD2" LEMMA="RECORD" PAFT=" " UNL="record(icl&gt;write&gt;do,plt&gt;uw,obj&gt;uw)" DEF="MAKE A RECORD OF" TRANS="записывать">recorded</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="SEVERAL" LEMMA="SEVERAL" LINK="modif" PAFT=" ">several</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="CATASTROPHIC" LEMMA="CATASTROPHIC" LINK="modif" PAFT=" " UNL="catastrophic(icl&gt;adj)" DEF="EXTREMELY HARMFUL" TRANS="катастрофический">catastrophic</W> 
@@ -1104,7 +1104,7 @@
 <W DOM="25" FEAT="A" HYPOT="modif.01" ID="24" KSNAME="VAST" LEMMA="VAST" LINK="modif" PAFT=" " UNL="vast(icl&gt;adj,equ&gt;huge)" DEF="UNUSUALLY GREAT IN SIZE OR AMOUNT OR DEGREE OR ESPECIALLY EXTENT OR SCOPE" TRANS="обширный">vast</W> 
 <W DOM="23" FEAT="S PL" HYPOT="1-compl.01" ID="25" KSNAME="NUMBER1" LEMMA="NUMBER" LINK="1-compl" PAFT=" " UNL="number(icl&gt;abstract_thing,icl&gt;quantity,obj&gt;thing)" DEF="THE PROPERTY POSSESSED BY A SUM OR TOTAL OR INDEFINITE QUANTITY OF UNITS OR INDIVIDUALS" TRANS="число,количество">numbers</W> 
 <W DOM="25" FEAT="PR" HYPOT="quasiagent.10" ID="26" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="29" FEAT="S SG" HYPOT="compos.01" ID="27" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;natural_depression&gt;thing,equ&gt;bed)" DEF="">bottom</W> 
+<W DOM="29" FEAT="S SG" HYPOT="compos.01" ID="27" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;natural_depression&gt;concrete_thing,equ&gt;bed)" DEF="A DEPRESSION FORMING THE GROUND UNDER A BODY OF WATER" TRANS="дно">bottom</W> 
 <W DOM="29" FEAT="A" HYPOT="modif.01" ID="28" KSNAME="LIVING2" LEMMA="LIVING" LINK="modif" PAFT=" " UNL="living(icl&gt;adj)" DEF="">living</W> 
 <W DOM="26" FEAT="S PL" HYPOT="prepos.01" ID="29" KSNAME="DIATOM" LEMMA="DIATOM" LINK="prepos" PAFT=", " UNL="diatom(icl&gt;alga&gt;thing)" DEF="MICROSCOPIC UNICELLULAR MARINE OR FRESHWATER COLONIAL ALGA HAVING CELL WALLS IMPREGNATED WITH SILICA" TRANS="диатомея">diatoms</W>, 
 <W DOM="29" FEAT="V PP" HYPOT="modif.01" ID="30" KSNAME="RAISE1" LEMMA="RAISE" LINK="modif" PAFT=" " UNL="raise(icl&gt;move&gt;do,equ&gt;lift,plt&gt;thing,plf&gt;thing,agt&gt;uw,obj&gt;concrete_thing)" DEF="RAISE FROM A LOWER TO A HIGHER POSITION" TRANS="поднимать">raised</W> 
@@ -1457,7 +1457,7 @@
 <W DOM="23" FEAT="S SG" HYPOT="predic.01" ID="22" KSNAME="EVERYTHING" LEMMA="EVERYTHING" LINK="predic" PAFT=" ">everything</W> 
 <W DOM="21" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="subord-conj.10" ID="23" KSNAME="WILL1" LEMMA="WILL" LINK="subord-conj" MSNAME="WILL1" PAFT=" ">will</W> 
 <W DOM="23" FEAT="V MF" HYPOT="analyt.13" ID="24" KSNAME="WORK2" LEMMA="WORK" LINK="analyt" PAFT=" " UNL="work(icl&gt;function&gt;occur,obj&gt;functional_thing)" DEF="TO PERFORM A FUNCTION" TRANS="работать">work</W> 
-<W DOM="24" FEAT="ADV" HYPOT="adverb.01" ID="25" KSNAME="SMOOTHLY" LEMMA="SMOOTHLY" LINK="adverb" PAFT=". " UNL="smoothly(icl&gt;how,equ&gt;swimmingly)" DEF="">smoothly</W>. 
+<W DOM="24" FEAT="ADV" HYPOT="adverb.01" ID="25" KSNAME="SMOOTHLY" LEMMA="SMOOTHLY" LINK="adverb" PAFT=". " UNL="smoothly(icl&gt;how,equ&gt;swimmingly)" DEF="WITH GREAT EASE AND SUCCESS" TRANS="гладко">smoothly</W>. 
 </S>
 <S DATE="29 11 2010 20:23:06" ID="64" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f21.tgt;64" STATUS="doubt">
 <W DOM="16" EXTRAFEAT="CAP" FEAT="PR" ID="1" KSNAME="SINCE1" LEMMA="SINCE" LINK="fictit" PAFT=" ">Since</W> 
@@ -1586,7 +1586,7 @@
 <W DOM="24" EXTRAFEAT="IN-BR" FEAT="PR" GRP="17,18,19,20,21,22,23,24,25,26" HYPOT="quasiagent.10" ID="25" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="25" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="17,18,19,20,21,22,23,24,25,26" HYPOT="prepos.01" ID="26" KSNAME="WATER1" LEMMA="WATER" LINK="prepos" PAFT="), ">water</W>), 
 <W DOM="29" FEAT="ART" HYPOT="determ.11" ID="27" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="29" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="28" KSNAME="HAWAIIAN2" LEMMA="HAWAIIAN" LINK="compos" PAFT=" " UNL="hawaiian(icl&gt;oceanic&gt;thing)" DEF="">Hawaiian</W> 
+<W DOM="29" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="28" KSNAME="HAWAIIAN2" LEMMA="HAWAIIAN" LINK="compos" PAFT=" " UNL="hawaiian(icl&gt;oceanic&gt;abstract_thing,iof&gt;language)" DEF="">Hawaiian</W> 
 <W DOM="30" FEAT="S SG" HYPOT="predic.01" ID="29" KSNAME="STATION1" LEMMA="STATION" LINK="predic" PAFT=" " UNL="station(icl&gt;facility&gt;thing)" DEF="A FACILITY EQUIPPED WITH SPECIAL EQUIPMENT AND PERSONNEL FOR A PARTICULAR PURPOSE" TRANS="станция">station</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="30" KSNAME="MAKE1" LEMMA="MAKE" PAFT=" ">made</W> 
 <W DOM="32" FEAT="A" HYPOT="determ.13" ID="31" KSNAME="ITS1" LEMMA="ITS" LINK="determ" MSNAME="ITS1" PAFT=" ">its</W> 
@@ -1616,7 +1616,7 @@
 </S>
 <S DATE="29 11 2010 20:23:07" EXTRACOMM="Some punctuation marks are not confirmed" ID="70" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f21.tgt;70" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">It</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,aoj&gt;thing)" DEF="">turned</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TURN2" LEMMA="TURN" PAFT=" " UNL="turn_out(icl&gt;happen&gt;be,obj&gt;uw,aoj&gt;thing)" DEF="PROVE TO BE IN THE RESULT OR END" TRANS="оказываться">turned</W> 
 <W DOM="2" FEAT="ADV" HYPOT="phras-junct.10" ID="3" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="1" FEAT="CONJ" HYPOT="explet.10" ID="4" KSNAME="THAT1" LEMMA="THAT" LINK="explet" PAFT=" ">that</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1835,7 +1835,7 @@
 <W DOM="31" FEAT="A COMP" HYPOT="modif.01" ID="30" KSNAME="EARLY1" LEMMA="EARLY" LINK="modif" PAFT=" ">earlier</W> 
 <W DOM="29" FEAT="S PL" HYPOT="prepos.01" ID="31" KSNAME="BREAK2" LEMMA="BREAK" LINK="prepos" PAFT=" " UNL="break(icl&gt;crack&gt;thing,equ&gt;fault)" DEF="(GEOLOGY) A CRACK IN THE EARTH'S CRUST RESULTING FROM THE DISPLACEMENT OF ONE SIDE WITH RESPECT TO THE OTHER" TRANS="разлом">breaks</W> 
 <W DOM="34" FEAT="ADV" HYPOT="adverb.01" ID="32" KSNAME="ONCE1" LEMMA="ONCE" LINK="adverb" PAFT=" ">once</W> 
-<W DOM="34" FEAT="ADV" HYPOT="adverb.01" ID="33" KSNAME="DEEPLY" LEMMA="DEEPLY" LINK="adverb" PAFT=" " UNL="deeply(icl&gt;how,com&gt;deep)" DEF="">deeply</W> 
+<W DOM="34" FEAT="ADV" HYPOT="adverb.01" ID="33" KSNAME="DEEPLY" LEMMA="DEEPLY" LINK="adverb" PAFT=" " UNL="deeply(icl&gt;how,com&gt;deep)" DEF="TO A GREAT DEPTH" TRANS="глубоко">deeply</W> 
 <W DOM="31" FEAT="V PP" HYPOT="modif.01" ID="34" KSNAME="BURY" LEMMA="BURY" LINK="modif" PAFT=". ">buried</W>. 
 </S>
 <S DATE="29 11 2010 20:23:09" EXTRACOMM="Tagging contradicts ETAP parsing: SHOW1 - SHOW2" ID="81" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f21.tgt;81" STATUS="doubt">
@@ -1885,7 +1885,7 @@
 <W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="9" KSNAME="WIDELY" LEMMA="WIDELY" LINK="adverb" PAFT=" ">widely</W> 
 <W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="PUBLICIZE" LEMMA="PUBLICIZE" LINK="pass-anal" PAFT=", " UNL="publicize(icl&gt;tell&gt;do,agt&gt;volitional_thing,obj&gt;thing,scn&gt;thing)" DEF="">publicized</W>, 
 <W DOM="12" FEAT="ADV" HYPOT="restr.11" ID="11" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
-<W DOM="10" FEAT="V PP" HYPOT="coordin.02" ID="12" KSNAME="OVEREMPHASIZE" LEMMA="OVEREMPHASIZE" LINK="coordin" PAFT=". " UNL="overemphasize(icl&gt;overstate&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">overemphasized</W>. 
+<W DOM="10" FEAT="V PP" HYPOT="coordin.02" ID="12" KSNAME="OVEREMPHASIZE" LEMMA="OVEREMPHASIZE" LINK="coordin" PAFT=". " UNL="overemphasize(icl&gt;overstate&gt;do,agt&gt;thing,obj&gt;thing)" DEF="PLACE SPECIAL OR EXCESSIVE EMPHASIS ON" TRANS="слишком подчеркивать,придавать излишнюю важность">overemphasized</W>. 
 </S>
 <S DATE="29 11 2010 20:23:09" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f21.tgt;83" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -2044,7 +2044,7 @@
 <W DOM="23" FEAT="V ING" HYPOT="prepos.01" ID="24" KSNAME="TWIST1" LEMMA="TWIST" LINK="prepos" PAFT=" ">twisting</W> 
 <W DOM="24" FEAT="S PL" HYPOT="1-compl.01" ID="25" KSNAME="FORCE2" LEMMA="FORCE" LINK="1-compl" PAFT=" " UNL="force(icl&gt;physical_phenomenon&gt;abstract_thing,fld&gt;physics)" DEF="(PHYSICS) THE INFLUENCE THAT PRODUCES A CHANGE IN A PHYSICAL QUANTITY" TRANS="сила">forces</W> 
 <W DOM="25" FEAT="PR" HYPOT="attrib.01" ID="26" KSNAME="BY1" LEMMA="BY" LINK="attrib" PAFT=" ">by</W> 
-<W DOM="28" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="SLUGGISH" LEMMA="SLUGGISH" LINK="modif" PAFT=" " UNL="sluggish(icl&gt;adj)" DEF="">sluggish</W> 
+<W DOM="28" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="SLUGGISH" LEMMA="SLUGGISH" LINK="modif" PAFT=" " UNL="sluggish(icl&gt;adj)" DEF="WITH LITTLE MOVEMENT" TRANS="неповоротливый">sluggish</W> 
 <W DOM="26" FEAT="S SG" HYPOT="prepos.01" ID="28" KSNAME="FLOW1" LEMMA="FLOW" LINK="prepos" PAFT=" " UNL="flow(icl&gt;change_of_location&gt;thing)" DEF="THE MOTION CHARACTERISTIC OF FLUIDS (LIQUIDS OR GASES)" TRANS="течение">flow</W> 
 <W DOM="24" FEAT="CONJ" HYPOT="coordin.10" ID="29" KSNAME="RATHER$THAN" LEMMA="RATHER THAN" LINK="coordin" MSNAME="RATHER$THAN" PAFT=" ">rather than</W> 
 <W DOM="29" FEAT="PR" HYPOT="coord-conj.10" ID="30" KSNAME="BY1" LEMMA="BY" LINK="coord-conj" PAFT=" ">by</W> 
@@ -2066,7 +2066,7 @@
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="DEPTH" LEMMA="DEPTH" LINK="prepos" PAFT=", " UNL="depth(icl&gt;extent&gt;thing)" DEF="EXTENT DOWNWARD OR BACKWARD OR INWARD" TRANS="глубина">depths</W>, 
 <W DOM="4" FEAT="ADV" ID="9" KSNAME="WHY" LEMMA="WHY" LINK="fictit" PAFT=" ">why</W> 
 <W DOM="11" FEAT="ADV" HYPOT="restr.11" ID="10" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
-<W DOM="5" FEAT="ADV COMP" HYPOT="adverb.01" ID="11" KSNAME="DEEPLY" LEMMA="DEEPLY" LINK="adverb" PAFT="? " UNL="deeply(icl&gt;how,com&gt;deep)" DEF="">deeper</W>? 
+<W DOM="5" FEAT="ADV COMP" HYPOT="adverb.01" ID="11" KSNAME="DEEPLY" LEMMA="DEEPLY" LINK="adverb" PAFT="? " UNL="deeply(icl&gt;how,com&gt;deep)" DEF="TO A GREAT DEPTH" TRANS="глубоко">deeper</W>? 
 </S>
 <S DATE="29 11 2010 20:23:12" ID="91" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_18\\br-f21.tgt;91" STATUS="doubt">
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="KNOWLEDGE" LEMMA="KNOWLEDGE" LINK="predic" PAFT=" " UNL="knowledge(icl&gt;psychological_feature&gt;thing,equ&gt;cognition)" DEF="THE PSYCHOLOGICAL RESULT OF PERCEPTION AND LEARNING AND REASONING" TRANS="знание,знания">Knowledge</W> 

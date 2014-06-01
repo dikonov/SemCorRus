@@ -164,7 +164,7 @@
 </S>
 <S DATE="30 11 2010 10:52:24" ID="10" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_48\\br-l06.tgt;10" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TUMBLE2" LEMMA="TUMBLE" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="">tumbled</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TUMBLE2" LEMMA="TUMBLE" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="валиться">tumbled</W> 
 <W DOM="2" FEAT="PR" HYPOT="adverb.02" ID="3" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="4" KSNAME="ROBERTS" LEMMA="ROBERTS" LINK="prepos" PAFT=", ">Roberts</W>, 
 <W DOM="2" FEAT="A" ID="5" KSNAME="HELPLESS" LEMMA="HELPLESS" LINK="fictit" PAFT=" ">helpless</W> 
@@ -692,7 +692,7 @@
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="THROAT" LEMMA="THROAT" LINK="prepos" PAFT=", ">throat</W>, 
 <W DOM="9" FEAT="ADV" HYPOT="parenth.16" ID="10" KSNAME="THEN" LEMMA="THEN" LINK="parenth" PAFT=" ">then</W> 
-<W DOM="6" FEAT="V PP" HYPOT="modif.01" ID="11" KSNAME="VEER2" LEMMA="VEER" LINK="modif" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veered</W> 
+<W DOM="6" FEAT="V PP" HYPOT="modif.01" ID="11" KSNAME="VEER2" LEMMA="VEER" LINK="modif" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veered</W> 
 <W DOM="9" FEAT="A" HYPOT="explic.02" ID="12" KSNAME="DOWNWARD1" LEMMA="DOWNWARD" LINK="explic" PAFT=". ">downward</W>. 
 </S>
 <S DATE="30 11 2010 10:52:28" EXTRACOMM="Tagging contradicts ETAP parsing: ROBERTS - ROBERT\nSome punctuation marks are not confirmed" ID="43" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_48\\br-l06.tgt;43" STATUS="doubt">
@@ -742,7 +742,7 @@
 </S>
 <S DATE="30 11 2010 10:52:28" ID="45" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_48\\br-l06.tgt;45" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="1" KSNAME="ROBERTS" LEMMA="ROBERTS" LINK="predic" PAFT=" ">Roberts</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SAG2" LEMMA="SAG" PAFT=" " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="">sagged</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="SAG2" LEMMA="SAG" PAFT=" " UNL="sag(icl&gt;sink&gt;occur,obj&gt;thing)" DEF="DROOP, SINK, OR SETTLE FROM OR AS IF FROM PRESSURE OR LOSS OF TAUTNESS" TRANS="провисать,свисать,отвисать,обвисать">sagged</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="3" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="4" KSNAME="SLASH2" LEMMA="SLASH" LINK="coord-conj" PAFT=" " UNL="slash(icl&gt;beat&gt;do,equ&gt;flog,agt&gt;thing,obj&gt;thing)" DEF="">slashed</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="AT" LEMMA="AT" LINK="1-compl" PAFT=" ">at</W> 
@@ -1943,7 +1943,7 @@
 <W DOM="7" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="8" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="2-compl.14" ID="9" KSNAME="SLIDE2" LEMMA="SLIDE" LINK="2-compl" PAFT=", " UNL="slide(icl&gt;glide&gt;occur,equ&gt;skid,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing,plc&gt;thing)" DEF="MOVE OBLIQUELY OR SIDEWAYS, USUALLY IN AN UNCONTROLLED MANNER" TRANS="соскальзывать,скользить">slide</W>, 
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="10" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">then</W> 
-<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coordin.05" ID="11" KSNAME="TUMBLE2" LEMMA="TUMBLE" LINK="coordin" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="">tumble</W> 
+<W DOM="9" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coordin.05" ID="11" KSNAME="TUMBLE2" LEMMA="TUMBLE" LINK="coordin" PAFT=" " UNL="tumble(icl&gt;descend&gt;occur,plt&gt;thing,plf&gt;thing,obj&gt;concrete_thing)" DEF="FALL DOWN, AS IF COLLAPSING" TRANS="валиться">tumble</W> 
 <W DOM="11" FEAT="ADV" HYPOT="adverb.01" ID="12" KSNAME="DRYLY" LEMMA="DRYLY" LINK="adverb" PAFT=" ">dryly</W> 
 <W DOM="11" FEAT="PR" HYPOT="3-compl.01" ID="13" KSNAME="INTO" LEMMA="INTO" LINK="3-compl" PAFT=" ">into</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 

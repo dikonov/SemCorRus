@@ -1905,7 +1905,7 @@
 <W DOM="5" EXTRAFEAT="CAP CAPIT" FEAT="A" ID="3" KSNAME="CENTRAL" LEMMA="CENTRAL" LINK="fictit" PAFT=" ">Central</W> 
 <W DOM="5" FEAT="ADV" HYPOT="restr.11" ID="4" KSNAME="ALSO" LEMMA="ALSO" LINK="restr" PAFT=" ">also</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="5" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">has</W> 
-<W DOM="5" FEAT="V PP" HYPOT="analyt.12" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="5" FEAT="V PP" HYPOT="analyt.12" ID="6" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="NID" HYPOT="1-compl.01" ID="8" KSNAME="FICT-LEX" LEMMA="ICC" LINK="1-compl" PAFT=" ">ICC</W> 
 <W DOM="6" FEAT="PART" HYPOT="2-compl.12" ID="9" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
@@ -2023,7 +2023,7 @@
 <W DOM="15" FEAT="PR" HYPOT="quasiagent.10" ID="16" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="18" FEAT="NUM" HYPOT="quantit.10" ID="17" KSNAME="NUM-LARGE" LEMMA="56" LINK="quantit" PAFT=" ">56</W> 
 <W DOM="16" FEAT="S PL" HYPOT="prepos.01" ID="18" KSNAME="BUILDER" LEMMA="BUILDER" LINK="prepos" PAFT=" ">builders</W> 
-<W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="19" KSNAME="POLL2" LEMMA="POLL" LINK="modif" PAFT=" " UNL="poll(icl&gt;survey&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,cao&gt;thing)" DEF="">polled</W> 
+<W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="19" KSNAME="POLL2" LEMMA="POLL" LINK="modif" PAFT=" " UNL="poll(icl&gt;survey&gt;do,agt&gt;volitional_thing,obj&gt;volitional_thing,cao&gt;thing)" DEF="GET THE OPINIONS (OF PEOPLE) BY ASKING SPECIFIC QUESTIONS" TRANS="опрашивать">polled</W> 
 <W DOM="19" FEAT="PR" HYPOT="agent.10" ID="20" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="21" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="24" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="22,23,24" HYPOT="modif.01" ID="22" KSNAME="NATIONAL1" LEMMA="NATIONAL" LINK="modif" PAFT=" ">National</W> 

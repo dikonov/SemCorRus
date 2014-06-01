@@ -116,7 +116,7 @@
 <S DATE="29 11 2010 20:08:14" EXTRACOMM="Tagging contradicts ETAP parsing:  - FRM1\nSome nodes are not confirmed\nSome punctuation marks are not confirmed" ID="6" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j04.tgt;6" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="3" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="THEORY" LEMMA="THEORY" LINK="predic" PAFT=" " UNL="theory(icl&gt;explanation&gt;thing)" DEF="A WELL-SUBSTANTIATED EXPLANATION OF SOME ASPECT OF THE NATURAL WORLD" TRANS="теория">theory</W> 
-<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="parenth.13" ID="3" KSNAME="PREDICT" LEMMA="PREDICT" LINK="parenth" PAFT=" " UNL="predict(icl&gt;bespeak&gt;do,equ&gt;bode,agt&gt;thing,obj&gt;thing)" DEF="">predicts</W> 
+<W DOM="13" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="parenth.13" ID="3" KSNAME="PREDICT" LEMMA="PREDICT" LINK="parenth" PAFT=" " UNL="predict(icl&gt;bespeak&gt;do,equ&gt;bode,agt&gt;thing,obj&gt;thing)" DEF="INDICATE BY SIGNS" TRANS="предвещать">predicts</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="4" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="6" FEAT="A" HYPOT="modif.01" ID="5" KSNAME="LINEAR" LEMMA="LINEAR" LINK="modif" PAFT=" " UNL="linear(icl&gt;adj,ant&gt;nonlinear)" DEF="DESIGNATING OR INVOLVING AN EQUATION WHOSE TERMS ARE OF THE FIRST DEGREE" TRANS="линейный">linear</W> 
 <W DOM="13" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="DEPENDENCE" LEMMA="DEPENDENCE" LINK="predic" PAFT=" " UNL="dependence(icl&gt;state&gt;thing)" DEF="">dependence</W> 
@@ -435,7 +435,7 @@
 <S DATE="29 11 2010 20:08:18" EXTRACOMM="Tagging contradicts ETAP parsing:  - FRM1" ID="20" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j04.tgt;20" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="PART" HYPOT="predic.10" ID="1" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">There</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;occur,equ&gt;exist,obj&gt;thing)" DEF="HAVE AN EXISTENCE" TRANS="существовать">is</W> 
-<W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="AMPLE" LEMMA="AMPLE" LINK="modif" PAFT=" " UNL="ample(icl&gt;adj)" DEF="">ample</W> 
+<W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="AMPLE" LEMMA="AMPLE" LINK="modif" PAFT=" " UNL="ample(icl&gt;adj)" DEF="FAIRLY LARGE" TRANS="значительный">ample</W> 
 <W DOM="1" FEAT="S SG" HYPOT="explet.13" ID="4" KSNAME="EVIDENCE1" LEMMA="EVIDENCE" LINK="explet" PAFT=" " UNL="evidence(icl&gt;indication&gt;thing)" DEF="AN INDICATION THAT MAKES SOMETHING EVIDENT" TRANS="свидетельство">evidence</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="5" KSNAME="FROM" LEMMA="FROM" LINK="attrib" PAFT=" ">from</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="MANY" LEMMA="MANY" LINK="modif" PAFT=" " UNL="many(icl&gt;quantity,ant&gt;few,per&gt;thing)" DEF="INDEFINITE LARGE AMOUNT" TRANS="много">many</W> 
@@ -1329,7 +1329,7 @@
 <W DOM="5" FEAT="S SG" HYPOT="appos.03" ID="7" KSNAME="FRM1" LEMMA="**F" LINK="appos" PAFT=" ">**f</W> 
 <W DOM="7" FEAT="PR" HYPOT="attrib.01" ID="8" KSNAME="WITH" LEMMA="WITH" LINK="attrib" PAFT=" ">with</W> 
 <W DOM="10" FEAT="NUM" HYPOT="quantit.10" ID="9" KSNAME="NUM-ONE" LEMMA="1" LINK="quantit" PAFT=" ">1</W> 
-<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="G" LEMMA="G" LINK="prepos" PAFT=" " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="">g</W> 
+<W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="G" LEMMA="G" LINK="prepos" PAFT=" " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="A METRIC UNIT OF WEIGHT EQUAL TO ONE THOUSANDTH OF A KILOGRAM" TRANS="г,гр">g</W> 
 <W DOM="10" FEAT="S SG" HYPOT="appos.03" ID="11" KSNAME="FRM1" LEMMA="**F" LINK="appos" PAFT=" ">**f</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="12" KSNAME="ADD" LEMMA="ADD" PAFT=" " UNL="add(icl&gt;join&gt;do,cob&gt;thing,obj&gt;thing)" DEF="MAKE AN ADDITION  (TO)" TRANS="присоединять">added</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="13" KSNAME="BE" LEMMA="BE" LINK="fictit" PAFT=" ">are</W> 
@@ -1352,7 +1352,7 @@
 <W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SOLID2" LEMMA="SOLID" LINK="predic" PAFT=" (" UNL="solid(icl&gt;substance&gt;thing)" DEF="A SUBSTANCE THAT IS SOLID AT ROOM TEMPERATURE AND PRESSURE" TRANS="твердое тело">solid</W>( 
 <W DOM="5" EXTRAFEAT="IN-BR" FEAT="ADV" GRP="6,7,8" HYPOT="juxtapos.01" ID="6" KSNAME="ABOUT2" LEMMA="ABOUT" LINK="juxtapos" PAFT=" " UNL="about(icl&gt;how,equ&gt;approximately)" DEF="(OF QUANTITIES) IMPRECISE BUT FAIRLY CLOSE TO CORRECT" TRANS="около">about</W> 
 <W DOM="9" EXTRAFEAT="IN-BR" FEAT="NUM" GRP="6,7,8" ID="7" KSNAME="NUM-LARGE" LEMMA="15" LINK="fictit" PAFT=" ">15</W> 
-<W DOM="9" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="6,7,8" ID="8" KSNAME="G" LEMMA="G" LINK="fictit" PAFT=") " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="">g</W>) 
+<W DOM="9" EXTRAFEAT="IN-BR" FEAT="S SG" GRP="6,7,8" ID="8" KSNAME="G" LEMMA="G" LINK="fictit" PAFT=") " UNL="g(icl&gt;metric_weight_unit&gt;thing,equ&gt;gram)" DEF="A METRIC UNIT OF WEIGHT EQUAL TO ONE THOUSANDTH OF A KILOGRAM" TRANS="г,гр">g</W>) 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="9" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="9" FEAT="V PP" HYPOT="pass-anal.10" ID="10" KSNAME="FORM2" LEMMA="FORM" LINK="pass-anal" PAFT=", " UNL="form(icl&gt;become&gt;occur,src&gt;thing,obj&gt;thing,gol&gt;thing)" DEF="DEVELOP INTO A DISTINCTIVE ENTITY" TRANS="формироваться">formed</W>, 
 <W DOM="9" FEAT="S SG" GRP="11,12" ID="11" KSNAME="WATER1" LEMMA="WATER" LINK="fictit" PAFT=" ">water</W> 
@@ -1936,7 +1936,7 @@
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="FRM-PROP" LEMMA="MC" LINK="prepos" PAFT="/ ">Mc</W>/ 
 <W DOM="15" FEAT="S SG" HYPOT="sequent.01" ID="16" KSNAME="SEC" LEMMA="SEC" LINK="sequent" PAFT=" " UNL="sec(icl&gt;time_unit&gt;thing,equ&gt;second)" DEF="1/60 OF A MINUTE" TRANS="сек.,секунда">sec</W> 
 <W DOM="12" FEAT="PR" HYPOT="agent.10" ID="17" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
-<W DOM="19" FEAT="S SG" HYPOT="compos.01" ID="18" KSNAME="PULSE1" LEMMA="PULSE" LINK="compos" PAFT=" " UNL="pulse(icl&gt;periodic_event&gt;thing)" DEF="">pulse</W> 
+<W DOM="19" FEAT="S SG" HYPOT="compos.01" ID="18" KSNAME="PULSE1" LEMMA="PULSE" LINK="compos" PAFT=" " UNL="pulse(icl&gt;periodic_event&gt;thing)" DEF="THE RHYTHMIC CONTRACTION AND EXPANSION OF THE ARTERIES WITH EACH BEAT OF THE HEART" TRANS="пульс">pulse</W> 
 <W DOM="17" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="METHOD" LEMMA="METHOD" LINK="prepos" PAFT=". " UNL="method(icl&gt;know-how&gt;thing)" DEF="A WAY OF DOING SOMETHING, ESPECIALLY A SYSTEMATIC WAY" TRANS="метод">methods</W>. 
 </S>
 <S DATE="29 11 2010 20:08:50" EXTRACOMM="Tagging contradicts ETAP parsing:  - FRM1\nSome nodes are not confirmed" ID="88" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j04.tgt;88" STATUS="doubt">
@@ -2242,7 +2242,7 @@
 <W DOM="6" FEAT="A" HYPOT="copulat.11" ID="8" KSNAME="FLAT2" LEMMA="FLAT" LINK="copulat" PAFT=" ">flat</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="12" FEAT="S SG" HYPOT="compos.02" ID="11" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,mod&gt;concrete_thing)" DEF="">bottom</W> 
+<W DOM="12" FEAT="S SG" HYPOT="compos.02" ID="11" KSNAME="BOTTOM1" LEMMA="BOTTOM" LINK="compos" PAFT=" " UNL="bottom(icl&gt;side&gt;abstract_thing,obj&gt;concrete_thing)" DEF="THE LOWER SIDE OF ANYTHING" TRANS="низ">bottom</W> 
 <W DOM="9" FEAT="A" HYPOT="coord-conj.10" ID="12" KSNAME="HEMISPHERICAL" LEMMA="HEMISPHERICAL" LINK="coord-conj" PAFT=". " UNL="hemispherical(icl&gt;adj,com&gt;hemisphere)" DEF="OF OR RELATING TO OR BEING A HEMISPHERE" TRANS="полушарный">hemispherical</W>. 
 </S>
 <S DATE="29 11 2010 20:09:10" EXTRACOMM="Tagging contradicts ETAP parsing: SPECTRUM - SPECTRUM" ID="102" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_5\\br-j04.tgt;102" STATUS="doubt">

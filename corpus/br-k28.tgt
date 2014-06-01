@@ -57,7 +57,7 @@
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S SG" ID="20" KSNAME="KITCHEN" LEMMA="KITCHEN" LINK="fictit" PAFT=" " UNL="kitchen(icl&gt;room&gt;thing)" DEF="A ROOM EQUIPPED FOR PREPARING MEALS" TRANS="кухня">kitchen</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="coordin.13" ID="21" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="21" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="22" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="21" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coord-conj.10" ID="22" KSNAME="ASK1" LEMMA="ASK" LINK="coord-conj" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="22" FEAT="PR" HYPOT="adverb.02" ID="23" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.10" ID="24" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="26" FEAT="S SG" GRP="25,26" HYPOT="compos.01" ID="25" KSNAME="PEANUT" LEMMA="PEANUT" LINK="compos" PAFT=" ">peanut</W> 
@@ -1441,7 +1441,7 @@
 <W DOM="3" FEAT="ART" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="3" KSNAME="WEEK" LEMMA="WEEK" LINK="prepos" PAFT=" ">week</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="HYACINTH" LEMMA="HYACINTH" LINK="predic" PAFT=" " UNL="hyacinth(icl&gt;zircon&gt;thing)" DEF="">hyacinths</W> 
+<W DOM="6" FEAT="S PL" HYPOT="predic.01" ID="5" KSNAME="HYACINTH" LEMMA="HYACINTH" LINK="predic" PAFT=" " UNL="hyacinth(icl&gt;zircon&gt;thing)" DEF="A RED TRANSPARENT VARIETY OF ZIRCON USED AS A GEMSTONE" TRANS="гиацинт">hyacinths</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="WOULD" LEMMA="WOULD" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="6" FEAT="V MF" GRP="7,8" HYPOT="analyt.13" ID="7" KSNAME="SPIKE2" LEMMA="SPIKE" LINK="analyt" PAFT=" ">spike</W> 
 <W DOM="7" FEAT="ADV" GRP="7,8" HYPOT="adverb.01" ID="8" KSNAME="OUT1" LEMMA="OUT" LINK="adverb" PAFT=". ">out</W>. 
@@ -2259,7 +2259,7 @@
 <W DOM="5" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="6" KSNAME="IT" LEMMA="IT" LINK="1-compl" PAFT=" ">it</W> 
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="7" KSNAME="ON1" LEMMA="ON" LINK="2-compl" PAFT=" ">on</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="8" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" ">my</W> 
-<W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="DRESSER2" LEMMA="DRESSER" LINK="prepos" PAFT=" &quot;. " UNL="dresser(icl&gt;furniture&gt;thing,equ&gt;chest_of_drawers)" DEF="">dresser</W>". 
+<W DOM="7" FEAT="S SG" HYPOT="prepos.01" ID="9" KSNAME="DRESSER2" LEMMA="DRESSER" LINK="prepos" PAFT=" &quot;. " UNL="dresser(icl&gt;cabinet&gt;concrete_thing,equ&gt;chest_of_drawers)" DEF="FURNITURE WITH DRAWERS FOR KEEPING CLOTHES" TRANS="шкаф,гардероб">dresser</W>". 
 </S>
 <S DATE="29 11 2010 20:06:08" ID="162" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_13\\br-k28.tgt;162" STATUS="doubt">
 "<W DOM="2" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" " PBEF="&quot;">I</W> 

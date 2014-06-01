@@ -614,7 +614,7 @@
 <W DOM="38" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="SENSE1" LEMMA="SENSE" LINK="predic" PAFT=" " UNL="sense(icl&gt;perception&gt;abstract_thing,obj&gt;abstract_thing,aoj&gt;living_thing)" DEF="A FACULTY OF PERCEPTION" TRANS="чувство">sense</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="SPATIAL" LEMMA="SPATIAL" LINK="modif" PAFT=" " UNL="spatial(icl&gt;adj,ant&gt;nonspatial,com&gt;space)" DEF="PERTAINING TO OR INVOLVING OR HAVING THE NATURE OF SPACE" TRANS="пространственный">spatial</W> 
-<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="LOCATION" LEMMA="LOCATION" LINK="prepos" PAFT=" " UNL="location(icl&gt;determination&gt;thing,equ&gt;localization)" DEF="">location</W> 
+<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="LOCATION" LEMMA="LOCATION" LINK="prepos" PAFT=" " UNL="location(icl&gt;determination&gt;thing,equ&gt;localization)" DEF="A DETERMINATION OF THE PLACE WHERE SOMETHING IS" TRANS="определение местонахождения">location</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.10" ID="8" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="8" FEAT="S SG" HYPOT="coord-conj.10" ID="9" KSNAME="ORIENTATION" LEMMA="ORIENTATION" LINK="coord-conj" PAFT=" " UNL="orientation(icl&gt;placement&gt;thing)" DEF="THE ACT OF ORIENTING" TRANS="ориентирование">orientation</W> 
 <W DOM="9" FEAT="PR" HYPOT="3-compl.01" ID="10" KSNAME="IN1" LEMMA="IN" LINK="3-compl" PAFT=" ">in</W> 
@@ -1063,7 +1063,7 @@
 <W DOM="22" FEAT="S POSS SG" HYPOT="posses.01" ID="21" KSNAME="PATIENT1" LEMMA="PATIENT" LINK="posses" PAFT=" " UNL="patient(icl&gt;case&gt;thing)" DEF="A PERSON WHO REQUIRES MEDICAL CARE" TRANS="пациент,больной">patient's</W> 
 <W DOM="38" FEAT="S PL" HYPOT="predic.01" ID="22" KSNAME="DIFFICULTY" LEMMA="DIFFICULTY" LINK="predic" PAFT=" " UNL="difficulty(icl&gt;condition&gt;thing)" DEF="A CONDITION OR STATE OF AFFAIRS ALMOST BEYOND ONE'S ABILITY TO DEAL WITH AND REQUIRING GREAT EFFORT TO BEAR OR OVERCOME" TRANS="затруднение,трудность,сложность">difficulties</W> 
 <W DOM="22" FEAT="PR" HYPOT="1-compl.07" ID="23" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
-<W DOM="23" FEAT="V ING" HYPOT="prepos.01" ID="24" KSNAME="ORIENT1" LEMMA="ORIENT" LINK="prepos" PAFT=" " UNL="orient(icl&gt;decide&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing,scn&gt;thing)" DEF="">orienting</W> 
+<W DOM="23" FEAT="V ING" HYPOT="prepos.01" ID="24" KSNAME="ORIENT1" LEMMA="ORIENT" LINK="prepos" PAFT=" " UNL="orient(icl&gt;decide&gt;do,cob&gt;thing,agt&gt;volitional_thing,obj&gt;thing,scn&gt;thing)" DEF="DETERMINE ONE'S POSITION WITH REFERENCE TO ANOTHER POINT" TRANS="ориентироваться">orienting</W> 
 <W DOM="24" FEAT="S SG" HYPOT="1-compl.01" ID="25" KSNAME="HIMSELF" LEMMA="HIMSELF" LINK="1-compl" PAFT=" ">himself</W> 
 <W DOM="24" FEAT="ADV" HYPOT="adverb.01" ID="26" KSNAME="SPATIALLY" LEMMA="SPATIALLY" LINK="adverb" PAFT=" " UNL="spatially(icl&gt;how,com&gt;spacial)" DEF="WITH REGARD TO SPACE" TRANS="пространственно">spatially</W> 
 <W DOM="26" FEAT="CONJ" HYPOT="coordin.11" ID="27" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1354,7 +1354,7 @@
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="S SG" HYPOT="descr-appos.01" ID="19" KSNAME="TRACING" LEMMA="TRACING" LINK="descr-appos" PAFT=" ">tracing</W> 
 <W DOM="21" FEAT="S SG" HYPOT="predic.01" ID="20" KSNAME="PROCESS1" LEMMA="PROCESS" LINK="predic" PAFT=" " UNL="process(icl&gt;activity&gt;thing,equ&gt;procedure)" DEF="A PARTICULAR COURSE OF ACTION INTENDED TO ACHIEVE A RESULT" TRANS="процесс">process</W> 
-<W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="21" KSNAME="FAIL1" LEMMA="FAIL" LINK="relat" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">failed</W> 
+<W DOM="19" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.02" ID="21" KSNAME="FAIL1" LEMMA="FAIL" LINK="relat" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="DISAPPOINT, PROVE UNDEPENDABLE TO" TRANS="подводить">failed</W> 
 <W DOM="21" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="22" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=", ">him</W>, 
 <W DOM="21" FEAT="CONJ" HYPOT="sent-coordin.10" ID="23" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="25" FEAT="S NOM SG" HYPOT="predic.01" ID="24" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 

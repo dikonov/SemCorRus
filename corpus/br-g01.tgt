@@ -882,7 +882,7 @@
 <W DOM="4" FEAT="ADV" HYPOT="restr.10" ID="5" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="4" FEAT="V MF" HYPOT="analyt.10" ID="6" KSNAME="SHOW1" LEMMA="SHOW" LINK="analyt" PAFT=" " UNL="show(icl&gt;reveal&gt;be,obj&gt;uw,aoj&gt;thing,rec&gt;person)" DEF="EVIDENCE FOR" TRANS="показывать">show</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="1-compl.21" ID="7" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
-<W DOM="9" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="8" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="predic" PAFT=" " UNL="northerner(icl&gt;inhabitant&gt;thing)" DEF="">Northerners</W> 
+<W DOM="9" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="8" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="predic" PAFT=" " UNL="northerner(icl&gt;inhabitant&gt;person)" DEF="">Northerners</W> 
 <W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="9" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">have</W> 
 <W DOM="9" FEAT="V PP" HYPOT="analyt.12" ID="10" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="10" FEAT="V PP" HYPOT="pass-anal.10" ID="11" KSNAME="SUBJECT2" LEMMA="SUBJECT" LINK="pass-anal" PAFT=" " UNL="subject(icl&gt;expose&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="CAUSE TO EXPERIENCE OR SUFFER OR MAKE LIABLE OR VULNERABLE TO" TRANS="подвергать">subjected</W> 
@@ -952,7 +952,7 @@
 <W DOM="7" FEAT="V ING" HYPOT="modif.01" ID="4" KSNAME="ARISE" LEMMA="ARISE" LINK="modif" PAFT=" " UNL="arise(icl&gt;originate&gt;occur,obj&gt;thing,plc&gt;thing)" DEF="COME INTO EXISTENCE" TRANS="возникать">arising</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="1-compl" PAFT=" ">out of</W> 
 <W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="BUSINESS" LEMMA="BUSINESS" LINK="prepos" PAFT=" " UNL="business(icl&gt;commerce&gt;thing,equ&gt;commercial_enterprise)" DEF="THE ACTIVITY OF PROVIDING GOODS AND SERVICES" TRANS="бизнес">business</W> 
-<W DOM="8" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="TIE1" LEMMA="TIE" LINK="predic" PAFT=" " UNL="tie(icl&gt;relationship&gt;thing,equ&gt;affiliation)" DEF="">ties</W> 
+<W DOM="8" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="TIE1" LEMMA="TIE" LINK="predic" PAFT=" " UNL="tie(icl&gt;relationship&gt;thing,equ&gt;affiliation)" DEF="A SOCIAL OR BUSINESS RELATIONSHIP" TRANS="связь">ties</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.00" ID="8" KSNAME="IMPOSE" LEMMA="IMPOSE" LINK="coord-conj" PAFT=" ">impose</W> 
 <W DOM="8" FEAT="S SG" HYPOT="1-compl.01" ID="9" KSNAME="COURTESY" LEMMA="COURTESY" LINK="1-compl" PAFT=", " UNL="courtesy(icl&gt;politeness&gt;thing)" DEF="A COURTEOUS OR RESPECTFUL OR CONSIDERATE ACT" TRANS="любезность">courtesy</W>, 
 <W DOM="1" FEAT="CONJ" ID="10" KSNAME="IF" LEMMA="IF" LINK="fictit" PAFT=" ">if</W> 
@@ -962,7 +962,7 @@
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="14" KSNAME="RESIDENT1" LEMMA="RESIDENT" LINK="modif" PAFT=" ">resident</W> 
 <W DOM="14" FEAT="CONJ" HYPOT="coordin.10" ID="15" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="15" FEAT="V ING" HYPOT="coord-conj.10" ID="16" KSNAME="VISIT2" LEMMA="VISIT" LINK="coord-conj" PAFT=" ">visiting</W> 
-<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="17" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="prepos" PAFT=". " UNL="northerner(icl&gt;inhabitant&gt;thing)" DEF="">Northerners</W>. 
+<W DOM="13" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="17" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="prepos" PAFT=". " UNL="northerner(icl&gt;inhabitant&gt;person)" DEF="">Northerners</W>. 
 </S>
 <S DATE="29 11 2010 20:04:49" ID="38" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_4\\br-g01.tgt;38" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="ALSO" LEMMA="ALSO" LINK="parenth" PAFT=", " UNL="also(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="также">Also</W>, 
@@ -1173,7 +1173,7 @@
 <W DOM="4" FEAT="A COMP" HYPOT="modif.01" ID="3" KSNAME="LARGE" LEMMA="LARGE" LINK="modif" PAFT=" " UNL="large(icl&gt;adj,equ&gt;big,ant&gt;small)" DEF="ABOVE AVERAGE IN SIZE OR NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT" TRANS="большой">larger</W> 
 <W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="4" KSNAME="PERCENTAGE" LEMMA="PERCENTAGE" LINK="predic" PAFT=" " UNL="percentage(icl&gt;proportion&gt;thing)" DEF="A PROPORTION MULTIPLIED BY 100" TRANS="процент">percentage</W> 
 <W DOM="4" FEAT="PR" HYPOT="quasiagent.10" ID="5" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
-<W DOM="5" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="VIRGINIAN2" LEMMA="VIRGINIAN" LINK="prepos" MSNAME="VIRGINIAN2" PAFT=" " UNL="virginian(icl&gt;american&gt;thing)" DEF="">Virginians</W> 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="VIRGINIAN2" LEMMA="VIRGINIAN" LINK="prepos" MSNAME="VIRGINIAN2" PAFT=" " UNL="virginian(icl&gt;american&gt;person)" DEF="A NATIVE OR RESIDENT OF VIRGINIA" TRANS="виргинец">Virginians</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" EXTRAFEAT="ALT CAP" FEAT="A" GRP="8,9" HYPOT="modif.01" ID="8" KSNAME="SOUTH2" LEMMA="SOUTH" LINK="modif" PAFT=" ">South</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" GRP="8,9" HYPOT="coord-conj.10" ID="9" KSNAME="CAROLINIAN2" LEMMA="CAROLINIAN" LINK="coord-conj" MSNAME="CAROLINIAN2" PAFT=" ">Carolinians</W> 
@@ -1297,7 +1297,7 @@
 <W DOM="19" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="20" KSNAME="CHARLESTON" LEMMA="CHARLESTON" LINK="prepos" PAFT=" " UNL="charleston(iof&gt;state_capital&gt;thing)" DEF="STATE CAPITAL OF WEST VIRGINIA IN THE CENTRAL PART OF THE STATE ON THE KANAWHA RIVER" TRANS="Чарльстон">Charleston</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="21" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="23" FEAT="A COMP" HYPOT="modif.01" ID="22" KSNAME="CLOSE2" LEMMA="CLOSE" LINK="modif" PAFT=" " UNL="close(icl&gt;adj,ant&gt;distant)" DEF="CLOSE IN RELEVANCE OR RELATIONSHIP" TRANS="близкий">closer</W> 
-<W DOM="21" FEAT="S PL" HYPOT="1-compl.01" ID="23" KSNAME="TIE1" LEMMA="TIE" LINK="1-compl" PAFT=" " UNL="tie(icl&gt;relationship&gt;thing,equ&gt;affiliation)" DEF="">ties</W> 
+<W DOM="21" FEAT="S PL" HYPOT="1-compl.01" ID="23" KSNAME="TIE1" LEMMA="TIE" LINK="1-compl" PAFT=" " UNL="tie(icl&gt;relationship&gt;thing,equ&gt;affiliation)" DEF="A SOCIAL OR BUSINESS RELATIONSHIP" TRANS="связь">ties</W> 
 <W DOM="23" FEAT="PR" HYPOT="1-compl.07" ID="24" KSNAME="WITH" LEMMA="WITH" LINK="1-compl" PAFT=" ">with</W> 
 <W DOM="24" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="ENGLAND" LEMMA="ENGLAND" LINK="prepos" PAFT=" " UNL="england(iof&gt;european_country&gt;thing)" DEF="A DIVISION OF THE UNITED KINGDOM" TRANS="Англия">England</W> 
 <W DOM="25" FEAT="CONJ" HYPOT="coordin.10" ID="26" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1309,7 +1309,7 @@
 <W DOM="30" EXTRAFEAT="ALT CAP" FEAT="S SG" HYPOT="prepos.01" ID="32" KSNAME="NORTH1" LEMMA="NORTH" LINK="prepos" PAFT=" ">North</W> 
 <W DOM="34" FEAT="ADV" HYPOT="restr.11" ID="33" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
 <W DOM="32" FEAT="PR" HYPOT="attrib.01" ID="34" KSNAME="AFTER1" LEMMA="AFTER" LINK="attrib" PAFT=" ">after</W> 
-<W DOM="34" FEAT="S SG" HYPOT="prepos.01" ID="35" KSNAME="INDEPENDENCE1" LEMMA="INDEPENDENCE" LINK="prepos" PAFT=". " UNL="independence(icl&gt;victory&gt;thing)" DEF="">independence</W>. 
+<W DOM="34" FEAT="S SG" HYPOT="prepos.01" ID="35" KSNAME="INDEPENDENCE1" LEMMA="INDEPENDENCE" LINK="prepos" PAFT=". " UNL="independence(icl&gt;victory&gt;event)" DEF="THE EVENT OF GAINING INDEPENDENCE" TRANS="независимость">independence</W>. 
 </S>
 <S DATE="29 11 2010 20:04:54" ID="52" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_4\\br-g01.tgt;52" STATUS="doubt">
 <W DOM="5" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
@@ -1568,7 +1568,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="3" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="1" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.00" ID="4" KSNAME="FEEL1" LEMMA="FEEL" LINK="coord-conj" PAFT=", " UNL="feel(icl&gt;believe&gt;be,equ&gt;find,obj&gt;uw,aoj&gt;person)" DEF="COME TO BELIEVE ON THE BASIS OF EMOTION OR INTUITIONS" TRANS="чувствовать">feel</W>, 
 <W DOM="4" FEAT="A" HYPOT="1-compl.11" ID="5" KSNAME="MANY" LEMMA="MANY" LINK="1-compl" PAFT=" " UNL="many(icl&gt;quantity,ant&gt;few,per&gt;thing)" DEF="INDEFINITE LARGE AMOUNT" TRANS="много">many</W> 
-<W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="6" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="predic" PAFT=" " UNL="northerner(icl&gt;inhabitant&gt;thing)" DEF="">Northerners</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="6" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="predic" PAFT=" " UNL="northerner(icl&gt;inhabitant&gt;person)" DEF="">Northerners</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="7" KSNAME="DELUDE" LEMMA="DELUDE" LINK="relat" MSNAME="DELUDE" PAFT=" " UNL="delude(icl&gt;victimize&gt;do,equ&gt;deceive,agt&gt;thing,obj&gt;thing)" DEF="BE FALSE TO" TRANS="обманывать">delude</W> 
 <W DOM="7" FEAT="S PL" HYPOT="subj-copr.10" ID="8" KSNAME="THEMSELVES" LEMMA="THEMSELVES" LINK="subj-copr" PAFT=" ">themselves</W> 
 <W DOM="7" FEAT="PR" HYPOT="adverb.02" ID="9" KSNAME="ABOUT1" LEMMA="ABOUT" LINK="adverb" PAFT=" ">about</W> 
@@ -1777,7 +1777,7 @@
 <W DOM="9" FEAT="S SG" GRP="10,11" HYPOT="prepos.01" ID="11" KSNAME="PEOPLE1" LEMMA="PEOPLE" LINK="prepos" PAFT=" ">people</W> 
 <W DOM="11" FEAT="PR" HYPOT="1-compl.07" ID="12" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="14" FEAT="S SG" HYPOT="compos.01" ID="13" KSNAME="FRM-PROP" LEMMA="BRITANNIC" LINK="compos" PAFT=" ">Britannic</W> 
-<W DOM="15" FEAT="S SG" HYPOT="compos.02" ID="14" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="compos" PAFT=" " UNL="origin(icl&gt;ancestry&gt;thing)" DEF="">origin</W> 
+<W DOM="15" FEAT="S SG" HYPOT="compos.02" ID="14" KSNAME="ORIGIN" LEMMA="ORIGIN" LINK="compos" PAFT=" " UNL="origin(icl&gt;ancestry&gt;thing)" DEF="PROPERTIES ATTRIBUTABLE TO YOUR ANCESTRY" TRANS="происхождение">origin</W> 
 <W DOM="12" FEAT="V ING" HYPOT="prepos.01" ID="15" KSNAME="SUBMIT" LEMMA="SUBMIT" LINK="prepos" PAFT=" ">submitting</W> 
 <W DOM="15" FEAT="PR" HYPOT="adverb.02" ID="16" KSNAME="WITHOUT" LEMMA="WITHOUT" LINK="adverb" PAFT=" ">without</W> 
 <W DOM="18" FEAT="V PP" HYPOT="modif.01" ID="17" KSNAME="CONTINUE" LEMMA="CONTINUE" LINK="modif" PAFT=" ">continued</W> 
@@ -2045,7 +2045,7 @@
 </S>
 <S DATE="29 11 2010 20:05:11" ID="83" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_4\\br-g01.tgt;83" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="A" HYPOT="modif.01" ID="1" KSNAME="MANY" LEMMA="MANY" LINK="modif" PAFT=" " UNL="many(icl&gt;quantity,ant&gt;few,per&gt;thing)" DEF="INDEFINITE LARGE AMOUNT" TRANS="много">Many</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="predic" PAFT=" " UNL="northerner(icl&gt;american&gt;thing,equ&gt;yankee)" DEF="">Northerners</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="2" KSNAME="NORTHERNER" LEMMA="NORTHERNER" LINK="predic" PAFT=" " UNL="northerner(icl&gt;american&gt;person,equ&gt;yankee)" DEF="">Northerners</W> 
 <W DOM="_root" EXTRAFEAT="QFIN" FEAT="V MF" ID="3" KSNAME="BELIEVE" LEMMA="BELIEVE" PAFT=" " UNL="believe(icl&gt;consider&gt;be,obj&gt;thing,aoj&gt;person,coo&gt;uw)" DEF="JUDGE OR REGARD" TRANS="считать">believe</W> 
 <W DOM="3" FEAT="S SG" HYPOT="1-compl.01" ID="4" KSNAME="THIS2" LEMMA="THIS" LINK="1-compl" PAFT=", ">this</W>, 
 <W DOM="3" FEAT="ADV" HYPOT="adverb.01" ID="5" KSNAME="TOO2" LEMMA="TOO" LINK="adverb" PAFT=", " UNL="too(icl&gt;how,equ&gt;besides)" DEF="IN ADDITION" TRANS="тоже">too</W>, 

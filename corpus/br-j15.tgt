@@ -975,7 +975,7 @@
 <W DOM="16" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">at</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="8" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="10" FEAT="S SG" HYPOT="compos.01" ID="9" KSNAME="OUTFLOW1" LEMMA="OUTFLOW" LINK="compos" PAFT=" " UNL="outflow(icl&gt;discharge&gt;thing,equ&gt;escape)" DEF="THE UNWANTED DISCHARGE OF A FLUID FROM SOME CONTAINER" TRANS="протечка,утечка">outflow</W> 
-<W DOM="7" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="TRACT2" LEMMA="TRACT" LINK="prepos" PAFT=" " UNL="tract(icl&gt;system&gt;thing)" DEF="">tracts</W> 
+<W DOM="7" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="TRACT2" LEMMA="TRACT" LINK="prepos" PAFT=" " UNL="tract(icl&gt;system&gt;thing,fld&gt;anatomy)" DEF="A SYSTEM OF BODY PARTS THAT TOGETHER SERVE SOME PARTICULAR PURPOSE" TRANS="тракт">tracts</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="15" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="LEFT1" LEMMA="LEFT" LINK="modif" PAFT=" ">left</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.10" ID="13" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 

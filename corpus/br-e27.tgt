@@ -1886,7 +1886,7 @@
 <W DOM="5" FEAT="CONJ" ID="18" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="20" FEAT="A" HYPOT="determ.00" ID="19" KSNAME="YOUR" LEMMA="YOUR" LINK="determ" PAFT=" ">your</W> 
 <W DOM="21" FEAT="A" HYPOT="modif.01" ID="20" KSNAME="OWN1" LEMMA="OWN" LINK="modif" PAFT=" ">own</W> 
-<W DOM="5" FEAT="S SG" ID="21" KSNAME="PREFERENCE1" LEMMA="PREFERENCE" LINK="fictit" PAFT=". " UNL="preference(icl&gt;predisposition&gt;thing,equ&gt;predilection)" DEF="">preference</W>. 
+<W DOM="5" FEAT="S SG" ID="21" KSNAME="PREFERENCE1" LEMMA="PREFERENCE" LINK="fictit" PAFT=". " UNL="preference(icl&gt;predisposition&gt;abstract_thing,equ&gt;predilection)" DEF="A PREDISPOSITION IN FAVOR OF SOMETHING" TRANS="предпочтение">preference</W>. 
 </S>
 <S DATE="29 11 2010 20:15:55" EXTRACOMM="Tagging contradicts ETAP parsing: NO$ONE - ONE1\nTagging contradicts ETAP parsing: GOOD1 - WELL1" ID="102" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_16\\br-e27.tgt;102" STATUS="doubt">
 <W DOM="2" FEAT="A" HYPOT="modif.00" ID="1" KSNAME="NO2" LEMMA="NO" LINK="modif" NODETYPE="FANTOM" PAFT=" "/>

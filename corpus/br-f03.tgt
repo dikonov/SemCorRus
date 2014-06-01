@@ -8,7 +8,7 @@
 <W DOM="1" FEAT="S SG" HYPOT="explet.13" ID="4" KSNAME="PAUSE1" LEMMA="PAUSE" LINK="explet" PAFT=" " UNL="pause(icl&gt;time_interval&gt;thing)" DEF="A TIME INTERVAL DURING WHICH THERE IS A TEMPORARY CESSATION OF SOMETHING" TRANS="пауза">pause</W> 
 <W DOM="4" FEAT="PR" HYPOT="1-compl.07" ID="5" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="MERRIMENT" LEMMA="MERRIMENT" LINK="prepos" PAFT=" " UNL="merriment(icl&gt;diversion&gt;thing,equ&gt;fun)" DEF="">merriment</W> 
+<W DOM="5" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="MERRIMENT" LEMMA="MERRIMENT" LINK="prepos" PAFT=" " UNL="merriment(icl&gt;diversion&gt;thing,equ&gt;fun)" DEF="ACTIVITIES THAT ARE ENJOYABLE OR AMUSING" TRANS="веселье">merriment</W> 
 <W DOM="2" FEAT="CONJ" HYPOT="adverb.10" ID="8" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="10" FEAT="A" HYPOT="determ.13" ID="9" KSNAME="YOUR" LEMMA="YOUR" LINK="determ" PAFT=" ">your</W> 
 <W DOM="11" FEAT="S PL" HYPOT="predic.01" ID="10" KSNAME="FRIEND" LEMMA="FRIEND" LINK="predic" PAFT=" " UNL="friend(icl&gt;person,pos&gt;person)" DEF="A PERSON YOU KNOW WELL AND REGARD WITH AFFECTION AND TRUST" TRANS="друг">friends</W> 
@@ -287,12 +287,12 @@
 <W DOM="33" FEAT="S SG" HYPOT="predic.01" ID="32" KSNAME="COMPANION" LEMMA="COMPANION" LINK="predic" PAFT=" " UNL="companion(icl&gt;friend&gt;thing)" DEF="A PERSON WHO IS FREQUENTLY IN THE COMPANY OF ANOTHER" TRANS="спутник">companion</W> 
 <W DOM="30" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="subord-conj.10" ID="33" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">was</W> 
 <W DOM="35" FEAT="ADV" HYPOT="adverb.01" ID="34" KSNAME="COMPLETELY" LEMMA="COMPLETELY" LINK="adverb" PAFT=" " UNL="completely(icl&gt;how,equ&gt;wholly,ant&gt;partly,com&gt;complete)" DEF="TO A COMPLETE DEGREE OR TO THE FULL OR ENTIRE EXTENT (`WHOLE' IS OFTEN USED INFORMALLY FOR `WHOLLY')" TRANS="совсем,вконец,совершенно,вдрызг,дочиста,дотла">completely</W> 
-<W DOM="33" FEAT="V PP" HYPOT="pass-anal.10" ID="35" KSNAME="MYSTIFY" LEMMA="MYSTIFY" LINK="pass-anal" PAFT=". " UNL="mystify(icl&gt;confuse&gt;be,equ&gt;perplex,obj&gt;thing,aoj&gt;thing)" DEF="">mystified</W>. 
+<W DOM="33" FEAT="V PP" HYPOT="pass-anal.10" ID="35" KSNAME="MYSTIFY" LEMMA="MYSTIFY" LINK="pass-anal" PAFT=". " UNL="mystify(icl&gt;confuse&gt;be,equ&gt;perplex,obj&gt;thing,aoj&gt;thing)" DEF="BE A MYSTERY OR BEWILDERING TO" TRANS="озадачивать">mystified</W>. 
 </S>
 <S DATE="29 11 2010 20:01:50" ID="11" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_4\\br-f03.tgt;11" STATUS="doubt">
 <W DOM="2" FEAT="S SG" GRP="1,2" HYPOT="compos.01" ID="1" KSNAME="FRM-PROP" LEMMA="RUDYARD" LINK="compos" PAFT=" ">Rudyard</W> 
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S POSS SG" GRP="1,2" HYPOT="posses.01" ID="2" KSNAME="KIPLING" LEMMA="KIPLING" LINK="posses" PAFT=" ">Kipling's</W> 
-<W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SCORN1" LEMMA="SCORN" LINK="predic" PAFT=" " UNL="scorn(icl&gt;dislike&gt;thing,equ&gt;contempt)" DEF="">scorn</W> 
+<W DOM="10" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="SCORN1" LEMMA="SCORN" LINK="predic" PAFT=" " UNL="scorn(icl&gt;dislike&gt;thing,equ&gt;contempt)" DEF="LACK OF RESPECT ACCOMPANIED BY A FEELING OF INTENSE DISLIKE" TRANS="презрение">scorn</W> 
 <W DOM="3" FEAT="PR" HYPOT="1-compl.07" ID="4" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" &quot;">the</W> 
 "<W DOM="4" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="6" KSNAME="JARGON" LEMMA="JARGON" LINK="prepos" PAFT="&quot; " UNL="jargon(icl&gt;non-standard_speech&gt;thing,equ&gt;slang)" DEF="A CHARACTERISTIC LANGUAGE OF A PARTICULAR GROUP (AS AMONG THIEVES)" TRANS="жаргон">jargon</W>" 
@@ -710,7 +710,7 @@
 <W DOM="24" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="BASIC1" LEMMA="BASIC" LINK="modif" PAFT=" " UNL="basic(icl&gt;adj,ant&gt;incidental)" DEF="PERTAINING TO OR CONSTITUTING A BASE OR BASIS" TRANS="основополагающий,коренной,основной">basic</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="MYSTERY" LEMMA="MYSTERY" LINK="prepos" PAFT=" " UNL="mystery(icl&gt;perplexity&gt;thing)" DEF="SOMETHING THAT BAFFLES UNDERSTANDING AND CANNOT BE EXPLAINED" TRANS="загадка">mystery</W> 
 <W DOM="17" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="coord-conj.10" ID="25" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">is</W> 
-<W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="OUTRIGHT1" LEMMA="OUTRIGHT" LINK="modif" PAFT=" " UNL="outright(icl&gt;absolute,icl&gt;adj)" DEF="">outright</W> 
+<W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="OUTRIGHT1" LEMMA="OUTRIGHT" LINK="modif" PAFT=" " UNL="outright(icl&gt;absolute,icl&gt;adj)" DEF="" TRANS="совершенный,полный">outright</W> 
 <W DOM="25" FEAT="S SG" HYPOT="copulat.10" ID="27" KSNAME="AVOIDANCE" LEMMA="AVOIDANCE" LINK="copulat" PAFT=" " UNL="avoidance(icl&gt;rejection&gt;thing)" DEF="DELIBERATELY AVOIDING" TRANS="избежание,избегание">avoidance</W> 
 <W DOM="27" FEAT="PR" HYPOT="1-compl.07" ID="28" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="30" FEAT="A" HYPOT="modif.01" ID="29" KSNAME="ROUTINE2" LEMMA="ROUTINE" LINK="modif" PAFT=" ">routine</W> 
@@ -1573,7 +1573,7 @@
 <W DOM="13" FEAT="S SG" GRP="1,2,3,4" HYPOT="predic.01" ID="4" KSNAME="FRM-PROP" LEMMA="HILPRECHT" LINK="predic" PAFT=", ">Hilprecht</W>, 
 <W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S SG" HYPOT="descr-appos.01" ID="5" KSNAME="PROFESSOR" LEMMA="PROFESSOR" LINK="descr-appos" PAFT=" " UNL="professor(icl&gt;academician&gt;thing)" DEF="SOMEONE WHO IS A MEMBER OF THE FACULTY AT A COLLEGE OR UNIVERSITY" TRANS="профессор,преподаватель">Professor</W> 
 <W DOM="5" FEAT="PR" HYPOT="attrib.01" ID="6" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
-<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="ASSYRIAN2" LEMMA="ASSYRIAN" LINK="prepos" PAFT=" " UNL="assyrian(icl&gt;akkadian&gt;thing)" DEF="">Assyrian</W> 
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="7" KSNAME="ASSYRIAN2" LEMMA="ASSYRIAN" LINK="prepos" PAFT=" " UNL="assyrian(icl&gt;akkadian&gt;abstract_thing,iof&gt;language)" DEF="">Assyrian</W> 
 <W DOM="7" FEAT="PR" HYPOT="attrib.01" ID="8" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="8" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="10,11,12" HYPOT="prepos.01" ID="10" KSNAME="UNIVERSITY" LEMMA="UNIVERSITY" LINK="prepos" PAFT=" ">University</W> 
@@ -1582,7 +1582,7 @@
 <W DOM="_root" EXTRAFEAT="ALT FIN QFIN" FEAT="V PST" ID="13" KSNAME="DREAM2" LEMMA="DREAM" PAFT=" " UNL="dream(icl&gt;perceive&gt;do,com&gt;sleep,agt&gt;person,obj&gt;uw)" DEF="EXPERIENCE WHILE SLEEPING" TRANS="видеть">dreamed</W> 
 <W DOM="13" FEAT="CONJ" HYPOT="1-compl.21" ID="14" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="16" KSNAME="BABYLONIAN2" LEMMA="BABYLONIAN" LINK="compos" PAFT=" " UNL="babylonian(icl&gt;semite&gt;thing)" DEF="">Babylonian</W> 
+<W DOM="17" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="compos.01" ID="16" KSNAME="BABYLONIAN2" LEMMA="BABYLONIAN" LINK="compos" PAFT=" " UNL="babylonian(icl&gt;semite&gt;person)" DEF="AN INHABITANT OF ANCIENT BABYLON" TRANS="вавилонец">Babylonian</W> 
 <W DOM="25" FEAT="S SG" HYPOT="predic.01" ID="17" KSNAME="PRIEST" LEMMA="PRIEST" LINK="predic" PAFT=", " UNL="priest(icl&gt;spiritual_leader&gt;thing)" DEF="A PERSON WHO PERFORMS RELIGIOUS DUTIES AND CEREMONIES IN A NON-CHRISTIAN RELIGION" TRANS="священник,жрец">priest</W>, 
 <W DOM="17" FEAT="V PP" HYPOT="modif.01" ID="18" KSNAME="ASSOCIATE1" LEMMA="ASSOCIATE" LINK="modif" PAFT=" ">associated</W> 
 <W DOM="18" FEAT="PR" HYPOT="2-compl.02" ID="19" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
@@ -1701,7 +1701,7 @@
 <W DOM="6" FEAT="S NOM SG" HYPOT="predic.01" ID="5" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="15" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="1-compl.14" ID="6" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">was</W> 
 <W DOM="6" FEAT="ADV" HYPOT="restr.10" ID="7" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
-<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="copulat.10" ID="8" KSNAME="ASSYRIAN2" LEMMA="ASSYRIAN" LINK="copulat" PAFT=" " UNL="assyrian(icl&gt;semite&gt;thing)" DEF="">Assyrian</W> 
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="copulat.10" ID="8" KSNAME="ASSYRIAN2" LEMMA="ASSYRIAN" LINK="copulat" PAFT=" " UNL="assyrian(icl&gt;semite&gt;person)" DEF="AN INHABITANT OF ANCIENT ASSYRIA" TRANS="ассириянин,ассириец">Assyrian</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="NOR" LEMMA="NOR" LINK="coordin" PAFT=" ">nor</W> 
 <W DOM="9" FEAT="S SG" HYPOT="coord-conj.10" ID="10" KSNAME="FRM-PROP" LEMMA="CASSITE" LINK="coord-conj" PAFT=", ">Cassite</W>, 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.13" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -1966,9 +1966,9 @@
 <W DOM="4" FEAT="NID" GRP="2,3" HYPOT="predic.01" ID="3" KSNAME="FICT-LEX" LEMMA="VU" LINK="predic" PAFT=" ">vu</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" HYPOT="subord-conj.10" ID="4" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">is</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
-<W DOM="4" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="copulat" PAFT=", " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="">illusion</W>, 
+<W DOM="4" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="ILLUSION" LEMMA="ILLUSION" LINK="copulat" PAFT=", " UNL="illusion(icl&gt;misconception&gt;thing)" DEF="SOMETHING MANY PEOPLE BELIEVE THAT IS FALSE" TRANS="иллюзия">illusion</W>, 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" " UNL="then(icl&gt;how,equ&gt;in_that_case)" DEF="IN THAT CASE" TRANS="тогда">then</W> 
-<W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="PECULIARLY" LEMMA="PECULIARLY" LINK="adverb" PAFT=", " UNL="peculiarly(icl&gt;how,equ&gt;curiously,com&gt;peculiar)" DEF="">peculiarly</W>, 
+<W DOM="10" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="PECULIARLY" LEMMA="PECULIARLY" LINK="adverb" PAFT=", " UNL="peculiarly(icl&gt;how,equ&gt;curiously,com&gt;peculiar)" DEF="IN A MANNER DIFFERING FROM THE USUAL OR EXPECTED" TRANS="особенно">peculiarly</W>, 
 <W DOM="10" FEAT="S NOM SG" HYPOT="predic.01" ID="9" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS SG TP" ID="10" KSNAME="BE" LEMMA="BE" PAFT=" ">is</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 

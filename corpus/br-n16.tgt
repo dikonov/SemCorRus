@@ -76,7 +76,7 @@
 <W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.14" ID="17" KSNAME="REPEAT1" LEMMA="REPEAT" LINK="1-compl" PAFT=" " UNL="repeat(icl&gt;utter&gt;do,agt&gt;person,obj&gt;uw)" DEF="TO SAY AGAIN OR IMITATE" TRANS="повторять">repeated</W> 
 <W DOM="19" FEAT="ART" HYPOT="determ.11" ID="18" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="S SG" HYPOT="predic.08" ID="19" KSNAME="ABSURDITY" LEMMA="ABSURDITY" LINK="predic" PAFT=", " UNL="absurdity(icl&gt;nonsense&gt;thing)" DEF="A MESSAGE WHOSE CONTENT IS AT VARIANCE WITH REASON" TRANS="абсурд,нелепость">absurdity</W>, 
-<W DOM="15" FEAT="V ING" HYPOT="descr-modif.01" ID="20" KSNAME="MUSTER2" LEMMA="MUSTER" LINK="descr-modif" PAFT=" " UNL="muster(icl&gt;gather&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">mustering</W> 
+<W DOM="15" FEAT="V ING" HYPOT="descr-modif.01" ID="20" KSNAME="MUSTER2" LEMMA="MUSTER" LINK="descr-modif" PAFT=" " UNL="muster(icl&gt;gather&gt;do,agt&gt;thing,obj&gt;thing)" DEF="GATHER OR BRING TOGETHER" TRANS="собирать">mustering</W> 
 <W DOM="24" FEAT="A" HYPOT="modif.01" ID="21" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
 <W DOM="24" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="MY" LEMMA="MY" LINK="determ" PAFT=" ">my</W> 
 <W DOM="24" FEAT="A" HYPOT="modif.01" ID="23" KSNAME="LATENT" LEMMA="LATENT" LINK="modif" PAFT=" " UNL="latent(icl&gt;adj)" DEF="NOT PRESENTLY ACTIVE" TRANS="латентный">latent</W> 
@@ -269,7 +269,7 @@
 <W DOM="8" FEAT="S SG" ID="28" KSNAME="CONFUSION" LEMMA="CONFUSION" LINK="fictit" PAFT=" " UNL="confusion(icl&gt;cognitive_state&gt;thing)" DEF="A MENTAL STATE CHARACTERIZED BY A LACK OF CLEAR AND ORDERLY THOUGHT AND BEHAVIOR" TRANS="путаница">confusion</W> 
 <W DOM="28" FEAT="PR" HYPOT="quasiagent.10" ID="29" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="29" FEAT="S SG" HYPOT="prepos.01" ID="30" KSNAME="HOPE2" LEMMA="HOPE" LINK="prepos" PAFT=", " UNL="hope(icl&gt;anticipation&gt;thing)" DEF="A SPECIFIC INSTANCE OF FEELING HOPEFUL" TRANS="надежда">hope</W>, 
-<W DOM="30" FEAT="S SG" HYPOT="descr-appos.01" ID="31" KSNAME="APPREHENSION" LEMMA="APPREHENSION" LINK="descr-appos" PAFT=", " UNL="apprehension(icl&gt;fear&gt;thing)" DEF="">apprehension</W>, 
+<W DOM="30" FEAT="S SG" HYPOT="descr-appos.01" ID="31" KSNAME="APPREHENSION" LEMMA="APPREHENSION" LINK="descr-appos" PAFT=", " UNL="apprehension(icl&gt;fear&gt;thing)" DEF="FEARFUL EXPECTATION OR ANTICIPATION" TRANS="страх">apprehension</W>, 
 <W DOM="8" FEAT="S SG" ID="32" KSNAME="DESPAIR1" LEMMA="DESPAIR" LINK="fictit" PAFT="-" UNL="despair(icl&gt;feeling&gt;thing,ant&gt;hope)" DEF="THE FEELING THAT EVERYTHING IS WRONG AND NOTHING WILL TURN OUT WELL" TRANS="отчаяние">despair</W>- 
 <W DOM="35" FEAT="ART" HYPOT="determ.11" ID="33" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="35" FEAT="V ING" HYPOT="modif.01" ID="34" KSNAME="LEER2" LEMMA="LEER" LINK="modif" MSNAME="LEER2" PAFT=" ">leering</W> 
@@ -460,7 +460,7 @@
 <W DOM="18" FEAT="CONJ" ID="14" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="16" FEAT="ADV" HYPOT="restr.11" ID="15" KSNAME="STILL1" LEMMA="STILL" LINK="restr" PAFT=" " UNL="still(icl&gt;how,com&gt;duration)" DEF="WITHOUT CHANGE OR INTERRUPTION" TRANS="по-прежнему">still</W> 
 <W DOM="17" EXTRAFEAT="ALT" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="DARK-HAIRED" LEMMA="DARK-HAIRED" LINK="modif" PAFT=" " UNL="dark-haired(icl&gt;adj)" DEF="COVERED WITH DARK HAIR" TRANS="темноволосый">darkhaired</W> 
-<W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="17" KSNAME="LADY" LEMMA="LADY" LINK="coord-conj" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">lady</W> 
+<W DOM="14" FEAT="S SG" HYPOT="coord-conj.10" ID="17" KSNAME="LADY" LEMMA="LADY" LINK="coord-conj" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">lady</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="18" KSNAME="INQUIRE" LEMMA="INQUIRE" PAFT=" &quot;" UNL="inquire(icl&gt;ask&gt;do,agt&gt;volitional_thing,obj&gt;uw,cao&gt;thing,rec&gt;thing)" DEF="INQUIRE ABOUT" TRANS="спрашивать">inquired</W> 
 "<W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="19,20,21" ID="19" KSNAME="FRM-PROP" LEMMA="Y" LINK="fictit" PAFT=" ">Y</W>' 
 <W DOM="21" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="19,20,21" HYPOT="modif.01" ID="20" KSNAME="ALL1" LEMMA="ALL" LINK="modif" PAFT=" ">all</W> 
@@ -598,7 +598,7 @@
 <W FEAT="V" ID="18" KSNAME="WOULD" LEMMA="WOULD">would</W>, 
 <W FEAT="S" ID="19" KSNAME="I" LEMMA="I">I</W> 
 <W FEAT="V" ID="20" KSNAME="HOPE1" LEMMA="HOPE" UNL="hope(icl&gt;be,equ&gt;cherish,obj&gt;uw,aoj&gt;person)" DEF="BE OPTIMISTIC ABOUT SOMETHING" TRANS="надеяться" WN21="2:37:00::">hoped</W>, 
-<W FEAT="V" ID="21" KSNAME="OVERHAUL1" LEMMA="OVERHAUL" UNL="overhaul(icl&gt;advance&gt;do,equ&gt;pass,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:38:00::">overhaul</W> 
+<W FEAT="V" ID="21" KSNAME="OVERHAUL1" LEMMA="OVERHAUL" UNL="overhaul(icl&gt;advance&gt;do,equ&gt;pass,agt&gt;thing,obj&gt;thing)" DEF="TRAVEL PAST" TRANS="перегонять,обгонять" WN21="2:38:00::">overhaul</W> 
 <W FEAT="S SG" ID="22" KSNAME="FICT-PERS" LEMMA="HERRY" REM="PERSON" WN21="1:03:00::">Herry</W> 
 <W FEAT="CONJ" ID="23" KSNAME="AND" LEMMA="AND">and</W> 
 <W FEAT="ART" ID="24" KSNAME="THE" LEMMA="THE">the</W> 
@@ -934,7 +934,7 @@
 <W ID="18">Ford</W> 
 <W FEAT="S SG" ID="19" KSNAME="SEDAN1" LEMMA="SEDAN" UNL="sedan(icl&gt;car&gt;thing)" DEF="A CAR THAT IS CLOSED AND THAT HAS FRONT AND REAR SEATS AND TWO OR FOUR DOORS" TRANS="седан" WN21="1:06:00::">sedan</W>, 
 <W FEAT="V" ID="20" KSNAME="COME" LEMMA="COME" UNL="come(icl&gt;move&gt;do,plt&gt;place,agt&gt;person)" DEF="TRAVEL TOWARD SOMETHING OR SOMEBODY" TRANS="идти" WN21="2:38:00::">came</W> 
-<W FEAT="V" ID="21" KSNAME="SCREECH2" LEMMA="SCREECH" UNL="screech(icl&gt;make_noise&gt;do,equ&gt;squeak,agt&gt;thing)" DEF="" WN21="2:39:00::">screeching</W> 
+<W FEAT="V" ID="21" KSNAME="SCREECH2" LEMMA="SCREECH" UNL="screech(icl&gt;make_noise&gt;do,equ&gt;squeak,agt&gt;thing)" DEF="MAKE A HIGH-PITCHED, SCREECHING NOISE" TRANS="скрипеть" WN21="2:39:00::">screeching</W> 
 <W ID="22">to</W> 
 <W FEAT="ART" ID="23" KSNAME="AN1" LEMMA="AN">a</W> 
 <W FEAT="S SG" ID="24" KSNAME="DUST1" LEMMA="DUST" UNL="dust(icl&gt;particulate&gt;thing)" DEF="FINE POWDERY MATERIAL SUCH AS DRY EARTH OR POLLEN THAT CAN BE BLOWN ABOUT IN THE AIR" TRANS="пыль" WN21="1:27:00::">dust</W> 
@@ -1334,7 +1334,7 @@
 <W FEAT="ART" ID="24" KSNAME="THE" LEMMA="THE">the</W> 
 <W FEAT="S SG" ID="25" KSNAME="ROAD" LEMMA="ROAD" UNL="road(icl&gt;way&gt;thing)" DEF="AN OPEN WAY (GENERALLY PUBLIC) FOR TRAVEL OR TRANSPORTATION" TRANS="дорога" WN21="1:06:00::">road</W> 
 <W FEAT="ADV" ID="26" KSNAME="WILDLY" LEMMA="WILDLY" WN21="4:02:00::">wildly</W> 
-<W FEAT="V" ID="27" KSNAME="VEER2" LEMMA="VEER" UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="" WN21="2:38:00::">veering</W> 
+<W FEAT="V" ID="27" KSNAME="VEER2" LEMMA="VEER" UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать" WN21="2:38:00::">veering</W> 
 <W ID="28">beyond</W> 
 <W FEAT="A" ID="29" KSNAME="HIS1" LEMMA="HIS">his</W> 
 <W FEAT="V ING" ID="30" KSNAME="GLISTEN" LEMMA="GLISTEN" WN21="5:00:00:bright:">glistening</W> 
@@ -1580,7 +1580,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="3" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST SG FP" HYPOT="1-compl.31" ID="4" KSNAME="BE" LEMMA="BE" LINK="1-compl" PAFT=" ">was</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="copulat" PAFT=", " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexican</W>, 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="copulat" PAFT=", " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexican</W>, 
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="coordin.05" ID="7" KSNAME="DO1" LEMMA="DO" LINK="coordin" PAFT=" ">did</W> 
 <W DOM="7" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="8" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
 <W DOM="7" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="9" KSNAME="YOU" LEMMA="YOU" LINK="1-compl" PAFT=", ">you</W>, 
@@ -1598,7 +1598,7 @@
 <W DOM="3" FEAT="S SG" GRP="4,5" HYPOT="copulat.10" ID="5" KSNAME="RIGHT3" LEMMA="RIGHT" LINK="copulat" PAFT=", ">right</W>, 
 <W DOM="3" FEAT="S SG" HYPOT="parenth.20" ID="6" KSNAME="BUDDY" LEMMA="BUDDY" LINK="parenth" PAFT=" &quot;, " UNL="buddy(icl&gt;friend&gt;thing)" DEF="A CLOSE FRIEND WHO ACCOMPANIES HIS BUDDIES IN THEIR ACTIVITIES" TRANS="товарищ">buddy</W>", 
 <W DOM="8" EXTRAFEAT="IN-QUOT" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="12" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="predic" PAFT=" (" UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian</W>( 
+<W DOM="12" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="predic" PAFT=" (" UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian</W>( 
 <W DOM="11" EXTRAFEAT="CAP IN-BR IN-QUOT" FEAT="S NOM SG" HYPOT="predic.01" ID="9" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="11" EXTRAFEAT="IN-BR IN-QUOT" FEAT="ADV" HYPOT="adverb.01" ID="10" KSNAME="NOW1" LEMMA="NOW" LINK="adverb" PAFT=" " UNL="now(icl&gt;how)" DEF="AT THIS POINT IN THE NARRATION OF A SERIES OF PAST EVENTS" TRANS="сейчас">now</W> 
 <W DOM="8" EXTRAFEAT="FIN IN-BR IN-QUOT QFIN" FEAT="V PST" HYPOT="relat.02" ID="11" KSNAME="GUESS2" LEMMA="GUESS" LINK="relat" PAFT=") " UNL="guess(icl&gt;think&gt;be,obj&gt;uw,aoj&gt;person)" DEF="EXPECT, BELIEVE, OR SUPPOSE" TRANS="полагать">guessed</W>) 
@@ -1821,7 +1821,7 @@
 <W DOM="4" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="analyt.13" ID="6" KSNAME="BOUNCE2" LEMMA="BOUNCE" LINK="analyt" PAFT=" " UNL="bounce(icl&gt;hit&gt;do,cob&gt;concrete_thing,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">bounce</W> 
 <W DOM="6" FEAT="ADV" HYPOT="adverb.01" ID="7" KSNAME="HARMLESSLY" LEMMA="HARMLESSLY" LINK="adverb" PAFT=" " UNL="harmlessly(icl&gt;how,ant&gt;harmfully,com&gt;harmless)" DEF="IN A HARMLESS MANNER" TRANS="безвредно">harmlessly</W> 
 <W DOM="7" FEAT="CONJ" HYPOT="coordin.11" ID="8" KSNAME="BUT1" LEMMA="BUT" LINK="coordin" PAFT=" ">but</W> 
-<W DOM="8" FEAT="ADV" HYPOT="coord-conj.10" ID="9" KSNAME="LOUDLY" LEMMA="LOUDLY" LINK="coord-conj" PAFT=" " UNL="loudly(icl&gt;how,equ&gt;obstreperously,com&gt;obstreperous)" DEF="">loudly</W> 
+<W DOM="8" FEAT="ADV" HYPOT="coord-conj.10" ID="9" KSNAME="LOUDLY" LEMMA="LOUDLY" LINK="coord-conj" PAFT=" " UNL="loudly(icl&gt;how,equ&gt;obstreperously,com&gt;obstreperous)" DEF="IN MANNER THAT ATTRACTS ATTENTION" TRANS="шумно">loudly</W> 
 <W DOM="6" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="OFF2" LEMMA="OFF" LINK="1-compl" PAFT=" ">off</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.11" ID="11" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="14" FEAT="S POSS SG" HYPOT="posses.01" ID="12" KSNAME="CAR" LEMMA="CAR" LINK="posses" PAFT=" " UNL="car(icl&gt;motor_vehicle&gt;thing)" DEF="A MOTOR VEHICLE WITH FOUR WHEELS" TRANS="автомобиль,машина">car's</W> 
@@ -1853,7 +1853,7 @@
 </S>
 <S DATE="30 11 2010 10:40:02" ID="100" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n16.tgt;100" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="predic" PAFT=" " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="predic" PAFT=" " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="3" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="5" FEAT="ADV" HYPOT="adverb.01" ID="4" KSNAME="AGAIN" LEMMA="AGAIN" LINK="adverb" PAFT=" " UNL="again(icl&gt;how)" DEF="ANEW" TRANS="снова">again</W> 
 <W DOM="3" FEAT="V ING" HYPOT="analyt.11" ID="5" KSNAME="RAISE1" LEMMA="RAISE" LINK="analyt" PAFT=" " UNL="raise(icl&gt;move&gt;do,equ&gt;lift,plt&gt;thing,plf&gt;thing,agt&gt;uw,obj&gt;concrete_thing)" DEF="RAISE FROM A LOWER TO A HIGHER POSITION" TRANS="поднимать">raising</W> 
@@ -1877,7 +1877,7 @@
 <W DOM="3" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="23" KSNAME="GO1" LEMMA="GO" LINK="fictit" PAFT=" " UNL="go(icl&gt;move&gt;do,plt&gt;place,plf&gt;place,agt&gt;thing)" DEF="TO MOVE ON A COURSE" TRANS="идти,двигаться">went</W> 
 <W DOM="23" FEAT="PR" HYPOT="2-compl.02" ID="24" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="26" FEAT="ART" HYPOT="determ.11" ID="25" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="27" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="26" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="posses" PAFT=" " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian's</W> 
+<W DOM="27" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="26" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="posses" PAFT=" " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian's</W> 
 <W DOM="24" FEAT="S PL" HYPOT="prepos.01" ID="27" KSNAME="LIP1" LEMMA="LIP" LINK="prepos" PAFT=". " UNL="lip(icl&gt;external_body_part&gt;thing)" DEF="FLESHY FOLDS OF TISSUE AS THOSE SURROUNDING THE MOUTH" TRANS="губа">lips</W>. 
 </S>
 <S DATE="30 11 2010 10:40:02" ID="101" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n16.tgt;101" STATUS="doubt">
@@ -2104,7 +2104,7 @@
 <W DOM="7" FEAT="S OBJ SG" HYPOT="prepos.01" ID="8" KSNAME="I" LEMMA="I" LINK="prepos" PAFT=", ">me</W>, 
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="INSANE" LEMMA="INSANE" LINK="modif" PAFT=" " UNL="insane(icl&gt;adj,ant&gt;sane)" DEF="AFFLICTED WITH OR CHARACTERISTIC OF MENTAL DERANGEMENT" TRANS="душевнобольной">insane</W> 
-<W DOM="2" FEAT="S SG" HYPOT="sent-appos.01" ID="11" KSNAME="BURST1" LEMMA="BURST" LINK="sent-appos" PAFT=" " UNL="burst(icl&gt;activity&gt;thing)" DEF="">burst</W> 
+<W DOM="2" FEAT="S SG" HYPOT="sent-appos.01" ID="11" KSNAME="BURST1" LEMMA="BURST" LINK="sent-appos" PAFT=" " UNL="burst(icl&gt;activity&gt;thing)" DEF="A SUDDEN FLURRY OF ACTIVITY (OFTEN FOR NO OBVIOUS REASON)" TRANS="вспышка">burst</W> 
 <W DOM="11" FEAT="PR" HYPOT="quasiagent.10" ID="12" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="12" FEAT="S SG" HYPOT="prepos.01" ID="13" KSNAME="LAUGHTER" LEMMA="LAUGHTER" LINK="prepos" PAFT=" " UNL="laughter(icl&gt;utterance&gt;thing,equ&gt;laugh)" DEF="THE SOUND OF LAUGHING" TRANS="хохот,смех">laughter</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.01" ID="14" KSNAME="BENEATH1" LEMMA="BENEATH" LINK="attrib" PAFT=" ">beneath</W> 
@@ -2178,7 +2178,7 @@
 </S>
 <S DATE="30 11 2010 10:40:04" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="116" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n16.tgt;116" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
-<W DOM="3" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="2" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="posses" PAFT=" " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian's</W> 
+<W DOM="3" EXTRAFEAT="CAP" FEAT="S POSS SG" HYPOT="posses.01" ID="2" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="posses" PAFT=" " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian's</W> 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="ARM1" LEMMA="ARM" LINK="predic" PAFT=" " UNL="arm(icl&gt;limb&gt;thing)" DEF="A HUMAN LIMB" TRANS="рука">arm</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="WHIP2" LEMMA="WHIP" PAFT=" " UNL="whip(icl&gt;convulse&gt;occur,obj&gt;thing)" DEF="THRASH ABOUT FLEXIBLY IN THE MANNER OF A WHIPLASH" TRANS="мотаться">whipped</W> 
 <W DOM="4" FEAT="NID" HYPOT="1-compl.01" ID="5" KSNAME="FICT-LEX" LEMMA="SIDEWISE" LINK="1-compl" PAFT="-">sidewise</W>- 
@@ -2287,7 +2287,7 @@
 <S DATE="30 11 2010 10:40:04" ID="123" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_26\\br-n16.tgt;123" STATUS="doubt">
 <W DOM="_root" EXTRAFEAT="CAP" FEAT="CONJ" ID="1" KSNAME="BUT1" LEMMA="BUT" PAFT=" ">But</W> 
 <W DOM="3" FEAT="ART" HYPOT="determ.11" ID="2" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="predic" PAFT=" " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="predic" PAFT=" " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" HYPOT="coord-conj.00" ID="4" KSNAME="BE" LEMMA="BE" LINK="coord-conj" PAFT=" ">was</W> 
 <W DOM="4" FEAT="V ING" HYPOT="analyt.11" ID="5" KSNAME="JAB2" LEMMA="JAB" LINK="analyt" PAFT=" " UNL="jab(icl&gt;thrust&gt;do,agt&gt;volitional_thing,obj&gt;concrete_thing,opl&gt;thing)" DEF="POKE OR THRUST ABRUPTLY" TRANS="тыкать">jabbing</W> 
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" " UNL="another(icl&gt;adj,equ&gt;another)" DEF="ANY OF VARIOUS ALTERNATIVES" TRANS="другой">another</W> 

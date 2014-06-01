@@ -504,7 +504,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="THIS2" LEMMA="THIS" LINK="prepos" PAFT=", ">this</W>, 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS" ID="7" KSNAME="SHALL" LEMMA="SHALL" PAFT=" ">shall</W> 
-<W DOM="7" FEAT="V MF" HYPOT="analyt.13" ID="8" KSNAME="PREFER1" LEMMA="PREFER" LINK="analyt" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">prefer</W> 
+<W DOM="7" FEAT="V MF" HYPOT="analyt.13" ID="8" KSNAME="PREFER1" LEMMA="PREFER" LINK="analyt" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">prefer</W> 
 <W DOM="2" FEAT="V ING" HYPOT="explet.10" ID="9" KSNAME="EMIGRATE" LEMMA="EMIGRATE" LINK="explet" PAFT=" " UNL="emigrate(icl&gt;migrate&gt;do,plt&gt;thing,plf&gt;thing,agt&gt;person)" DEF="LEAVE ONE'S COUNTRY OF RESIDENCE FOR A NEW ONE" TRANS="эмигрировать">emigrating</W> 
 <W DOM="9" FEAT="PR" HYPOT="2-compl.02" ID="10" KSNAME="TO1" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="11" KSNAME="SOME1" LEMMA="SOME" LINK="determ" PAFT=" ">some</W> 
@@ -899,7 +899,7 @@
 <W FEAT="CONJ" ID="49" KSNAME="THAT1" LEMMA="THAT">that</W> 
 <W FEAT="S" ID="50" KSNAME="THEY" LEMMA="THEY">they</W> 
 <W FEAT="V" ID="51" KSNAME="BE" LEMMA="BE">are</W> 
-<W FEAT="V" ID="52" KSNAME="ENDOW" LEMMA="ENDOW" UNL="endow(icl&gt;enable&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="" WN21="2:41:00::">endowed</W> 
+<W FEAT="V" ID="52" KSNAME="ENDOW" LEMMA="ENDOW" UNL="endow(icl&gt;enable&gt;do,cob&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="GIVE QUALITIES OR ABILITIES TO" TRANS="наделять" WN21="2:41:00::">endowed</W> 
 <W ID="53">by</W> 
 <W FEAT="A" ID="54" KSNAME="THEIR" LEMMA="THEIR">their</W> 
 <W FEAT="S SG" ID="55" KSNAME="CREATOR" LEMMA="CREATOR">Creator</W> 

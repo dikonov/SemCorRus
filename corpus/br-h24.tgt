@@ -539,7 +539,7 @@
 <W DOM="3" FEAT="S SG" HYPOT="copulat.10" ID="6" KSNAME="ALIEN2" LEMMA="ALIEN" LINK="copulat" PAFT=" " UNL="alien(icl&gt;traveler&gt;thing,equ&gt;foreigner)" DEF="">alien</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.10" ID="7" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="8" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="7" FEAT="S SG" HYPOT="coord-conj.10" ID="9" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="coord-conj" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;thing,ant&gt;nonresident)" DEF="">resident</W> 
+<W DOM="7" FEAT="S SG" HYPOT="coord-conj.10" ID="9" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="coord-conj" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;person,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="резидент,житель">resident</W> 
 <W DOM="9" FEAT="PR" HYPOT="1-compl.07" ID="10" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
 <W DOM="10" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="PUERTO$RICO" LEMMA="PUERTO RICO" LINK="prepos" PAFT=", " UNL="puerto_rico(iof&gt;commonwealth&gt;thing)" DEF="A SELF-GOVERNING COMMONWEALTH ASSOCIATED WITH THE UNITED STATES OCCUPYING THE ISLAND OF PUERTO RICO" TRANS="Пуэрто-Рико">Puerto Rico</W>, 
 <W DOM="13" FEAT="A" HYPOT="determ.13" ID="12" KSNAME="YOUR" LEMMA="YOUR" LINK="determ" PAFT=" ">your</W> 
@@ -1211,7 +1211,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="CASH1" LEMMA="CASH" LINK="prepos" PAFT=", " UNL="cash(icl&gt;currency&gt;thing)" DEF="MONEY IN THE FORM OF BILLS OR COINS" TRANS="наличные">cash</W>, 
 <W DOM="7" FEAT="S NOM PL" HYPOT="predic.01" ID="6" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="SHOULD" LEMMA="SHOULD" MSNAME="SHOULD" PAFT=" ">should</W> 
-<W DOM="7" FEAT="V MF" HYPOT="analyt.13" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W> 
+<W DOM="7" FEAT="V MF" HYPOT="analyt.13" ID="8" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.10" ID="10" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="9" FEAT="S SG" HYPOT="prepos.01" ID="11" KSNAME="RECEIPT1" LEMMA="RECEIPT" LINK="prepos" PAFT=". " UNL="receipt(icl&gt;acknowledgment&gt;thing)" DEF="AN ACKNOWLEDGMENT (USUALLY TANGIBLE) THAT PAYMENT HAS BEEN MADE" TRANS="чек">receipt</W>. 

@@ -671,7 +671,7 @@
 <W DOM="8" FEAT="NUM" HYPOT="1-compl.01" ID="19" KSNAME="NUM-TWONE" LEMMA="31" LINK="1-compl" PAFT=", ">31</W>, 
 <W DOM="22" FEAT="A" GRP="20,21" HYPOT="predic.01" ID="20" KSNAME="ALL1" LEMMA="ALL" LINK="predic" PAFT=" ">all</W> 
 <W DOM="22" FEAT="PART" GRP="20,21" HYPOT="restr.11" ID="21" KSNAME="BUT2" LEMMA="BUT" LINK="restr" PAFT=" ">but</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="22" KSNAME="SMOTHER1" LEMMA="SMOTHER" PAFT=" " UNL="smother(icl&gt;suppress&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">smothered</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="22" KSNAME="SMOTHER1" LEMMA="SMOTHER" PAFT=" " UNL="smother(icl&gt;suppress&gt;do,agt&gt;thing,obj&gt;thing)" DEF="CONCEAL OR HIDE" TRANS="подавлять">smothered</W> 
 <W DOM="22" FEAT="S SG" HYPOT="1-compl.01" ID="23" KSNAME="HIMSELF" LEMMA="HIMSELF" LINK="1-compl" PAFT=" ">himself</W> 
 <W DOM="22" FEAT="PR" HYPOT="2-compl.02" ID="24" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="26" FEAT="A" HYPOT="determ.00" ID="25" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
@@ -1875,7 +1875,7 @@
 <W DOM="5" FEAT="NUM" HYPOT="prepos.01" ID="6" KSNAME="NUM-THOUS" LEMMA="60000" LINK="prepos" PAFT=" ">60000</W> 
 <W DOM="8" FEAT="A" HYPOT="modif.01" ID="7" KSNAME="OLD" LEMMA="OLD" LINK="modif" PAFT=" ">old</W> 
 <W DOM="2" FEAT="NID" ID="8" KSNAME="FICT-LEX" LEMMA="GRADS" LINK="fictit" PAFT=", ">grads</W>, 
-<W DOM="7" FEAT="V ING" HYPOT="coordin.02" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asking</W> 
+<W DOM="7" FEAT="V ING" HYPOT="coordin.02" ID="9" KSNAME="ASK1" LEMMA="ASK" LINK="coordin" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asking</W> 
 <W DOM="4" FEAT="PR" HYPOT="attrib.01" ID="10" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
 <W DOM="10" FEAT="S PL" HYPOT="prepos.01" ID="11" KSNAME="SUGGESTION" LEMMA="SUGGESTION" LINK="prepos" PAFT=". ">suggestions</W>. 
 </S>

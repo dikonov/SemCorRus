@@ -456,7 +456,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="CAPACITY" LEMMA="CAPACITY" LINK="predic" PAFT=" ">capacity</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="4" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="4" FEAT="ADV" HYPOT="restr.10" ID="5" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
-<W DOM="4" FEAT="V PP" HYPOT="analyt.12" ID="6" KSNAME="FAIL1" LEMMA="FAIL" LINK="analyt" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="">failed</W> 
+<W DOM="4" FEAT="V PP" HYPOT="analyt.12" ID="6" KSNAME="FAIL1" LEMMA="FAIL" LINK="analyt" PAFT=" " UNL="fail(icl&gt;disappoint&gt;occur,cob&gt;thing,obj&gt;thing)" DEF="DISAPPOINT, PROVE UNDEPENDABLE TO" TRANS="подводить">failed</W> 
 <W DOM="6" FEAT="S OBJ PL" HYPOT="1-compl.01" ID="7" KSNAME="THEY" LEMMA="THEY" LINK="1-compl" PAFT=", ">them</W>, 
 <W DOM="9" FEAT="S NOM PL" HYPOT="predic.01" ID="8" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="9" KSNAME="WOULD" LEMMA="WOULD" MSNAME="WOULD" PAFT=" ">would</W> 
@@ -587,7 +587,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ADV" HYPOT="parenth.16" ID="1" KSNAME="THUS" LEMMA="THUS" LINK="parenth" MSNAME="THUS" PAFT=", " UNL="thus(icl&gt;how,equ&gt;therefore)" DEF="AS A RESULT" TRANS="так что">Thus</W>, 
 <W DOM="12" FEAT="CONJ" HYPOT="adverb.10" ID="2" KSNAME="WHEN2" LEMMA="WHEN" LINK="adverb" PAFT=" ">when</W> 
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="5" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;native&gt;thing)" DEF="">Russians</W> 
+<W DOM="5" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="4" KSNAME="RUSSIAN2" LEMMA="RUSSIAN" LINK="predic" PAFT=" " UNL="russian(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF RUSSIA" TRANS="русский">Russians</W> 
 <W DOM="2" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="5" KSNAME="SEND" LEMMA="SEND" LINK="subord-conj" PAFT=" " UNL="send(icl&gt;direct&gt;do,plt&gt;uw,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing,rec&gt;thing)" DEF="CAUSE TO MOVE SOMEWHERE" TRANS="посылать">sent</W> 
 <W DOM="5" FEAT="ADV" HYPOT="phras-junct.10" ID="6" KSNAME="UP1" LEMMA="UP" LINK="phras-junct" PAFT=" ">up</W> 
 <W DOM="9" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
@@ -717,7 +717,7 @@
 <W DOM="6" EXTRAFEAT="ALT CAP" FEAT="A" GRP="5,6" HYPOT="modif.01" ID="5" KSNAME="WEST2" LEMMA="WEST" LINK="modif" PAFT=" ">West</W> 
 <W DOM="8" EXTRAFEAT="CAP" FEAT="S POSS SG" GRP="5,6" HYPOT="posses.01" ID="6" KSNAME="BERLIN" LEMMA="BERLIN" LINK="posses" PAFT=" ">Berlin's</W> 
 <W DOM="8" FEAT="NUM" HYPOT="quantit.10" ID="7" KSNAME="NUM-THOUS" LEMMA="2200000" LINK="quantit" PAFT=" ">2200000</W> 
-<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="prepos" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;thing,ant&gt;nonresident)" DEF="">residents</W> 
+<W DOM="4" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="RESIDENT2" LEMMA="RESIDENT" LINK="prepos" PAFT=" " UNL="resident(icl&gt;inhabitant&gt;person,ant&gt;nonresident)" DEF="SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE" TRANS="резидент,житель">residents</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS PL" ID="9" KSNAME="BE" LEMMA="BE" PAFT=" ">are</W> 
 <W DOM="11" FEAT="NUM" GRP="10,11" HYPOT="quant-aux.10" ID="10" KSNAME="SIXTY" LEMMA="SIXTY" LINK="quant-aux" PAFT=" ">sixty</W> 
 <W DOM="16" FEAT="NUM" GRP="10,11" HYPOT="quantit.10" ID="11" KSNAME="FIVE1" LEMMA="FIVE" LINK="quantit" PAFT=" ">five</W> 
@@ -884,7 +884,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" ID="5" KSNAME="APPEAR" LEMMA="APPEAR" PAFT=" " UNL="appear(icl&gt;happen&gt;occur,obj&gt;information)" DEF="BE ISSUED OR PUBLISHED" TRANS="выходить">appears</W> 
 <W DOM="5" FEAT="PR" HYPOT="1-compl.07" ID="6" KSNAME="IN1" LEMMA="IN" LINK="1-compl" PAFT=" ">in</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="DISPATCH1" LEMMA="DISPATCH" LINK="prepos" PAFT=" " UNL="dispatch(icl&gt;report&gt;thing)" DEF="">dispatch</W> 
+<W DOM="6" FEAT="S SG" HYPOT="prepos.01" ID="8" KSNAME="DISPATCH1" LEMMA="DISPATCH" LINK="prepos" PAFT=" " UNL="dispatch(icl&gt;report&gt;thing)" DEF="AN OFFICIAL REPORT (USUALLY SENT IN HASTE)" TRANS="официальное сообщение">dispatch</W> 
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
 <W DOM="9" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="BONN" LEMMA="BONN" LINK="prepos" PAFT=" " UNL="bonn(iof&gt;city&gt;thing)" DEF="A CITY IN WESTERN GERMANY ON THE RHINE RIVER" TRANS="Бонн">Bonn</W> 
 <W DOM="10" FEAT="PR" HYPOT="attrib.01" ID="11" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
@@ -936,7 +936,7 @@
 <W DOM="25" FEAT="ART" HYPOT="determ.11" ID="24" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="23" EXTRAFEAT="ALT CAP" FEAT="S SG" HYPOT="prepos.01" ID="25" KSNAME="WEST1" LEMMA="WEST" LINK="prepos" PAFT=" " UNL="west(iof&gt;region&gt;thing,com&gt;culture)" DEF="THE COUNTRIES OF WESTERN EUROPE AND AMERICA" TRANS="Запад">West</W> 
 <W DOM="25" FEAT="PART" HYPOT="attrib.15" ID="26" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="26" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="27" KSNAME="VOLUNTEER2" LEMMA="VOLUNTEER" LINK="prepos" PAFT=" " UNL="volunteer(icl&gt;work&gt;do,agt&gt;thing)" DEF="">volunteer</W> 
+<W DOM="26" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="27" KSNAME="VOLUNTEER2" LEMMA="VOLUNTEER" LINK="prepos" PAFT=" " UNL="volunteer(icl&gt;work&gt;do,agt&gt;thing)" DEF="DO VOLUNTEER WORK" TRANS="волонтерствовать">volunteer</W> 
 <W DOM="27" FEAT="PR" HYPOT="adverb.02" ID="28" KSNAME="FOR1" LEMMA="FOR" LINK="adverb" PAFT=" ">for</W> 
 <W DOM="30" FEAT="NUM" HYPOT="quantit.10" ID="29" KSNAME="SIX1" LEMMA="SIX" LINK="quantit" PAFT=" ">six</W> 
 <W DOM="33" FEAT="S POSS PL" HYPOT="posses.01" ID="30" KSNAME="MONTH" LEMMA="MONTH" LINK="posses" PAFT="' " UNL="month(icl&gt;period&gt;time,icl&gt;unit,pof&gt;year)" DEF="MEASURE OF TIME" TRANS="месяц">months'</W> 
@@ -1411,7 +1411,7 @@
 <W DOM="18" FEAT="PR" HYPOT="adverb.02" ID="14" KSNAME="WITH" LEMMA="WITH" LINK="adverb" PAFT=" ">with</W> 
 <W DOM="14" FEAT="S PL" HYPOT="prepos.01" ID="15" KSNAME="EXHUMATION" LEMMA="EXHUMATION" LINK="prepos" PAFT=" " UNL="exhumation(icl&gt;deed&gt;thing)" DEF="THE ACT OF DIGGING SOMETHING OUT OF THE GROUND (ESPECIALLY A CORPSE) WHERE IT HAS BEEN BURIED" TRANS="эксгумация">exhumations</W> 
 <W DOM="15" FEAT="CONJ" HYPOT="coordin.10" ID="16" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="16" FEAT="S PL" HYPOT="coord-conj.10" ID="17" KSNAME="REHABILITATION" LEMMA="REHABILITATION" LINK="coord-conj" PAFT=", " UNL="rehabilitation(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="">rehabilitations</W>, 
+<W DOM="16" FEAT="S PL" HYPOT="coord-conj.10" ID="17" KSNAME="REHABILITATION" LEMMA="REHABILITATION" LINK="coord-conj" PAFT=", " UNL="rehabilitation(icl&gt;restoration&gt;thing,equ&gt;reclamation)" DEF="THE CONVERSION OF WASTELAND INTO LAND SUITABLE FOR USE OF HABITATION OR CULTIVATION" TRANS="рекультивация">rehabilitations</W>, 
 <W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="18" KSNAME="SEEM" LEMMA="SEEM" LINK="relat" PAFT=" " UNL="seem(icl&gt;be,obj&gt;uw,aoj&gt;uw,ben&gt;person)" DEF="GIVE A CERTAIN IMPRESSION" TRANS="казаться">seems</W> 
 <W DOM="3" FEAT="PART" ID="19" KSNAME="TO2" LEMMA="TO" LINK="fictit" PAFT=" ">to</W> 
 <W DOM="19" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="MATCH1" LEMMA="MATCH" LINK="prepos" PAFT=" " UNL="match(icl&gt;compete&gt;do,equ&gt;equal,agt&gt;thing,obj&gt;thing)" DEF="BE EQUAL TO IN QUALITY OR ABILITY" TRANS="равняться">match</W> 
@@ -1673,7 +1673,7 @@
 <W DOM="5" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="ANOTHER1" LEMMA="ANOTHER" LINK="determ" PAFT=" ">another</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="QUALIFICATION" LEMMA="QUALIFICATION" LINK="1-compl" PAFT=" " UNL="qualification(icl&gt;fitness&gt;thing)" DEF="AN ATTRIBUTE THAT MUST BE MET OR COMPLIED WITH AND THAT FITS A PERSON FOR SOMETHING" TRANS="квалификация">qualification</W> 
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
-<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="7" KSNAME="AUGUR2" LEMMA="AUGUR" LINK="relat" PAFT=" " UNL="augur(icl&gt;bespeak&gt;do,equ&gt;bode,agt&gt;thing,obj&gt;thing)" DEF="">augurs</W> 
+<W DOM="5" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="relat.01" ID="7" KSNAME="AUGUR2" LEMMA="AUGUR" LINK="relat" PAFT=" " UNL="augur(icl&gt;bespeak&gt;do,equ&gt;bode,agt&gt;thing,obj&gt;thing)" DEF="INDICATE BY SIGNS" TRANS="предвещать">augurs</W> 
 <W DOM="7" FEAT="ADV" HYPOT="adverb.01" ID="8" KSNAME="WELL1" LEMMA="WELL" LINK="adverb" PAFT=" ">well</W> 
 <W DOM="7" FEAT="PR" HYPOT="2-compl.00" ID="9" KSNAME="FOR1" LEMMA="FOR" LINK="2-compl" PAFT=" ">for</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -1786,7 +1786,7 @@
 <W DOM="3" FEAT="ART" GRP="1,2,3" HYPOT="determ.10" ID="2" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="1" FEAT="S SG" GRP="1,2,3" HYPOT="prepos.01" ID="3" KSNAME="SENSE1" LEMMA="SENSE" LINK="prepos" PAFT=", ">sense</W>, 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="4" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SHOWDOWN" LEMMA="SHOWDOWN" LINK="predic" MSNAME="SHOWDOWN" PAFT=" " UNL="showdown(icl&gt;disagreement&gt;thing,equ&gt;confrontation)" DEF="">showdown</W> 
+<W DOM="6" FEAT="S SG" HYPOT="predic.01" ID="5" KSNAME="SHOWDOWN" LEMMA="SHOWDOWN" LINK="predic" MSNAME="SHOWDOWN" PAFT=" " UNL="showdown(icl&gt;disagreement&gt;thing,equ&gt;confrontation)" DEF="A HOSTILE DISAGREEMENT FACE-TO-FACE" TRANS="столкновение">showdown</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="PROMISE2" LEMMA="PROMISE" PAFT=" " UNL="promise(icl&gt;guess&gt;do,equ&gt;predict,agt&gt;thing,obj&gt;thing)" DEF="">promised</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
 <W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" GRP="8,9" HYPOT="prepos.01" ID="8" KSNAME="MR" LEMMA="MR" LINK="prepos" PAFT=" ">Mr</W> 
@@ -2069,7 +2069,7 @@
 <W DOM="29" FEAT="CONJ" HYPOT="coordin.10" ID="30" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="33" FEAT="A" HYPOT="modif.01" ID="31" KSNAME="OTHER1" LEMMA="OTHER" LINK="modif" PAFT=" " UNL="other(icl&gt;adj,equ&gt;different)" DEF="NOT THE SAME" TRANS="другой">other</W> 
 <W DOM="33" FEAT="A" HYPOT="modif.01" ID="32" KSNAME="SUCH" LEMMA="SUCH" LINK="modif" PAFT=" ">such</W> 
-<W DOM="34" FEAT="S POSS PL" HYPOT="posses.01" ID="33" KSNAME="LADY" LEMMA="LADY" LINK="posses" PAFT="' " UNL="lady(icl&gt;woman&gt;thing,equ&gt;dame)" DEF="">ladies'</W> 
+<W DOM="34" FEAT="S POSS PL" HYPOT="posses.01" ID="33" KSNAME="LADY" LEMMA="LADY" LINK="posses" PAFT="' " UNL="lady(icl&gt;woman&gt;person,equ&gt;dame)" DEF="A WOMAN OF REFINEMENT" TRANS="леди">ladies'</W> 
 <W DOM="30" FEAT="S PL" HYPOT="coord-conj.10" ID="34" KSNAME="ACCESSORY3" LEMMA="ACCESSORY" LINK="coord-conj" PAFT=". " UNL="accessory(icl&gt;clothing&gt;thing)" DEF="CLOTHING THAT IS WORN OR CARRIED, BUT NOT PART OF YOUR MAIN CLOTHING" TRANS="аксессуар">accessories</W>. 
 </S>
 <S DATE="29 11 2010 19:54:23" ID="91" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_2\\br-b20.tgt;91" STATUS="doubt">

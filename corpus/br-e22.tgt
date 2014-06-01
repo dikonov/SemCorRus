@@ -74,10 +74,10 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="13" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
 <W DOM="13" FEAT="A" HYPOT="copulat.11" ID="14" KSNAME="GAY1" LEMMA="GAY" LINK="copulat" PAFT=", ">gay</W>, 
 <W DOM="14" FEAT="A" HYPOT="coordin.02" ID="15" KSNAME="WITTY" LEMMA="WITTY" LINK="coordin" PAFT=", " UNL="witty(icl&gt;adj)" DEF="COMBINING CLEVER CONCEPTION AND FACETIOUS EXPRESSION" TRANS="остроумный">witty</W>, 
-<W DOM="15" FEAT="A" HYPOT="coordin.02" ID="16" KSNAME="MERCURIAL1" LEMMA="MERCURIAL" LINK="coordin" PAFT=", " UNL="mercurial(icl&gt;adj,equ&gt;erratic)" DEF="">mercurial</W>, 
+<W DOM="15" FEAT="A" HYPOT="coordin.02" ID="16" KSNAME="MERCURIAL1" LEMMA="MERCURIAL" LINK="coordin" PAFT=", " UNL="mercurial(icl&gt;adj,equ&gt;erratic)" DEF="LIABLE TO SUDDEN UNPREDICTABLE CHANGE" TRANS="непостоянный">mercurial</W>, 
 <W DOM="16" FEAT="A" HYPOT="coordin.02" ID="17" KSNAME="FULL1" LEMMA="FULL" LINK="coordin" PAFT=" " UNL="full(icl&gt;adj,ant&gt;empty)" DEF="CONTAINING AS MUCH OR AS MANY AS IS POSSIBLE OR NORMAL" TRANS="полный">full</W> 
 <W DOM="17" FEAT="PR" HYPOT="1-compl.07" ID="18" KSNAME="OF" LEMMA="OF" LINK="1-compl" PAFT=" ">of</W> 
-<W DOM="18" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="PRANK1" LEMMA="PRANK" LINK="prepos" PAFT=" " UNL="prank(icl&gt;folly&gt;thing,equ&gt;buffoonery)" DEF="">pranks</W> 
+<W DOM="18" FEAT="S PL" HYPOT="prepos.01" ID="19" KSNAME="PRANK1" LEMMA="PRANK" LINK="prepos" PAFT=" " UNL="prank(icl&gt;folly&gt;thing,equ&gt;buffoonery)" DEF="ACTING LIKE A CLOWN OR BUFFOON" TRANS="шутовство">pranks</W> 
 <W DOM="13" FEAT="CONJ" ID="20" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
 <W DOM="13" FEAT="NID" ID="21" KSNAME="FICT-LEX" LEMMA="BONHEUR" LINK="fictit" PAFT="-">bonheur</W>- 
 <W DOM="13" FEAT="CONJ" ID="22" KSNAME="AND" LEMMA="AND" LINK="fictit" PAFT=" ">and</W> 
@@ -135,7 +135,7 @@
 <W DOM="3" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="2,3" HYPOT="modif.01" ID="2" KSNAME="CLASSICAL" LEMMA="CLASSICAL" LINK="modif" PAFT=" ">Classical</W> 
 <W DOM="4" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="2,3" HYPOT="predic.01" ID="3" KSNAME="SYMPHONY" LEMMA="SYMPHONY" LINK="predic" PAFT=" ">Symphony</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST SG TP" ID="4" KSNAME="BE" LEMMA="BE" PAFT=" ">was</W> 
-<W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="HAIL2" LEMMA="HAIL" LINK="pass-anal" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="">hailed</W> 
+<W DOM="4" FEAT="V PP" HYPOT="pass-anal.10" ID="5" KSNAME="HAIL2" LEMMA="HAIL" LINK="pass-anal" PAFT=" " UNL="hail(icl&gt;applaud&gt;do,equ&gt;acclaim,agt&gt;volitional_thing,obj&gt;thing)" DEF="PRAISE VOCIFEROUSLY" TRANS="славить">hailed</W> 
 <W DOM="5" FEAT="CONJ" HYPOT="adverb.10" ID="6" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="9" FEAT="ART" HYPOT="determ.10" ID="7" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="9" FEAT="A" HYPOT="modif.01" ID="8" KSNAME="INGENIOUS" LEMMA="INGENIOUS" LINK="modif" PAFT=" ">ingenious</W> 
@@ -508,7 +508,7 @@
 <W FEAT="S" ID="24" KSNAME="PARIS" LEMMA="PARIS" UNL="paris(iof&gt;national_capital&gt;thing)" DEF="THE CAPITAL AND LARGEST CITY OF FRANCE" TRANS="Париж" WN21="1:15:00::">Paris</W> 
 <W ID="25">to</W> 
 <W ID="26">which</W> 
-<W EXTRACOMM="Tagging contradicts ETAP parsing: RUSSIAN1 - RUSSIAN1,RUSSIAN2" FEAT="A SG" ID="27" KSNAME="RUSSIAN1" LEMMA="RUSSIAN" STATUS="warning" UNL="russian(icl&gt;native&gt;thing)" DEF="" WN21="1:18:00::">Russian</W> 
+<W EXTRACOMM="Tagging contradicts ETAP parsing: RUSSIAN1 - RUSSIAN1,RUSSIAN2" FEAT="A SG" ID="27" KSNAME="RUSSIAN1" LEMMA="RUSSIAN" STATUS="warning" UNL="russian(icl&gt;european&gt;person)" DEF="A NATIVE OR INHABITANT OF RUSSIA" TRANS="русский" WN21="1:18:00::">Russian</W> 
 <W FEAT="S SG" ID="28" KSNAME="ARISTOCRACY" LEMMA="ARISTOCRACY" UNL="aristocracy(icl&gt;elite&gt;thing,equ&gt;nobility)" DEF="A PRIVILEGED CLASS HOLDING HEREDITARY TITLES" TRANS="аристократия" WN21="1:14:01::">aristocracy</W> 
 <W FEAT="V" ID="29" KSNAME="MIGRATE" LEMMA="MIGRATE" WN21="2:38:00::">migrated</W>- 
 <W FEAT="ART" ID="30" KSNAME="THE" LEMMA="THE">the</W> 
@@ -601,7 +601,7 @@
 <W DOM="32" FEAT="V PP" HYPOT="modif.01" ID="31" KSNAME="FIND1" LEMMA="FIND" LINK="modif" PAFT=" ">found</W> 
 <W DOM="29" FEAT="S PL" HYPOT="prepos.01" ID="32" KSNAME="FREEDOM" LEMMA="FREEDOM" LINK="prepos" PAFT=" " UNL="freedom(icl&gt;state&gt;thing)" DEF="THE CONDITION OF BEING FREE" TRANS="свобода">freedoms</W> 
 <W DOM="32" FEAT="PR" HYPOT="attrib.01" ID="33" KSNAME="IN1" LEMMA="IN" LINK="attrib" PAFT=" ">in</W> 
-<W DOM="33" FEAT="S SG" HYPOT="prepos.01" ID="34" KSNAME="TONE1" LEMMA="TONE" LINK="prepos" PAFT=", " UNL="tone(icl&gt;impression&gt;abstract_thing)" DEF="">tone</W>, 
+<W DOM="33" FEAT="S SG" HYPOT="prepos.01" ID="34" KSNAME="TONE1" LEMMA="TONE" LINK="prepos" PAFT=", " UNL="tone(icl&gt;impression&gt;abstract_thing)" DEF="THE GENERAL ATMOSPHERE OF A PLACE OR SITUATION AND THE EFFECT THAT IT HAS ON PEOPLE" TRANS="атмосфера">tone</W>, 
 <W DOM="34" EXTRAFEAT="ALT" FEAT="S SG" HYPOT="coordin.01" ID="35" KSNAME="COLOUR1" LEMMA="COLOUR" LINK="coordin" PAFT=", ">color</W>, 
 <W DOM="35" FEAT="S SG" HYPOT="coordin.01" ID="36" KSNAME="DANCE2" LEMMA="DANCE" LINK="coordin" PAFT=", " UNL="dance(icl&gt;diversion&gt;thing,equ&gt;dancing)" DEF="TAKING A SERIES OF RHYTHMICAL STEPS (AND MOVEMENTS) IN TIME TO MUSIC" TRANS="танец">dance</W>, 
 <W DOM="21" FEAT="S SG" HYPOT="coordin.01" ID="37" KSNAME="DESIGN2" LEMMA="DESIGN" LINK="coordin" PAFT=", " UNL="design(icl&gt;creating_by_mental_acts&gt;thing)" DEF="THE ACT OF WORKING OUT THE FORM OF SOMETHING (AS BY MAKING A SKETCH OR OUTLINE OR PLAN)" TRANS="проектирование">design</W>, 
@@ -862,7 +862,7 @@
 <W DOM="7" FEAT="A" HYPOT="determ.13" ID="6" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="5" FEAT="S PL" HYPOT="1-compl.01" ID="7" KSNAME="INTENTION" LEMMA="INTENTION" LINK="1-compl" PAFT=" " UNL="intention(icl&gt;goal&gt;thing,equ&gt;purpose)" DEF="AN ANTICIPATED OUTCOME THAT IS INTENDED OR THAT GUIDES YOUR PLANNED ACTIONS" TRANS="намерение">intentions</W> 
 <W DOM="7" FEAT="PART" HYPOT="1-compl.15" ID="8" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serve</W> 
+<W DOM="8" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="9" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serve</W> 
 <W DOM="11" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="9" FEAT="S SG" HYPOT="1-compl.01" ID="11" KSNAME="PEOPLE1" LEMMA="PEOPLE" LINK="1-compl" PAFT=": &quot;" UNL="people(icl&gt;group&gt;thing)" DEF="(PLURAL) ANY GROUP OF HUMAN BEINGS (MEN OR WOMEN OR CHILDREN) COLLECTIVELY" TRANS="люди">people</W>: 
 "<W DOM="13" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM SG" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="predic.01" ID="12" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
@@ -871,7 +871,7 @@
 <W DOM="14" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="1-compl.07" ID="15" KSNAME="FOR1" LEMMA="FOR" LINK="1-compl" PAFT=" ">for</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="prepos.01" ID="16" KSNAME="CLARITY" LEMMA="CLARITY" LINK="prepos" PAFT=" " UNL="clarity(icl&gt;comprehensibility&gt;thing,ant&gt;obscurity)" DEF="FREE FROM OBSCURITY AND EASY TO UNDERSTAND" TRANS="ясность">clarity</W> 
 <W DOM="16" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="coordin.10" ID="17" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
-<W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="modif.01" ID="18" KSNAME="MELODIOUS" LEMMA="MELODIOUS" LINK="modif" PAFT=" " UNL="melodious(icl&gt;adj,equ&gt;tuneful,ant&gt;tuneless)" DEF="">melodious</W> 
+<W DOM="19" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="modif.01" ID="18" KSNAME="MELODIOUS" LEMMA="MELODIOUS" LINK="modif" PAFT=" " UNL="melodious(icl&gt;adj,equ&gt;tuneful,ant&gt;tuneless)" DEF="HAVING A MUSICAL SOUND" TRANS="мелодичный">melodious</W> 
 <W DOM="17" EXTRAFEAT="IN-QUOT" FEAT="S SG" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="coord-conj.10" ID="19" KSNAME="IDIOM" LEMMA="IDIOM" LINK="coord-conj" PAFT=", " UNL="idiom(icl&gt;manner&gt;thing,equ&gt;artistic_style)" DEF="THE STYLE OF A PARTICULAR ARTIST OR SCHOOL OR MOVEMENT" TRANS="стиль,манера">idiom</W>, 
 <W DOM="13" EXTRAFEAT="IN-QUOT" FEAT="CONJ" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="sent-coordin.10" ID="20" KSNAME="BUT1" LEMMA="BUT" LINK="sent-coordin" PAFT=" ">but</W> 
 <W DOM="26" EXTRAFEAT="IN-QUOT" FEAT="PR" GRP="12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" HYPOT="adverb.02" ID="21" KSNAME="AT" LEMMA="AT" LINK="adverb" PAFT=" ">at</W> 
@@ -938,7 +938,7 @@
 <W DOM="18" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.01" ID="20" KSNAME="DARE2" LEMMA="DARE" LINK="relat" PAFT=" ">dare</W> 
 <W DOM="22" FEAT="ADV" HYPOT="restr.11" ID="21" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="20" FEAT="CONJ" HYPOT="coordin.13" ID="22" KSNAME="OR" LEMMA="OR" LINK="coordin" PAFT=" ">or</W> 
-<W DOM="22" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="23" KSNAME="PREFER1" LEMMA="PREFER" LINK="coord-conj" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">prefer</W> 
+<W DOM="22" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="23" KSNAME="PREFER1" LEMMA="PREFER" LINK="coord-conj" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">prefer</W> 
 <W DOM="25" FEAT="ADV" HYPOT="restr.11" ID="24" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" " UNL="not(icl&gt;how,obj&lt;uw)" DEF="NEGATION OF A WORD OR GROUP OF WORDS" TRANS="не">not</W> 
 <W DOM="23" FEAT="PART" HYPOT="1-compl.15" ID="25" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="26" KSNAME="FACE2" LEMMA="FACE" LINK="prepos" PAFT=" ">face</W> 
@@ -962,7 +962,7 @@
 <W DOM="1" FEAT="PR" ID="11" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
 <W DOM="7" FEAT="S PL" HYPOT="predic.08" ID="12" KSNAME="WORD1" LEMMA="WORD" LINK="predic" PAFT="-">words</W>- 
 <W DOM="1" FEAT="PR" ID="13" KSNAME="WITH" LEMMA="WITH" LINK="fictit" PAFT=" ">with</W> 
-<W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="TORRENT" LEMMA="TORRENT" LINK="prepos" PAFT=" " UNL="torrent(icl&gt;rain&gt;thing,equ&gt;downpour)" DEF="">torrents</W> 
+<W DOM="13" FEAT="S PL" HYPOT="prepos.01" ID="14" KSNAME="TORRENT" LEMMA="TORRENT" LINK="prepos" PAFT=" " UNL="torrent(icl&gt;rain&gt;thing,equ&gt;downpour)" DEF="A HEAVY RAIN" TRANS="ливень">torrents</W> 
 <W DOM="14" FEAT="PR" HYPOT="quasiagent.10" ID="15" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="17" FEAT="A" HYPOT="modif.01" ID="16" KSNAME="POWERFUL" LEMMA="POWERFUL" LINK="modif" PAFT=" " UNL="powerful(icl&gt;adj,ant&gt;powerless)" DEF="HAVING GREAT POWER OR FORCE OR POTENCY OR EFFECT" TRANS="сильный,могучий">powerful</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="MUSIC" LEMMA="MUSIC" LINK="prepos" PAFT=". " UNL="music(icl&gt;auditory_communication&gt;thing)" DEF="AN ARTISTIC FORM OF AUDITORY COMMUNICATION INCORPORATING INSTRUMENTAL OR VOCAL TONES IN A STRUCTURED AND CONTINUOUS MANNER" TRANS="музыка">music</W>. 
@@ -1197,7 +1197,7 @@
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="18" FEAT="S SG" HYPOT="coordin.01" ID="20" KSNAME="ADROITNESS" LEMMA="ADROITNESS" LINK="coordin" PAFT=" " UNL="adroitness(icl&gt;skillfulness&gt;thing,equ&gt;adeptness)" DEF="SKILLFUL PERFORMANCE OR ABILITY WITHOUT DIFFICULTY" TRANS="ловкость">adroitness</W> 
 <W DOM="20" FEAT="PR" HYPOT="attrib.01" ID="21" KSNAME="FOR1" LEMMA="FOR" LINK="attrib" PAFT=" ">for</W> 
-<W DOM="21" FEAT="V ING" HYPOT="prepos.01" ID="22" KSNAME="EVADE" LEMMA="EVADE" LINK="prepos" PAFT=" " UNL="evade(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="">evading</W> 
+<W DOM="21" FEAT="V ING" HYPOT="prepos.01" ID="22" KSNAME="EVADE" LEMMA="EVADE" LINK="prepos" PAFT=" " UNL="evade(icl&gt;avoid&gt;do,equ&gt;hedge,agt&gt;thing,obj&gt;thing)" DEF="AVOID OR TRY TO AVOID FULFILLING, ANSWERING, OR PERFORMING (DUTIES, QUESTIONS, OR ISSUES)" TRANS="уклоняться">evading</W> 
 <W DOM="24" FEAT="ART" HYPOT="determ.11" ID="23" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="22" FEAT="S SG" HYPOT="1-compl.01" ID="24" KSNAME="HEAVINESS" LEMMA="HEAVINESS" LINK="1-compl" PAFT=" " UNL="heaviness(icl&gt;weight&gt;thing,ant&gt;lightness)" DEF="THE PROPERTY OF BEING COMPARATIVELY GREAT IN WEIGHT" TRANS="тяжесть">heaviness</W> 
 <W DOM="3" FEAT="PR" ID="25" KSNAME="OF" LEMMA="OF" LINK="fictit" PAFT=" ">of</W> 
@@ -1263,7 +1263,7 @@
 "<W DOM="22" EXTRAFEAT="IN-QUOT" FEAT="S SG" HYPOT="prepos.01" ID="24" KSNAME="ORIGINAL1" LEMMA="ORIGINAL" LINK="prepos" PAFT="&quot; " UNL="original(icl&gt;model&gt;thing)" DEF="AN ORIGINAL MODEL ON WHICH SOMETHING IS PATTERNED" TRANS="оригинал">original</W>" 
 <W DOM="21" FEAT="CONJ" HYPOT="compar.10" ID="25" KSNAME="THAN" LEMMA="THAN" LINK="compar" PAFT=" ">than</W> 
 <W DOM="27" FEAT="S NOM PL" HYPOT="predic.01" ID="26" KSNAME="WE" LEMMA="WE" LINK="predic" PAFT=" ">we</W> 
-<W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="comp-conj.10" ID="27" KSNAME="PREFER1" LEMMA="PREFER" LINK="comp-conj" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,agt&gt;thing,obj&gt;thing)" DEF="">prefer</W> 
+<W DOM="25" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="comp-conj.10" ID="27" KSNAME="PREFER1" LEMMA="PREFER" LINK="comp-conj" PAFT=" " UNL="prefer(icl&gt;do,equ&gt;choose,cob&gt;uw,agt&gt;thing,obj&gt;uw)" DEF="SELECT AS AN ALTERNATIVE" TRANS="предпочитать">prefer</W> 
 <W DOM="27" FEAT="PART" HYPOT="1-compl.15" ID="28" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="28" FEAT="V MF" HYPOT="prepos.16" ID="29" KSNAME="BELIEVE" LEMMA="BELIEVE" LINK="prepos" PAFT=". " UNL="believe(icl&gt;accept&gt;be,obj&gt;thing,aoj&gt;animate_thing)" DEF="ACCEPT AS TRUE" TRANS="поверить">believe</W>. 
 </S>
@@ -1880,7 +1880,7 @@
 <W DOM="9" FEAT="CONJ" HYPOT="coordin.10" ID="10" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="10" FEAT="V PP" HYPOT="coord-conj.10" ID="11" KSNAME="DISCIPLINE2" LEMMA="DISCIPLINE" LINK="coord-conj" PAFT=" " UNL="discipline(icl&gt;develop&gt;do,agt&gt;thing,obj&gt;thing)" DEF="TRAIN BY INSTRUCTION AND PRACTICE" TRANS="дисциплинировать">disciplined</W> 
 <W DOM="11" FEAT="PART" HYPOT="adverb.11" ID="12" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
-<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serve</W> 
+<W DOM="12" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="13" KSNAME="SERVE2" LEMMA="SERVE" LINK="prepos" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serve</W> 
 <W DOM="16" FEAT="A" HYPOT="determ.13" ID="14" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="16" FEAT="A" HYPOT="modif.01" ID="15" KSNAME="HUMAN1" LEMMA="HUMAN" LINK="modif" PAFT=" " UNL="human(icl&gt;adj,com&gt;humanity)" DEF="CHARACTERISTIC OF HUMANITY" TRANS="человеческий,человечий,людской">human</W> 
 <W DOM="13" FEAT="S SG" HYPOT="1-compl.01" ID="16" KSNAME="PURPOSE1" LEMMA="PURPOSE" LINK="1-compl" PAFT=". " UNL="purpose(icl&gt;abstract_thing,equ&gt;function,obj&gt;uw,aoj&gt;thing)" DEF="WHAT SOMETHING IS USED FOR" TRANS="назначение,цель">purpose</W>. 
@@ -1921,7 +1921,7 @@
 <W DOM="34" FEAT="A" HYPOT="modif.01" ID="33" KSNAME="MUSICAL1" LEMMA="MUSICAL" LINK="modif" PAFT=" " UNL="musical(icl&gt;adj,com&gt;music)" DEF="CHARACTERIZED BY OR CAPABLE OF PRODUCING MUSIC" TRANS="музыкальный">musical</W> 
 <W DOM="30" FEAT="S SG" HYPOT="prepos.01" ID="34" KSNAME="LITERATURE" LEMMA="LITERATURE" LINK="prepos" PAFT=" ">literature</W> 
 <W DOM="36" FEAT="S SG" HYPOT="predic.01" ID="35" KSNAME="WHICH1" LEMMA="WHICH" LINK="predic" MSNAME="WHICH1" PAFT=" ">which</W> 
-<W DOM="34" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="36" KSNAME="SERVE2" LEMMA="SERVE" LINK="relat" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">served</W> 
+<W DOM="34" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="36" KSNAME="SERVE2" LEMMA="SERVE" LINK="relat" PAFT=" " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">served</W> 
 <W DOM="38" FEAT="A" HYPOT="determ.13" ID="37" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="36" FEAT="S SG" HYPOT="1-compl.01" ID="38" KSNAME="PEOPLE1" LEMMA="PEOPLE" LINK="1-compl" PAFT=" " UNL="people(icl&gt;group&gt;thing)" DEF="(PLURAL) ANY GROUP OF HUMAN BEINGS (MEN OR WOMEN OR CHILDREN) COLLECTIVELY" TRANS="люди">people</W> 
 <W DOM="36" FEAT="ADV" HYPOT="adverb.01" ID="39" KSNAME="WELL1" LEMMA="WELL" LINK="adverb" PAFT=", ">well</W>, 

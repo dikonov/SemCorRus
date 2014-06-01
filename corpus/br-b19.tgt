@@ -1709,7 +1709,7 @@
 <W DOM="15" FEAT="ART" GRP="14,15" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="S PL" GRP="14,15" HYPOT="predic.01" ID="15" KSNAME="BIRD" LEMMA="BIRD" LINK="predic" PAFT=" ">birds</W> 
 <W DOM="7" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.05" ID="16" KSNAME="WOULD" LEMMA="WOULD" LINK="1-compl" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="16" FEAT="V MF" HYPOT="analyt.13" ID="17" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=". " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W>. 
+<W DOM="16" FEAT="V MF" HYPOT="analyt.13" ID="17" KSNAME="ASK1" LEMMA="ASK" LINK="analyt" PAFT=". " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W>. 
 </S>
 <S DATE="29 11 2010 20:11:54" ID="89" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_35\\br-b19.tgt;89" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="PART" HYPOT="predic.10" ID="1" KSNAME="THERE2" LEMMA="THERE" LINK="predic" MSNAME="THERE2" PAFT=" ">There</W> 

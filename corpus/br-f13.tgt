@@ -1396,7 +1396,7 @@
 <W DOM="11" FEAT="CONJ" GRP="11,12" HYPOT="compar.10" ID="12" KSNAME="AS1" LEMMA="AS" LINK="compar" PAFT=" ">as</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.10" ID="13" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="15" FEAT="S SG" HYPOT="compos.01" ID="14" KSNAME="SPRAY1" LEMMA="SPRAY" LINK="compos" PAFT=" " UNL="spray(icl&gt;pesticide&gt;thing)" DEF="">spray</W> 
-<W DOM="12" FEAT="S SG" HYPOT="comp-conj.10" ID="15" KSNAME="RIG2" LEMMA="RIG" LINK="comp-conj" PAFT=", " UNL="rig(icl&gt;gear&gt;thing)" DEF="">rig</W>, 
+<W DOM="12" FEAT="S SG" HYPOT="comp-conj.10" ID="15" KSNAME="RIG2" LEMMA="RIG" LINK="comp-conj" PAFT=", " UNL="rig(icl&gt;gear&gt;thing,equ&gt;fishing_gear)" DEF="GEAR USED IN FISHING" TRANS="снасть">rig</W>, 
 <W DOM="17" FEAT="ART" HYPOT="determ.10" ID="16" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="22" FEAT="S SG" ID="17" KSNAME="COMBINE2" LEMMA="COMBINE" LINK="fictit" PAFT=", " UNL="combine(icl&gt;harvester&gt;thing)" DEF="HARVESTER THAT HEADS AND THRESHES AND CLEANS GRAIN WHILE MOVING ACROSS THE FIELD" TRANS="комбайн">combine</W>, 
 <W DOM="22" FEAT="CONJ" ID="18" KSNAME="OR" LEMMA="OR" LINK="fictit" PAFT=" ">or</W> 
@@ -1895,7 +1895,7 @@
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="6" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="S PL" HYPOT="prepos.01" ID="7" KSNAME="CROP1" LEMMA="CROP" LINK="prepos" PAFT=" " UNL="crop(icl&gt;output&gt;thing)" DEF="THE YIELD FROM PLANTS IN A SINGLE GROWING SEASON" TRANS="урожай">crops</W> 
 <W DOM="9" FEAT="S NOM PL" HYPOT="predic.01" ID="8" KSNAME="YOU" LEMMA="YOU" LINK="predic" PAFT=" ">you</W> 
-<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="9" KSNAME="INTEND1" LEMMA="INTEND" LINK="relat" PAFT=" " UNL="intend(icl&gt;will&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">intend</W> 
+<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="relat.02" ID="9" KSNAME="INTEND1" LEMMA="INTEND" LINK="relat" PAFT=" " UNL="intend(icl&gt;will&gt;be,obj&gt;uw,aoj&gt;person)" DEF="HAVE IN MIND AS A PURPOSE OR PLAN" TRANS="намереваться">intend</W> 
 <W DOM="9" FEAT="PART" HYPOT="1-compl.15" ID="10" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="10" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="11" KSNAME="RAISE1" LEMMA="RAISE" LINK="prepos" PAFT="? " UNL="raise(icl&gt;cultivate&gt;do,obj&gt;concrete_thing)" DEF="CULTIVATE BY GROWING" TRANS="выращивать">raise</W>? 
 </S>

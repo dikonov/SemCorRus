@@ -595,7 +595,7 @@
 <W DOM="8" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="PLACE1" LEMMA="PLACE" LINK="prepos" PAFT=" ">places</W> 
 <W DOM="11" FEAT="A" HYPOT="modif.01" ID="10" KSNAME="GREAT" LEMMA="GREAT" LINK="modif" PAFT=" ">great</W> 
 <W DOM="12" FEAT="S PL" HYPOT="predic.01" ID="11" KSNAME="PUDDLE1" LEMMA="PUDDLE" LINK="predic" PAFT=" ">puddles</W> 
-<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="12" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="coord-conj" PAFT=" " UNL="spread(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="">spread</W> 
+<W DOM="7" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="12" KSNAME="SPREAD1" LEMMA="SPREAD" LINK="coord-conj" PAFT=" " UNL="spread(icl&gt;spread&gt;occur,equ&gt;diffuse,obj&gt;thing)" DEF="MOVE OUTWARD" TRANS="распространяться">spread</W> 
 <W DOM="12" FEAT="PR" HYPOT="2-compl.02" ID="13" KSNAME="ACROSS1" LEMMA="ACROSS" LINK="2-compl" PAFT=" ">across</W> 
 <W DOM="15" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="13" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="ROAD" LEMMA="ROAD" LINK="prepos" PAFT=" ">road</W> 
@@ -818,7 +818,7 @@
 <W DOM="6" FEAT="S NOM SG" HYPOT="predic.01" ID="5" KSNAME="WHO" LEMMA="WHO" LINK="predic" PAFT=" ">who</W> 
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="6" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">had</W> 
 <W DOM="6" FEAT="V PP" HYPOT="analyt.12" ID="7" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="DISGRACE2" LEMMA="DISGRACE" LINK="pass-anal" PAFT=" " UNL="disgrace(icl&gt;do,equ&gt;dishonor,agt&gt;thing,obj&gt;thing)" DEF="">disgraced</W> 
+<W DOM="7" FEAT="V PP" HYPOT="pass-anal.10" ID="8" KSNAME="DISGRACE2" LEMMA="DISGRACE" LINK="pass-anal" PAFT=" " UNL="disgrace(icl&gt;do,equ&gt;dishonor,agt&gt;thing,obj&gt;thing)" DEF="BRING SHAME OR DISHONOR UPON" TRANS="позорить">disgraced</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="coordin.10" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="9" FEAT="V PP" HYPOT="coord-conj.10" ID="10" KSNAME="DRUM2" LEMMA="DRUM" LINK="coord-conj" PAFT=" " UNL="drum_out(icl&gt;remove&gt;do,equ&gt;oust,plf&gt;thing,agt&gt;thing,obj&gt;thing)" DEF="REMOVE FROM A POSITION OR OFFICE" TRANS="выбрасывать">drummed</W> 
 <W DOM="10" FEAT="ADV" HYPOT="phras-junct.10" ID="11" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=". ">out</W>. 
@@ -1920,7 +1920,7 @@
 <W DOM="4" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="PLYMOUTH" LEMMA="PLYMOUTH" LINK="predic" PAFT=" ">Plymouth</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="4" KSNAME="NEAR4" LEMMA="NEAR" LINK="subord-conj" PAFT=", " UNL="near(icl&gt;come&gt;occur,equ&gt;approach,obj&gt;thing)" DEF="MOVE TOWARDS" TRANS="приближаться">neared</W>, 
 <W DOM="6" FEAT="S NOM SG" HYPOT="predic.01" ID="5" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="VEER2" LEMMA="VEER" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="">veered</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="6" KSNAME="VEER2" LEMMA="VEER" PAFT=" " UNL="veer(icl&gt;turn&gt;do,equ&gt;swerve,agt&gt;concrete_thing,obj&gt;concrete_thing)" DEF="TURN SHARPLY" TRANS="круто поворачивать">veered</W> 
 <W DOM="6" FEAT="PR" HYPOT="adverb.02" ID="7" KSNAME="TOWARD" LEMMA="TOWARD" LINK="adverb" PAFT=" ">toward</W> 
 <W DOM="7" FEAT="S OBJ SG" HYPOT="prepos.01" ID="8" KSNAME="HE1" LEMMA="HE" LINK="prepos" PAFT=" ">him</W> 
 <W DOM="6" FEAT="CONJ" HYPOT="coordin.13" ID="9" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -2028,7 +2028,7 @@
 </S>
 <S DATE="30 11 2010 10:51:55" ID="142" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_47\\br-l04.tgt;142" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TRUDGE2" LEMMA="TRUDGE" PAFT=" " UNL="trudge(icl&gt;walk&gt;do,equ&gt;slog,plt&gt;thing,agt&gt;living_thing,plc&gt;thing)" DEF="">trudged</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="TRUDGE2" LEMMA="TRUDGE" PAFT=" " UNL="trudge(icl&gt;walk&gt;do,equ&gt;slog,plt&gt;thing,agt&gt;living_thing,plc&gt;thing)" DEF="WALK HEAVILY AND FIRMLY, AS WHEN WEARY, OR THROUGH MUD" TRANS="брести">trudged</W> 
 <W DOM="2" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="ON2" LEMMA="ON" LINK="adverb" PAFT=", ">on</W>, 
 <W DOM="6" FEAT="A" HYPOT="determ.13" ID="4" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="6" FEAT="V ING" HYPOT="modif.01" ID="5" KSNAME="ACHE2" LEMMA="ACHE" LINK="modif" PAFT=" ">aching</W> 

@@ -768,7 +768,7 @@
 <W DOM="5" FEAT="PR" HYPOT="2-compl.02" ID="21" KSNAME="WITH" LEMMA="WITH" LINK="2-compl" PAFT=" ">with</W> 
 <W DOM="23" FEAT="ART" HYPOT="determ.11" ID="22" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="REMAINDER" LEMMA="REMAINDER" LINK="prepos" PAFT=" ">remainder</W> 
-<W DOM="23" FEAT="V PP" HYPOT="modif.01" ID="24" KSNAME="PAY1" LEMMA="PAY" LINK="modif" PAFT=" " UNL="pay_out(icl&gt;settle&gt;do,cob&gt;uw,agt&gt;thing,obj&gt;money,rec&gt;thing)" DEF="">paid</W> 
+<W DOM="23" FEAT="V PP" HYPOT="modif.01" ID="24" KSNAME="PAY1" LEMMA="PAY" LINK="modif" PAFT=" " UNL="pay_out(icl&gt;settle&gt;do,cob&gt;uw,agt&gt;thing,obj&gt;money,rec&gt;thing)" DEF="PAY OUT" TRANS="выплачивать">paid</W> 
 <W DOM="24" FEAT="PR" HYPOT="adverb.02" ID="25" KSNAME="OUT$OF" LEMMA="OUT OF" LINK="adverb" PAFT=" ">out of</W> 
 <W DOM="27" FEAT="A" HYPOT="modif.01" ID="26" KSNAME="INITIAL1" LEMMA="INITIAL" LINK="modif" PAFT=" ">initial</W> 
 <W DOM="25" FEAT="S PL" HYPOT="prepos.01" ID="27" KSNAME="RESERVE1" LEMMA="RESERVE" LINK="prepos" PAFT=". ">reserves</W>. 
@@ -1152,7 +1152,7 @@
 <W DOM="16" FEAT="S SG" GRP="15,16" HYPOT="compos.01" ID="15" KSNAME="ROAD" LEMMA="ROAD" LINK="compos" PAFT=" ">road</W> 
 <W DOM="12" FEAT="S PL" HYPOT="prepos.01" ID="16" KSNAME="BOND2" LEMMA="BOND" LINK="prepos" PAFT=" ">bonds</W> 
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="1-compl.05" ID="17" KSNAME="WILL1" LEMMA="WILL" LINK="1-compl" MSNAME="WILL1" PAFT=" ">will</W> 
-<W DOM="17" FEAT="V MF" HYPOT="analyt.13" ID="18" KSNAME="PAY1" LEMMA="PAY" LINK="analyt" PAFT=" " UNL="pay_out(icl&gt;settle&gt;do,cob&gt;uw,agt&gt;thing,obj&gt;money,rec&gt;thing)" DEF="">pay</W> 
+<W DOM="17" FEAT="V MF" HYPOT="analyt.13" ID="18" KSNAME="PAY1" LEMMA="PAY" LINK="analyt" PAFT=" " UNL="pay_out(icl&gt;settle&gt;do,cob&gt;uw,agt&gt;thing,obj&gt;money,rec&gt;thing)" DEF="PAY OUT" TRANS="выплачивать">pay</W> 
 <W DOM="18" FEAT="ADV" HYPOT="phras-junct.10" ID="19" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="18" FEAT="PR" HYPOT="adverb.02" ID="20" KSNAME="IN1" LEMMA="IN" LINK="adverb" PAFT=" ">in</W> 
 <W DOM="20" FEAT="A" HYPOT="prepos.01" ID="21" KSNAME="FULL1" LEMMA="FULL" LINK="prepos" PAFT=". ">full</W>. 
@@ -1290,7 +1290,7 @@
 <W DOM="7" EXTRAFEAT="FIN IN-QUOT QFIN" FEAT="V PRS TP" ID="12" KSNAME="ENABLE" LEMMA="ENABLE" LINK="fictit" PAFT=" " UNL="enable(icl&gt;do,agt&gt;thing,obj&gt;thing,gol&gt;uw,met&gt;thing)" DEF="RENDER CAPABLE FOR SOME TASK" TRANS="позволять">enables</W> 
 <W DOM="12" EXTRAFEAT="CAP IN-QUOT" FEAT="S SG" HYPOT="1-compl.01" ID="13" KSNAME="FIAT2" LEMMA="FIAT" LINK="1-compl" PAFT=" ">Fiat</W> 
 <W DOM="12" EXTRAFEAT="IN-QUOT" FEAT="PART" HYPOT="2-compl.12" ID="14" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
-<W DOM="14" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="15" KSNAME="TURN2" LEMMA="TURN" LINK="prepos" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">turn</W> 
+<W DOM="14" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" HYPOT="prepos.16" ID="15" KSNAME="TURN2" LEMMA="TURN" LINK="prepos" PAFT=" " UNL="turn_out(icl&gt;produce&gt;do,agt&gt;concrete_thing,obj&gt;thing)" DEF="PRODUCE QUICKLY OR REGULARLY" TRANS="производить">turn</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="ADV" HYPOT="phras-junct.10" ID="16" KSNAME="OUT1" LEMMA="OUT" LINK="phras-junct" PAFT=" ">out</W> 
 <W DOM="18" EXTRAFEAT="IN-QUOT" FEAT="NUM" HYPOT="quantit.10" ID="17" KSNAME="NUM-LARGE" LEMMA="2100" LINK="quantit" PAFT=" ">2100</W> 
 <W DOM="15" EXTRAFEAT="IN-QUOT" FEAT="S PL" HYPOT="1-compl.01" ID="18" KSNAME="CAR" LEMMA="CAR" LINK="1-compl" PAFT=" ">cars</W> 

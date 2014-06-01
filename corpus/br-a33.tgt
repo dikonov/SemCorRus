@@ -337,7 +337,7 @@
 <W DOM="16" FEAT="S SG" HYPOT="prepos.01" ID="17" KSNAME="TOWN" LEMMA="TOWN" LINK="prepos" PAFT=" ">town</W> 
 <W DOM="17" FEAT="ADV" HYPOT="attrib.14" ID="18" KSNAME="YESTERDAY1" LEMMA="YESTERDAY" LINK="attrib" PAFT=" ">yesterday</W> 
 <W DOM="17" FEAT="PART" HYPOT="attrib.15" ID="19" KSNAME="TO2" LEMMA="TO" LINK="attrib" PAFT=" ">to</W> 
-<W DOM="19" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="CONSULT" LEMMA="CONSULT" LINK="prepos" PAFT=" " UNL="consult(icl&gt;discuss&gt;do,equ&gt;confer,agt&gt;person,cag&gt;person,scn&gt;thing)" DEF="">consult</W> 
+<W DOM="19" FEAT="V MF" HYPOT="prepos.16" ID="20" KSNAME="CONSULT" LEMMA="CONSULT" LINK="prepos" PAFT=" " UNL="consult(icl&gt;discuss&gt;do,equ&gt;confer,agt&gt;person,cag&gt;person,scn&gt;thing)" DEF="HAVE A CONFERENCE IN ORDER TO TALK SOMETHING OVER" TRANS="совещаться">consult</W> 
 <W DOM="20" FEAT="PR" HYPOT="1-compl.07" ID="21" KSNAME="WITH" LEMMA="WITH" LINK="1-compl" PAFT=" ">with</W> 
 <W DOM="24" EXTRAFEAT="CAP CAPIT" FEAT="A" GRP="21,22" HYPOT="modif.01" ID="22" KSNAME="WHITE1" LEMMA="WHITE" LINK="modif" PAFT=" ">White</W> 
 <W DOM="24" EXTRAFEAT="CAP CAPIT" FEAT="S SG" GRP="21,22" HYPOT="compos.01" ID="23" KSNAME="HOUSE1" LEMMA="HOUSE" LINK="compos" PAFT=" ">House</W> 
@@ -1812,7 +1812,7 @@
 <W DOM="22" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="23" KSNAME="SPEND" LEMMA="SPEND" LINK="coord-conj" PAFT=" " UNL="spend(icl&gt;pass&gt;do,com&gt;time,cob&gt;thing,agt&gt;person,obj&gt;abstract_thing)" DEF="PASS TIME" TRANS="проводить">spend</W> 
 <W DOM="25" FEAT="ADV" HYPOT="restr.15" ID="24" KSNAME="MUCH" LEMMA="MUCH" LINK="restr" PAFT=" ">much</W> 
 <W DOM="23" FEAT="S SG" HYPOT="1-compl.01" ID="25" KSNAME="TIME1" LEMMA="TIME" LINK="1-compl" PAFT=" ">time</W> 
-<W DOM="23" FEAT="V ING" HYPOT="2-compl.15" ID="26" KSNAME="CHAT2" LEMMA="CHAT" LINK="2-compl" PAFT=" " UNL="chat(icl&gt;talk&gt;do,agt&gt;thing,obj&gt;thing,man&gt;language,ptn&gt;thing)" DEF="">chatting</W> 
+<W DOM="23" FEAT="V ING" HYPOT="2-compl.15" ID="26" KSNAME="CHAT2" LEMMA="CHAT" LINK="2-compl" PAFT=" " UNL="chat(icl&gt;talk&gt;do,agt&gt;person,obj&gt;uw,ptn&gt;person)" DEF="TALK SOCIALLY WITHOUT EXCHANGING MUCH INFORMATION" TRANS="болтать">chatting</W> 
 <W DOM="26" FEAT="PR" HYPOT="1-compl.07" ID="27" KSNAME="WITH" LEMMA="WITH" LINK="1-compl" PAFT=" ">with</W> 
 <W DOM="29" FEAT="A" HYPOT="determ.13" ID="28" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="27" FEAT="S SG" HYPOT="prepos.01" ID="29" KSNAME="WIFE" LEMMA="WIFE" LINK="prepos" PAFT=". ">wife</W>. 
@@ -2183,7 +2183,7 @@
 <W DOM="4" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="2" FEAT="S PL" HYPOT="prepos.01" ID="4" KSNAME="FAMILY" LEMMA="FAMILY" LINK="prepos" PAFT=" ">families</W> 
 <W DOM="6" FEAT="S NOM SG" HYPOT="predic.01" ID="5" KSNAME="IT" LEMMA="IT" LINK="predic" PAFT=" ">it</W> 
-<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="1-compl.14" ID="6" KSNAME="SERVE2" LEMMA="SERVE" LINK="1-compl" PAFT=", " UNL="serve(icl&gt;work&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">serves</W>, 
+<W DOM="11" EXTRAFEAT="FIN QFIN" FEAT="V PRS TP" HYPOT="1-compl.14" ID="6" KSNAME="SERVE2" LEMMA="SERVE" LINK="1-compl" PAFT=", " UNL="serve(icl&gt;work&gt;do,agt&gt;person,obj&gt;position,ben&gt;thing)" DEF="DO USEFUL WORK" TRANS="работать">serves</W>, 
 <W DOM="8" FEAT="A" HYPOT="determ.13" ID="7" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 
 <W DOM="9" FEAT="S SG" HYPOT="predic.01" ID="8" KSNAME="HELP2" LEMMA="HELP" LINK="predic" PAFT=" ">help</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PRS" HYPOT="coord-conj.00" ID="9" KSNAME="CAN1" LEMMA="CAN" LINK="coord-conj" PAFT=" ">cannot</W> 

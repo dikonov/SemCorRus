@@ -109,7 +109,7 @@
 <W DOM="11" FEAT="ADV COMP" HYPOT="adverb.01" ID="4" KSNAME="LATE2" LEMMA="LATE" LINK="adverb" PAFT=", ">later</W>, 
 <W DOM="7" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="7" FEAT="A" HYPOT="modif.01" ID="6" KSNAME="DISTANT" LEMMA="DISTANT" LINK="modif" PAFT=" ">distant</W> 
-<W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="CRACK1" LEMMA="CRACK" LINK="predic" PAFT=" " UNL="crack(icl&gt;noise&gt;thing)" DEF="">crack</W> 
+<W DOM="11" FEAT="S SG" HYPOT="predic.01" ID="7" KSNAME="CRACK1" LEMMA="CRACK" LINK="predic" PAFT=" " UNL="crack(icl&gt;noise&gt;thing)" DEF="A SUDDEN SHARP NOISE" TRANS="треск">crack</W> 
 <W DOM="7" FEAT="PR" HYPOT="attrib.01" ID="8" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.10" ID="9" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="RIFLE" LEMMA="RIFLE" LINK="prepos" PAFT=" " UNL="rifle(icl&gt;firearm&gt;thing)" DEF="A SHOULDER FIREARM WITH A LONG BARREL AND A RIFLED BORE" TRANS="винтовка">rifle</W> 
@@ -199,7 +199,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
 <W DOM="2" EXTRAFEAT="ALT" FEAT="ADV" HYPOT="restr.10" ID="3" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">n't</W> 
 <W DOM="5" FEAT="ADV" HYPOT="restr.11" ID="4" KSNAME="EVEN1" LEMMA="EVEN" LINK="restr" PAFT=" ">even</W> 
-<W DOM="2" FEAT="V PP" HYPOT="analyt.12" ID="5" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;thing)" DEF="">pretended</W> 
+<W DOM="2" FEAT="V PP" HYPOT="analyt.12" ID="5" KSNAME="PRETEND1" LEMMA="PRETEND" LINK="analyt" PAFT=" " UNL="pretend(icl&gt;do,equ&gt;dissemble,agt&gt;person,obj&gt;uw)" DEF="TO IMAGINE THAT SOMETHING IS TRUE WHEN PLAYING A GAME" TRANS="притворяться">pretended</W> 
 <W DOM="5" FEAT="PART" HYPOT="1-compl.15" ID="6" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="6" FEAT="V MF" HYPOT="prepos.16" ID="7" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
 <W DOM="7" FEAT="V ING" HYPOT="analyt.11" ID="8" KSNAME="FARM2" LEMMA="FARM" LINK="analyt" PAFT=" " UNL="farm(icl&gt;work&gt;do,agt&gt;person,obj&gt;thing)" DEF="">farming</W> 
@@ -415,7 +415,7 @@
 <W DOM="_root" EXTRAFEAT="ALT FIN IN-QUOT QFIN" FEAT="V PRS SG TP" GRP="1,2,3,4,5" ID="2" KSNAME="BE" LEMMA="BE" PAFT=" " UNL="be(icl&gt;be)" DEF="COPULA - TO HAVE THE QUALITY OF BEING" TRANS="быть">'s</W> 
 <W DOM="2" EXTRAFEAT="IN-QUOT" FEAT="A" GRP="1,2,3,4,5" HYPOT="copulat.11" ID="3" KSNAME="ALL1" LEMMA="ALL" LINK="copulat" PAFT=" ">all</W> 
 <W DOM="5" EXTRAFEAT="CAP IN-QUOT" FEAT="S NOM SG" GRP="1,2,3,4,5" HYPOT="predic.01" ID="4" KSNAME="I" LEMMA="I" LINK="predic" PAFT=" ">I</W> 
-<W DOM="3" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5" HYPOT="relat.02" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT="&quot;! " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">ask</W>"! 
+<W DOM="3" EXTRAFEAT="IN-QUOT QFIN" FEAT="V MF" GRP="1,2,3,4,5" HYPOT="relat.02" ID="5" KSNAME="ASK1" LEMMA="ASK" LINK="relat" PAFT="&quot;! " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">ask</W>"! 
 </S>
 <S DATE="30 11 2010 10:38:43" ID="26" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-n11.tgt;26" STATUS="doubt">
 <W DOM="3" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
@@ -1147,7 +1147,7 @@
 </S>
 <S DATE="30 11 2010 10:38:49" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="66" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_25\\br-n11.tgt;66" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="S NOM SG" HYPOT="predic.01" ID="1" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">He</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="HEAVE2" LEMMA="HEAVE" PAFT=" " UNL="heave(icl&gt;lift&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">heaved</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="2" KSNAME="HEAVE2" LEMMA="HEAVE" PAFT=" " UNL="heave(icl&gt;lift&gt;do,agt&gt;thing,obj&gt;thing)" DEF="LIFT OR ELEVATE" TRANS="поднимать">heaved</W> 
 <W DOM="5" FEAT="ART" HYPOT="determ.11" ID="3" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="DEAD1" LEMMA="DEAD" LINK="modif" PAFT=" " UNL="dead(icl&gt;adj,ant&gt;alive)" DEF="NO LONGER HAVING OR SEEMING TO HAVE OR EXPECTING TO HAVE LIFE" TRANS="мертвый,неживой,погибший">dead</W> 
 <W DOM="2" FEAT="S SG" HYPOT="1-compl.01" ID="5" KSNAME="MAN1" LEMMA="MAN" LINK="1-compl" PAFT=" ">man</W> 
@@ -1295,7 +1295,7 @@
 <W DOM="8" FEAT="S SG" HYPOT="prepos.01" ID="10" KSNAME="LIQUOR" LEMMA="LIQUOR" LINK="prepos" PAFT=" " UNL="liquor(icl&gt;alcohol&gt;thing)" DEF="AN ALCOHOLIC BEVERAGE THAT IS DISTILLED RATHER THAN FERMENTED" TRANS="крепкий напиток,спиртное">liquor</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="coordin.10" ID="11" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
 <W DOM="13" FEAT="A" HYPOT="modif.01" ID="12" KSNAME="PROFESSIONAL1" LEMMA="PROFESSIONAL" LINK="modif" PAFT=" " UNL="professional(icl&gt;adj,ant&gt;nonprofessional)" DEF="ENGAGED IN A PROFESSION OR ENGAGING IN AS A PROFESSION OR MEANS OF LIVELIHOOD" TRANS="профессионал,профессиональный">professional</W> 
-<W DOM="11" FEAT="S PL" HYPOT="coord-conj.10" ID="13" KSNAME="LADY" LEMMA="LADY" LINK="coord-conj" PAFT=" " UNL="lady(icl&gt;woman&gt;thing)" DEF="">ladies</W> 
+<W DOM="11" FEAT="S PL" HYPOT="coord-conj.10" ID="13" KSNAME="LADY" LEMMA="LADY" LINK="coord-conj" PAFT=" " UNL="lady(icl&gt;woman&gt;person)" DEF="A POLITE NAME FOR ANY WOMAN" TRANS="дама">ladies</W> 
 <W DOM="13" FEAT="PR" HYPOT="attrib.01" ID="14" KSNAME="OF" LEMMA="OF" LINK="attrib" PAFT=" ">of</W> 
 <W DOM="14" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="15" KSNAME="CHEYENNE" LEMMA="CHEYENNE" LINK="prepos" PAFT=", " UNL="cheyenne(iof&gt;state_capital&gt;thing)" DEF="THE CAPITAL AND LARGEST CITY OF WYOMING" TRANS="Шайенн">Cheyenne</W>, 
 <W DOM="17" FEAT="S NOM SG" HYPOT="predic.01" ID="16" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -1795,7 +1795,7 @@
 <W DOM="8" FEAT="PR" HYPOT="quasiagent.10" ID="9" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="12" FEAT="A" HYPOT="determ.13" ID="10" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="12" FEAT="A" HYPOT="modif.01" ID="11" KSNAME="SYMPATHETIC" LEMMA="SYMPATHETIC" LINK="modif" PAFT=" ">sympathetic</W> 
-<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="PEER1" LEMMA="PEER" LINK="prepos" PAFT=" " UNL="peer(icl&gt;person&gt;thing)" DEF="">peers</W> 
+<W DOM="9" FEAT="S PL" HYPOT="prepos.01" ID="12" KSNAME="PEER1" LEMMA="PEER" LINK="prepos" PAFT=" " UNL="peer(icl&gt;person&gt;thing)" DEF="A PERSON WHO IS OF EQUAL STANDING WITH ANOTHER IN A GROUP" TRANS="ровня">peers</W> 
 <W DOM="5" FEAT="PART" HYPOT="adverb.11" ID="13" KSNAME="TO2" LEMMA="TO" LINK="adverb" PAFT=" ">to</W> 
 <W DOM="13" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="prepos.16" ID="14" KSNAME="FREE2" LEMMA="FREE" LINK="prepos" PAFT=" ">free</W> 
 <W DOM="14" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="15" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
@@ -1827,7 +1827,7 @@
 <W DOM="23" FEAT="A" HYPOT="determ.13" ID="22" KSNAME="ANY" LEMMA="ANY" LINK="determ" PAFT=" ">any</W> 
 <W DOM="21" FEAT="S SG" HYPOT="prepos.01" ID="23" KSNAME="TIME1" LEMMA="TIME" LINK="prepos" PAFT=", " UNL="time(icl&gt;abstract_thing,equ&gt;occasion)" DEF="A SINGLE OCCASION FOR SOME EVENT" TRANS="раз">time</W>, 
 <W DOM="23" FEAT="PART" HYPOT="1-compl.15" ID="24" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
-<W DOM="24" FEAT="V MF" HYPOT="prepos.16" ID="25" KSNAME="DISPENSE" LEMMA="DISPENSE" LINK="prepos" PAFT=" " UNL="dispense(icl&gt;give&gt;do,equ&gt;distribute,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="">dispense</W> 
+<W DOM="24" FEAT="V MF" HYPOT="prepos.16" ID="25" KSNAME="DISPENSE" LEMMA="DISPENSE" LINK="prepos" PAFT=" " UNL="dispense(icl&gt;give&gt;do,equ&gt;distribute,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing)" DEF="ADMINISTER OR BESTOW, AS IN SMALL PORTIONS" TRANS="распределять">dispense</W> 
 <W DOM="28" FEAT="ART" HYPOT="determ.10" ID="26" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN2" PAFT=" ">an</W> 
 <W DOM="28" FEAT="A" HYPOT="modif.01" ID="27" KSNAME="ANCIENT" LEMMA="ANCIENT" LINK="modif" PAFT=" " UNL="ancient(icl&gt;adj)" DEF="VERY OLD" TRANS="древний">ancient</W> 
 <W DOM="25" FEAT="S SG" HYPOT="1-compl.01" ID="28" KSNAME="BRAND1" LEMMA="BRAND" LINK="1-compl" PAFT=" " UNL="brand(icl&gt;kind&gt;thing)" DEF="A RECOGNIZABLE KIND" TRANS="тип">brand</W> 

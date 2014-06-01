@@ -58,7 +58,7 @@
 <W DOM="10" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="17" KSNAME="WOULD" LEMMA="WOULD" LINK="fictit" MSNAME="WOULD" PAFT=" ">would</W> 
 <W DOM="17" FEAT="V MF" HYPOT="analyt.13" ID="18" KSNAME="KILL" LEMMA="KILL" LINK="analyt" PAFT=" ">kill</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="20" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="1-compl" PAFT=". " UNL="indian(icl&gt;amerindian&gt;thing)" DEF="">Indian</W>. 
+<W DOM="18" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="20" KSNAME="INDIAN2" LEMMA="INDIAN" LINK="1-compl" PAFT=". " UNL="indian(icl&gt;amerindian&gt;person)" DEF="A MEMBER OF THE RACE OF PEOPLE LIVING IN AMERICA WHEN EUROPEANS ARRIVED" TRANS="индеец">Indian</W>. 
 </S>
 <S DATE="29 11 2010 20:27:50" EXTRACOMM="Tagging contradicts ETAP parsing: FOLLOWING - FOLLOW,FOLLOWING\nTagging contradicts ETAP parsing:  - FICT-LEX\nSome nodes are not confirmed" ID="4" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j55.tgt;4" STATUS="doubt">
 <W DOM="2" EXTRAFEAT="CAP" FEAT="NUM" HYPOT="quantit.10" ID="1" KSNAME="THREE1" LEMMA="THREE" LINK="quantit" PAFT=" ">Three</W> 
@@ -137,7 +137,7 @@
 <W DOM="6" FEAT="V PP" HYPOT="pass-anal.10" ID="7" KSNAME="THREATEN1" LEMMA="THREATEN" LINK="pass-anal" PAFT=" " UNL="threaten(icl&gt;be,obj&gt;uw,aoj&gt;uw,ben&gt;uw) threaten(icl&gt;warn&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">threatened</W> 
 <W DOM="7" FEAT="PR" HYPOT="agent.10" ID="8" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="10" FEAT="ART" HYPOT="determ.11" ID="9" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="10" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="10" FEAT="V ING" HYPOT="modif.01" ID="11" KSNAME="FOLLOW" LEMMA="FOLLOW" LINK="modif" PAFT=" ">following</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.11" ID="12" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="6" FEAT="S SG" ID="13" KSNAME="KILLING" LEMMA="KILLING" LINK="fictit" PAFT=", " UNL="killing(icl&gt;fatality&gt;thing)" DEF="AN EVENT THAT CAUSES SOMEONE TO DIE" TRANS="смерть,смертельный случай">killing</W>, 
@@ -175,7 +175,7 @@
 <W DOM="7" FEAT="PART" HYPOT="explet.10" ID="11" KSNAME="TO2" LEMMA="TO" LINK="explet" PAFT=" ">to</W> 
 <W DOM="11" FEAT="V MF" HYPOT="prepos.16" ID="12" KSNAME="KEEP" LEMMA="KEEP" LINK="prepos" PAFT=" ">keep</W> 
 <W DOM="14" FEAT="ART" HYPOT="determ.11" ID="13" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="12" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="1-compl.01" ID="14" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="1-compl" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="12" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="1-compl.01" ID="14" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="1-compl" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="12" FEAT="PR" HYPOT="2-compl.02" ID="15" KSNAME="IN1" LEMMA="IN" LINK="2-compl" PAFT=" ">in</W> 
 <W DOM="15" FEAT="S SG" HYPOT="prepos.01" ID="16" KSNAME="SUSPENSE" LEMMA="SUSPENSE" LINK="prepos" PAFT=" " UNL="suspense(icl&gt;doubt&gt;thing)" DEF="AN UNCERTAIN COGNITIVE STATE" TRANS="неопределенность">suspense</W> 
 <W DOM="12" FEAT="CONJ" HYPOT="coordin.13" ID="17" KSNAME="RATHER$THAN" LEMMA="RATHER THAN" LINK="coordin" MSNAME="RATHER$THAN" PAFT=" ">rather than</W> 
@@ -281,7 +281,7 @@
 <W DOM="10" FEAT="S NOM PL" HYPOT="predic.01" ID="9" KSNAME="THEY" LEMMA="THEY" LINK="predic" PAFT=" ">they</W> 
 <W DOM="8" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="10" KSNAME="SPOT2" LEMMA="SPOT" LINK="subord-conj" PAFT=" " UNL="spot(icl&gt;sight&gt;do,equ&gt;descry,agt&gt;living_thing,obj&gt;thing,ins&gt;thing)" DEF="CATCH SIGHT OF" TRANS="увидеть,заметить">spotted</W> 
 <W DOM="12" FEAT="NUM" HYPOT="quantit.10" ID="11" KSNAME="FIVE1" LEMMA="FIVE" LINK="quantit" PAFT=" ">five</W> 
-<W DOM="10" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="1-compl.01" ID="12" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="1-compl" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="10" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="1-compl.01" ID="12" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="1-compl" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="12" FEAT="V ING" HYPOT="modif.01" ID="13" KSNAME="RIDE1" LEMMA="RIDE" LINK="modif" PAFT=" ">riding</W> 
 <W DOM="13" FEAT="ADV" HYPOT="adverb.01" ID="14" KSNAME="ALONG2" LEMMA="ALONG" LINK="adverb" MSNAME="ALONG2" PAFT=" ">along</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.10" ID="15" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -384,7 +384,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="24" KSNAME="OCCUPY" LEMMA="OCCUPY" PAFT=" " UNL="occupy(icl&gt;reside&gt;be,obj&gt;thing,aoj&gt;thing)" DEF="LIVE  (IN A CERTAIN PLACE)" TRANS="занимать">occupied</W> 
 <W DOM="24" FEAT="PR" HYPOT="adverb.02" ID="25" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
 <W DOM="27" FEAT="ART" HYPOT="determ.10" ID="26" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="25" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=", " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexican</W>, 
+<W DOM="25" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="prepos.01" ID="27" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=", " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexican</W>, 
 <W DOM="29" FEAT="A" HYPOT="determ.13" ID="28" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="27" FEAT="S SG" HYPOT="coordin.01" ID="29" KSNAME="WIFE" LEMMA="WIFE" LINK="coordin" PAFT=", " UNL="wife(icl&gt;woman&gt;thing,ant&gt;husband)" DEF="A MARRIED WOMAN" TRANS="жена,баба">wife</W>, 
 <W DOM="29" FEAT="CONJ" HYPOT="coordin.10" ID="30" KSNAME="AND" LEMMA="AND" LINK="coordin" PAFT=" ">and</W> 
@@ -554,7 +554,7 @@
 <W DOM="16" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="40" KSNAME="FALL2" LEMMA="FALL" LINK="subord-conj" PAFT=". ">fell</W>. 
 </S>
 <S DATE="29 11 2010 20:27:57" EXTRACOMM="Tagging contradicts ETAP parsing:  - FICT-LEX" ID="22" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j55.tgt;22" STATUS="doubt">
-<W DOM="7" EXTRAFEAT="CAP" FEAT="V ING" HYPOT="modif.01" ID="1" KSNAME="GRAB1" LEMMA="GRAB" LINK="modif" PAFT=" " UNL="grab(icl&gt;take&gt;do,equ&gt;snap_up,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="">Grabbing</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="V ING" HYPOT="modif.01" ID="1" KSNAME="GRAB1" LEMMA="GRAB" LINK="modif" PAFT=" " UNL="grab(icl&gt;take&gt;do,equ&gt;snap_up,plf&gt;thing,agt&gt;thing,obj&gt;concrete_thing)" DEF="GET HOLD OF OR SEIZE QUICKLY AND EASILY" TRANS="схватить">Grabbing</W> 
 <W DOM="3" FEAT="A" HYPOT="determ.13" ID="2" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="1" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="1-compl.01" ID="3" KSNAME="WINCHESTER" LEMMA="WINCHESTER" LINK="1-compl" PAFT=" ">Winchester</W> 
 <W DOM="1" FEAT="PR" HYPOT="2-compl.02" ID="4" KSNAME="FROM" LEMMA="FROM" LINK="2-compl" PAFT=" ">from</W> 
@@ -636,7 +636,7 @@
 <W DOM="5" FEAT="A" HYPOT="modif.01" ID="4" KSNAME="SHALLOW1" LEMMA="SHALLOW" LINK="modif" PAFT=" ">shallow</W> 
 <W DOM="1" FEAT="S SG" HYPOT="prepos.01" ID="5" KSNAME="PLACE1" LEMMA="PLACE" LINK="prepos" PAFT=", ">place</W>, 
 <W DOM="7" FEAT="NUM" HYPOT="quantit.10" ID="6" KSNAME="TWO1" LEMMA="TWO" LINK="quantit" PAFT=" ">two</W> 
-<W DOM="8" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="8" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="7" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="8" KSNAME="RUSH1" LEMMA="RUSH" PAFT=" " UNL="rush(icl&gt;hurry(icl&gt;go)&gt;do,plt&gt;uw,plf&gt;uw,agt&gt;thing)" DEF="COME, FLOW, SPREAD, ETC QUICKLY AND SUDDENLY" TRANS="бросаться">rushed</W> 
 <W DOM="8" FEAT="PR" HYPOT="2-compl.02" ID="9" KSNAME="INTO" LEMMA="INTO" LINK="2-compl" PAFT=" ">into</W> 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
@@ -727,7 +727,7 @@
 <W DOM="4" FEAT="NUM" HYPOT="prepos.01" ID="5" KSNAME="ONE1" LEMMA="ONE" LINK="prepos" PAFT=" ">one</W> 
 <W DOM="5" FEAT="PR" HYPOT="elect.10" ID="6" KSNAME="OF" LEMMA="OF" LINK="elect" PAFT=" ">of</W> 
 <W DOM="8" FEAT="ART" HYPOT="determ.11" ID="7" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="6" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="6" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="8" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="3" FEAT="V ING" HYPOT="1-compl.01" ID="9" KSNAME="HIDE1" LEMMA="HIDE" LINK="1-compl" PAFT=" " UNL="hide(icl&gt;do,equ&gt;conceal,agt&gt;person,obj&gt;thing,cag&gt;thing,scn&gt;thing)" DEF="PREVENT FROM BEING SEEN OR DISCOVERED" TRANS="прятать">hiding</W> 
 <W DOM="9" FEAT="PR" HYPOT="3-compl.01" ID="10" KSNAME="IN1" LEMMA="IN" LINK="3-compl" PAFT=" ">in</W> 
 <W DOM="13" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
@@ -811,7 +811,7 @@
 <W DOM="34" FEAT="NUM" HYPOT="compos.10" ID="31" KSNAME="NUM-LARGE" LEMMA="100" LINK="compos" PAFT=" ">100</W> 
 <W DOM="31" FEAT="PR" HYPOT="sequent.10" ID="32" KSNAME="TO1" LEMMA="TO" LINK="sequent" PAFT=" ">to</W> 
 <W DOM="32" FEAT="NUM" HYPOT="prepos.01" ID="33" KSNAME="NUM-LARGE" LEMMA="150" LINK="prepos" PAFT=" ">150</W> 
-<W DOM="35" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="34" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="35" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="34" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="29" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="relat.01" ID="35" KSNAME="HAVE" LEMMA="HAVE" LINK="relat" PAFT=" ">had</W> 
 <W DOM="35" FEAT="V PP" HYPOT="analyt.12" ID="36" KSNAME="GATHER1" LEMMA="GATHER" LINK="analyt" PAFT=". " UNL="gather(icl&gt;interact&gt;do,equ&gt;meet,plf&gt;thing,agt&gt;living_thing,plc&gt;thing)" DEF="COME TOGETHER IN ONE PLACE TO SEE OR DO SOMETHING" TRANS="собираться">gathered</W>. 
 </S>
@@ -868,7 +868,7 @@
 <W DOM="9" FEAT="V PP" HYPOT="modif.01" ID="8" KSNAME="INJURE" LEMMA="INJURE" LINK="modif" PAFT=" ">injured</W> 
 <W DOM="6" FEAT="S PL" HYPOT="prepos.01" ID="9" KSNAME="MAN1" LEMMA="MAN" LINK="prepos" PAFT="; ">men</W>; 
 <W DOM="11" FEAT="ART" HYPOT="determ.11" ID="10" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="9" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="appos.01" ID="11" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="appos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="9" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="appos.01" ID="11" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="appos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="13" FEAT="ADV" GRP="12,13" HYPOT="restr.11" ID="12" KSNAME="NOT" LEMMA="NOT" LINK="restr" PAFT=" ">not</W> 
 <W DOM="14" FEAT="ADV" GRP="12,13" HYPOT="restr.11" ID="13" KSNAME="ONLY1" LEMMA="ONLY" LINK="restr" PAFT=" ">only</W> 
 <W DOM="11" FEAT="V PP" HYPOT="modif.01" ID="14" KSNAME="REFUSE1" LEMMA="REFUSE" LINK="modif" PAFT=" " UNL="refuse(icl&gt;affirm&gt;do,agt&gt;volitional_thing,obj&gt;uw,rec&gt;thing)" DEF="TO EXPRESS UNWILLINGNESS TO DO SOMETHING" TRANS="отказываться">refused</W> 
@@ -895,7 +895,7 @@
 <W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="STRENGTH" LEMMA="STRENGTH" LINK="predic" PAFT=" " UNL="strength(icl&gt;property&gt;thing,ant&gt;weakness)" DEF="THE PROPERTY OF BEING PHYSICALLY OR MENTALLY STRONG" TRANS="сила">strength</W> 
 <W DOM="3" FEAT="PR" HYPOT="quasiagent.10" ID="4" KSNAME="OF" LEMMA="OF" LINK="quasiagent" PAFT=" ">of</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="1" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="HAVE" LEMMA="HAVE" LINK="subord-conj" PAFT=" ">had</W> 
 <W DOM="7" FEAT="V PP" HYPOT="analyt.12" ID="8" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
 <W DOM="8" FEAT="V PP" HYPOT="pass-anal.10" ID="9" KSNAME="UNDERRATE" LEMMA="UNDERRATE" LINK="pass-anal" PAFT=", " UNL="underrate(icl&gt;misjudge&gt;do,equ&gt;underestimate,agt&gt;thing,obj&gt;thing)" DEF="MAKE TOO LOW AN ESTIMATE OF" TRANS="недооценивать">underrated</W>, 
@@ -935,7 +935,7 @@
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="3" KSNAME="RETREAT2" LEMMA="RETREAT" LINK="predic" PAFT=" " UNL="retreat(icl&gt;withdrawal&gt;thing)" DEF="">retreat</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="ENCOURAGE" LEMMA="ENCOURAGE" PAFT=" " UNL="encourage(icl&gt;inspire&gt;do,agt&gt;person,obj&gt;person,pur&gt;action)" DEF="TO GIVE THE COURAGE OR CONFIDENCE" TRANS="ободрять">encouraged</W> 
 <W DOM="6" FEAT="ART" HYPOT="determ.11" ID="5" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="1-compl" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="4" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="1-compl.01" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="1-compl" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="4" FEAT="PART" HYPOT="2-compl.12" ID="7" KSNAME="TO2" LEMMA="TO" LINK="2-compl" PAFT=" ">to</W> 
 <W DOM="7" FEAT="V MF" HYPOT="prepos.16" ID="8" KSNAME="BE" LEMMA="BE" LINK="prepos" PAFT=" ">be</W> 
 <W DOM="8" FEAT="A" HYPOT="copulat.11" ID="9" KSNAME="OVERBEARING" LEMMA="OVERBEARING" LINK="copulat" PAFT=" " UNL="overbearing(icl&gt;adj,equ&gt;authoritarian)" DEF="EXPECTING UNQUESTIONING OBEDIENCE" TRANS="властный">overbearing</W> 
@@ -1051,7 +1051,7 @@
 <W DOM="12" FEAT="PR" HYPOT="attrib.01" ID="13" KSNAME="UNTIL1" LEMMA="UNTIL" LINK="attrib" PAFT=" ">until</W> 
 <W DOM="13" FEAT="A" HYPOT="prepos.01" ID="14" KSNAME="EITHER1" LEMMA="EITHER" LINK="prepos" PAFT=" ">either</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="17" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="16" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="17" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="16" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="12" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="1-compl.31" ID="17" KSNAME="KILL" LEMMA="KILL" LINK="1-compl" PAFT=" ">killed</W> 
 <W DOM="17" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="18" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="17" FEAT="PR" HYPOT="adverb.02" ID="19" KSNAME="BY1" LEMMA="BY" LINK="adverb" PAFT=" ">by</W> 
@@ -1362,7 +1362,7 @@
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="19" KSNAME="HAVE" LEMMA="HAVE" PAFT=" ">had</W> 
 <W DOM="19" FEAT="ADV" HYPOT="restr.10" ID="20" KSNAME="NEVER" LEMMA="NEVER" LINK="restr" PAFT=" " UNL="never(icl&gt;how,ant&gt;ever)" DEF="NOT EVER" TRANS="никогда">never</W> 
 <W DOM="19" FEAT="V PP" HYPOT="analyt.12" ID="21" KSNAME="BE" LEMMA="BE" LINK="analyt" PAFT=" ">been</W> 
-<W DOM="21" FEAT="V PP" HYPOT="pass-anal.10" ID="22" KSNAME="SERVE2" LEMMA="SERVE" LINK="pass-anal" PAFT=". " UNL="serve(icl&gt;delive&gt;do,agt&gt;thing,obj&gt;paper,ben&gt;person)" DEF="">served</W>. 
+<W DOM="21" FEAT="V PP" HYPOT="pass-anal.10" ID="22" KSNAME="SERVE2" LEMMA="SERVE" LINK="pass-anal" PAFT=". " UNL="serve(icl&gt;delive&gt;do,agt&gt;thing,obj&gt;paper,rec&gt;person)" DEF="DELIVER A WARRANT OR SUMMONS TO SOMEONE" TRANS="вручать">served</W>. 
 </S>
 <S DATE="29 11 2010 20:28:09" EXTRACOMM="Tagging contradicts ETAP parsing: MAN1 - MAN1" ID="51" SRCFILE="E:\\Users\\pavel\\Brown_corpus\\final_version_29_07\\portion_9\\br-j55.tgt;51" STATUS="doubt">
 <W DOM="11" EXTRAFEAT="CAP" FEAT="PR" HYPOT="adverb.02" ID="1" KSNAME="ON1" LEMMA="ON" LINK="adverb" PAFT=" ">On</W> 
@@ -1502,9 +1502,9 @@
 <W DOM="2" FEAT="V PP" HYPOT="pass-anal.10" ID="3" KSNAME="PROMISE2" LEMMA="PROMISE" LINK="pass-anal" PAFT=" ">promised</W> 
 <W DOM="3" FEAT="CONJ" HYPOT="1-compl.21" ID="4" KSNAME="THAT1" LEMMA="THAT" LINK="1-compl" PAFT=" ">that</W> 
 <W DOM="6" FEAT="A" HYPOT="determ.13" ID="5" KSNAME="NO2" LEMMA="NO" LINK="determ" PAFT=" ">no</W> 
-<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="HARM1" LEMMA="HARM" LINK="predic" PAFT=" " UNL="harm(icl&gt;ill_health&gt;thing,equ&gt;injury)" DEF="">harm</W> 
+<W DOM="7" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="HARM1" LEMMA="HARM" LINK="predic" PAFT=" " UNL="harm(icl&gt;ill_health&gt;thing,equ&gt;injury)" DEF="ANY PHYSICAL DAMAGE TO THE BODY CAUSED BY VIOLENCE OR ACCIDENT OR FRACTURE ETC." TRANS="телесное повреждение">harm</W> 
 <W DOM="4" EXTRAFEAT="FIN QFIN" FEAT="V PST" HYPOT="subord-conj.10" ID="7" KSNAME="WOULD" LEMMA="WOULD" LINK="subord-conj" MSNAME="WOULD" PAFT=" ">would</W> 
-<W DOM="7" FEAT="V MF" HYPOT="analyt.13" ID="8" KSNAME="BEFALL" LEMMA="BEFALL" LINK="analyt" PAFT=" " UNL="befall(icl&gt;happen&gt;do,agt&gt;thing,obj&gt;thing)" DEF="">befall</W> 
+<W DOM="7" FEAT="V MF" HYPOT="analyt.13" ID="8" KSNAME="BEFALL" LEMMA="BEFALL" LINK="analyt" PAFT=" " UNL="befall(icl&gt;happen&gt;do,agt&gt;thing,obj&gt;thing)" DEF="BECOME OF" TRANS="случаться">befall</W> 
 <W DOM="8" FEAT="S OBJ SG" HYPOT="1-compl.01" ID="9" KSNAME="HE1" LEMMA="HE" LINK="1-compl" PAFT=" ">him</W> 
 <W DOM="8" FEAT="CONJ" HYPOT="adverb.10" ID="10" KSNAME="IF" LEMMA="IF" LINK="adverb" PAFT=" ">if</W> 
 <W DOM="12" FEAT="S NOM SG" HYPOT="predic.01" ID="11" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
@@ -1531,7 +1531,7 @@
 <W DOM="2" EXTRAFEAT="CAP" FEAT="ART" HYPOT="determ.11" ID="1" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">The</W> 
 <W DOM="4" FEAT="S SG" HYPOT="predic.01" ID="2" KSNAME="POSSE" LEMMA="POSSE" LINK="predic" MSNAME="POSSE" PAFT=" " UNL="posse(icl&gt;police&gt;thing)" DEF="A TEMPORARY POLICE FORCE" TRANS="дружинники,отряд добровольцев">posse</W> 
 <W DOM="4" FEAT="ADV" HYPOT="adverb.01" ID="3" KSNAME="THEN" LEMMA="THEN" LINK="adverb" PAFT=" ">then</W> 
-<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,agt&gt;volitional_thing,obj&gt;uw)" DEF="">asked</W> 
+<W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="4" KSNAME="ASK1" LEMMA="ASK" PAFT=" " UNL="ask(icl&gt;request&gt;do,cob&gt;volitional_thing,agt&gt;volitional_thing,obj&gt;uw)" DEF="MAKE A REQUEST FOR SOMETHING" TRANS="просить">asked</W> 
 <W DOM="4" FEAT="CONJ" HYPOT="2-compl.16" ID="5" KSNAME="THAT1" LEMMA="THAT" LINK="2-compl" PAFT=" ">that</W> 
 <W DOM="7" FEAT="S NOM SG" HYPOT="predic.01" ID="6" KSNAME="HE1" LEMMA="HE" LINK="predic" PAFT=" ">he</W> 
 <W DOM="5" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="subord-conj.10" ID="7" KSNAME="SEND" LEMMA="SEND" LINK="subord-conj" PAFT=" " UNL="send_out(icl&gt;transmit&gt;do,equ&gt;send,plt&gt;thing,plf&gt;thing,agt&gt;volitional_thing,obj&gt;thing,rec&gt;thing)" DEF="TO CAUSE OR ORDER TO BE TAKEN, DIRECTED, OR TRANSMITTED TO ANOTHER PLACE" TRANS="отсылать">send</W> 
@@ -1854,7 +1854,7 @@
 <W DOM="4" FEAT="A" HYPOT="modif.01" ID="3" KSNAME="NEXT1" LEMMA="NEXT" LINK="modif" PAFT=" ">next</W> 
 <W DOM="7" FEAT="S SG" HYPOT="adverb.04" ID="4" KSNAME="MORNING" LEMMA="MORNING" LINK="adverb" PAFT=", " UNL="morning(icl&gt;time_period&gt;thing)" DEF="THE TIME PERIOD BETWEEN DAWN AND NOON" TRANS="утро">morning</W>, 
 <W DOM="6" FEAT="ART" HYPOT="determ.10" ID="5" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexican</W> 
+<W DOM="7" EXTRAFEAT="CAP" FEAT="S SG" HYPOT="predic.01" ID="6" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexican</W> 
 <W DOM="_root" EXTRAFEAT="FIN QFIN" FEAT="V PST" ID="7" KSNAME="TELEPHONE2" LEMMA="TELEPHONE" MSNAME="TELEPHONE2" PAFT=" " UNL="telephone(icl&gt;phone&gt;do,agt&gt;person,pur&gt;uw,rec&gt;person)" DEF="" TRANS="звонить">telephoned</W> 
 <W DOM="7" FEAT="S" HYPOT="2-compl.10" ID="8" KSNAME="FICT-PERS" LEMMA="PELS" LINK="2-compl" PAFT=" ">Pels</W> 
 <W DOM="7" FEAT="CONJ" ID="9" KSNAME="THAT1" LEMMA="THAT" LINK="fictit" PAFT=" ">that</W> 
@@ -1869,7 +1869,7 @@
 <W DOM="17" FEAT="V PP" HYPOT="pass-anal.10" ID="18" KSNAME="SURROUND" LEMMA="SURROUND" LINK="pass-anal" PAFT=" " UNL="surround(icl&gt;attack&gt;do,equ&gt;besiege,agt&gt;thing,obj&gt;thing)" DEF="">surrounded</W> 
 <W DOM="18" FEAT="PR" HYPOT="agent.10" ID="19" KSNAME="BY1" LEMMA="BY" LINK="agent" PAFT=" ">by</W> 
 <W DOM="21" FEAT="NUM" HYPOT="quantit.10" ID="20" KSNAME="TEN1" LEMMA="TEN" LINK="quantit" PAFT=" ">ten</W> 
-<W DOM="19" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="21" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="19" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="prepos.01" ID="21" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="prepos" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="21" FEAT="PR" HYPOT="attrib.01" ID="22" KSNAME="AT" LEMMA="AT" LINK="attrib" PAFT=" ">at</W> 
 <W DOM="24" FEAT="A" HYPOT="determ.13" ID="23" KSNAME="HIS1" LEMMA="HIS" LINK="determ" MSNAME="HIS1" PAFT=" ">his</W> 
 <W DOM="25" FEAT="S POSS SG" HYPOT="posses.01" ID="24" KSNAME="FATHER1" LEMMA="FATHER" LINK="posses" PAFT=" ">father's</W> 
@@ -2117,7 +2117,7 @@
 <W DOM="6" FEAT="PART" HYPOT="1-compl.15" ID="9" KSNAME="TO2" LEMMA="TO" LINK="1-compl" PAFT=" ">to</W> 
 <W DOM="9" FEAT="V MF" HYPOT="prepos.16" ID="10" KSNAME="CREATE" LEMMA="CREATE" LINK="prepos" PAFT=" ">create</W> 
 <W DOM="12" FEAT="ART" HYPOT="determ.10" ID="11" KSNAME="AN1" LEMMA="AN" LINK="determ" MSNAME="AN1" PAFT=" ">a</W> 
-<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="DISTURBANCE" LEMMA="DISTURBANCE" LINK="1-compl" PAFT=" " UNL="disturbance(icl&gt;fight&gt;thing,equ&gt;affray)" DEF="">disturbance</W> 
+<W DOM="10" FEAT="S SG" HYPOT="1-compl.01" ID="12" KSNAME="DISTURBANCE" LEMMA="DISTURBANCE" LINK="1-compl" PAFT=" " UNL="disturbance(icl&gt;fight&gt;thing,equ&gt;affray)" DEF="A NOISY FIGHT" TRANS="драка">disturbance</W> 
 <W DOM="12" FEAT="PR" HYPOT="attrib.01" ID="13" KSNAME="DURING" LEMMA="DURING" LINK="attrib" MSNAME="DURING" PAFT=" ">during</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="14" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="16" FEAT="V ING" HYPOT="modif.01" ID="15" KSNAME="COME" LEMMA="COME" LINK="modif" PAFT=" ">coming</W> 
@@ -2125,7 +2125,7 @@
 <W DOM="18" FEAT="ADV" HYPOT="restr.11" ID="17" KSNAME="PARTICULARLY" LEMMA="PARTICULARLY" LINK="restr" PAFT=" ">particularly</W> 
 <W DOM="10" FEAT="CONJ" HYPOT="adverb.10" ID="18" KSNAME="SINCE2" LEMMA="SINCE" LINK="adverb" PAFT=" ">since</W> 
 <W DOM="20" FEAT="ART" HYPOT="determ.11" ID="19" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
-<W DOM="21" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="20" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;thing)" DEF="">Mexicans</W> 
+<W DOM="21" EXTRAFEAT="CAP" FEAT="S PL" HYPOT="predic.01" ID="20" KSNAME="MEXICAN2" LEMMA="MEXICAN" LINK="predic" PAFT=" " UNL="mexican(icl&gt;central_american&gt;person)" DEF="A NATIVE OR INHABITANT OF MEXICO" TRANS="мексиканец">Mexicans</W> 
 <W DOM="18" EXTRAFEAT="FIN QFIN" FEAT="V PST PL" HYPOT="subord-conj.10" ID="21" KSNAME="BE" LEMMA="BE" LINK="subord-conj" PAFT=" ">were</W> 
 <W DOM="21" FEAT="PR" HYPOT="copulat.13" ID="22" KSNAME="ON1" LEMMA="ON" LINK="copulat" PAFT=" ">on</W> 
 <W DOM="24" FEAT="A" HYPOT="determ.13" ID="23" KSNAME="THEIR" LEMMA="THEIR" LINK="determ" MSNAME="THEIR" PAFT=" ">their</W> 

@@ -847,7 +847,7 @@
 <W DOM="5" FEAT="CONJ" HYPOT="sent-coordin.10" ID="14" KSNAME="AND" LEMMA="AND" LINK="sent-coordin" PAFT=" ">and</W> 
 <W DOM="16" FEAT="ART" HYPOT="determ.11" ID="15" KSNAME="THE" LEMMA="THE" LINK="determ" MSNAME="THE" PAFT=" ">the</W> 
 <W DOM="17" FEAT="NUM" HYPOT="predic.01" ID="16" KSNAME="TWO1" LEMMA="TWO" LINK="predic" PAFT=" ">two</W> 
-<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="17" KSNAME="CHAT2" LEMMA="CHAT" LINK="coord-conj" PAFT=" " UNL="chat(icl&gt;talk&gt;do,agt&gt;thing,obj&gt;thing,man&gt;language,ptn&gt;thing)" DEF="">chat</W> 
+<W DOM="14" EXTRAFEAT="QFIN" FEAT="V MF" HYPOT="coord-conj.10" ID="17" KSNAME="CHAT2" LEMMA="CHAT" LINK="coord-conj" PAFT=" " UNL="chat(icl&gt;talk&gt;do,agt&gt;person,obj&gt;uw,ptn&gt;person)" DEF="TALK SOCIALLY WITHOUT EXCHANGING MUCH INFORMATION" TRANS="болтать">chat</W> 
 <W DOM="17" FEAT="ADV" HYPOT="adverb.01" ID="18" KSNAME="INFORMALLY" LEMMA="INFORMALLY" LINK="adverb" PAFT=" ">informally</W> 
 <W DOM="17" FEAT="CONJ" HYPOT="adverb.10" ID="19" KSNAME="AS1" LEMMA="AS" LINK="adverb" PAFT=" ">as</W> 
 <W DOM="21" FEAT="S NOM SG" HYPOT="predic.01" ID="20" KSNAME="SHE" LEMMA="SHE" LINK="predic" PAFT=" ">she</W> 
